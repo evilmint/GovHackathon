@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebApp.Entity.Models
 {
@@ -26,5 +27,13 @@ namespace WebApp.Entity.Models
         public double Latitude { get; set; }
         public string Description { get; set; }
         public string Address { get; set; }
+        [NotMapped]
+        public string Type
+        {
+            get
+            {
+                return "school";
+            }
+        }
     }
 }

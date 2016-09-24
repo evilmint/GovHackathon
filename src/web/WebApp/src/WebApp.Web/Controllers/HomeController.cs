@@ -23,7 +23,7 @@ namespace WebApp.Web.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
-            var schools = context.Schools.Take(1).ToList();
+            var schools = context.Schools.Take(100).ToList();
             ViewData["Schools"] = schools;
 
             return View();
