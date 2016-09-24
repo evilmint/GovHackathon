@@ -13,7 +13,6 @@ namespace WebApp.Entity.Models
         public string KlasaWielk { get; set; }
         public string Typ { get; set; }
         public string Złożoność { get; set; }
-        public string NazwaSzkołyPlacówki { get; set; }
         public string Patron { get; set; }
         public string Ulica { get; set; }
         public string NrDomu { get; set; }
@@ -22,7 +21,10 @@ namespace WebApp.Entity.Models
         public string Telefon { get; set; }
         public string Www { get; set; }
         public string Publiczność { get; set; }
-        public double lon { get; set; }
-        public double lat { get; set; }
+        public string Name { get; set; }
+        public double Longitude { get; set; }
+        public double Latitude { get; set; }
+        public string Description { get; set; }
+        public string Address { get; set; }
     }
 }
