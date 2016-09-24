@@ -433,3 +433,6 @@ __pycache__/
 
 ### VisualStudio Patch ###
 build/
+
+# Custom
+**/less/*.css
