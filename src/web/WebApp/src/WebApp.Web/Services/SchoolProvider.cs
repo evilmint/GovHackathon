@@ -9,7 +9,24 @@ namespace WebApp.Web.Services
 {
     public class SchoolProvider : IDataProvider
     {
-        public string Name { get { return "school"; } }
+        public string Name
+        {
+            get
+            {
+                switch (this.schoolType)
+                {
+                    case "00001":
+                        return "preschool";
+
+                    case "00003":
+                        return "primaryschool";
+
+                    case "00004":
+                        return "middleschool";
+                }
+                return "otherschool";
+            }
+        }
         private ApplicationDbContext context;
         private string schoolType;
 

@@ -16,18 +16,20 @@ namespace WebApp.Web.Controllers
             this.context = context;
         }
 
-        public List<object> Index(float Latitude, float Longitude)
+        public Dictionary<string, object> Index(float Latitude, float Longitude)
         {
             IDataProvider[] dataProviders = new IDataProvider[]
             {
-                new SchoolProvider(this.context, "00004")
+                new SchoolProvider(this.context, "00004"),
+                new SchoolProvider(this.context, "00001"),
+                new SchoolProvider(this.context, "00003")
             };
 
-            var results = new List<object>();
+            var results = new Dictionary<string, object>();
 
             foreach (var dataProvider in dataProviders)
             {
-                results.Add(dataProvider.Get(Latitude, Longitude));
+                results.Add(dataProvider.Name, dataProvider.Get(Latitude, Longitude));
             }
 
             return results;
