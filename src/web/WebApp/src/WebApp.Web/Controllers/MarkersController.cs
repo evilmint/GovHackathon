@@ -2,9 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using WebApp.Entity.Data;
-using WebApp.Entity.Models;
-using WebApp.Web.Models;
-using System;
 
 namespace WebApp.Web.Controllers
 {
@@ -17,10 +14,18 @@ namespace WebApp.Web.Controllers
             this.context = context;
         }
 
-        public IEnumerable<object> GetMarkersFromBoundingBox(double topLeftLattitude, double topLeftLongitude, double bottomRightLattitude, double bottomRightLongitude)
+        public IEnumerable<object> GetMarkersFromBoundingBox(double topRightLatitude, double topRightLongitude, double bottomLeftLatitude, double bottomLeftLongitude)
         {
-            return context.Events.Where(x=> (x.Latitude < bottomRightLattitude && x.Latitude > topLeftLattitude &&
-                x.Longitude < bottomRightLongitude && x.Longitude > topLeftLongitude)).Take(100);
+            List<object> result = new List<object>();
+            var events = context.Events.Where(x => (x.Latitude < topRightLatitude && x.Longitude < topRightLongitude &&
+                x.Latitude > bottomLeftLatitude && x.Longitude > bottomLeftLongitude)).Take(100);
+            result.AddRange(events);
+
+            var schools = context.Schools.Where(x => (x.Latitude < topRightLatitude && x.Longitude < topRightLongitude &&
+                x.Latitude > bottomLeftLatitude && x.Longitude > bottomLeftLongitude)).Take(100);
+            result.AddRange(schools);
+
+            return result;
         }
     }
 }
