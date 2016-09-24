@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WebApp.Web.Helpers
+namespace WebApp.Web.Entity
 {
     public static class Distance
     {

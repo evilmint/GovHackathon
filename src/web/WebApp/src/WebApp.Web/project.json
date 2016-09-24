@@ -40,6 +40,7 @@
       "version": "1.0.0-preview2-final",
       "type": "build"
     },
+    "System.Linq.Queryable": "4.0.1",
     "WebApp.Entity": "1.0.0-*",
     "WebApp.Repository": "1.0.0-*",
     "WebApp.Service": "1.0.0-*"
