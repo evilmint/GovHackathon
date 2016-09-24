@@ -9,7 +9,7 @@
     
     <div class="col-md-8">
         <div class="well bs-component">
-            Hello!
+            @Html.Partial("~/Views/Sections/_Map.cshtml")
         </div>
         <div class="well bs-component">
             Hello!
@@ -18,4 +18,10 @@
     
     
 </div>
+
+@section scripts
+{
+    <script src="~/js/map.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0VDZS3C1nVRByWjnjTxNido0xof2VqbM&callback=initMap"></script>
+}
 
