@@ -1,27 +1,62 @@
 ﻿function initMap() {
-    var directionsService = new google.maps.DirectionsService;
-    var directionsDisplay = new google.maps.DirectionsRenderer;
+    //var directionsService = new google.maps.DirectionsService;
+    //var directionsDisplay = new google.maps.DirectionsRenderer;
     var map = new google.maps.Map(document.getElementById('map'), {
         zoom: 7,
         center: { lat: 51.1058285, lng: 17.0124618 }
     });
-    directionsDisplay.setMap(map);
+    //directionsDisplay.setMap(map);
 
-    directionsService.route({
-        origin: "Opole",
-        destination: "Wrocław",
-        travelMode: 'DRIVING'
-    }, function (response, status) {
-        if (status === 'OK') {
-            directionsDisplay.setDirections(response);
-        } else {
-            window.alert('Directions request failed due to ' + status);
+    //directionsService.route({
+    //    origin: "Opole",
+    //    destination: "Wrocław",
+    //    travelMode: 'DRIVING'
+    //}, function (response, status) {
+    //    if (status === 'OK') {
+    //        directionsDisplay.setDirections(response);
+    //    } else {
+    //        window.alert('Directions request failed due to ' + status);
+    //    }
+    //});
+
+    var iconBase = 'https://maps.google.com/mapfiles/kml/shapes/';
+    var icons = {
+        parking: {
+            icon: iconBase + 'parking_lot_maps.png'
+        },
+        library: {
+            icon: iconBase + 'library_maps.png'
+        },
+        info: {
+            icon: iconBase + 'info-i_maps.png'
         }
-    });
+    };
 
-    google.maps.event.addListener(directionsDisplay, 'directions_changed', function () {
-        computeTotalDistance(directionsDisplay.directions);
-    });
+    var features = [
+          {
+              position: new google.maps.LatLng(-33.91721, 151.22630),
+              type: 'info'
+          }, {
+              position: new google.maps.LatLng(-33.91539, 151.22820),
+              type: 'library'
+          }
+    ];
+
+    for (var i = 0, feature; feature = features[i]; i++) {
+        addMarker(feature);
+    }
+
+    function addMarker(feature) {
+        var marker = new google.maps.Marker({
+            position: feature.position,
+            icon: icons[feature.type].icon,
+            map: map
+        });
+    }
+
+    //google.maps.event.addListener(directionsDisplay, 'directions_changed', function () {
+    //    computeTotalDistance(directionsDisplay.directions);
+    //});
 }
 
 function computeTotalDistance(result) {
