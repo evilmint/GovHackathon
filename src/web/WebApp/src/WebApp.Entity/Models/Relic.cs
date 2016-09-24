@@ -1,4 +1,6 @@
-﻿namespace WebApp.Entity.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace WebApp.Entity.Models
 {
     public class Relic
     {
@@ -8,5 +10,8 @@
         public double Latitude { get; set; }
         public double Longitude { get; set; }
         public string Categories { get; set; }
+
+        [NotMapped]
+        public string Type => "relic";
     }
 }
