@@ -6,5 +6,9 @@
   {
     "outputFile": "wwwroot/lib/font-awesome/less/font-awesome.css",
     "inputFile": "wwwroot/lib/font-awesome/less/font-awesome.less"
+  },
+  {
+    "outputFile": "wwwroot/sass/site.css",
+    "inputFile": "wwwroot/sass/site.scss"
   }
 ]
