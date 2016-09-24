@@ -434,6 +434,4 @@ __pycache__/
 ### VisualStudio Patch ###
 build/
 
-# Custom
-**/less/*.css
-**/_references.js
+*.sql
