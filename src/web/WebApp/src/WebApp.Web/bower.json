@@ -7,9 +7,10 @@
     "jquery-validation": "1.14.0",
     "jquery-validation-unobtrusive": "3.2.6",
     "font-awesome": "4.6.3",
-    "bootstrap-material-design": "4.0.2"
+    "bootstrap-material-design": "0.5.9"
   },
   "resolutions": {
-    "bootstrap": "3.3.7"
+    "bootstrap": "3.3.7",
+    "jquery": ">= 1.7.2"
   }
 }

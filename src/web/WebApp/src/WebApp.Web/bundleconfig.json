@@ -19,8 +19,8 @@
     "inputFiles": [
       "wwwroot/lib/jquery/dist/jquery.js",
       "wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "wwwroot/lib/bootstrap-material-design/dist/bootstrap-material-design.iife.js",
-      "wwwroot/lib/bootstrap-material-design/dist/bootstrap-material-design.umd.js",
+      "wwwroot/lib/bootstrap-material-design/dist/js/material.js",
+      "wwwroot/lib/bootstrap-material-design/dist/js/ripples.js",
       "wwwroot/js/site.js"
     ],
     "minify": {
