@@ -1,4 +1,6 @@
 ﻿@using WebApp.Service
+@using WebApp.Entity.Models
+@using System.Collections.Generic
 @{
     ViewData["Title"] = "About";
 }
@@ -8,5 +10,10 @@
 <p>Use this area to provide additional information.</p>
 
 @TestApiClient.Test()
+@foreach(School school in ((List<School>)ViewBag.Schools))
+{
+    @school.Miejscowość
+    @school.Ulica
 
+}
 asdsd
