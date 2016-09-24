@@ -8,9 +8,10 @@ using WebApp.Entity.Data;
 namespace WebApp.Web.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20160924145218_Event_table")]
+    partial class Event_table
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.0.1")
@@ -170,71 +171,6 @@ namespace WebApp.Web.Data.Migrations
                         .HasName("UserNameIndex");
 
                     b.ToTable("AspNetUsers");
-                });
-
-            modelBuilder.Entity("WebApp.Entity.Models.School", b =>
-                {
-                    b.Property<int>("Id");
-
-                    b.Property<string>("KlasaWielk")
-                        .HasColumnName("Klasa wielk#")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("KodPoczt")
-                        .HasColumnName("Kod poczt#")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Miejscowość")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("NazwaSzkołyPlacówki")
-                        .HasColumnName("Nazwa szkoły, placówki")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("NrDomu")
-                        .HasColumnName("Nr domu")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Patron")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Poczta")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Polgm")
-                        .HasColumnName("POLgm")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Polpow")
-                        .HasColumnName("POLpow")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Polwoj")
-                        .HasColumnName("POLwoj")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Publiczność")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Telefon")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Typ")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Ulica")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Www")
-                        .HasColumnName("WWW")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.Property<string>("Złożoność")
-                        .HasAnnotation("MaxLength", 255);
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Schools");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.EntityFrameworkCore.IdentityRoleClaim<string>", b =>
