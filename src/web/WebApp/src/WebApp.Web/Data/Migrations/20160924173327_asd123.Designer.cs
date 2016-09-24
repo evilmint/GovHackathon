@@ -8,9 +8,10 @@ using WebApp.Entity.Data;
 namespace WebApp.Web.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20160924173327_asd123")]
+    partial class asd123
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.0.1")
@@ -189,51 +190,13 @@ namespace WebApp.Web.Data.Migrations
 
                     b.Property<DateTime>("StartDate");
 
-                    b.Property<string>("Typ");
+                    b.Property<string>("Type");
 
                     b.Property<string>("Url");
 
                     b.HasKey("Id");
 
                     b.ToTable("Events");
-                });
-
-            modelBuilder.Entity("WebApp.Entity.Models.Partyability", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<double>("Latitude");
-
-                    b.Property<double>("Longitude");
-
-                    b.Property<string>("Month");
-
-                    b.Property<double>("Value");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Partyabilities");
-                });
-
-            modelBuilder.Entity("WebApp.Entity.Models.Relic", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<string>("Categories");
-
-                    b.Property<string>("Description");
-
-                    b.Property<double>("Latitude");
-
-                    b.Property<double>("Longitude");
-
-                    b.Property<string>("Name");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Relics");
                 });
 
             modelBuilder.Entity("WebApp.Entity.Models.School", b =>
@@ -284,22 +247,6 @@ namespace WebApp.Web.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Schools");
-                });
-
-            modelBuilder.Entity("WebApp.Entity.Models.Stop", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<double>("Latitude");
-
-                    b.Property<double>("Longitude");
-
-                    b.Property<int>("Type");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Stops");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.EntityFrameworkCore.IdentityRoleClaim<string>", b =>

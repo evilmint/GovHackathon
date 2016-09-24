@@ -1,7 +1,18 @@
-﻿@{
+﻿@using WebApp.Service
+@using WebApp.Entity.Models
+@using System.Collections.Generic
+@{
     ViewData["Title"] = "About";
 }
 <h2>@ViewData["Title"].</h2>
 <h3>@ViewData["Message"]</h3>
 
 <p>Use this area to provide additional information.</p>
+
+@TestApiClient.Test()
+@foreach(School school in ((List<School>)ViewBag.Schools))
+{
+    @school.Id
+
+}
+asdsd

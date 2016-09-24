@@ -11,6 +11,12 @@ namespace WebApp.Entity.Data
         {
         }
 
+        public virtual DbSet<Event> Events { get; set; }
+        public virtual DbSet<School> Schools { get; set; }
+        public virtual DbSet<Stop> Stops { get; set; }
+        public virtual DbSet<Relic> Relics { get; set; }
+        public virtual DbSet<Partyability> Partyabilities { get; set; }
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
@@ -18,5 +24,6 @@ namespace WebApp.Entity.Data
             // For example, you can rename the ASP.NET Identity table names and more.
             // Add your customizations after calling base.OnModelCreating(builder);
         }
+
     }
 }
