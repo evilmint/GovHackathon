@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebApp.Entity.Models
 {
@@ -7,7 +8,10 @@ namespace WebApp.Entity.Models
         public int Id { get; set; }
         public double Latitude { get; set; }
         public double Longitude { get; set; }
-        public StopType Type { get; set; }
+        public StopType Typ { get; set; }
+
+        [NotMapped]
+        public string Type => "stop";
     }
 }
 
