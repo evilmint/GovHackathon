@@ -1,10 +1,6 @@
 ﻿[
   {
-    "outputFile": "wwwroot/lib/bootstrap/less/bootstrap.css",
-    "inputFile": "wwwroot/lib/bootstrap/less/bootstrap.less"
-  },
-  {
-    "outputFile": "wwwroot/lib/font-awesome/less/font-awesome.css",
-    "inputFile": "wwwroot/lib/font-awesome/less/font-awesome.less"
+    "outputFile": "wwwroot/less/site.css",
+    "inputFile": "wwwroot/less/site.less"
   }
 ]
