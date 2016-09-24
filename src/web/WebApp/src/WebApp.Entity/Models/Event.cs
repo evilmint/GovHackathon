@@ -11,7 +11,8 @@ namespace WebApp.Entity.Models
         public string Name { get; set; }
         public string Url { get; set; }
         public string Description { get; set; }
-        public string Type { get; set; }
+        public string Typ { get; set; }
+        public string Type { get { return "event"; } }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
         public double Latitude { get; set; }

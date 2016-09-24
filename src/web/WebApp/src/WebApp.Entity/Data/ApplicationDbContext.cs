@@ -11,7 +11,11 @@ namespace WebApp.Entity.Data
         {
         }
 
-        public DbSet<Event> Events { get; set; }
+        public virtual DbSet<Event> Events { get; set; }
+        public virtual DbSet<School> Schools { get; set; }
+        public virtual DbSet<Stop> Stops { get; set; }
+        public virtual DbSet<Relic> Relics { get; set; }
+        public virtual DbSet<Partyability> Partyabilities { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -21,6 +25,5 @@ namespace WebApp.Entity.Data
             // Add your customizations after calling base.OnModelCreating(builder);
         }
 
-        public virtual DbSet<School> Schools { get; set; }
     }
 }
