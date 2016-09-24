@@ -1,1 +1,73 @@
-﻿
+﻿<form asp-controller="Home" asp-action="Index">
+    <div class="form-group">
+        <input class="form-control" type="search" placeholder="Szukaj" />
+    </div>
+    <div class="form-group">
+        <label>Mieszkania</label>
+        <select class="form-control">
+            <option>na sprzedaż</option>
+            <option>na wynajem</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Cena</label>
+        <div class="row">
+            <div class="col-md-5"><input class="form-control" /></div>
+            <div class="col-md-2">
+                <label>do</label>
+            </div>
+            <div class="col-md-5"><input class="form-control" /></div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label>Powierzchnia</label>
+        <div class="row">
+            <div class="col-md-5"><input class="form-control" /></div>
+            <div class="col-md-2">
+                <label>do</label>
+            </div>
+            <div class="col-md-5"><input class="form-control" /></div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label>Liczba pokoi</label>
+        <input type="number" class="form-control" min="1" />
+    </div>
+    <div class="form-group">
+        <label>W pobliżu</label>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox"> Checkbox
+            </label>
+            <label>
+                <input type="checkbox"> Checkbox
+            </label>
+            <label>
+                <input type="checkbox"> Checkbox
+            </label>
+            <label>
+                <input type="checkbox"> Checkbox
+            </label>
+            <label>
+                <input type="checkbox"> Checkbox
+            </label>
+            <label>
+                <input type="checkbox"> Checkbox
+            </label>
+            <label>
+                <input type="checkbox"> Checkbox
+            </label>
+            <label>
+                <input type="checkbox"> Checkbox
+            </label>
+            <label>
+                <input type="checkbox"> Checkbox
+            </label>
+        </div>
+        <div class="form-group text-center">
+            <button type="submit" class="btn btn-raised btn-primary">Wyszukaj</button>
+        </div>
+
+    </div>
+
+</form>
