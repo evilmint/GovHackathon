@@ -6,10 +6,15 @@
     <title>@ViewData["Title"] - WebApp.Web</title>
 
     <environment names="Development">
-        <link rel="stylesheet" href="~/css/core.css" />
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.css" />
+        <link rel="stylesheet" href="~/lib/bootstrap-material-design/dist/bootstrap-material-design.css" />
     </environment>
+
     <environment names="Staging,Production">
-        <link rel="stylesheet" href="~/css/core.min.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.min.css" />
+        <link rel="stylesheet" href="~/lib/bootstrap-material-design/dist/bootstrap-material-design.min.css" />
     </environment>
 </head>
 <body>
@@ -30,7 +35,6 @@
                     <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
                     <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
                 </ul>
-
             </div>
         </div>
     </div>

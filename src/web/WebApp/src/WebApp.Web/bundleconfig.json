@@ -1,14 +1,11 @@
 ﻿// Configure bundling and minification for the project.
 // More info at https://go.microsoft.com/fwlink/?LinkId=808241
 [
-  {
-    "outputFileName": "wwwroot/css/core.css",
-    "inputFiles": [
-      "wwwroot/lib/bootstrap/less/bootstrap.css",
-      "wwwroot/lib/font-awesome/less/font-awesome.css",
-      //"wwwroot/lib/bootstrap-material-design/dist/bootstrap-material-design.css",
-      "wwwroot/less/site.css"
 
+  {
+    "outputFileName": "wwwroot/css/site.css",
+    "inputFiles": [
+      "wwwroot/less/site.css"
     ],
     "minify": {
       "enabled": true,
