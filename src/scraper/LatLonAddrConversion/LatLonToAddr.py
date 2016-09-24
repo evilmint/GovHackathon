@@ -3,9 +3,9 @@ geolocator = Nominatim()
 
 DELIM = "||"
 
-fileHandle = open('out.txt', 'r')
+fileHandle = open('in.txt', 'r')
 
-outFile = open('out2.txt','w')
+outFile = open('out.txt','w')
 
 for line in fileHandle:
     nazwa, lat, lon = line.split(DELIM)
