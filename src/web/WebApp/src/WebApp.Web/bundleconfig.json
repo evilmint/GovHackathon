@@ -6,7 +6,8 @@
     "inputFiles": [
       "wwwroot/lib/bootstrap/less/bootstrap.css",
       "wwwroot/lib/font-awesome/less/font-awesome.css",
-      "wwwroot/sass/site.css"
+      //"wwwroot/lib/bootstrap-material-design/dist/bootstrap-material-design.css",
+      "wwwroot/less/site.css"
 
     ],
     "minify": {
@@ -21,6 +22,8 @@
     "inputFiles": [
       "wwwroot/lib/jquery/dist/jquery.js",
       "wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "wwwroot/lib/bootstrap-material-design/dist/bootstrap-material-design.iife.js",
+      "wwwroot/lib/bootstrap-material-design/dist/bootstrap-material-design.umd.js",
       "wwwroot/js/site.js"
     ],
     "minify": {
