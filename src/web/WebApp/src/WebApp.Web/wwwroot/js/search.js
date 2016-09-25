@@ -9,59 +9,60 @@
         relics = $('#relics').val(),
         stops = $('#stops').val();
 
-    var searchParams = "";
+    var searchParams = [];
 
     if (minprice) {
-        searchParams = searchParams + "minprice:" + minprice;
+        searchParams.push("minprice:" + minprice);
     }
 
     if (maxprice) {
-        searchParams = searchParams + ";maxprice:" + maxprice;
+        searchParams.push("maxprice:" + maxprice);
     }
 
     if (minarea) {
-        searchParams = searchParams + ";minarea:" + minarea;
+        searchParams.push("minarea:" + minarea);
     }
 
     if (maxarea) {
-        searchParams = searchParams + ";maxarea:" + maxarea;
+        searchParams.push("maxarea:" + maxarea);
     }
 
     if (preSchools) {
-        searchParams = searchParams + ";preschool:" + preSchools;
+        searchParams.push("preschool:" + preSchools);
     }
 
     if (primarySchools) {
-        searchParams = searchParams + ";primaryschool:" + primarySchools;
+        searchParams.push("primaryschool:" + primarySchools);
     }
 
     if (middleSchools) {
-        searchParams = searchParams + ";middleschool:" + middleSchools;
+        searchParams.push("middleschool:" + middleSchools);
     }
 
     if (relics) {
-        searchParams = searchParams + ";relic:" + relics;
+        searchParams.push("relic:" + relics);
     }
 
     if (stops) {
-        searchParams = searchParams + ";stop:" + stop;
+        searchParams.push("tramStop:" + stops);
+        searchParams.push("busStop:" + stops);
     }
 
     var jqxhr = $.ajax({
-        url: "http://govhak.azurewebsites.net/houses/search",
+        url: "/houses/search",
         type: "get",
-        data: { searchParams: searchParams }
+        data: { searchParams: searchParams.join(";") }
     })
     .done(function (data) {
-        sonsole.info("success");
+        console.info("success");
 
-
-
+        //initMap();
+        drawFromMarkers(data, 'schools');
     })
     .fail(function () {
         console.warn("error");
     })
     .always(function () {
-        consile.info("finished");
+        console.info("finished");
     });
 };

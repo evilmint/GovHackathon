@@ -35,10 +35,11 @@ function startGuidance(from, to) {
 function initMap() {
     //var directionsService = new google.maps.DirectionsService;
     //var directionsDisplay = new google.maps.DirectionsRenderer;
-    var map = new google.maps.Map(document.getElementById('map'), {
+    map = new google.maps.Map(document.getElementById('map'), {
         zoom: 11,
         center: { lat: 51.1058285, lng: 17.0124618 }
     });
+
     //directionsDisplay.setMap(map);
 
     //directionsService.route({
@@ -225,6 +226,33 @@ function drawFromClosest(item, type) {
         newBoundary.extend(position);
     }
     //    newBoundary.extend(markerPosition);
+    map.fitBounds(newBoundary);
+}
+
+function drawFromMarkers(items, type) {
+    $.each(schoolMarkers, function (index, value) {
+        schoolMarkers[index].setMap(null);
+    });
+    schoolMarkers = [];
+    for (i = 0; i < items.length; i++) {
+        var myLatlng = new google.maps.LatLng(items[i].latitude,
+            items[i].longitude);
+        var localMarker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            icon: ('/images/' + type + '.png'),
+            title: items[i].name
+        });
+        schoolMarkers.push(localMarker);
+    }
+
+    var newBoundary = new google.maps.LatLngBounds();
+
+    for (index in schoolMarkers) {
+        var position = schoolMarkers[index].position;
+        newBoundary.extend(position);
+    }
+
     map.fitBounds(newBoundary);
 }
 
