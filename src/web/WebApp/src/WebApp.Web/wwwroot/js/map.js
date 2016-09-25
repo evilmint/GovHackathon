@@ -1,6 +1,37 @@
 ﻿var schoolMarkers;
 var map;
 var markerPosition;
+var globalResult;
+var directionsDisplay;
+
+
+function startGuidance(from, to) {
+    var directionsService = new google.maps.DirectionsService;
+    if (directionsDisplay != undefined) {
+        directionsDisplay.setMap(null);
+    }
+    directionsDisplay = new google.maps.DirectionsRenderer;
+    directionsDisplay.setMap(map);
+    directionsDisplay.setOptions({ suppressMarkers: true }); directionsDisplay.setOptions({ suppressMarkers: true });
+
+    google.maps.event.addListener(directionsDisplay, 'directions_changed', function () {
+        computeTotalDistance(directionsDisplay.directions);
+    });
+
+    directionsService.route({
+        origin: from,
+        destination: to,
+        travelMode: 'DRIVING'
+    }, function (response, status) {
+        if (status === 'OK') {
+            directionsDisplay.setDirections(response);
+        } else {
+            window.alert('Directions request failed due to ' + status);
+        }
+    });
+
+}
+
 function initMap() {
     //var directionsService = new google.maps.DirectionsService;
     //var directionsDisplay = new google.maps.DirectionsRenderer;
@@ -61,7 +92,6 @@ function initMap() {
             icon: icons[feature.type].icon,
             map: map
         });
-        markerPosition = feature.position;
     }
 
     google.maps.event.addListener(map, 'click', function (event) {
@@ -70,6 +100,7 @@ function initMap() {
     });
 
     function placeMarker(location) {
+        markerPosition = location;
         marker.setMap(null);
         marker = new google.maps.Marker({
             position: location,
@@ -78,9 +109,18 @@ function initMap() {
         sendRequest(location);
     }
 
-    //google.maps.event.addListener(directionsDisplay, 'directions_changed', function () {
-    //    computeTotalDistance(directionsDisplay.directions);
-    //});
+    $(".panel-primary .panel-heading")
+        .click(function () {
+            var wasVisible = $(this).parent().find(".panel-body").is(":visible");
+            $(".panel-body").hide();
+            if (wasVisible) {
+                $(this).parent().find(".panel-body").hide();
+            } else {
+                $(this).parent().find(".panel-body").show();
+                var id = $(this).parent().find("p").first().attr("id");
+                drawFromClosest(globalResult[id], 'schools');
+            }
+        });
 }
 
 function computeTotalDistance(result) {
@@ -98,7 +138,8 @@ function computeTotalDistance(result) {
     time = time.replace('hours', 'H');
     time = time.replace('mins', 'M');
     total = total / 1000.
-    $("#googleTime").text(time);
+    $("#googleTime").show();
+    $("#googleTimeText").text(time);
 }
 
 function calculateAndDisplayRoute(directionsService, directionsDisplay) {
@@ -135,27 +176,47 @@ function buildUrl(baseUrl, long, lat) {
 }
 
 function onSuccess(result) {
+    globalResult = result;
+    drawFromClosest(result.primaryschool, 'schools');
 
+    $('#middleschool').text(result.middleschool.closest.name);
+    $('#middleschoolStreet').text(result.middleschool.closest.www || "");
+    $('#middleschoolDistance').text(Math.round(result.middleschool.distance * 100) / 100 + " km");
+
+    $('#relic').text(result.relic.closest.name);
+    $('#relicDistance').text(Math.round(result.relic.distance * 100) / 100 + " km");
+
+    $('#preschool').text(result.preschool.closest.name);
+    $('#preschoolStreet').text(result.middleschool.closest.www || "");
+    $('#preschoolDistance').text(Math.round(result.preschool.distance * 100) / 100 + " km");
+
+    $('#primaryschool').text(result.primaryschool.closest.name);
+    $('#primaryschoolStreet').text(result.middleschool.closest.www || "");
+    $('#primaryschoolDistance').text(Math.round(result.primaryschool.distance * 100) / 100 + " km");
+
+    $('#busStop').text(result.busStop.closest.name);
+
+    $('#tramStop').text(result.tramStop.closest.name);
+}
+
+function drawFromClosest(item, type) {
     $.each(schoolMarkers, function (index, value) {
         schoolMarkers[index].setMap(null);
     });
     schoolMarkers = [];
-
-    function drawFromClosest(item) {
-
-        for (i = 0; i < 3; i++) {
-            var myLatlng = new google.maps.LatLng(item.closestThree[i].latitude,
-                item.closestThree[i].longitude);
-            var localMarker = new google.maps.Marker({
-                position: myLatlng,
-                map: map,
-                icon: (i === 0 ? '/images/schools.png' : '/images/schools_grey.png'),
-                title: item.closestThree[i].name
-            });
-            schoolMarkers.push(localMarker);
-        }
+    for (i = 0; i < 3; i++) {
+        var myLatlng = new google.maps.LatLng(item.closestThree[i].latitude,
+            item.closestThree[i].longitude);
+        var localMarker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            icon: (i === 0 ? '/images/'+type+'.png' : '/images/'+type+'_grey.png'),
+            title: item.closestThree[i].name
+        });
+        schoolMarkers.push(localMarker);
     }
-    drawFromClosest(result.primaryschool);
+    startGuidance(markerPosition.lat() + ", " + markerPosition.lng(),
+        item.closest.latitude + ", " + item.closest.longitude);
 
     var newBoundary = new google.maps.LatLngBounds();
 
@@ -163,20 +224,8 @@ function onSuccess(result) {
         var position = schoolMarkers[index].position;
         newBoundary.extend(position);
     }
-//    newBoundary.extend(markerPosition);
+    //    newBoundary.extend(markerPosition);
     map.fitBounds(newBoundary);
-
-    $('#middleschool').text(result.middleschool.closest.name);
-
-    $('#relic').text(result.relic.closest.name);
-
-    $('#preschool').text(result.preschool.closest.name);
-
-    $('#primaryschool').text(result.primaryschool.closest.name);
-
-    $('#busStop').text(result.busStop.closest.name);
-
-    $('#tramStop').text(result.tramStop.closest.name);
 }
 
 function onError() {
