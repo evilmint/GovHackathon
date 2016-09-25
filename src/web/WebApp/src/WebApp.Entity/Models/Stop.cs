@@ -12,6 +12,11 @@ namespace WebApp.Entity.Models
 
         [NotMapped]
         public string Type => "stop";
+
+        public double Distance(double latitude, double longitude)
+        {
+            return Web.Entity.Distance.Compute(this.Latitude, this.Longitude, latitude, longitude);
+        }
     }
 }
 
@@ -19,6 +24,6 @@ namespace WebApp.Entity.Models
 public enum StopType
 {
     Unknown = 0,
-    Bus = 1,
-    Tram = 1 << 1
+    Tram = 2,
+    Bus = 3
 }
