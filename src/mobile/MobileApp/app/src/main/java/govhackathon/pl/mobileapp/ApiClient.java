@@ -83,6 +83,14 @@ public class ApiClient {
                 dataMarker.setType(marker.getString("type"));
             }
 
+            if (marker.has("area")) {
+                dataMarker.setArea(marker.getInt("area"));
+            }
+
+            if (marker.has("roomCount")) {
+                dataMarker.setRoomCount(marker.getInt("roomCount"));
+            }
+
             if (marker.has("imageUrl")) {
                 dataMarker.setLink(marker.getString("imageUrl"));
             }

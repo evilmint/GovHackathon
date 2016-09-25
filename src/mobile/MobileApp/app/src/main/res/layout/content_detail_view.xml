@@ -36,6 +36,37 @@
         android:layout_below="@id/title"
         android:id="@+id/description" />
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/description"
+
+        android:id="@+id/meta1"
+        android:gravity="right|end"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Liczba pokojów: 3"
+            android:layout_width="match_parent"
+            android:textSize="13sp"
+            android:paddingRight="25sp"
+            android:gravity="right"
+            android:layout_weight="1"
+            android:paddingLeft="25sp"
+            android:layout_height="wrap_content"
+            android:id="@+id/roomCount" />
+        <TextView
+            android:text="Powierzchnia: 23m2"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:gravity="right"
+            android:layout_weight="1"
+            android:textSize="13sp"
+            android:paddingRight="25sp"
+            android:paddingLeft="25sp"
+            android:layout_height="wrap_content"
+            android:id="@+id/area" />
+    </LinearLayout>
+
     <TextView
         android:text="300,000 zł"
         android:layout_width="match_parent"
@@ -45,6 +76,7 @@
         android:paddingRight="25sp"
         android:paddingLeft="25sp"
         android:layout_height="wrap_content"
-        android:layout_below="@id/description"
+        android:layout_below="@id/meta1"
         android:id="@+id/price" />
+
 </RelativeLayout>

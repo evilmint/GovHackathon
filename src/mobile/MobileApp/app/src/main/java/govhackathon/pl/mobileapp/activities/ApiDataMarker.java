@@ -10,6 +10,8 @@ public class ApiDataMarker {
     private String description;
     private String link;
     private int price;
+    private int area;
+    private int roomCount;
     private float hue = BitmapDescriptorFactory.HUE_RED;
 
     private double score = 0.0f;
@@ -84,6 +86,22 @@ public class ApiDataMarker {
 
     public void setPrice(int price) {
         this.price = price;
+    }
+
+    public int getRoomCount() {
+        return roomCount;
+    }
+
+    public void setRoomCount(int roomCount) {
+        this.roomCount = roomCount;
+    }
+
+    public int getArea() {
+        return area;
+    }
+
+    public void setArea(int area) {
+        this.area = area;
     }
 }
 

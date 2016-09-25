@@ -173,7 +173,7 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
         });
         */
 
-        checkForGpsLocation();
+        // checkForGpsLocation();
     }
 
     private void checkForGpsLocation() {
@@ -321,6 +321,7 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
                 markerOptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE));
                 markerOptions.position(latLng);
 
+
                 mCurrLocationMarker = mMap.addMarker(markerOptions);
                 mCurrLocationMarker.setDraggable(true);
             }
@@ -331,12 +332,13 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
 
+        /*
         if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
             ActivityCompat.requestPermissions(DrawerActivity.this, new String[]{Manifest.permission.ACCESS_FINE_LOCATION}, 1);
         } else {
-            mMap.setMyLocationEnabled(true);
+            //mMap.setMyLocationEnabled(true);
         }
-
+*/
         // Update map visible region
         mMap.setOnCameraMoveListener(new GoogleMap.OnCameraMoveListener() {
             @Override
@@ -350,7 +352,13 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
         mMap.setOnMapClickListener(new GoogleMap.OnMapClickListener() {
             @Override
             public void onMapClick(LatLng latLng) {
-                DrawerActivity.this.mCurrLocationMarker.setPosition(latLng);
+                if (DrawerActivity.this.mCurrLocationMarker == null) {
+                    DrawerActivity.this.addCurrentLocationMarker(latLng.latitude, latLng.longitude);
+                } else {
+                    DrawerActivity.this.mCurrLocationMarker.setPosition(latLng);
+                }
+
+
 
                 final String urlAddress = String.format(Locale.US, "http://govhak.azurewebsites.net/point?latitude=%1$f&longitude=%2$f",
                         latLng.latitude, latLng.longitude
@@ -579,10 +587,15 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
                 DrawerActivity.this.mMap.clear();
                 DrawerActivity.this.allMarkersMap.clear();
 
-                DrawerActivity.this.addCurrentLocationMarker(
-                        DrawerActivity.this.mCurrLocationMarker.getPosition().latitude,
-                        DrawerActivity.this.mCurrLocationMarker.getPosition().longitude
-                );
+                if (DrawerActivity.this.mCurrLocationMarker != null) {
+                    if (DrawerActivity.this.mCurrLocationMarker.getPosition() != null) {
+                        DrawerActivity.this.addCurrentLocationMarker(
+                                DrawerActivity.this.mCurrLocationMarker.getPosition().latitude,
+                                DrawerActivity.this.mCurrLocationMarker.getPosition().longitude
+                        );
+                    }
+
+                }
             }
         });
 

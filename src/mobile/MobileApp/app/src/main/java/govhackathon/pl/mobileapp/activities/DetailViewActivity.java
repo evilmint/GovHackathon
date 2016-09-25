@@ -30,10 +30,15 @@ public class DetailViewActivity extends AppCompatActivity {
         TextView descriptionTv = (TextView)findViewById(R.id.description);
         TextView titleTv = (TextView)findViewById(R.id.title);
         TextView priceTv = (TextView)findViewById(R.id.price);
+        TextView areaTv = (TextView)findViewById(R.id.area);
+        TextView roomCountTv = (TextView)findViewById(R.id.roomCount);
 
         if (apiDataMarker != null) {
             if (apiDataMarker.getDescription() != null)
                 descriptionTv.setText(apiDataMarker.getDescription());
+
+            areaTv.setText("Powierzchnia: " + Integer.toString(apiDataMarker.getArea()) + "m2");
+            roomCountTv.setText("Liczba pokojów: " + Integer.toString(apiDataMarker.getRoomCount()));
 
             if (apiDataMarker.getName() != null) {
                 titleTv.setText(apiDataMarker.getName());

@@ -28,6 +28,7 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 import govhackathon.pl.mobileapp.R;
 
@@ -88,7 +89,7 @@ class ListViewContainerAdapter extends BaseAdapter {
                         int amount = containerObject.jsonObject.getInt("amountInRadius");
 
                         if (amount > 0) {
-                            text.setText("W okolicy znajduje się " + Integer.toString(amount) + " szkół podstawowych. Najbliższa szkoła (" + containerObject.jsonObject.getJSONObject("closest").getString("name") + "): " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 100.0)) + " metrów.");
+                            text.setText("W promieniu " + String.format(Locale.getDefault(), "%.2f", containerObject.jsonObject.getDouble("radius")) + "km znajduje się " + Integer.toString(amount) + " szkół podstawowych. Najbliższa szkoła (" + containerObject.jsonObject.getJSONObject("closest").getString("name") + "): " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 1000.0)) + " metrów.");
                         }
                     } catch (JSONException e) {
                         e.printStackTrace();
@@ -107,26 +108,7 @@ class ListViewContainerAdapter extends BaseAdapter {
                         int amount = containerObject.jsonObject.getInt("amountInRadius");
 
                         if (amount > 0) {
-                            text.setText("W okolicy znajduje się " + Integer.toString(amount) + " szkół ponadgimnazjalnych. Najbliższa szkoła (" + containerObject.jsonObject.getJSONObject("closest").getString("name") + "): " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 100.0)) + " metrów.");
-                        }
-                    } catch (JSONException e) {
-                        e.printStackTrace();
-                    }
-                    break;
-                }
-                case "highschool": {
-                    vi = inflater.inflate(R.layout.container_school, null);
-
-                    TextView text = (TextView) vi.findViewById(R.id.text);
-                    TextView headerText = (TextView) vi.findViewById(R.id.header);
-
-                    headerText.setText("Szkoły średnie");
-
-                    try {
-                        int amount = containerObject.jsonObject.getInt("amountInRadius");
-
-                        if (amount > 0) {
-                            text.setText("W okolicy znajduje się " + Integer.toString(amount) + " szkół średnich. Najbliższa szkoła (" + containerObject.jsonObject.getJSONObject("closest").getString("name") + "): " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 100.0)) + " metrów.");
+                            text.setText("W promieniu " + String.format(Locale.getDefault(), "%.2f", containerObject.jsonObject.getDouble("radius")) + "km znajduje się " + Integer.toString(amount) + " szkół ponadgimnazjalnych. Najbliższa szkoła (" + containerObject.jsonObject.getJSONObject("closest").getString("name") + "): " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 1000.0)) + " metrów.");
                         }
                     } catch (JSONException e) {
                         e.printStackTrace();
@@ -145,7 +127,7 @@ class ListViewContainerAdapter extends BaseAdapter {
                         int amount = containerObject.jsonObject.getInt("amountInRadius");
 
                         if (amount > 0) {
-                            text.setText("W okolicy znajduje się " + Integer.toString(amount) + " przedszkól. Najbliższe (" + containerObject.jsonObject.getJSONObject("closest").getString("name") + "): " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 100.0)) + " metrów.");
+                            text.setText("W promieniu " + String.format(Locale.getDefault(), "%.2f", containerObject.jsonObject.getDouble("radius")) + "km znajduje się " + Integer.toString(amount) + " przedszkól. Najbliższe (" + containerObject.jsonObject.getJSONObject("closest").getString("name") + "): " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 1000.0)) + " metrów.");
                         }
                     } catch (JSONException e) {
                         e.printStackTrace();
@@ -164,7 +146,7 @@ class ListViewContainerAdapter extends BaseAdapter {
                         int amount = containerObject.jsonObject.getInt("amountInRadius");
 
                         if (amount > 0) {
-                            text.setText("W okolicy znajduje się " + Integer.toString(amount) + " przystanków autobusowych. Najbliższy przystanek: " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 100.0)) + " metrów");
+                            text.setText("W promieniu " + String.format(Locale.getDefault(), "%.2f", containerObject.jsonObject.getDouble("radius")) + "km znajduje się " + Integer.toString(amount) + " przystanków autobusowych. Najbliższy przystanek: " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 1000.0)) + " metrów");
                         }
                     } catch (JSONException e) {
                         e.printStackTrace();
@@ -183,7 +165,7 @@ class ListViewContainerAdapter extends BaseAdapter {
                         int amount = containerObject.jsonObject.getInt("amountInRadius");
 
                         if (amount > 0) {
-                            text.setText("W okolicy znajduje się " + Integer.toString(amount) + " zabytków. Najbliższy zabytek (" + containerObject.jsonObject.getJSONObject("closest").getString("name") + "): " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 100.0)) + " metrów");
+                            text.setText("W promieniu " + String.format(Locale.getDefault(), "%.2f", containerObject.jsonObject.getDouble("radius")) + "km znajduje się " + Integer.toString(amount) + " zabytków. Najbliższy zabytek (" + containerObject.jsonObject.getJSONObject("closest").getString("name") + "): " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 1000.0)) + " metrów");
                         }
                     } catch (JSONException e) {
                         e.printStackTrace();
@@ -202,7 +184,7 @@ class ListViewContainerAdapter extends BaseAdapter {
                         int amount = containerObject.jsonObject.getInt("amountInRadius");
 
                         if (amount > 0) {
-                            text.setText("W okolicy znajduje się " + Integer.toString(containerObject.jsonObject.getInt("amountInRadius")) + " przystanków tramwajowych. Najbliższy przystanek: " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 100.0)) + " metrów");
+                            text.setText("W promieniu " + String.format(Locale.getDefault(), "%.2f", containerObject.jsonObject.getDouble("radius")) + "km znajduje się " + Integer.toString(containerObject.jsonObject.getInt("amountInRadius")) + " przystanków tramwajowych. Najbliższy przystanek: " + Integer.toString((int) (containerObject.jsonObject.getDouble("distance") * 1000.0)) + " metrów");
                         }
                     } catch (JSONException e) {
                         e.printStackTrace();
@@ -219,6 +201,9 @@ class ListViewContainerAdapter extends BaseAdapter {
                     chart.setMaxVisibleValueCount(78);
                     chart.setPinchZoom(false);
                     chart.setDrawGridBackground(false);
+
+                    chart.disableScroll();
+                    chart.setEnabled(false);
 
                     chart.setDescription("");
 
@@ -245,6 +230,7 @@ class ListViewContainerAdapter extends BaseAdapter {
                     xAxis.setGranularity(.5f);
                     xAxis.setLabelCount(3);
                     xAxis.setDrawAxisLine(false);
+
 
                     List<BarEntry> entries = new ArrayList<>();
 
