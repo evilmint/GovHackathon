@@ -27,7 +27,7 @@ namespace WebApp.Web.Controllers
                 {
                     if (dataProvider.Name == "partyability")
                     {
-                        //calculate metric for partyability
+                        //TODO calculate metric for partyability
                         //average from all months?
                     }
                     else if (dataProvider.Name == "relic") //zagęszczenie bo odległość do najbliższego zabytku nie ma sensu więc biorę radius, im mniejszy tym większe zagęszczenie
