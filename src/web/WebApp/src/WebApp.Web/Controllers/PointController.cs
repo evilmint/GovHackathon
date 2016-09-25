@@ -20,6 +20,7 @@ namespace WebApp.Web.Controllers
         {
             IDataProvider[] dataProviders = new IDataProvider[]
             {
+                new PartyabilityProvider(this.context),
                 new SchoolProvider(this.context, "00004"),
                 new SchoolProvider(this.context, "00001"),
                 new SchoolProvider(this.context, "00003")
