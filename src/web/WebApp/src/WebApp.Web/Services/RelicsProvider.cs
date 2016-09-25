@@ -9,7 +9,7 @@ namespace WebApp.Web.Services
     {
         private readonly ApplicationDbContext _dbContext;
 
-        public string Name => "relics";
+        public string Name => "relic";
 
         public RelicsProvider(ApplicationDbContext dbContext)
         {
