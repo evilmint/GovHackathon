@@ -9,6 +9,7 @@
         </div>
         @Html.Partial("~/Views/Sections/_Results.cshtml")
     </div>
+    <a href="#" onclick="showHeatmap()">Show heatmap</a>
 </div>
 
 @section scripts
@@ -16,5 +17,8 @@
 <script src="~/js/map.js"></script>
 <script src="~/js/search.js"></script>
 <script src="~/lib/bootstrap-slider/bootstrap-slider.js"></script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0VDZS3C1nVRByWjnjTxNido0xof2VqbM&callback=initMap"></script>
+<!--<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0VDZS3C1nVRByWjnjTxNido0xof2VqbM&callback=initMap"></script>-->
+<script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0VDZS3C1nVRByWjnjTxNido0xof2VqbM&libraries=visualization&callback=initMap">
+</script>
 }

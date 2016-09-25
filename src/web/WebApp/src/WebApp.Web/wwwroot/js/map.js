@@ -7,7 +7,7 @@ var directionsDisplay;
 
 function startGuidance(from, to) {
     var directionsService = new google.maps.DirectionsService;
-    if (directionsDisplay != undefined) {
+    if (directionsDisplay !== undefined) {
         directionsDisplay.setMap(null);
     }
     directionsDisplay = new google.maps.DirectionsRenderer;
@@ -256,7 +256,34 @@ function drawFromMarkers(items, type) {
     map.fitBounds(newBoundary);
 }
 
+// TODO remove this
 function onError() {
 
 }
 
+function showHeatmap() {
+    $.ajax({
+        url: '/heatmap/search?searchParams=preschool:1',
+        type: 'get'
+    })
+    .done(function (data) { drawHeatmap(data); });
+}
+
+function drawHeatmap(data) {
+    var heatmapData = [];
+    for (var i in data) {
+        var point = data[i];
+        heatmapData.push({
+            location: new google.maps.LatLng(point.latitude, point.longitude),
+            weight: point.score
+        });
+    }
+
+    var heatmap = new google.maps.visualization.HeatmapLayer({
+        data: heatmapData,
+        radius: 90,
+        opacity: 0.4
+    });
+
+    heatmap.setMap(map);
+}
