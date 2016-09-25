@@ -1,0 +1,83 @@
+﻿{
+  "middleschool": {
+    "closest": {
+      "id": 3783,
+      "polwoj": "02",
+      "polpow": "64",
+      "polgm": "01",
+      "miejscowość": "Wrocław",
+      "klasaWielk": "2",
+      "typ": "00004",
+      "złożoność": "002",
+      "patron": null,
+      "ulica": "Wałbrzyska",
+      "nrDomu": "50",
+      "kodPoczt": "52-314",
+      "poczta": "Wrocław",
+      "telefon": "713613321",
+      "www": "http://zpo1.wroclaw.pl",
+      "publiczność": "001",
+      "name": "Gimnazjum nr 42",
+      "longitude": 17.0116458,
+      "latitude": 51.1124067,
+      "description": null,
+      "address": null,
+      "type": "middleschool"
+    },
+    "distance": 5.4966093893616987
+  },
+  "preschool": {
+    "closest": {
+      "id": 3409,
+      "polwoj": "02",
+      "polpow": "64",
+      "polgm": "01",
+      "miejscowość": "Wrocław",
+      "klasaWielk": "2",
+      "typ": "00001",
+      "złożoność": "001",
+      "patron": null,
+      "ulica": "Partynicka",
+      "nrDomu": "29-37",
+      "kodPoczt": "53-031",
+      "poczta": "Wrocław-Krzyki",
+      "telefon": "713336992",
+      "www": "www.asw.org.pl",
+      "publiczność": "004",
+      "name": "American School of Wrocław",
+      "longitude": 17.0141177,
+      "latitude": 51.1027048,
+      "description": null,
+      "address": null,
+      "type": "preschool"
+    },
+    "distance": 3.8283560170615663
+  },
+  "primaryschool": {
+    "closest": {
+      "id": 3514,
+      "polwoj": "02",
+      "polpow": "64",
+      "polgm": "01",
+      "miejscowość": "Wrocław",
+      "klasaWielk": "2",
+      "typ": "00003",
+      "złożoność": "001",
+      "patron": null,
+      "ulica": "Sieradzka",
+      "nrDomu": "5",
+      "kodPoczt": "50-568",
+      "poczta": "Wrocław",
+      "telefon": "713646070",
+      "www": "www.tikkunolam.pl",
+      "publiczność": "002",
+      "name": "Szkoła Podstawowa Tikkun Olam",
+      "longitude": 17.0165843,
+      "latitude": 51.0994625,
+      "description": null,
+      "address": null,
+      "type": "primaryschool"
+    },
+    "distance": 5.9747490265161289
+  }
+}

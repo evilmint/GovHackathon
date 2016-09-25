@@ -45,5 +45,10 @@ namespace WebApp.Entity.Models
                 return "otherschool";
             }
         }
+
+        public double Distance(double latitude, double longitude)
+        {
+            return Web.Entity.Distance.Compute(this.Latitude, this.Longitude, latitude, longitude);
+        }
     }
 }
