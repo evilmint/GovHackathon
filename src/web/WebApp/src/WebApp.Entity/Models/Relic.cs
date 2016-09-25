@@ -13,5 +13,10 @@ namespace WebApp.Entity.Models
 
         [NotMapped]
         public string Type => "relic";
+
+        public double Distance(double latitude, double longitude)
+        {
+            return Web.Entity.Distance.Compute(this.Latitude, this.Longitude, latitude, longitude);
+        }
     }
 }
