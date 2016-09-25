@@ -1,6 +1,7 @@
 ﻿/// <autosync enabled="true" />
 /// <reference path="js/core.min.js" />
 /// <reference path="js/map.js" />
+/// <reference path="js/restclient.js" />
 /// <reference path="js/site.js" />
 /// <reference path="lib/bootstrap/dist/js/bootstrap.js" />
 /// <reference path="lib/bootstrap-material-design/dist/js/material.js" />
