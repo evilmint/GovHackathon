@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_detail_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="govhackathon.pl.mobileapp.activities.DetailViewActivity"
+    tools:showIn="@layout/activity_detail_view">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="image"
+        android:adjustViewBounds="true"
+        android:id="@+id/image"
+        />
+
+    <TextView
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="20sp"
+        android:layout_below="@id/image"
+        android:id="@+id/title"
+        />
+
+    <TextView
+        android:text=""
+        android:layout_width="match_parent"
+        android:padding="15sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:id="@+id/description" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/description"
+
+        android:id="@+id/meta1"
+        android:gravity="right|end"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Liczba pokojów: 3"
+            android:layout_width="match_parent"
+            android:textSize="13sp"
+            android:paddingRight="25sp"
+            android:gravity="right"
+            android:layout_weight="1"
+            android:paddingLeft="25sp"
+            android:layout_height="wrap_content"
+            android:id="@+id/roomCount" />
+        <TextView
+            android:text="Powierzchnia: 23m2"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:gravity="right"
+            android:layout_weight="1"
+            android:textSize="13sp"
+            android:paddingRight="25sp"
+            android:paddingLeft="25sp"
+            android:layout_height="wrap_content"
+            android:id="@+id/area" />
+    </LinearLayout>
+
+    <TextView
+        android:text="300,000 zł"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:gravity="end"
+        android:paddingRight="25sp"
+        android:paddingLeft="25sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/meta1"
+        android:id="@+id/price" />
+
+</RelativeLayout>
