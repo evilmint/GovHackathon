@@ -3,13 +3,13 @@ package govhackathon.pl.mobileapp.activities;
 import android.Manifest;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.graphics.Bitmap;
 import android.location.Location;
 import android.location.LocationManager;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
-import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.view.GravityCompat;
@@ -19,11 +19,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.text.Html;
 import android.util.Log;
-import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.inputmethod.EditorInfo;
 import android.widget.AdapterView;
 import android.widget.EditText;
 import android.widget.ListView;
@@ -34,6 +32,7 @@ import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.location.LocationListener;
 import com.google.android.gms.location.LocationRequest;
 import com.google.android.gms.location.LocationServices;
+import com.google.android.gms.maps.CameraUpdate;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
@@ -41,6 +40,7 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.BitmapDescriptor;
 import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.LatLngBounds;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.VisibleRegion;
@@ -49,7 +49,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.IOException;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -148,7 +147,7 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
 
         this.searchEditText = (EditText) drawer.findViewById(R.id.search_content);
 
-        /*
+/*
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -171,7 +170,8 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
                 drawer.openDrawer(GravityCompat.START);
                 drawer.findViewById(R.id.search_content).requestFocus();
             }
-        });*/
+        });
+        */
 
         checkForGpsLocation();
     }
@@ -213,6 +213,10 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+
+            Intent intent = new Intent(this, SearchHousingActivity.class);
+            startActivityForResult(intent, 100);
+
             return true;
         }
 
@@ -264,6 +268,47 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
         }
     }
 
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (requestCode == 100) {
+            final float busResult = data.getFloatExtra("busStop", 0.0f) * 2.0f;
+            final float tramResult = data.getFloatExtra("tramStop", 0.0f) * 2.0f;
+            final float partyabilityResult = data.getFloatExtra("partyability", 0.0f) * 2.0f;
+            final float schoolResult = data.getFloatExtra("busStop", 0.0f) * 2.0f;
+            final float relicResult = data.getFloatExtra("relic", 0.0f) * 2.0f;
+
+            // http://govhak.azurewebsites.net/houses/search?searchParams=preschool:10;middleschool:5
+
+            // Clear all markers from the map
+            new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    try {
+                        String url = "http://govhak.azurewebsites.net/houses/search?searchParams=preschool:" + Float.toString(schoolResult) +
+                                ";middleschool:" + Float.toString(schoolResult) + ";primaryschool:" + Float.toString(schoolResult) + ";relic:" + Float.toString(relicResult) + ";" +
+                                "tramStop:" + Float.toString(tramResult) + ";busStop:" + Float.toString(busResult);
+
+                        final ApiData apiData = ApiClient.retrieveHousingDataFromUrl(url);
+
+                        // Get a handler that can be used to post to the main thread
+                        Handler mainHandler = new Handler(DrawerActivity.this.getMainLooper());
+                        mainHandler.post(new Runnable() {
+                            @Override
+                            public void run() {
+                                DrawerActivity.this.addMarkersFromApiData(apiData);
+                            }
+                        });
+
+
+                    } catch (IOException | JSONException e1) {
+                        e1.printStackTrace();
+                    }
+
+
+                }
+            }).start();
+        }
+    }
+
     private void addCurrentLocationMarker(final double latitude, final double longitude) {
         Handler mainHandler = new Handler(DrawerActivity.this.getMainLooper());
 
@@ -273,6 +318,7 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
             public void run() {
                 LatLng latLng = new LatLng(latitude, longitude);
                 MarkerOptions markerOptions = new MarkerOptions();
+                markerOptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE));
                 markerOptions.position(latLng);
 
                 mCurrLocationMarker = mMap.addMarker(markerOptions);
@@ -350,10 +396,6 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
                         }
                     }
                 }).start();
-
-
-
-
             }
         });
 
@@ -369,8 +411,6 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
                                     visibleRegion.latLngBounds.northeast.latitude, visibleRegion.latLngBounds.northeast.longitude,
                                     visibleRegion.latLngBounds.southwest.latitude, visibleRegion.latLngBounds.southwest.longitude
                             );
-
-                            Log.d("test", urlAddress);
 
                             ApiData data = ApiClient.retrieveDataFromUrl(urlAddress);
 
@@ -390,7 +430,7 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
         });
 
         DrawerActivity.this.updateMarkerThread.setVisibleMapRegion(mMap.getProjection().getVisibleRegion());
-/*
+
         googleMap.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
             @Override
             public void onInfoWindowClick(Marker marker) {
@@ -408,8 +448,7 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
                 startActivity(intent);
             }
         });
-*/
-        /*
+
         googleMap.setInfoWindowAdapter(new GoogleMap.InfoWindowAdapter() {
 
             @Override
@@ -436,7 +475,7 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
                 return view;
             }
         });
-        */
+
 
         // DrawerActivity.this.updateMarkerThread.start();
     }
@@ -463,10 +502,7 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
                         DrawerActivity.this.closeDrawer();
                         DrawerActivity.this.showMarkersByType(key);
 
-                        DrawerActivity.this.addCurrentLocationMarker(
-                                DrawerActivity.this.mCurrLocationMarker.getPosition().latitude,
-                                DrawerActivity.this.mCurrLocationMarker.getPosition().longitude
-                        );
+
                     }
                 });
             }
@@ -488,13 +524,13 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
                     ApiData data = null;
                     try {
                         data = ApiClient.retrieveBoundingMarkerDataFromUrl(urlAddress);
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                    } catch (JSONException e) {
+                    } catch (IOException | JSONException e) {
                         e.printStackTrace();
                     }
 
                     DrawerActivity.this.addMarkersFromApiData(data);
+
+
                 }
             }).start();
 
@@ -542,11 +578,22 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
             public void run() {
                 DrawerActivity.this.mMap.clear();
                 DrawerActivity.this.allMarkersMap.clear();
+
+                DrawerActivity.this.addCurrentLocationMarker(
+                        DrawerActivity.this.mCurrLocationMarker.getPosition().latitude,
+                        DrawerActivity.this.mCurrLocationMarker.getPosition().longitude
+                );
             }
         });
 
+        final LatLngBounds.Builder builder = new LatLngBounds.Builder();
+
         // Emplace new markers on the map
         for (final ApiDataMarker marker : data.markers) {
+            Log.d("test", "include marker point");
+
+            builder.include(new LatLng(marker.getLat(), marker.getLon()));
+
             final BitmapDescriptor icon = DrawerActivity.getIconByMarkerType(marker.getType());
 
             Runnable updateRunnable = new Runnable() {
@@ -558,6 +605,21 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
 
             mainHandler.post(updateRunnable);
         }
+
+        if (data.markers.size() > 0) {
+            mainHandler.post(new Runnable() {
+                @Override
+                public void run() {
+                    LatLngBounds bounds = builder.build();
+
+                    int padding = 150; // offset from edges of the map in pixels
+                    CameraUpdate cu = CameraUpdateFactory.newLatLngBounds(bounds, padding);
+
+                    mMap.animateCamera(cu);
+                }
+            });
+        }
+
     }
 
     private static BitmapDescriptor getIconByMarkerType(String type) {
@@ -565,7 +627,6 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
 
         return descriptor;
     }
-
 
     private void clearMarkers()
     {
@@ -579,6 +640,7 @@ public class DrawerActivity extends AppCompatActivity implements LocationListene
 
         MarkerOptions markerOptions = new MarkerOptions()
                 .position(position)
+                .icon(BitmapDescriptorFactory.defaultMarker(apiDataMarker.getHue()))
                 .title(title);
 
         if (description != null && !description.equals("null")) {

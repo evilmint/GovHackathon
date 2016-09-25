@@ -1,11 +1,18 @@
 package govhackathon.pl.mobileapp.activities;
 
+import com.google.android.gms.maps.model.BitmapDescriptorFactory;
+
 public class ApiDataMarker {
     private double lat;
     private double lon;
     private String name;
     private String type;
     private String description;
+    private String link;
+    private int price;
+    private float hue = BitmapDescriptorFactory.HUE_RED;
+
+    private double score = 0.0f;
 
     public double getLat() {
         return lat;
@@ -45,6 +52,38 @@ public class ApiDataMarker {
 
     public void setType(String type) {
         this.type = type;
+    }
+
+    public float getHue() {
+        return hue;
+    }
+
+    public void setHue(float hue) {
+        this.hue = hue;
+    }
+
+    public double getScore() {
+        return score;
+    }
+
+    public void setScore(double score) {
+        this.score = score;
+    }
+
+    public String getLink() {
+        return link;
+    }
+
+    public void setLink(String link) {
+        this.link = link;
+    }
+
+    public int getPrice() {
+        return price;
+    }
+
+    public void setPrice(int price) {
+        this.price = price;
     }
 }
 
