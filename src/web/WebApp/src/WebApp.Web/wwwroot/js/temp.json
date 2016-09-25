@@ -1,98 +1,98 @@
 ﻿{
   "partyability": {
-    "PARTYYYY": [
+    "partyability": [
       {
         "id": 0,
-        "latitude": 51.105,
-        "longitude": 17.013,
+        "latitude": 50.466,
+        "longitude": 17.266,
         "month": "2015-09",
         "value": 0.0,
         "type": "partyability"
       },
       {
         "id": 0,
-        "latitude": 51.105,
-        "longitude": 17.013,
+        "latitude": 50.466,
+        "longitude": 17.266,
         "month": "2015-10",
         "value": 0.0,
         "type": "partyability"
       },
       {
         "id": 0,
-        "latitude": 51.105,
-        "longitude": 17.013,
+        "latitude": 50.466,
+        "longitude": 17.266,
         "month": "2015-11",
         "value": 0.0,
         "type": "partyability"
       },
       {
         "id": 0,
-        "latitude": 51.105,
-        "longitude": 17.013,
+        "latitude": 50.466,
+        "longitude": 17.266,
         "month": "2015-12",
         "value": 0.0,
         "type": "partyability"
       },
       {
-        "id": 0,
-        "latitude": 51.105,
-        "longitude": 17.013,
+        "id": 3029,
+        "latitude": 50.466,
+        "longitude": 17.266,
         "month": "2016-01",
-        "value": 0.0,
-        "type": "partyability"
-      },
-      {
-        "id": 0,
-        "latitude": 51.105,
-        "longitude": 17.013,
-        "month": "2016-02",
-        "value": 0.0,
-        "type": "partyability"
-      },
-      {
-        "id": 866,
-        "latitude": 51.105,
-        "longitude": 17.013,
-        "month": "2016-03",
         "value": 1.0,
         "type": "partyability"
       },
       {
         "id": 0,
-        "latitude": 51.105,
-        "longitude": 17.013,
+        "latitude": 50.466,
+        "longitude": 17.266,
+        "month": "2016-02",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 50.466,
+        "longitude": 17.266,
+        "month": "2016-03",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 50.466,
+        "longitude": 17.266,
         "month": "2016-04",
         "value": 0.0,
         "type": "partyability"
       },
       {
         "id": 0,
-        "latitude": 51.105,
-        "longitude": 17.013,
+        "latitude": 50.466,
+        "longitude": 17.266,
         "month": "2016-05",
         "value": 0.0,
         "type": "partyability"
       },
       {
         "id": 0,
-        "latitude": 51.105,
-        "longitude": 17.013,
+        "latitude": 50.466,
+        "longitude": 17.266,
         "month": "2016-06",
         "value": 0.0,
         "type": "partyability"
       },
       {
         "id": 0,
-        "latitude": 51.105,
-        "longitude": 17.013,
+        "latitude": 50.466,
+        "longitude": 17.266,
         "month": "2016-07",
         "value": 0.0,
         "type": "partyability"
       },
       {
         "id": 0,
-        "latitude": 51.105,
-        "longitude": 17.013,
+        "latitude": 50.466,
+        "longitude": 17.266,
         "month": "2016-08",
         "value": 0.0,
         "type": "partyability"
@@ -100,128 +100,128 @@
     ]
   },
   "relic": {
-    "radius": 0.77331095684321072,
+    "radius": 3265.2122340656197,
     "amountInRadius": 10,
     "closest": {
-      "id": 294,
-      "name": "Zespól zabudowy",
+      "id": 16,
+      "name": "Zespól budynków d. piekarni WZS",
       "description": "",
-      "latitude": 51.1068016,
-      "longitude": 17.0176118,
+      "latitude": 51.17874,
+      "longitude": 16.1619057481,
       "categories": "",
       "type": "relic"
     },
-    "distance": 0.2458640732911285
+    "distance": 3258.3066758608256
   },
   "middleschool": {
-    "radius": 1.1743473643550992,
+    "radius": 0.0,
     "amountInRadius": 10,
     "closest": {
-      "id": 3783,
+      "id": 20,
       "polwoj": "02",
-      "polpow": "64",
+      "polpow": "01",
       "polgm": "01",
-      "miejscowość": "Wrocław",
+      "miejscowość": "Bolesławiec",
       "klasaWielk": "2",
       "typ": "00004",
-      "złożoność": "002",
-      "patron": null,
-      "ulica": "Wałbrzyska",
-      "nrDomu": "50",
-      "kodPoczt": "52-314",
-      "poczta": "Wrocław",
-      "telefon": "713613321",
-      "www": "http://zpo1.wroclaw.pl",
-      "publiczność": "001",
-      "name": "Gimnazjum nr 42",
-      "longitude": 17.0116458,
-      "latitude": 51.1124067,
+      "złożoność": "001",
+      "patron": "KAPITAN KRZYSZTOF BARANOWSKI",
+      "ulica": "BANKOWA",
+      "nrDomu": "6E/2",
+      "kodPoczt": "59-700",
+      "poczta": "BOLESŁAWIEC",
+      "telefon": "757322286",
+      "www": "szkolaprywatna.boleslawiec.pl",
+      "publiczność": "002",
+      "name": "II PRYWATNE GIMNAZJUM",
+      "longitude": 0.0,
+      "latitude": 0.0,
       "description": null,
       "address": null,
       "type": "middleschool"
     },
-    "distance": 0.39672061880731541
+    "distance": 0.0
   },
   "preschool": {
-    "radius": 0.74322226220209453,
+    "radius": 0.0,
     "amountInRadius": 10,
     "closest": {
-      "id": 3409,
+      "id": 2,
       "polwoj": "02",
-      "polpow": "64",
+      "polpow": "01",
       "polgm": "01",
-      "miejscowość": "Wrocław",
+      "miejscowość": "Bolesławiec",
       "klasaWielk": "2",
       "typ": "00001",
       "złożoność": "001",
       "patron": null,
-      "ulica": "Partynicka",
-      "nrDomu": "29-37",
-      "kodPoczt": "53-031",
-      "poczta": "Wrocław-Krzyki",
-      "telefon": "713336992",
-      "www": "www.asw.org.pl",
-      "publiczność": "004",
-      "name": "American School of Wrocław",
-      "longitude": 17.0141177,
-      "latitude": 51.1027048,
+      "ulica": "Jana Pawła II",
+      "nrDomu": "50D",
+      "kodPoczt": "59-700",
+      "poczta": "BOLESŁAWIEC",
+      "telefon": "757328988",
+      "www": "www.mp1boleslawiec.szkolnastrona.pl",
+      "publiczność": "001",
+      "name": "Miejskie Przedszkole Publiczne nr 1",
+      "longitude": 0.0,
+      "latitude": 0.0,
       "description": null,
       "address": null,
       "type": "preschool"
     },
-    "distance": 0.21287933709041265
+    "distance": 0.0
   },
   "primaryschool": {
-    "radius": 1.0963373786363393,
+    "radius": 0.0,
     "amountInRadius": 10,
     "closest": {
-      "id": 3514,
+      "id": 15,
       "polwoj": "02",
-      "polpow": "64",
+      "polpow": "01",
       "polgm": "01",
-      "miejscowość": "Wrocław",
+      "miejscowość": "Bolesławiec",
       "klasaWielk": "2",
       "typ": "00003",
       "złożoność": "001",
-      "patron": null,
-      "ulica": "Sieradzka",
+      "patron": "Armia Krajowa",
+      "ulica": "Ceramiczna",
       "nrDomu": "5",
-      "kodPoczt": "50-568",
-      "poczta": "Wrocław",
-      "telefon": "713646070",
-      "www": "www.tikkunolam.pl",
-      "publiczność": "002",
-      "name": "Szkoła Podstawowa Tikkun Olam",
-      "longitude": 17.0165843,
-      "latitude": 51.0994625,
+      "kodPoczt": "59-700",
+      "poczta": "Bolesławiec",
+      "telefon": "757348472",
+      "www": "www.sp3.boleslawiec.pl",
+      "publiczność": "001",
+      "name": "Szkoła Podstawowa nr 3",
+      "longitude": 0.0,
+      "latitude": 0.0,
       "description": null,
       "address": null,
       "type": "primaryschool"
     },
-    "distance": 0.44567918938270218
+    "distance": 0.0
   },
   "busStop": {
     "amountInRadius": 10,
-    "radius": 1.0441389775465573,
+    "radius": 3269.6566178933635,
     "closest": {
-      "id": 770,
-      "latitude": 51.10111679,
-      "longitude": 17.00798764,
+      "id": 1642,
+      "latitude": 51.06674369,
+      "longitude": 16.99465412,
       "typ": 3,
       "type": "stop"
     },
-    "distance": 0.45915584788059849
+    "distance": 3267.4337336817721
   },
   "tramStop": {
     "amountInRadius": 10,
-    "radius": 0.30187100507682441,
+    "radius": 3266.7477643502616,
     "closest": {
-      "id": 1167,
-      "latitude": 51.10525798,
-      "longitude": 17.01391218,
+      "id": 137,
+      "latitude": 51.05867841,
+      "longitude": 16.95578726,
       "typ": 2,
       "type": "stop"
     },
-    "distance": 0.058570457160232188
+    "distance": 3266.2247227751063
   }
 }
