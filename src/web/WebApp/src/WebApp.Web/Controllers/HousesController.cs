@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
 using System.Linq;
 using WebApp.Entity.Data;
 using WebApp.Entity.Models;
@@ -28,7 +30,7 @@ namespace WebApp.Web.Controllers
                         //calculate metric for partyability
                         //average from all months?
                     }
-                    else if (dataProvider.Name == "relic")
+                    else if (dataProvider.Name == "relic") //zagęszczenie bo odległość do najbliższego zabytku nie ma sensu więc biorę radius, im mniejszy tym większe zagęszczenie
                     {
                         var dataProviderResult = dataProvider.GetSummary(house.Latitude, house.Longitude);
                         var Metric = new Metric();
@@ -50,6 +52,37 @@ namespace WebApp.Web.Controllers
             }
             context.SaveChanges();
             return "ok";
+        }
+
+        public IEnumerable<House> Search(string searchParams)
+        {
+            string[] parameters = searchParams.Split(';');
+            var houseSummaries = context.HouseSummaries
+                .Include(x => x.House)
+                .Include(x => x.Metrics)
+                .ToList();
+
+            foreach (string parameter in parameters)
+            {
+                string[] parts = parameter.Split(':');
+                string type = parts[0];
+                double wage = Convert.ToDouble(parts[1]);
+
+                foreach (HouseSummary houseSummary in houseSummaries)
+                {
+                    Metric metric = houseSummary.Metrics.Where(x => x.Type == type).FirstOrDefault();
+                    if (type == "relic")
+                    { //to zagęszczenie więc odwrotnie proporcjonalne
+                        houseSummary.Score += metric.Value * (1 / wage);
+                    }
+                    else
+                    {
+                        houseSummary.Score += metric.Value * wage;
+                    }
+                }
+            }
+
+            return houseSummaries.OrderBy(x => x.Score).Select(x => x.House);
         }
     }
 }
