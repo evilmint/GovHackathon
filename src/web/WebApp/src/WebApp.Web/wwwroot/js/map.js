@@ -166,13 +166,17 @@ function onSuccess(result) {
 //    newBoundary.extend(markerPosition);
     map.fitBounds(newBoundary);
 
-    $('#schoolAmount').text(result.middleschool.amountInRadius);
-    $('#nearestSchool').text(result.middleschool.closest.name);
+    $('#middleschool').text(result.middleschool.closest.name);
 
-    $('#relicAmount').text(result.relic.amountInRadius);
-    $('#nearestRelic').text(result.relic.closest.name);
+    $('#relic').text(result.relic.closest.name);
 
+    $('#preschool').text(result.preschool.closest.name);
 
+    $('#primaryschool').text(result.primaryschool.closest.name);
+
+    $('#busStop').text(result.busStop.closest.name);
+
+    $('#tramStop').text(result.tramStop.closest.name);
 }
 
 function onError() {
