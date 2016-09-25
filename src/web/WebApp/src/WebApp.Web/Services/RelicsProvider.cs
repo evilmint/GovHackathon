@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using WebApp.Entity.Data;
 
@@ -16,7 +15,7 @@ namespace WebApp.Web.Services
             _dbContext = dbContext;
         }
 
-        public Dictionary<string, object> Get(double latitude, double longitude)
+        public Dictionary<string, object> GetSummary(double latitude, double longitude)
         {
             var closestRelics = _dbContext.Relics
                 .OrderBy(x => ((x.Latitude - latitude) * (x.Latitude - latitude) +

@@ -8,9 +8,10 @@ using WebApp.Entity.Data;
 namespace WebApp.Web.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20160925042024_updatemetricvalue")]
+    partial class updatemetricvalue
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.0.1")
@@ -239,7 +240,7 @@ namespace WebApp.Web.Data.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<int?>("SummaryId");
+                    b.Property<int?>("HouseSummaryId");
 
                     b.Property<string>("Type");
 
@@ -247,7 +248,7 @@ namespace WebApp.Web.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("SummaryId");
+                    b.HasIndex("HouseSummaryId");
 
                     b.ToTable("Metrics");
                 });
@@ -402,9 +403,9 @@ namespace WebApp.Web.Data.Migrations
 
             modelBuilder.Entity("WebApp.Entity.Models.Metric", b =>
                 {
-                    b.HasOne("WebApp.Entity.Models.HouseSummary", "Summary")
+                    b.HasOne("WebApp.Entity.Models.HouseSummary")
                         .WithMany("Metrics")
-                        .HasForeignKey("SummaryId");
+                        .HasForeignKey("HouseSummaryId");
                 });
         }
     }

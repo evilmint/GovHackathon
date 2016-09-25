@@ -29,7 +29,7 @@ namespace WebApp.Web.Controllers
             }
         }
 
-        public Dictionary<string, object> Get(double latitude, double longitude)
+        public Dictionary<string, object> GetSummary(double latitude, double longitude)
         {
             var result = new Dictionary<string, object>();
 
