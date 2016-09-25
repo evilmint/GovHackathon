@@ -24,6 +24,6 @@ namespace WebApp.Entity.Models
 public enum StopType
 {
     Unknown = 0,
-    Bus = 1,
-    Tram = 1 << 1
+    Tram = 2,
+    Bus = 3
 }
