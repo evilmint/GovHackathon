@@ -1,0 +1,361 @@
+11207.json|53.2522307|18.6042458|Wrocławki|park_ogrod,dworski_palacowy_zamek||Park dworski
+11585.json|52.7952408|18.2595624|Inowrocław|sakralny||Kościół par. p.w. św. Mikołaja
+11586.json|52.7952408|18.2595624|Inowrocław|sakralny,katolicki||Kościół Imienia Najświętszej Maryi Panny
+11592.json|52.7887258|18.2745066|Inowrocław|cmentarny,sakralny||Cmentarz rzym.-kat. par. p.w. św. Mikołaja
+11593.json|52.800565|18.2559842|Inowrocław|cmentarny,sakralny,katolicki||Cmentarz rzym-kat. pw. Zwiastowania NMP
+11597.json|52.796131|18.2586281|Inowrocław|mieszkalny||Kamienica
+11598.json|52.7967616|18.2580744|Inowrocław|mieszkalny||Dom
+11599.json|52.7971794|18.2573719|Inowrocław|mieszkalny||Dom
+11603.json|52.7951627|18.2512925|Inowrocław|dworski_palacowy_zamek,mieszkalny||Dom, tzw. pałac mieszczański
+11604.json|52.7925133|18.2631079|Inowrocław|||Budynek Towarzystwa Gimnastycznego "Sokół"
+11605.json|52.7634568|18.2784431|Inowrocław|sportowy_kulturalny_edukacyjny,mieszkalny||Dom rodzinny Jana Kasprowiccza, ob. muzeum
+70103.json|52.7967801|18.2599219|Inowrocław|sakralny||Kościół ewangelicki, ob. rzym.-kat. par. p.w. Św. Krzyża
+70998.json|51.1208192|16.8753981551|Wrocław|sakralny||Kościół ewangelicki, ob. rzym.-kat. par. p.w. NMP Królowej Polski
+71206.json|52.7549872|18.2551758|Inowrocław|sakralny||Kościół par. p.w. Opatrzności Bożej
+72216.json|51.1552151|17.0655659|Wrocław|militarny||Fort piechoty z obwodem stanowisk strzeleckich
+72484.json|51.17874|16.1619057481|Wrocław|||Zespół budynków d. piekarni WZS
+72488.json|51.155051|16.8629463|Wrocław|||Wodociągowa wieża ciśnień
+72675.json|51.1181365|17.0540001|Wrocław|mieszkalny||Kamienica
+72676.json|51.114575|17.0481972|Wrocław|||Biskupi Konwikt Teologiczny Georgianum, ob. wyższe seminarium duchowne
+72677.json|51.08021545|17.0064586314|Wrocław|mieszkalny||Willa
+72978.json|51.1084408|17.0291732|Wrocław|mieszkalny||Kamienica
+73225.json|51.1089776|17.0326689|Wrocław|sakralny||Zespół kościoła ewang. p.w. Jedenastu Tysięcy Dziewic, ob. rzym.-kat. p.w. Opieki …
+73239.json|52.7956121|18.2509865|Inowrocław|mieszkalny||Kamienica
+73452.json|51.17874|16.1619057481|Wrocław|mieszkalny||Kamienica - elewacje narożne z wieżą
+73781.json|51.112428|17.0556329|Wrocław|mieszkalny||Kamienica
+73984.json|51.0963517|17.0374783|Wrocław|||Gmach Dyrekcji Kolei Królewskich, ob. biurowiec PKP
+74481.json|51.151312|17.1234944|Wrocław|||Nastawnia wschodnia (w zespole stacji kolejowej Psie Pole)
+74484.json|51.1271192|17.0494042|Wrocław|mieszkalny||Kamienica
+74487.json|51.0725282|17.0020652|Wrocław|mieszkalny||Kamienica
+74488.json|51.115058|17.0604909|Wrocław|mieszkalny||Kamienica
+74489.json|51.0780032|17.0083978|Wrocław|||Willla
+74490.json|51.0891478|17.041066|Wrocław|mieszkalny||Kamienica
+74493.json|51.0642796|17.080144697|Wrocław|||Zespół willi
+75085.json|51.1346235|17.0148991|Wrocław|cmentarny||Zespół Cmentarza Osobowickiego
+75095.json|51.1242472|17.0412256|Wrocław|||Zespół zajezdni tramwajowej OŁBIN
+75100.json|51.1271591|16.9538618|Wrocław|||Budynek dworca Wrocław-Kuźniki
+75101.json|51.1196824|16.9551819|Wrocław|||Zespół stacji kolejowej Wrocław-Żerniki
+75106.json|51.1267232|17.0345238|Wrocław|budynek_gospodarczy||Zabudowa portu miejskiego
+75578.json|51.0864533|17.0123993|Wrocław|mieszkalny||Kamienica
+76210.json|51.1123898|17.0371621|Wrocław|sakralny,mieszkalny||Plebania kościoła pw. św. Wincentego, ob. plebania gr.-kat.
+76211.json|51.1185325|17.0535284|Wrocław|mieszkalny||Dom dyrektorów d. Stadbauschule, ob. budynek administracyjny Politechniki Wrocławs…
+76213.json|51.1175815|17.072483|Wrocław|mieszkalny||Dom  Stowarzyszenia Popierania Życia Zgodnego z Naturą
+76216.json|51.0877946|17.0481317|Wrocław|budynek_gospodarczy,przemyslowy_poprzemyslowy||Budynek kotłowni kolejowej stacji Wrocław Główny
+76917.json|52.7964585|18.2592273|Inowrocław|mieszkalny|<p>Dom przy pl. Klasztornym 6 to najstarszy w pełni zachowany budynek mieszkalny w Inowrocławiu. Został zbudowany pod koniec XVIII w. i jest ładnym przykładem zabudowy mieszkalnej powstającej na Kujawach w początkowym okresie zaborów. Dom w Inowrocławiu jest parterowy, siedmioosiowy, z dodatkowym mieszkalnym piętrem w poddaszu, w pięcioosiowej wystawce. Do dzisiaj zachowały się w nim tradycyjne okna skrzynkowe, ze skrzydłami otwieranymi na zewnątrz.</p><p>Podobne domy, pochodzące z końca XVIII do początku XIX w., parterowe, często z cofniętym pięterkiem w partii poddasza, ustawione kalenicowo do linii zabudowy, zachowały się m.in. w Gniewkowie   (<a href="http://otwartezabytki.pl/pl/relics/72231-gniewkowo-dom">Rynek 14</a>) i Bydgoszczy (ul. Poznańska <a href="http://otwartezabytki.pl/pl/relics/76729-bydgoszcz-dom">11</a>, <a href="http://otwartezabytki.pl/pl/relics/76728-dom">24</a> i 30).<br></p><p>Źródła:<br></p><ul><li>Informacje własne</li></ul><ul><li><a href="http://www.inowroclaw.pl/strona-401-Turysto___zobacz_zwiedz_Zabytki_.html">Oficjalna strona miejska Inowrocławia</a></li></ul>|Dom
+8232.json|51.1089776|17.0326689|Wrocław|||Zespół urbanistyczny Starego Miasta
+8233.json|51.1089776|17.0326689|Wrocław|||Zespół urbanistyczny Ostrowia Tumskiego i wysp: Piaskowej, Bielarskiej, Słodowej
+8234.json|51.1089776|17.0326689|Wrocław|||Rynek - blok zachodni - strefa podziemia
+8235.json|51.1089776|17.0326689|Wrocław|||Teren opactwa benedyktyńskiego na Ołbinie
+8236.json|51.1089776|17.0326689|Wrocław|||Osiedle Biskupin
+8238.json|51.1089776|17.0326689|Wrocław|mieszkalny,uzytecznosci_publicznej,uklad_urbanistyczny_zespol_budowlany||Osiedle Sępolno - zespół urbanistyczny
+8241.json|51.1089776|17.0326689|Wrocław|||Układ urbanistyczny Przedmieścia Oławskiego
+8243.json|51.1023144|17.0334591|Wrocław|||Układ urbanistyczny rejonu placu Kościuszki
+8244.json|51.1143078|17.0373559|Wrocław|||Rejon placu św. Macieja (zespół urbanistyczny)
+8245.json|51.1143239|17.0460275|Wrocław|sakralny,katolicki||Katedra p.w. św. Jana Chrzciciela
+8250.json|51.1020146|17.0295145|Wrocław|sakralny||Kościół p.w. Bożego Ciała
+8251.json|51.10667445|17.0300769091|Wrocław|sakralny,mieszkalny||Kościół klasztorny augustianów eremitów, ob. par. p.w. śś. Wacława, Doroty i Stani…
+8252.json|51.1037257|16.8856372|Wrocław|sakralny||Kościół par., ob. garnizonowy p.w. św. Elżbiety
+8253.json|51.0941866|17.0340571|Wrocław|katolicki,sakralny||Kościół par. p.w. św. Henryka
+8254.json|51.1143239|17.0460275|Wrocław|sakralny||Kościół p.w. św. Idziego
+8255.json|51.1079295|17.0869698771|Wrocław|sakralny||Kościół p.w. św. Jana Nepomucena (św. Mikołaja ?)
+8256.json|51.0932601|17.0106587|Wrocław|katolicki,sakralny||Kościół rzymskokatolicki p.w. św. Karola Boromeusza
+8258.json|51.1152246|17.043602|Wrocław|katolicki,sakralny||Kolegiata p.w. Św. Krzyża i św. Bartłomieja
+8262.json|51.0784861|17.089678|Wrocław|sakralny||Kościół par. p.w. Matki Boskiej Wspomożenia Wiernych
+8264.json|51.12026165|17.0502873809|Wrocław|katolicki,sakralny||Kościół p.w. św. Michała Archanioła
+8267.json|51.1099403|17.1087345|Wrocław|sakralny||Kościół par. p.w. Św. Rodziny
+8269.json|51.0870077|17.0175496|Wrocław|sakralny||Zespół kościoła ewangelicko-augsburskiego, ob. rzym.-kat. p.w. św. Augustyna
+8278.json|51.1072978|17.035447|Wrocław|sakralny,dworski_palacowy_zamek||Kościół ewangelicki p.w. Opatrzności Bożej, tzw. dworski
+8290.json|51.1016011|17.0528721|Wrocław|sakralny,mieszkalny||Zespół klasztorny bonifratrów
+8293.json|51.1104323|17.0610200871|Wrocław|sakralny,mieszkalny||Zespół klasztorny ss. Dobrego Pasterza
+8301.json|51.1090222|17.0399371|Wrocław|mieszkalny,sakralny,katolicki,uklad_urbanistyczny_zespol_budowlany||Zespół klasztorny dominikanów
+8318.json|51.113739|17.0355938|Wrocław|sakralny,mieszkalny||Kościół klasztorny jezuitów p.w. Imienia Jezus
+8353.json|51.0887442|17.0283623|Wrocław|cmentarny,zydowski,sakralny||Cmentarz żydowski
+8354.json|51.1089776|17.0326689|Wrocław|park_ogrod||Park Szczytnicki
+8358.json|51.1294693|17.078587|Wrocław|||Zespół Ogrodu Roślin Leczniczych Akademii Medycznej
+8361.json|51.1042581|17.074808239|Wrocław|||Zespół Ogrodu Zoologicznego (stara część)
+8391.json|51.1058485|17.0432215|Wrocław|militarny||Baszta i pozostałości fortyfikacji
+8393.json|51.1090222|17.0399371|Wrocław|||Most Oławski (relikt)
+8394.json|51.1089295|17.0423753|Wrocław|||Basteja
+8396.json|51.1114903|17.0441604|Wrocław|||Bastion Ceglarski, tzw. Wzgórze Polskie
+8400.json|51.1233955|17.0379353|Wrocław|militarny||Schron przeciwlotniczy, ob. składnica muzealna
+8401.json|51.1107615|17.0318443|Wrocław|uzytecznosci_publicznej||Ratusz
+8403.json|51.1108876|17.0476539181|Wrocław|sportowy_kulturalny_edukacyjny||Gmach Muzeum Narodowego
+8404.json|51.1102502|17.0450527|Wrocław|||Zespół budynków Panoramy Racławickiej z otoczeniem (teren)
+8408.json|51.1138778|17.0346684|Wrocław|||Kolegium jezuickie, ob. Uniwersytet Wrocławski
+8422.json|51.1127415|17.0362712|Wrocław|uzytecznosci_publicznej||Hala targowa
+8430.json|51.1125039|17.0326803|Wrocław|||Więzienie miejskie
+8431.json|51.1273743|17.0295322|Wrocław|||Zespół więzienia centralnego
+8439.json|51.1089776|17.0326689|Wrocław|||Zespół klinik Akademii Medycznej
+8460.json|51.1014605|17.0054122|Wrocław|||Budynek szpitala przeciwgruźliczego
+8471.json|51.1246429|17.0361614|Wrocław|mieszkalny||Zespół Domu Pomocy Społecznej dla Kalek, ob. zespół szpitalny MSW
+8475.json|51.1573295|17.035173|Wrocław|||Zespół Szpitala Rehabilitacyjnego dla Dzieci
+8481.json|51.1278201|16.9836049|Wrocław|||Zespół Zakładu Rehabilitacji Zawodowej Inwalidów
+8488.json|51.0949859|17.0336801|Wrocław|uzytecznosci_publicznej||Zespół dworca Górnośląskiego
+8492.json|51.1092094|17.017464|Wrocław|||Dworzec Dolnośląski (Marchijski)
+8493.json|51.1080428|17.0211513|Wrocław|||Dworzec Świebodzki
+8497.json|51.1227512|17.0305589|Wrocław|uzytecznosci_publicznej||Dworzec Nadodrze
+8502.json|51.1175124|17.0244417|Wrocław|uzytecznosci_publicznej||Most Mieszczański
+8505.json|51.10458005|17.057821482|Wrocław|||Most Oławski
+8506.json|51.1287988|17.0275781|Wrocław|||Most Osobowicki (1 przęsłowy)
+8507.json|51.1287988|17.0275781|Wrocław|||Most Osobowicki (8 przęsłowy)
+8509.json|51.1257103|17.0280794|Wrocław|||Most Pomorski (południowy)
+8510.json|51.1257103|17.0280794|Wrocław|||Most Pomorski (środkowy)
+8511.json|51.1257103|17.0280794|Wrocław|||Most Pomorski (północny)
+8513.json|51.1288319|17.0367229|Wrocław|uzytecznosci_publicznej||Most Trzebnicki Południowy
+8514.json|51.1288319|17.0367229|Wrocław|uzytecznosci_publicznej||Most Trzebnicki Północny
+8515.json|51.1142943|17.0446114|Wrocław|architektura_inzynieryjna,mieszkalny|<p>Most Tumski (potocznie nazywany także Mostem Zakochanych lub Mostem Katedralnym) – dwuprzęsłowy stalowy, nitowany. Zbudowany w roku 1889 nad północną odnogą Odry, pomiędzy Ostrowem Tumskim a Wyspą Piasek, na miejscu wcześniejszego mostu drewnianego. Do roku 1945 nosił nazwę Dombrücke.<br><br>W roku 1945 most przeszedł remont kapitalny. Usunięto wówczas najpoważniejsze uszkodzenia, jakich doznał w czasie oblężenia Festung Breslau. Pomimo to, na niektórych elementach mostu,&nbsp;pozostały ślady ostrzału i trafień odłamkami. Ostatni kapitalny remont most przeszedł w 1992 roku, wówczas zastąpiono w nim dotychczasowy pokład z kształtowników Zoresa nowym rozwiązaniem ze spawanych blach z żebrami poprzecznymi, opartymi na podłużnicach. 15 października 1976 most wpisany został do rejestru zabytków.</p><p>Ze względu na jego zabytkowy charakter ruch wszelkich pojazdów   samochodowych bez zezwoleń przez ten most jest obecnie zakazany, a jego   maksymalne dopuszczalne obciążenie ustalono na 10 ton.<br><br>Przy moście, na brzegu Wyspy Piasek, stoją od 1893 roku figury św. Jadwigi (po lewej stronie mostu) i św. Jana Chrzciciela (po prawej), dłuta Gustawa Grunenberga. Przy moście znajdują się również sprawne, ręcznie obsługiwane, zabytkowe lampy gazowe.</p><p><br></p><p>Fragment artykułu z Wikipedii: <a href="http://pl.wikipedia.org/wiki/Most_Tumski">http://pl.wikipedia.org/wiki/Most_Tumski</a>.<br></p>|Most Tumski
+8517.json|51.1161143|17.0374312147|Wrocław|||Młyny św. Klary
+8550.json|51.1089776|17.0326689|Wrocław|uzytecznosci_publicznej||Wodociągowa wieża wodno-widokowa, ob. Wieża Ciśnień
+8552.json|51.0931937|17.0207054|Wrocław|||Hala postojowa zajezdni tramwajowej
+8553.json|51.1089776|17.0326689|Wrocław|sakralny||Figura Matki Boskiej z Jezusem
+8554.json|51.1089776|17.0326689|Wrocław|||Figura św. Jana Nepomucena
+8555.json|51.1116271|17.0222189|Wrocław|||Studnia Walki i Męczeństwa
+8569.json|51.1111036|17.027394|Wrocław|mieszkalny||Kamienica
+8570.json|51.1112273|17.0274611|Wrocław|mieszkalny||Kamienica
+8571.json|51.1113247|17.0275452|Wrocław|mieszkalny||Kamienica
+8572.json|51.1113247|17.0274925|Wrocław|mieszkalny||Kamienica
+8573.json|51.1113697|17.0275144|Wrocław|mieszkalny||Kamienica
+8574.json|51.1114031|17.0275597|Wrocław|mieszkalny||Kamienica
+8576.json|51.1119216|17.0278237|Wrocław|mieszkalny||Kamienica
+8577.json|51.1119537|17.0278542|Wrocław|mieszkalny||Kamienica
+8578.json|51.1120116|17.0279093|Wrocław|mieszkalny||Kamienica
+8579.json|51.1120755|17.0279781|Wrocław|mieszkalny||Kamienica
+8580.json|51.1121205|17.0280204|Wrocław|mieszkalny||Kamienica
+8581.json|51.112179|17.02807|Wrocław|mieszkalny||Kamienica
+8582.json|51.1122152|17.0281039|Wrocław|mieszkalny||Kamienica
+8584.json|51.1123663|17.028266|Wrocław|mieszkalny||Kamienica
+8585.json|51.1124138|17.0283107|Wrocław|mieszkalny||Kamienica
+8591.json|51.1050032|17.0317174766|Wrocław|sakralny,mieszkalny||Plebania, ob. dom parafialny w zespole kościoła p.w. Bożego Ciała
+8616.json|51.1026064|17.0411742|Wrocław|mieszkalny||Kamienica, ob. Urząd Celny
+8617.json|51.0949363|17.0423976|Wrocław|mieszkalny||Dom
+8618.json|51.1115994|17.0316679|Wrocław|mieszkalny||Dom
+8621.json|51.1093752|17.0605391|Wrocław|mieszkalny||Kamienica
+8626.json|51.1290759|17.0562725|Wrocław|mieszkalny||Dom
+8627.json|51.1290759|17.0562725|Wrocław|mieszkalny||Dom
+8629.json|51.1149526|17.0461464|Wrocław|||Kanonia
+8649.json|51.1138327|17.0466062|Wrocław|||Kanonia
+8650.json|51.1139087|17.0471134|Wrocław|||Kanonia
+8651.json|51.1146114|17.047332|Wrocław|mieszkalny||Dom kapituły
+8652.json|51.1146116|17.0471376|Wrocław|mieszkalny||Dom kapituły
+8653.json|51.11460285|17.0463763977|Wrocław|mieszkalny,sakralny||Plebania
+8656.json|51.1099884|17.0261471|Wrocław|mieszkalny||Kamienica
+8657.json|51.1099286|17.026154|Wrocław|mieszkalny||Kamienica
+8658.json|51.1098251|17.026222|Wrocław|mieszkalny||Kamienica
+8659.json|51.1096639|17.0262427|Wrocław|mieszkalny||Kamienica
+8663.json|51.1076006|17.0301714|Wrocław|mieszkalny||Kamienica (2 domy)
+8664.json|51.108055|17.0302945|Wrocław|mieszkalny||Kamienica
+8665.json|51.1098251|17.026222|Wrocław|mieszkalny||Kamienica
+8666.json|51.1080105|17.0304612|Wrocław|dworski_palacowy_zamek||Pałac Selderów
+8667.json|51.1074104|17.0310055|Wrocław|mieszkalny||Kamienica
+8668.json|51.107382|17.031158|Wrocław|mieszkalny||Kamienica
+8669.json|51.1073553|17.0312911|Wrocław|mieszkalny||Kamienica
+8670.json|51.1069685|17.0344969|Wrocław|mieszkalny||Kamienica
+8671.json|51.1102186|17.0292964|Wrocław|mieszkalny||Kamienica
+8673.json|51.1105308|17.0294492|Wrocław|mieszkalny||Kamienica
+8674.json|51.1106555|17.0295074|Wrocław|mieszkalny||Kamienica
+8676.json|51.1127549|17.0304336|Wrocław|mieszkalny||Kamienica
+8677.json|51.1127777|17.0304392|Wrocław|mieszkalny||Kamienica
+8678.json|51.1127862|17.0301046|Wrocław|mieszkalny||Kamienica
+8679.json|51.1126333|17.0300678|Wrocław|mieszkalny||Kamienica
+8680.json|51.1125286|17.0300491|Wrocław|mieszkalny||Kamienica
+8681.json|51.1124429|17.0300209|Wrocław|mieszkalny||Kamienica
+8682.json|51.1121759|17.0298824|Wrocław|mieszkalny||Kamienica
+8683.json|51.1107485|17.0292646|Wrocław|mieszkalny||Kamienica
+8684.json|51.1105932|17.0291985|Wrocław|mieszkalny||Kamienica
+8686.json|51.1120386|17.0299875|Wrocław|mieszkalny||Dom
+8688.json|51.1037257|16.8856372|Wrocław|||Budynek internatu
+8694.json|51.1120952|17.0317555|Wrocław|mieszkalny||Dom
+8695.json|51.1083212|17.0443687|Wrocław|||Poczta
+8696.json|51.1076201|17.0260443|Wrocław|mieszkalny||Kamienica
+8697.json|51.1083124|17.0267822|Wrocław|mieszkalny||Kamienica
+8698.json|51.1082818|17.0266402|Wrocław|mieszkalny||Kamienica
+8699.json|51.1081386|17.0264927|Wrocław|mieszkalny||Kamienica
+8700.json|51.108021|17.0263698|Wrocław|mieszkalny||Kamienica
+8701.json|51.1079197|17.0262285|Wrocław|mieszkalny||Kamienica
+8702.json|51.107793|17.0259381|Wrocław|mieszkalny||Kamienica
+8703.json|51.1072978|17.02537|Wrocław|||Nowa Giełda
+8704.json|51.0731405|17.0019961|Wrocław|||Zespół willi
+8711.json|51.111213|17.03394|Wrocław|mieszkalny||Kamienica "Pod Srebrnym Hełmem"
+8720.json|51.1117255|17.0369353|Wrocław|mieszkalny||Kamienica
+8723.json|51.1075138|17.0348876|Wrocław|mieszkalny||Dom
+8724.json|51.1185965|17.0356541|Wrocław|mieszkalny||Kamienica z oficyną
+8752.json|51.1124665|17.0304496|Wrocław|mieszkalny||Kamienica
+8754.json|51.1138514|17.0971091|Wrocław|||Budynek kontroli celnej
+8755.json|51.11775|17.0247916|Wrocław|budynek_gospodarczy||Stajnia w d.zespole koszar, ob. Archiwum Wojsk Lądowych
+8756.json|51.092549|17.0812358|Wrocław|dworski_palacowy_zamek||Pałac
+8772.json|51.1042758|17.0267342|Wrocław|||Loża masońska, ob. klub
+8773.json|51.10458005|17.057821482|Wrocław|||Zespół klubu wioślarskiego
+8783.json|51.1127415|17.0362712|Wrocław|mieszkalny||Dom Panien Trzebnickich
+8785.json|51.0976496|17.1028713|Wrocław|mieszkalny||Dom architekta Grasa
+8786.json|51.11119245|17.0631892173|Wrocław|mieszkalny||Kamienica
+8800.json|51.1232616|17.0498535757|Wrocław|mieszkalny||Dom Edyty Stein
+8801.json|51.1107027|17.0378321|Wrocław|||Biurowiec
+8802.json|51.1114529|17.0311286|Wrocław|mieszkalny||Kamienica
+8803.json|51.1115923|17.031193|Wrocław|mieszkalny||Kamienica
+8805.json|51.1121941|17.0314521|Wrocław|mieszkalny||Kamienica
+8806.json|51.112317|17.0315016|Wrocław|mieszkalny||Kamienica
+8807.json|51.112317|17.0315016|Wrocław|mieszkalny||Kamienica
+8808.json|51.1125214|17.031584|Wrocław|mieszkalny||Kamienica
+8811.json|51.1084462|17.0313662|Wrocław|mieszkalny||Kamienica
+8815.json|51.1085578|17.0346448|Wrocław|mieszkalny||Kamienica z oficynami
+8816.json|51.1116421|17.074231|Wrocław|mieszkalny||Willa
+8817.json|51.1123508|17.0733297|Wrocław|dworski_palacowy_zamek||Pałac rodziny Hoym
+8843.json|51.1110756|17.0433545581|Wrocław|||Budynek PWSSP
+8844.json|51.0983962|17.0266836|Wrocław|mieszkalny||Willa
+8845.json|51.09635105|17.0386129774|Wrocław|||Gmach dyrekcji poczty
+8846.json|51.077768|17.0080392|Wrocław|dworski_palacowy_zamek||Pałac
+8855.json|51.1103185|17.0317102|Wrocław|mieszkalny||Kamienica
+8856.json|51.0892038|17.0382259|Wrocław|mieszkalny||Kamienica
+8864.json|51.08572255|17.0092937536|Wrocław|mieszkalny||Zespół domu
+8867.json|51.08564435|17.0090848678|Wrocław|mieszkalny||Zespół domu
+8870.json|51.0843605|17.0060363938|Wrocław|mieszkalny||Dom, ob. dom dziecka
+8885.json|51.1109334|17.0306437|Wrocław|mieszkalny||Dom handlowy
+8886.json|51.1108094|17.0305806|Wrocław|mieszkalny||Kamienica "Pod Gryfami"
+8887.json|51.1107225|17.0305354|Wrocław|mieszkalny||Kamienica
+8888.json|51.1106139|17.0304921|Wrocław|mieszkalny||Kamienica
+8889.json|51.1104974|17.030432|Wrocław|mieszkalny||Kamienica
+8890.json|51.1103584|17.0303802|Wrocław|mieszkalny||Kamienica
+8891.json|51.1101999|17.0303058|Wrocław|mieszkalny||Kamienica "Pod Niebieskim Słońcem" (z 2 oficynami i pasażem handlowym)
+8892.json|51.1100519|17.0302407|Wrocław|mieszkalny||Kamienica
+8894.json|51.1095015|17.0305116|Wrocław|mieszkalny||Kamienica
+8895.json|51.1094713|17.0306205|Wrocław|mieszkalny||Kamienica
+8896.json|51.1094349|17.0307151|Wrocław|mieszkalny||Kamienica
+8897.json|51.1093884|17.0309296|Wrocław|mieszkalny||Kamienica
+8898.json|51.1093884|17.0309296|Wrocław|mieszkalny||Kamienica
+8899.json|51.1093483|17.0311181|Wrocław|mieszkalny||Kamienica
+8900.json|51.1092982|17.0313748|Wrocław|mieszkalny||Kamienica
+8901.json|51.1092476|17.0316359|Wrocław|mieszkalny||Kamienica
+8902.json|51.1092476|17.0316359|Wrocław|mieszkalny||Kamienica
+8903.json|51.1092107|17.0318356|Wrocław|mieszkalny||Kamienica
+8904.json|51.1091832|17.0319815|Wrocław|mieszkalny||Kamienica
+8905.json|51.1091611|17.0320813|Wrocław|mieszkalny||Kamienica
+8906.json|51.1091337|17.0322222|Wrocław|mieszkalny||Dom handlowy
+8907.json|51.1090955|17.032415|Wrocław|mieszkalny||Kamienica
+8908.json|51.1090511|17.0326428|Wrocław|mieszkalny||Kamienica
+8909.json|51.1092172|17.0331063|Wrocław|mieszkalny||Dom handlowy
+8910.json|51.1093509|17.0331445|Wrocław|mieszkalny||Kamienica
+8911.json|51.1094968|17.0332231|Wrocław|mieszkalny||Dom towarowy "Feniks"
+8912.json|51.1098332|17.0333601|Wrocław|mieszkalny||Kamienica
+8913.json|51.1098789|17.0333801|Wrocław|||Bank
+8914.json|51.1099582|17.0334106|Wrocław|mieszkalny||Kamienica
+8915.json|51.110042|17.0335017|Wrocław|mieszkalny||Kamienica
+8916.json|51.110042|17.0335017|Wrocław|mieszkalny||Kamienica
+8917.json|51.1101255|17.0334828|Wrocław|mieszkalny||Kamienica
+8918.json|51.1102564|17.0335565|Wrocław|mieszkalny||Dom handlowy
+8920.json|51.1106301|17.0332683|Wrocław|mieszkalny||Kamienica
+8921.json|51.1106239|17.0333527|Wrocław|mieszkalny||Kamienica
+8922.json|51.1106588|17.0331435|Wrocław|mieszkalny||Kamienica "Pod Złotym Jeleniem"
+8923.json|51.1106852|17.0330099|Wrocław|mieszkalny||Kamienica
+8924.json|51.1107237|17.0328264|Wrocław|mieszkalny||Kamienica
+8925.json|51.1107237|17.0328264|Wrocław|mieszkalny||Kamienica
+8926.json|51.1107581|17.0326306|Wrocław|mieszkalny||Dom handlowy
+8927.json|51.1107863|17.0325005|Wrocław|mieszkalny||Dom handlowy
+8928.json|51.1094582|17.0313435|Wrocław|mieszkalny||Dom handlowy
+8929.json|51.1108348|17.0322672|Wrocław|mieszkalny||Kamienica
+8930.json|51.1108749|17.0320554|Wrocław|mieszkalny||Kamienica
+8931.json|51.1106301|17.0332683|Wrocław|mieszkalny||Kamienica
+8932.json|51.1094582|17.0313435|Wrocław|mieszkalny||Kamienica
+8933.json|51.1109207|17.0317767|Wrocław|mieszkalny||Kamienica
+8934.json|51.1109739|17.0315537|Wrocław|mieszkalny||Kamienica
+8935.json|51.1109739|17.0315537|Wrocław|mieszkalny||Kamienica
+8936.json|51.1110111|17.0313461|Wrocław|mieszkalny||Kamienica
+8937.json|51.1110262|17.0312163|Wrocław|mieszkalny||Kamienica
+8938.json|51.1110615|17.031054|Wrocław|mieszkalny||Kamienica
+8958.json|51.0990272|17.0839346|Wrocław|||Zespół klubu żeglarskiego
+8961.json|51.1106164|17.0281879|Wrocław|mieszkalny||Kamienica
+8962.json|51.1106164|17.0281879|Wrocław|mieszkalny||Kamienica
+8963.json|51.1107453|17.028309|Wrocław|mieszkalny||Kamienica
+8966.json|51.17874|16.1619057481|Wrocław|||Instytut Zoologii UW
+8974.json|51.1098696|17.0295643|Wrocław|mieszkalny||Kamienica
+8975.json|51.1099147|17.0293627|Wrocław|mieszkalny||Kamienica
+8976.json|51.1099653|17.0291841|Wrocław|mieszkalny||Kamienica
+8977.json|51.109637|17.0287185|Wrocław|mieszkalny||Kamienica
+8978.json|51.1097596|17.0287248|Wrocław|mieszkalny||Kamienica
+8979.json|51.1094426|17.0286819|Wrocław|mieszkalny||Kamienica
+8980.json|51.1093362|17.0284749|Wrocław|mieszkalny||Kamienica
+8981.json|51.1092054|17.0289015|Wrocław|mieszkalny||Kamienica
+8982.json|51.1090691|17.0286467|Wrocław|mieszkalny||Kamienica
+8983.json|51.1089266|17.0289587|Wrocław|mieszkalny||Kamienica
+8984.json|51.1089983|17.0291345|Wrocław|mieszkalny||Kamienica
+8985.json|51.1089682|17.0295204|Wrocław|||Stara Giełda
+8986.json|51.109216|17.0301686|Wrocław|mieszkalny||Kamienica
+8987.json|51.1227512|17.0305589|Wrocław|mieszkalny||Kamienica
+8995.json|51.1098208|17.0327082|Wrocław|mieszkalny||Kamienica
+8996.json|51.1098208|17.0327082|Wrocław|mieszkalny||Kamienica
+8997.json|51.1099605|17.0321446|Wrocław|mieszkalny||Kamienica
+8998.json|51.1099605|17.0321446|Wrocław|mieszkalny||Kamienica
+9012.json|51.1020146|17.0295145|Wrocław|mieszkalny||Dom towarowy "Centrum" (dec.: "Renoma")
+9013.json|51.1020146|17.0295145|Wrocław|||Hotel "Monopol"
+9014.json|51.1089911|17.0327348|Wrocław|mieszkalny||Dom handlowy
+9021.json|51.1054248|17.0321248|Wrocław|mieszkalny||Kamienica
+9022.json|51.1053671|17.0325566|Wrocław|mieszkalny||Kamienica
+9023.json|51.1051574|17.0330947|Wrocław|||Resursa kupiecka
+9024.json|51.1054315|17.0346012|Wrocław|||Łaźnia miejska
+9025.json|51.1068016|17.0176118|Wrocław|||Zespół zabudowy
+9032.json|51.1045655|17.0841839|Wrocław|||Galeriowiec
+9035.json|51.1052405|17.0856653|Wrocław|mieszkalny||Dom wielorodzinny
+9036.json|51.1058008|17.0865457|Wrocław|mieszkalny||Dom jednorodzinny
+9038.json|51.1053123|17.0856993|Wrocław|mieszkalny||Dom jednorodzinny
+9039.json|51.1059251|17.086601|Wrocław|mieszkalny||Dom jednorodzinny
+9041.json|51.1053654|17.0857245|Wrocław|mieszkalny||Dom jednorodzinny
+9042.json|51.106079|17.0866828|Wrocław|mieszkalny||Dom jednorodzinny
+9043.json|51.1054172|17.0857493|Wrocław|mieszkalny||Dom jednorodzinny
+9044.json|51.1054715|17.0857752|Wrocław|mieszkalny||Dom jednorodzinny
+9045.json|51.1055234|17.0857995|Wrocław|mieszkalny||Dom jednorodzinny
+9046.json|51.1055763|17.0858252|Wrocław|mieszkalny||Dom jednorodzinny
+9047.json|51.105634|17.0858529|Wrocław|mieszkalny||Dom jednorodzinny
+9048.json|51.1056953|17.0858809|Wrocław|mieszkalny||Dom jednorodzinny
+9049.json|51.1057482|17.0859054|Wrocław|mieszkalny||Dom jednorodzinny
+9050.json|51.1058023|17.0859312|Wrocław|mieszkalny||Dom jednorodzinny
+9051.json|51.1058547|17.0859558|Wrocław|mieszkalny||Dom jednorodzinny
+9052.json|51.105929|17.0861693|Wrocław|mieszkalny||Dom wielorodzinny
+9053.json|51.105929|17.0861693|Wrocław|mieszkalny||Dom wielorodzinny
+9057.json|51.1136489|17.033807|Wrocław|mieszkalny||Kamienica
+9058.json|51.1136839|17.0339422|Wrocław|mieszkalny||Kamienica
+9059.json|51.1137072|17.0341419|Wrocław|mieszkalny||Kamienica
+9060.json|51.113739|17.0355938|Wrocław|mieszkalny||Kamienica
+9061.json|51.113661|17.0343767|Wrocław|mieszkalny||Kamienica
+9062.json|51.1136748|17.035546|Wrocław|mieszkalny||Kamienica
+9063.json|51.1049065|17.0364385|Wrocław|dworski_palacowy_zamek||Pałac Leipzigera
+9064.json|51.1070211|17.0373908|Wrocław|dworski_palacowy_zamek||Pałac Oppersdorfów
+9065.json|51.0721267|16.9977992|Wrocław|||Gmach Akademii Muzycznej
+9066.json|51.1112646|17.0321314|Wrocław|mieszkalny||Kamienica
+9067.json|51.1133477|17.0327482|Wrocław|mieszkalny||Kamienica
+9068.json|51.1133477|17.0327482|Wrocław|mieszkalny||Kamienica
+9069.json|51.1131589|17.0324309|Wrocław|mieszkalny||Dom
+9081.json|51.1075274|17.0266037|Wrocław|||Bank
+9085.json|51.1069877|17.084868|Wrocław|mieszkalny||Willa
+9087.json|51.106866|17.085323|Wrocław|mieszkalny||Willa
+9088.json|51.1066175|17.0855336|Wrocław|mieszkalny||Willa
+9089.json|51.107085|17.0854592|Wrocław|mieszkalny||Willa
+9090.json|51.1071512|17.0855585|Wrocław|mieszkalny||Willa
+9091.json|51.1072978|17.035447|Wrocław|mieszkalny||Kamienica
+9099.json|51.1089776|17.0326689|Wrocław|dworski_palacowy_zamek||Zespół dworski
+9105.json|51.0642796|17.080144697|Wrocław|||Wodociągowa wieża ciśnień
+9106.json|51.10109385|17.0064683494|Wrocław|katolicki,sakralny||Kościół par. p.w. św. Elżbiety Węgierskiej
+9107.json|51.0939042|16.9783145|Wrocław|cmentarny,katolicki,park_ogrod|<p><b>Cmentarz Grabiszyński – druga co do wielkości nekropolia współczesnego Wrocławia. Cmentarz komunalny w swoich obecnych granicach to jedna z trzech części stanowiących w pierwszej połowie XX w. większy kompleks cmentarny. Pozostałe dwie części, na wschód od osi ulicy Grabiszyńskiej, zostały włączone do Parku Grabiszyńskiego.&nbsp;</b></p><p><b>źródło: wikipedia.org</b></p>|Zespół cmentarza Grabiszyńskiego
+9113.json|51.1206919|16.8737516|Wrocław|sakralny||Kościół fil. p.w. św. Jadwigi
+9114.json|51.1465026|16.8690267|Wrocław|sakralny||Kościół p.w. śś. Jadwigi i Macieja
+9115.json|51.1461919|16.8705566|Wrocław|dworski_palacowy_zamek||Zespół pałacowy
+9123.json|51.0964128|16.9477495|Wrocław|sakralny||Kościół p.w. św. Michała Archanioła
+9124.json|51.0580383|17.0190703|Wrocław|sakralny||Kościół p.w. Wniebowzięcia NMP
+9125.json|51.0530648|17.0304692|Wrocław|||Osiedle mieszkaniowe
+9126.json|51.1432943|16.9896427324|Wrocław|sakralny||Kościół par. p.w. św. Teresy od Dzieciątka Jezus
+9127.json|51.1670184|16.9966652|Wrocław|sakralny||Kaplica Kornów p.w. Nawiedzenia NMP
+9143.json|51.1089776|17.0326689|Wrocław|sakralny||Kościół ewang., ob. rzym.-kat. p.w. św. Anny
+9144.json|51.1742967|16.9095684|Wrocław|mieszkalny,sakralny||Plebania ewangelicka, ob. rzym.-kat.
+9145.json|51.1719642|16.9033511|Wrocław|||Zespół szpitalny ob. zespół szkół rolniczych
+9165.json|51.1089776|17.0326689|Wrocław|||Układ urbanistyczny dzielnicy Psie Pole
+9166.json|51.1453546|17.1105082|Wrocław|katolicki,sakralny||Kościół rzymskokatolicki pw. św. Jakuba i Krzysztofa
+9172.json|51.1089776|17.0326689|Wrocław|||Zespół stacji pomp
+9189.json|51.17875615|17.0161810711|Wrocław|katolicki,protestancki,sakralny||Kościół p.w. św. Anny
+9191.json|51.1237129|16.919394|Wrocław|katolicki,sakralny||Kościół rzymskokatolicki p.w. św. Wawrzyńca
+9285.json|51.0313425|16.7633012|Kąty Wrocławskie|||Ośrodek historyczny miasta
+9286.json|51.0313425|16.7633012|Kąty Wrocławskie|sakralny||Kościół par. p.w. śś. Piotra i Pawła
+9287.json|51.0313425|16.7633012|Kąty Wrocławskie|uzytecznosci_publicznej,sakralny|<p></p><p>Dawny kościół ewangelicki p.w. św. Elżbiety. Po  sekularyzacji majątków kościelnych w 1810 r. w Prusach, została zniesiona  zwierzchność biskupa wrocławskiego nad Kątami. Ta zmiana spowodowała <span style="font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; font-size: 15px; line-height: 1.45em;">uaktywnienie i&nbsp;</span>wzrost liczby członków wspólnoty ewangelickiej w Kątach. W  wyniku podjętych przez nich działań, w 1836 roku, w rynku obok wieży miejskiej, stanął  kościół wg projektu K. F. Schinkla. Nabożeństwa w obrządku ewangelickim były w  nim odprawiane do roku 1945. Po wojnie pełnił różne funkcje, obecnie na  parterze jest sklep, na piętrze Regionalna Izba Pamięci.</p><p>Więcej o historii obiektu na stronie  społecznościowej. &nbsp;</p><br><p></p>|Dawny kościół ewangelicki, obecnie obiekt handlowy i Regionalna Izba Pamięci
+9288.json|51.035049|16.7702588|Kąty Wrocławskie|cmentarny||Zespół cmentarza ewang., ob. komunalny
+9291.json|51.0313425|16.7633012|Kąty Wrocławskie|militarny|<p><p>Pierwsza wzmianka źródłowa o murach obronnych Kątów pochodzi z  1428 roku. Remontowane w 1587 r. Obecnie z dawnych obwarowań zachował się tylko  fragment przy kościele kat. (murowany z cegły, z kilkoma otworami strzelniczymi) oraz odcinek  późniejszy z XIX w. przy plebanii. Więcej o historii zabytku na stronie społecznościowej.</p></p>|Mury obronne (fragmenty)
+9292.json|51.0313425|16.7633012|Kąty Wrocławskie|uzytecznosci_publicznej|<p>Dolna część wieży miejskiej - trzykondygnacyjna na planie kwadratu, w narożach zwieńczona rzeźbami 4 lwów wspartych na tarczach - pochodzi prawdopodobnie z XV w. Górna, również trzykondygnacyjna, ośmioboczna została dobudowana w 1613 r. Od strony południowej zachowała się tablica fundacyjna z 1613 r., od strony północnej natomiast - trzy tablice heraldyczno-inskrypcyjne z piaskowca. Neoromański portal wejściowy wykonano w tym samym roku, co budynek ratusza - pochodzi z 1878 r.  "Katalog zabytków sztuki w Polsce" J. Pokora, M. Zlata; W-wa, 1991</p>|Wieża miejska
+9345.json|51.03656|16.969463|Bielany Wrocławskie|dworski_palacowy_zamek||Zespół dworski
+9348.json|51.03656|16.969463|Bielany Wrocławskie|||Spichrz
+9505.json|51.0328526|17.0569906|Żerniki Wrocławskie|park_ogrod,dworski_palacowy_zamek||Park pałacowy

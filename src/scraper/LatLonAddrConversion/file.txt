@@ -1,0 +1,4306 @@
+1|Bolesławiec|Jana Pawła II|50D|59-700|BOLESŁAWIEC
+2|Bolesławiec|Mikołaja Brody|17|59-700|Bolesławiec
+3|Bolesławiec|Ceramiczna|5|59-700|Bolesławiec
+4|Bolesławiec|Sądowa|9|59-700|Bolesławiec
+5|Bolesławiec|Zygmunta Augusta|16b|59-700|Bolesławiec
+6|Bolesławiec|Piotra i Pawła|2|59-700|Bolesławiec
+7|Bolesławiec|Górne Młyny|5|59-700|Bolesławiec
+8|Bolesławiec|Komuny Paryskiej|1|59-700|Bolesławiec
+9|Bolesławiec|GDAŃSKA|37A|59-700|BOLESŁAWIEC
+10|Bolesławiec|Jana Pawła II|20a|59-700|Bolesławiec
+11|Bolesławiec|Ignacego Łukasiewicza|8/41|59-700|Bolesławiec
+12|Bolesławiec|Matejki|2|59-700|Bolesławiec
+13|Bolesławiec|Bankowa|10|59-700|Bolesławiec
+14|Bolesławiec|Ceramiczna|5|59-700|Bolesławiec
+15|Bolesławiec|Mikołaja Brody|12|59-700|Bolesławiec
+16|Bolesławiec|Bielska|5|59-700|Bolesławiec
+17|Bolesławiec|Bankowa|10|59-700|Bolesławiec
+18|Bolesławiec|H. i W. TYRANKIEWICZÓW|11|59-700|BOLESŁAWIEC
+19|Bolesławiec|BANKOWA|6E/2|59-700|BOLESŁAWIEC
+20|Bolesławiec|Marcina  Opitza|11|59-700|Bolesławiec
+21|Bolesławiec|Marcina  Opitza|11|59-700|Bolesławiec
+22|Bolesławiec|DOLNE MŁYNY|60|59-700|BOLESŁAWIEC
+23|Bolesławiec|Marcina Opitza|11|59-700|Bolesławiec
+24|Bolesławiec|Zgorzelecka|18|59-700|Bolesławiec
+25|Bolesławiec|BANKOWA|6E/2|59-700|BOLESŁAWIEC
+26|Bolesławiec|Słowackiego|2|59-700|Bolesławiec
+27|Bolesławiec|Marcina Opitza|11|59-700|Bolesławiec
+28|Bolesławiec|Marcina Opitza|11|59-700|Bolesławiec
+29|Bolesławiec|Słowackiego|2|59-700|Bolesławiec
+30|Bolesławiec|Marcina  Opitza|11|59-700|Bolesławiec
+31|Bolesławiec|Marcina Opitza|11|59-700|BOLESŁAWIEC
+32|Bolesławiec|Grunwaldzka|9|59-700|Bolesławiec
+33|Bolesławiec|Grunwaldzka|9|59-700|Bolesławiec
+34|Bolesławiec|Grunwaldzka|5|59-700|Bolesławiec
+35|Bolesławiec|Macina Opitza|11|59-700|Bolesławiec
+36|Bolesławiec|Marcina  Opitza|11|59-700|Bolesławiec
+37|Bolesławiec|Zgorzelecka|27|59-700|Bolesławiec
+38|Bolesławiec|Zgorzelecka|48|59-700|Bolesławiec
+39|Bolesławiec|Gdańska|53/1|59-700|Bolesławiec
+40|Bolesławiec|Jana Pawła II|38C|59-700|Bolesławiec
+41|Bolesławiec|Jana Pawła II|38C|59-700|Bolesławiec
+42|Bolesławiec|Jana Pawła II|38C|59-700|Bolesławiec
+43|Bolesławiec|Słowackiego|2|59-700|Bolesławiec
+44|Bolesławiec|Słowackiego|2|59-700|Bolesławiec
+45|Bolesławiec|Bankowa|8|59-700|Bolesławiec
+46|Bolesławiec|Dolne Młyny|60|59-700|Bolesławiec
+47|Bolesławiec|Dolne Młyny|60|59-700|Bolesławiec
+48|Bolesławiec|Dolne Młyny|60|59-700|Bolesławiec
+49|Bolesławiec|Ogrodowa|7|59-700|Bolesławiec
+50|Bolesławiec|Tyrankiewiczów|11|59-700|Bolesławiec
+51|Bolesławiec|Ogrodowa|7|59-700|Bolesławiec
+52|Bolesławiec|Ogrodowa|7|59-700|Bolesławiec
+53|Bolesławiec|Tyrankiewiczów|11|59-700|Bolesławiec
+54|Bolesławiec|Ogrodowa|7|59-700|Bolesławiec
+55|Bolesławiec|Zgorzelecka|28/29|59-700|Bolesławiec
+56|Bolesławiec|Zgorzelecka|28/29|59-700|Bolesławiec
+57|Bolesławiec|Zgorzelecka|28/29|59-700|Bolesławiec
+58|Bolesławiec|Zgorzelecka|28/29|59-700|Bolesławiec
+59|Bolesławiec|Zgorzelecka|28/29|59-700|Bolesławiec
+60|Bolesławiec|Zgorzelecka|28/29|59-700|Bolesławiec
+61|Bolesławiec|Aleja 1000-lecia|51|59-700|Bolesławiec
+62|Bolesławiec|Aleja 1000-lecia|51|59-700|Bolesławiec
+63|Bolesławiec|Al.Tysiąclecia|51|59-700|Bolesławiec
+64|Bolesławiec|Aleja 1000-lecia|51|59-700|Bolesławiec
+65|Bolesławiec|Tyrankiewiczów|2|59-700|Bolesławiec
+66|Bolesławiec|Tyrankiewiczów|2|59-700|Bolesławiec
+67|Bolesławiec|Tyrankiewiczów|2|59-700|Bolesławiec
+68|Bolesławiec|Tyrankiewiczów|2|59-700|Bolesławiec
+69|Bolesławiec|Zgorzelecka|18|59-700|Bolesławiec
+70|Bolesławiec|Zgorzelecka|18|59-700|Bolesławiec
+71|Bolesławiec|Zgorzelecka|18|59-700|Bolesławiec
+72|Bolesławiec|Zgorzelecka|18|59-700|Bolesławiec
+73|Bolesławiec|Zgorzelecka|18|59-700|Bolesławiec
+74|Bolesławiec|Górne Młyny|1|59-700|Bolesławiec
+75|Bolesławiec|Góre Młyny|1|59-700|Bolesławiec
+76|Bolesławiec|Gorne Młyny|1|59-700|Bolesławiec
+77|Bolesławiec|Górne Młyny|1|59-700|Bolesławiec
+78|Bolesławiec|Gorne Młyny|1|59-700|Bolesławiec
+79|Bolesławiec|Komuny Paryskiej|6|59-700|Bolesławiec
+80|Bolesławiec|Komuny Paryskej|6|59-700|Bolesławiec
+81|Bolesławiec|Komuny Paryskiej|6|59-700|Bolesławiec
+82|Bolesławiec|Komuny Paryskiej|6|59-700|Bolesławiec
+83|Bolesławiec|Komuny Paryskiej|6|59-700|Bolesławiec
+84|Bolesławiec|Komuny Paryskiej|6|59-700|Bolesławiec
+85|Bolesławiec|Komuny Paryskiej|6|59-700|Bolesławiec
+86|Bolesławiec|Komuny Paryskiej|6|59-700|Bolesławiec
+87|Bolesławiec|H. i W. TYRANKIEWICZÓW|11|59-700|BOLESŁAWIEC
+88|Bolesławiec|H. i W. TYRANKIEWICZÓW|11|59-700|BOLESŁAWIEC
+89|Bolesławiec|H. i W. TYRANKIEWICZÓW|11|59-700|BOLESŁAWIEC
+90|Bolesławiec|TYRANKIEWICZÓW|22|59-700|BOLESŁAWIEC
+91|Bolesławiec|TYRANKIEWICZÓW|22|59-700|BOLESŁAWIEC
+92|Bolesławiec|TYRANKIEWICZÓW|22|59-700|BOLESŁAWIEC
+93|Bolesławiec|TYRANKIEWICZÓW|22|59-700|BOLESŁAWIEC
+94|Łaziska|NULL|30|59-700|Bolesławiec
+95|Żeliszów|Żeliszów|102|59-700|Bolesławiec
+96|Ocice|-|55|59-730|Nowogrodziec
+97|Brzeźnik|Brzeźnik|67|59-700|Bolesławiec
+98|Dąbrowa Bolesławiecka|NULL|43|59-700|BOLESŁAWIEC
+99|Kruszyn|KASZTANOWA|1|59-700|BOLESŁAWIEC
+100|Kruszyn|KASZTANOWA|1|59-700|BOLESŁAWIEC
+101|Kruszyn|KASZTANOWA|1|59-700|BOLESŁAWIEC
+102|Trzebień|Leśna|9|59-700|Bolesławiec
+103|Trzebień|Leśna|9|59-700|Bolesławiec
+104|Trzebień|Leśna|9|59-700|Bolesławiec
+105|Bożejowice|Bożejowice|1|59-700|Bolesławiec
+106|Bożejowice|Bożejowice|1|59-700|Bolesławiec
+107|Bożejowice|Bożejowice|1|59-700|Bolesławiec
+108|Kraśnik Dolny|Kraśnik Dolny|45|59-700|Bolesławiec
+109|Kraśnik Dolny|Kraśnik Dolny|45|59-700|Bolesławiec
+110|Kraśnik Dolny|Kraśnik Dolny|45|59-700|Bolesławiec
+111|Gromadka|11 LISTOPADSA|62|59-706|GROMADKA
+112|Modła|NULL|76|59-706|GROMADKA
+113|Osła|NULL|59|59-706|Gromadka
+114|Osła|NULL|59|59-706|GROMADKA
+115|Gromadka|Sikorskiego|19|59-706|Gromadka
+116|Gromadka|Sikorskiego|19|59-706|Gromadka
+117|Gromadka|Sikorskiego|19|59-706|Gromadka
+118|Nowogrodziec|kolejowa|46|59-730|Nowogrodziec
+119|Czerna|CZERNA|52|59-730|NOWOGRODZIEC
+120|Wykroty|22 Lipca|108|59-730|Nowogrodziec
+121|Nowogrodziec|Sienkiewicza|8|59-730|Nowogrodziec
+122|Czerna|NULL|52|59-730|Nowogrodziec
+123|Gierałtów|Gierałtów|47|59-730|Nowogrodziec
+124|Gościszów|NULL|152|59-730|Nowogrodziec
+125|Wykroty|22 lIPCA|106|59-730|NOWOGRODZIEC
+126|Nowogrodziec|Sienkiewicza|7|59-730|Nowogrodziec
+127|Nowa Wieś|Nowa Wieś|26a|59-730|Nowogrodziec
+128|Nowa Wieś|Nowa Wieś|26a|59-730|Nowogrodziec
+129|Nowa Wieś|Nowa Wieś|26a|59-730|Nowogrodziec
+130|Zebrzydowa|Zebrzydowa|59|59-730|Nowogrodziec
+131|Osiecznica|Lubańska|53|59-724|Osiecznica
+132|Świętoszów|SZKOLNA|10|59-726|ŚWIETOSZÓW
+133|Świętoszów|Świerkowa|10|59-726|świętoszów
+134|Tomisław|-|63A|59-724|Osiecznica
+135|Ławszowa|NULL|82|59-724|Osiecznica
+136|Parowa|brak|63|59-724|Osiecznica
+137|Osiecznica|Lubańska|35|59-724|Osiecznica
+138|Osiecznica|Lubańska|35|59-724|Osiecznica
+139|Osiecznica|Lubańska|35|59-724|Osiecznica
+140|Świętoszów|Szkolna|10|59-726|Świętoszów
+141|Świętoszów|Szkolna|10|59-726|Świętoszów
+142|Świętoszów|Szkolna|10|59-726|Świętoszów
+143|Tomaszów Bolesławiecki|Tomaszów Bolesławiecki|110 B|59-720|Raciborowice Górne
+144|Szczytnica|NULL|34|59-720|Raciborowice Górne
+145|Tomaszów Bolesławiecki|NULL|96|59-720|RACIBOROWICE
+146|Warta Bolesławiecka|NULL|29|59-720|Raciborowice
+147|Raciborowice Dolne|NULL|NULL|59-720|RACIBOROWICE DOLNE
+148|Iwiny|NULL|19|59-721|Iwiny
+149|Iwiny|NULL|19|59-721|Iwiny
+150|Iwiny|NULL|19|59-721|Iwiny
+151|Iwiny|NULL|19|59-721|Iwiny
+152|Tomaszów Bolesławiecki|NULL|96|59-720|Raciborowice
+153|Raciborowice Dolne|NULL|NULL|59-720|RACIBOROWICE DOLNE
+154|Iwiny|-|6|59-721|Iwiny
+155|Iwiny|NULL|NULL|59-720|Raciborowice
+156|Iwiny|-|-|59-721|Iwiny
+157|Iwiny|-|6|59-721|Iwiny
+158|Bielawa|Żeromskiego|18|58-260|Bielawa
+159|Bielawa|Parkowa|11|58-260|Bielawa
+160|Bielawa|KOPERNIKA|2|58-260|BIELAWA
+161|Bielawa|Os. Włókniarzy|11|58-260|Bielawa
+162|Bielawa|3-GO MAJA|22|58-260|BIELAWA
+163|Bielawa|Wolności|88|58-260|Bielawa
+164|Bielawa|Klonowa|4|58-260|Bielawa
+165|Bielawa|Osiedle Włókniarzy|10|58-260|Bielawa
+166|Bielawa|gen. Grota Roweckiego|6|58-260|Bielawa
+167|Bielawa|Waryńskiego|50|58-260|Bielawa
+168|Bielawa|Żeromskiego|1|58-260|Bielawa
+169|Bielawa|Lotnicza|5|58-260|Bielawa
+170|Bielawa|Brzeżna|48|58-260|Bielawa
+171|Bielawa|Parkowa|12|58-260|Bielawa
+172|Bielawa|Wolności|105|58-260|Bielawa
+173|Bielawa|Wolności|105|58-260|Bielawa
+174|Bielawa|Żeromskiego|1|58-260|Bielawa
+175|Bielawa|Wolności|105|58-260|Bielawa
+176|Bielawa|Wolności|105|58-260|Bielawa
+177|Bielawa|Wolności|105|58-260|Bielawa
+178|Bielawa|Wolmości|105|58-260|Bielawa
+179|Bielawa|Wolności|105|58-260|Bielawa
+180|Bielawa|Żeromskiego|1|58-260|Bielawa
+181|Bielawa|PIASTOWSKA|18/s1|58-260|BIELAWA
+182|Bielawa|KOPERNIKA|2|58-260|BIELAWA
+183|Bielawa|Wolności|105|58-260|Bielawa
+184|Bielawa|Elizy Orzeszkowej|1|58-260|Bielawa
+185|Bielawa|9 Maja|15 B|58-260|Bielawa
+186|Bielawa|Żeromskiego|41|58-260|Bielawa
+187|Bielawa|Żeromskiego|41a|58-260|Bielawa
+188|Bielawa|Żeromskiego|41|58-260|Bielawa
+189|Bielawa|Żeromskiego|41|58-260|Bielawa
+190|Bielawa|Żeromskiego|41|58-260|Bielawa
+191|Bielawa|Szkolna|5|58-260|Bielawa
+192|Bielawa|Szkolna|5|58-260|Bielawa
+193|Bielawa|Szkolna|5|58-260|Bielawa
+194|Bielawa|Polna|2|58-260|Bielawa
+195|Bielawa|Polna|2|58-260|Bielawa
+196|Bielawa|Polna|2|58-260|Bielawa
+197|Dzierżoniów|Batalionów Chłopskich|20|58-200|Dzierżoniów
+198|Dzierżoniów|Miernicza|2|58-200|Dzierżoniów
+199|Dzierżoniów|OS. TĘCZOWE|3|58-200|DZIERŻONIÓW
+200|Dzierżoniów|Mickiewocza|14|58-200|Dzierżoniów
+201|Dzierżoniów|Spacerowa|2|58-200|Dzierżoniów
+202|Dzierżoniów|Szkolna|14|58-200|Dzierżoniów
+203|Dzierżoniów|Świdnicka|41|58-200|Dzierżoniów
+204|Dzierżoniów|OSIEDLE BŁĘKITNE|26|58-200|DZIERŻONIÓW
+205|Dzierżoniów|osiedle Jasne|21|58-200|Dzierżoniów
+206|Dzierżoniów|Szkolna|24|58-200|Dzierżoniów
+207|Dzierżoniów|osiedle Błękitne|25|58-200|Dzierżoniów
+208|Dzierżoniów|os. Jasne|22|58-200|Dzierżoniów
+209|Dzierżoniów|Kopernika|7|58-200|Dzierżoniów
+210|Dzierżoniów|Ząbkowicka|70|58-200|Dzierżoniów
+211|Dzierżoniów|Nowowiejska|64|58-200|Dzierżoniów
+212|Dzierżoniów|Garncarska|1|58-200|DZIERŻONIÓW
+213|Dzierżoniów|Garncarska|3|58-200|Dzierżoniów
+214|Dzierżoniów|SIKORSKIEGO|2|58-200|DZIERŻONIÓW
+215|Dzierżoniów|Władysława Sikorskiego|2|58-200|Dzierżoniów
+216|Dzierżoniów|SIKORSKIEGO|2|58-200|DZIERŻONIÓW
+217|Dzierżoniów|Garncarska|3|58-200|Dzierżoniów
+218|Dzierżoniów|Garncarska|3|58-200|Dzierżoniów
+219|Dzierżoniów|Henryka Sienkiewicza|11|58-200|Dzierżoniów
+220|Dzierżoniów|Szarych Szeregów|2c|58-200|Dzierżoniów
+221|Dzierżoniów|Nowowiejska|74 i 76|58-200|Dzierżoniów
+222|Dzierżoniów|Nowowiejska|74 i 76|58-200|Dzierżoniów
+223|Dzierżoniów|Nowowiejska|74 i 76|58-200|Dzierżoniów
+224|Dzierżoniów|Nowowiejska|74 i 76|58-200|Dzierżoniów
+225|Dzierżoniów|Nowowiejska|74 i 76|58-200|Dzierżoniów
+226|Dzierżoniów|UL.ŚWIDNICKA|26|58-200|DZIERŻONIÓW
+227|Dzierżoniów|Ząbkowicka|70|58-200|Dzierżoniów
+228|Dzierżoniów|Parkowa|2|58-200|Dzierżoniów
+229|Dzierżoniów|Parkowa|2|58-200|Dzierżoniów
+230|Dzierżoniów|Parkowa|2|58-200|Dzierżoniów
+231|Bielawa|Wolności|109|58-260|Bielawa
+232|Dzierżoniów|Parkowa|2|58-200|Dzierżoniów
+233|Dzierżoniów|Sikorskiego|2|58-200|DZIERŻONIÓW
+234|Dzierżoniów|Sikorskiego|2|58-200|Dzierżoniów
+235|Dzierżoniów|Sikorskiego|2|58-200|DZIERŻONIÓW
+236|Dzierżoniów|Sikorskiego|2|58-200|Dzierżoniów
+237|Dzierżoniów|ul. Mickiewicza|8|58-200|Dzierżoniów
+238|Dzierżoniów|Mickiewicza|8|58-200|Dzierżoniów
+239|Dzierżoniów|ul. Mickiewicza|8|58-200|Dzierżoniów
+240|Dzierżoniów|Piłsudskiego|24|58-200|Dzierżoniów
+241|Dzierżoniów|Piłsudskiego|24|58-200|Dzierżoniów
+242|Dzierżoniów|Piłsudskiego|24|58-200|Dzierżoniów
+243|Dzierżoniów|Piłsudskiego|24|58-200|Dzierżoniów
+244|Dzierżoniów|Piłsudskiego|24|58-200|Dzierżoniów
+245|Dzierżoniów|Słowiańska|6|58-200|Dzierżoniów
+246|Dzierżoniów|SŁOWIAŃSKA|6|58-200|DZIERŻONIÓW
+247|Dzierżoniów|SŁOWIAŃSKA|6|58-200|DZIERŻONIÓW
+248|Dzierżoniów|SŁOWIAŃSKA|6|58-200|DZIERZONIÓW
+249|Dzierżoniów|PIŁSUDSKIEGO|10|58-200|DZIERŻONIÓW
+250|Dzierżoniów|PIŁSUDSKIEGO|10|58-200|DZIERŻONIÓW
+251|Dzierżoniów|PIŁSUDSKIEGO|10|58-200|DZIERŻONIÓW
+252|Dzierżoniów|Wrocławska|51|58-200|Dzierżoniów
+253|Dzierżoniów|Wrocławska|51|58-200|Dzierżoniów
+254|Dzierżoniów|Wrocławska|51|58-200|Dzierżoniów
+255|Pieszyce|Bielawska|1|58-250|Pieszyce
+256|Pieszyce|Ogrodowa|48|58-250|Pieszyce
+257|Pieszyce|OGRODOWA|23|58-250|PIESZYCE
+258|Pieszyce|Świdnicka|53|58-250|Pieszyce
+259|Pieszyce|Mickiewicza|1|58-250|Pieszyce
+260|Pieszyce|Mickiewicza|8|58-250|Pieszyce
+261|Pieszyce|Mickiewicza|8|58-250|Pieszyce
+262|Pieszyce|Mickiewicza|8|58-250|Pieszyce
+263|Pieszyce|Mickiewicza|1|58-250|Pieszyce
+264|Pieszyce|Mickiewicza|1|58-250|Pieszyce
+265|Pieszyce|Plac Zamkowy|10|58-250|Pieszyce
+266|Pieszyce|Plac Zamkowy|10|58-250|Pieszyce
+267|Pieszyce|Plac Zamkowy|10|58-250|Pieszyce
+268|Piława Górna|A.MICKIEWICZA|5|58-240|PIŁAWA GÓRNA
+269|Piława Górna|Kościuszki|1|58-240|Piława Górna
+270|Piława Górna|Wiejska|2|58-240|Piława Górna
+271|Piława Górna|SZKOLNA|6|58-240|PIŁAWA GÓRNA
+272|Piława Górna|SZKOLNA|6|58-240|PIŁAWA GÓRNA
+273|Piława Górna|SZKOLNA|6|58-240|PIŁAWA GÓRNA
+274|Piława Górna|SZKOLNA|6|58-240|PIŁAWA GÓRNA
+275|Mościsko|Szkolna|12|58-116|Mościsko
+276|Tuszyn|NULL|47|58-207|Tuszyn
+277|Mościsko|Szkolna|12|58-116|Mościsko
+278|Uciechów|Piastowska|1b|58-211|Dzierżoniów 2
+279|Ostroszowice|Bielawska|58a|58-262|Bielawa
+280|Ostroszowice|Bielawska|58|58-262|Ostroszowice
+281|Ostroszowice|Bielawska|58a|58-262|Ostroszowice
+282|Ostroszowice|Bielawska|58|58-262|Ostroszowice
+283|Piława Dolna|Główna|50|58-200|Dzierżoniów 2
+284|Dobrocin|Kościuszki|22|58-200|Dzierżoniów 2
+285|Piława Dolna|Główna|50|58-200|Dzierżoniów 2
+286|Piława Dolna|Główna|50|58-200|Dzierżoniów 2
+287|Dobrocin|Kościuszki|22|58-203|Dzierżoniów
+288|Dobrocin|Kościuszki|22|58-203|Dzierżoniów
+289|Dobrocin|Kościuszki|22|58-203|Dzierżoniów
+290|Łagiewniki|Jedności Narodowej|10|58-210|Łagiewniki
+291|Jaźwina|NULL|NULL|58-210|Łagiewniki
+292|Oleszna|Ślęzna|1|58-214|Oleszna
+293|Łagiewniki|SPORTOWA|9|58-210|ŁAGIEWNIKI
+294|Łagiewniki|Jedności Narodowej|38A|58-210|Łagiewniki
+295|Łagiewniki|Jedności Narodowej|38A|58-210|Łagiewniki
+296|Łagiewniki|Jedności Narodowej|38A|58-210|Łagiewniki
+297|Niemcza|Bolesława Chrobrego|21|58-230|Niemcza
+298|Gilów|Gilów|49|58-230|Niemcza
+299|Przerzeczyn-Zdrój|Zdrojowa|14|58-231|Przerzeczyn-Zdrój
+300|Niemcza|B. Chrobrego|25|58-230|Niemcza
+301|Niemcza|B. Chrobrego|25|58-230|Niemcza
+302|Niemcza|B. Chrobrego|25|58-230|Niemcza
+303|Głogów|KRÓLEWSKA|14|67-200|GŁOGÓW
+304|Głogów|Andromedy|23|67-200|Głogów
+305|Głogów|Obrońców Pokoju|14|67-200|Głogów
+306|Głogów|Plutona|3|67-200|Głogów
+307|Głogów|Aleja Wolności|17|67-200|Głogów
+308|Głogów|Herkulesa|4|67-200|Głogów
+309|Głogów|Ziemowita|2|67-200|Głogów
+310|Głogów|Aleja Wolności|72|67-200|Głogów
+311|Głogów|M.Niedziałkowskiego|7A|67-200|Głogów
+312|Głogów|Gustawa Morcinka|6|67-200|Głogów
+313|Głogów|Moniuszki|4a|67-200|Głogów
+314|Głogów|PERSEUSZA|3|67-200|GŁOGÓW
+315|Głogów|Gomółki|32|67-200|Głogów
+316|Głogów|Słodowa|12|67-200|Głogów
+317|Głogów|Dobrawy|5A|67-200|Głogów
+318|Głogów|Wileńska|28|67-200|Głogów
+319|Głogów|BUDOWLANYCH|1|67-200|GŁOGÓW
+320|Głogów|Wojska Polskiego|14|67-200|Głogów
+321|Głogów|Spółdzielcza|17|67-200|Głogów
+322|Głogów|Gwiaździsta|3a|67-200|Głogów
+323|Głogów|Gwiaździsta|16|67-200|Głogów
+324|Głogów|Akacjowa|10|67-200|Głogów
+325|Głogów|Królewska|12|67-200|Głogów
+326|Głogów|ALEJA WOLNOŚCI|74|67-200|GŁOGÓW
+327|Głogów|Plac Mieszka I|22|67-200|Głogów
+328|Głogów|Tadeusza Kościuszki|18|67-200|Głogów
+329|Głogów|DASZYŃSKIEGO|11|67-200|GŁOGÓW
+330|Głogów|ANDROMEDY|62|67-200|GŁOGÓW
+331|Głogów|Gomółki|43|67-200|Głogów
+332|Głogów|Piotra Skargi|5|67-200|Głogów
+333|Głogów|Sikorskiego|11|67-200|Głogów
+334|Głogów|Plac Mieszka I|22|67-200|Głogów
+335|Głogów|G. Morcinka|2|67-200|GŁOGÓW
+336|Głogów|Niedziałkowskiego|10|67-200|Głogów
+337|Głogów|Gwiaździsta|2|67-200|Głogów
+338|Głogów|PIOTRA SKARGI|5|67-200|GŁOGÓW
+339|Głogów|Obozowa|3|67-200|GŁOGÓW
+340|Głogów|Obozowa|3|67-200|Głogów
+341|Głogów|FOLWARCZNA|55|67-200|GŁOGÓW
+342|Głogów|Daszyńskiego|15|67-200|Głogów
+343|Głogów|POCZDAMSKA|1|67-200|GŁOGÓW
+344|Głogów|Niedziałkowskiego|10|67-200|Głogów
+345|Głogów|OBOZOWA|3|67-200|GŁOGÓW
+346|Głogów|Obozowa|3|67-200|Głogów
+347|Głogów|Daszyńskiego|15|67-200|Głogów
+348|Głogów|PLAC JANA Z GŁOGOWA|7|67-200|GŁOGÓW
+349|Głogów|Folwarczna|55|67-200|Głogów
+350|Głogów|Karola Miarki|1|67-200|Głogów
+351|Głogów|PLAC JANA Z GŁOGOWA|7|67-200|GŁOGÓW
+352|Głogów|POCZDAMSKA|1|67-200|GŁOGÓW
+353|Głogów|Obozowa|3|67-200|Głogów
+354|Głogów|Obozowa|3|67-200|Głogów
+355|Głogów|ALEJA WOLNOŚCI|11|67-200|GŁOGÓW
+356|Głogów|PLAC JANA Z GŁOGOWA|7|67-200|GŁOGÓW
+357|Głogów|Niedziałkowskiego|10|67-200|Głogów
+358|Głogów|POCZDAMSKA|3F|67-200|GŁOGÓW
+359|Głogów|Słodowa|12|67-200|Głogów
+360|Głogów|Sportowa|1|67-200|Głogów
+361|Głogów|Sportowa|1|67-200|Głogów
+362|Głogów|Perseusza|7|67-200|Głogów
+363|Głogów|Perseusza|7|67-200|Głogów
+364|Głogów|Perseusza|7|67-200|Głogów
+365|Głogów|Sportowa|1|67-200|Głogów
+366|Głogów|Sportowa|1|67-200|Głogów
+367|Głogów|Sportowa|1|67-200|Głogów
+368|Głogów|Jdności Robotniczej|43b|67-200|Głogów
+369|Głogów|Wiśniowa|26|67-200|Głogów
+370|Głogów|Obozowa|3|67-200|GŁOGÓW
+371|Głogów|Jedności Robotniczej|43b|67-200|Głogów
+372|Głogów|Obrońców Pokoju|10|67-200|Głogów
+373|Głogów|Grunwaldzka|6/1|67-200|Głogów
+374|Głogów|WIŚNIOWA|26|67-200|GŁOGÓW
+375|Głogów|KOSMONAUTÓW POLSKICH|79/6|67-200|GŁOGÓW
+376|Głogów|Gustawa Morcinka|8|67-200|Głogów
+377|Głogów|ZIELONA|2|67-200|GŁOGÓW
+378|Głogów|PLAC JANA Z GŁOGOWA|7|67-200|GŁOGÓW
+379|Głogów|1 Maja|24|67-200|Głogów
+380|Głogów|OBOZOWA|3|67-200|GŁOGÓW
+381|Głogów|Obozowa|3|67-200|GŁOGÓW
+382|Głogów|OBROŃCÓW POKOJU|30 b/30|67-200|GLOGÓW
+383|Głogów|Saturna|38a|67-200|Głogów
+384|Głogów|SMOLNA|19|67-200|GŁOGÓW
+385|Głogów|Mechaniczna|5j/19|67-200|Głogów
+386|Głogów|PIOTRA SKARGI|29|67-200|GŁOGÓW
+387|Głogów|PIOTRA SKARGI|29|67-200|GŁOGÓW
+388|Głogów|PIOTRA SKARGI|29|67-200|GŁOGÓW
+389|Głogów|Folwarczna|52|67-200|Głogów
+390|Głogów|Jedności Robotniczej|10|67-200|Głogów
+391|Głogów|Jedności Robotniczej|38|67-200|Głogów
+392|Głogów|Folwarczna|52|67-200|Głogów
+393|Głogów|Jedności Robotniczej|14|67-200|Głogów
+394|Głogów|Jedności Robotniczej|14|67-200|Głogów
+395|Głogów|Jedności Robotniczej|14|67-200|Głogów
+396|Głogów|Obrońców Pokoju|19|67-200|Głogów
+397|Głogów|Obrońców Pokoju|19|67-200|Głogów
+398|Głogów|Obrońców Pokoju|19|67-200|Głogów
+399|Głogów|Sportowa|1|67-200|Głogów
+400|Głogów|Sportowa|1a|67-200|Głogów
+401|Głogów|Perseusza|7|67-200|Głogów
+402|Głogów|Karola Miarki|1|67-200|Głogów
+403|Głogów|Karola Miarki|1|67-200|Głogów
+404|Głogów|Karola Miarki|1|67-200|Głogów
+405|Głogów|Jedności Robotniczej|10|67-200|Głogów
+406|Głogów|Jedności Robotniczej|10|67-200|Głogów
+407|Głogów|Jedności Robotniczej|10|67-200|Głogów
+408|Głogów|Plac Jana z Głogowa|7|67-200|Głogów
+409|Głogów|Plac Jana z Głogowa|7|67-200|Głogów
+410|Głogów|Plac Jana z Głogowa|7|67-200|Głogów
+411|Głogów|Plac Jana z Głogowa|7|67-200|Głogów
+412|Głogów|Piastowska|2 a|67-200|Głogów
+413|Głogów|Piastowska|2a|67-200|Głogów
+414|Głogów|Piastowska|2 a|67-200|Głogów
+415|Głogów|Piastowska|2 a|67-200|Głogów
+416|Głogów|Piastowska|2 a|67-200|Głogów
+417|Głogów|Wita Stwosza|3A|67-200|Głogów
+418|Głogów|Wita Stwosza|3A|67-200|Głogów
+419|Głogów|Wita Stwosza|3A|67-200|Głogów
+420|Głogów|Perseusza|5|67-200|Głogów
+421|Głogów|Perseusza|5|67-200|Głogów
+422|Głogów|Perseusza|5|67-200|Głogów
+423|Głogów|Perseusza|5|67-200|Głogów
+424|Serby|Głógna|63|67-200|Głogów
+425|Wilków|Głogowska|5a|67-200|GŁOGÓW
+426|Ruszowice|Tęczowa|55|67-200|Głogów
+427|Borek|NULL|40|67-210|Głogów
+428|Przedmoście|SZKOLNA|3|67-210|GŁOGÓW 2
+429|Przedmoście|SZKOLNA|3|67-210|GŁOGÓW 2
+430|Przedmoście|SZKOLNA|3|67-210|GŁOGÓW 2
+431|Serby|Ogrodowa|18|67-210|Głogów
+432|Serby|Ogrodowa|18|67-210|Głogów
+433|Serby|Ogrodowa|18|67-210|Głogów
+434|Jerzmanowa|Obiszowska|25|67-222|Jerzmanowa
+435|Jerzmanowa|GŁOGOWSKA|19|67-222|JERZMANOWA
+436|Jaczów|Główna|20|67-200|Głogów
+437|Jerzmanowa|Głogowska|19a|67-222|Jerzmanowa
+438|Kurowice|NULL|42a|67-222|Jerzmanowa
+439|Jerzmanowa|Obiszowska|25|67-222|Jerzmanowa
+440|Jaczów|Główna|20|67-200|Głogów
+441|Kotla|Górna|8|67-240|Kotla
+442|Kotla|Szkolna|4|67-240|KOTLA
+443|Kotla|SZKOLNA|4|67-240|KOTLA
+444|Kotla|Szkolna|2|67-240|KOTLA
+445|Głogówko|NULL|17|67-240|Kotla
+446|Wietszyce|Wietszyce|46|67-221|Białołęka
+447|Wietszyce|Wietszyce|46|67-221|Białołęka
+448|Wietszyce|Wietszyce|46|67-221|Białołęka
+449|Białołęka|BIAŁOŁĘKA|20A|67-221|BIAŁOŁĘKA
+450|Białołęka|BIAŁOŁĘKA|20A|67-221|BIAŁOŁĘKA
+451|Białołęka|BIAŁOŁĘKA|20A|67-221|BIAŁOŁĘKA
+452|Brzeg Głogowski|NULL|27|67-231|Żukowice
+453|Nielubia|NULL|80|67-231|Żukowice
+454|Nielubia|NULL|80|67-231|Żukowice
+455|Kromolin|brak|27|67-231|Żukowice
+456|Brzeg Głogowski|brak|27|67-231|Żukowice
+457|Góra|ŻEROMSKIEGO|15|56-200|GÓRA
+458|Góra|PIASTÓW|7|56-200|GÓRA
+459|Góra|Osiedle Kazimierza Wielkiego|7|56-200|Góra
+460|Góra|Racławicka|1|56-200|Góra
+461|Góra|Marii Konopnickiej|2|56-200|Góra
+462|Góra|Poznańska|2|56-200|Góra
+463|Góra|Szkolna|2|56-200|Góra
+464|Góra|Poznańska|2a|56-200|Góra
+465|Góra|B. GŁOWACKIEGO|1|56-200|GORA
+466|Góra|B. GŁOWACKIEGO|1|56-200|GORA
+467|Góra|B. GŁOWACKIEGO|1|56-200|GÓRA
+468|Góra|B. GŁOWACKIEGO|1|56-200|GORA
+469|Góra|B. GŁOWACKIEGO|1|56-200|GORA
+470|Góra|B. GŁOWACKIEGO|1|56-200|GORA
+471|Góra|B. GŁOWACKIEGO|1|56-200|GORA
+472|Góra|Pl. Bolesława Chrobrego|27|56-200|Góra
+473|Góra|Pl. Bolesława Chrobrego|27|56-200|Góra
+474|Góra|Pl. Bolesława Chrobrego|27|56-200|Góra
+475|Góra|Pl. Bolesława Chrobrego|27|56-200|Góra
+476|Glinka|NULL|6|56-200|Góra
+477|Glinka|NULL|6|56-200|Góra
+478|Glinka|NULL|6|56-200|Góra
+479|Czernina|Szkolna|2|56-200|Góra
+480|Czernina|Szkolna|2|56-200|Góra
+481|Czernina|Szkolna|2|56-200|Góra
+482|Czernina|Szkolna|2|56-200|Góra
+483|Witoszyce|NULL|10|56-200|Góra
+484|Witoszyce|NULL|10|56-200|Góra
+485|Witoszyce|NULL|10|56-200|Góra
+486|Ślubów|ŚLUBÓW|54|56-200|GÓRA
+487|Ślubów|ŚLUBÓW|54|56-200|GÓRA
+488|Ślubów|ŚLUBÓW|54|56-200|GÓRA
+489|Góra|Armii Polskiej|15a|56-200|Góra
+490|Góra|Armii Polskiej|15a|56-200|Góra
+491|Góra|Armii Polskiej|15a|56-200|Góra
+492|Góra|Szkolna|1|56-200|Góra
+493|Góra|Szkolna|1|56-200|Góra
+494|Góra|Szkolna|1|56-200|Góra
+495|Luboszyce|NULL|3|56-209|Jemielno
+496|Jemielno|NULL|NULL|56-209|Jemielno
+497|Irządze|Irządze|27|56-209|Jemielno
+498|Irządze|Irządze|27|56-209|Jemielno
+499|Irządze|Irządze|27|56-209|Jemielno
+500|Jemielno|NULL|41 A|56-509|Jemielno
+501|Jemielno|NULL|41 A|56-509|Jemielno
+502|Jemielno|NULL|41 A|56-509|Jemielno
+503|Naratów|-|15|56-215|Niechlów
+504|Niechlów|Szkolna|23|56-215|Niechlów
+505|Niechlów|Szkolna|23|56-215|Niechlów
+506|Niechlów|Szkolna|23|56-215|Niechlów
+507|Niechlów|Szkolna|23|56-215|Niechlów
+508|Siciny|-|78|56-215|Niechlów
+509|Siciny|-|82|56-215|Niechlów
+510|Siciny|-|78|56-215|Niechlów
+511|Wąsosz|Plac Kościelny|2|56-210|Wąsosz
+512|Czarnoborsko|NULL|10|56-210|Wąsosz
+513|Wąsosz|Al. Niepodległości|10|56-210|Wąsosz
+514|Płoski|PŁOSKI|4|56-210|WĄSOSZ
+515|Pobiel|Pobiel|75|56-210|Wąsosz
+516|Wąsosz|ZACISZE|10|56-210|WĄSOSZ
+517|Wąsosz|Janusza Korczaka|6|56-210|Wąsosz
+518|Wąsosz|Janusza Korczaka|6|56-210|Wąsosz
+519|Wąsosz|Janusza Korczaka|6|56-210|Wąsosz
+520|Wąsosz|JANUSZA KORCZAKA|6|56-210|WĄSOSZ
+521|Wąsosz|Janusza Korczaka|6|56-210|Wąsosz
+522|Pobiel|POBIEL|75|56-210|WĄSOSZ
+523|Czarnoborsko|NULL|8|56-210|WĄSOSZ
+524|Płoski|NULL|4|56-210|WĄSOSZ
+525|Jawor|J.Piłsudskiego|14|59-400|Jawor
+526|Jawor|CHOPINA|10|59-400|JAWOR
+527|Jawor|Moniuszki|8|59-400|Jawor
+528|Jawor|Chopina|11|59-400|Jawor
+529|Jawor|Limanowskiego|10|59-400|Jawor
+530|Jawor|Starojaworska|82|59-400|Jawor
+531|Jawor|Armii Krajowej|9|59-400|Jawor
+532|Jawor|Moniuszki|4|59-400|Jawor
+533|Jawor|PLAC BANKOWY|1|59-400|JAWOR
+534|Jawor|Kościuszki|8|59-400|Jawor
+535|Jawor|Paderewskiego|6|59-400|Jawor
+536|Jawor|Paderewskiego|6|59-400|Jawor
+537|Jawor|Paderewskiego|6|59-400|Jawor
+538|Jawor|Paderewskiego|6|59-400|Jawor
+539|Jawor|Paderewskiego|6|59-400|Jawor
+540|Jawor|Paderewskiego|6|59-400|Jawor
+541|Jawor|Paderewskiego|6|59-400|Jawor
+542|Jawor|Legnicka|16|59-400|Jawor
+543|Jawor|Legnicka|16|59-400|Jawor
+544|Jawor|Legnicka|16|59-400|Jawor
+545|Jawor|Kolejowa|12|59-400|Jawor
+546|Jawor|KOŚCIUSZKI|8|59-400|JAWOR
+547|Jawor|KOŚCIUSZKI|8|59-400|JAWOR
+548|Jawor|KOŚCIUSZKI|8|59-400|JAWOR
+549|Jawor|Wrocławska|30|59-400|Jawor
+550|Jawor|Wrocławska|30a|59-400|Jawor
+551|Jawor|Wrocławska|30a|59-400|Jawor
+552|Jawor|Wrocławska|30a|59-400|Jawor
+553|Jawor|Wrocławska|30a|59-400|Jawor
+554|Jawor|Józefa Piłsudskiego|11|59-400|Jawor
+555|Jawor|Józefa Piłsudskiego|11|59-400|Jawor
+556|Jawor|Józefa Piłsudskiego|11|59-400|Jawor
+557|Jawor|Józefa Piłsudskiego|11|59-400|Jawor
+558|Jawor|Rapackiego|1|59-400|Jawor
+559|Jawor|Rapackiego|1|59-400|Jawor
+560|Jawor|Rapackiego|1|59-400|Jawor
+561|Bolków|Sienkiewicza|39|59-420|Bolków
+562|Bolków|Bolka|8c|59-420|Bolków
+563|Kaczorów|Plac Pollaka|14|50-420|Bolków
+564|Lipa|NULL|69|59-420|Bolków
+565|Sady Górne|NULL|64|59-420|Bolków
+566|Bolków|Bolka|8b|59-420|Bolków
+567|Bolków|Słowackiego|18|59-420|Bolków
+568|Bolków|Sienkiewicza|3/1|59-420|Bolków
+569|Bolków|Niepodległości|17|59-420|Bolków
+570|Bolków|Niepodległości|17|59-420|Bolków
+571|Bolków|Niepodległości|17|59-420|Bolków
+572|Bolków|Niepodległości|17|59-420|Bolków
+573|Bolków|Niepodleglości|17|59-420|Bolków
+574|Bolków|Niepodległości|17|59-420|Bolków
+575|Bolków|Mickiewicza|1|59-420|Bolków
+576|Pomocne|NULL|51|59-424|Męcinka
+577|Piotrowice|NULL|139|59-424|MĘCINKA
+578|Piotrowice|NULL|139|59-424|MĘCINKA
+579|Piotrowice|NULL|139|59-424|MĘCINKA
+580|Męcinka|NULL|10B|59-424|MĘCINKA
+581|Męcinka|NULL|10B|59-424|MĘCINKA
+582|Męcinka|NULL|10B|59-424|MĘCINKA
+583|Męcinka|NULL|10B|59-424|MĘCINKA
+584|Snowidza|NULL|91a|59-407|Mściwojów
+585|Targoszyn|Targoszyn|51|59-407|Mściwojów
+586|Marcinowice|MARCINOWICE|57|59-407|MŚCIWOJÓW
+587|Paszowice|NULL|124|59-411|Paszowice
+588|Wiadrów|NULL|38|59-411|Paszowice
+589|Wiadrów|Wiadrów|38|59-411|Paszowice
+590|Pogwizdów|NULL|38|59-411|Paszowice
+591|Wiadrów|NULL|38|59-411|Paszowice
+592|Pogwizdów|NULL|38|59-411|Paszowice
+593|Wiadrów|NULL|38|59-411|Paszowice
+594|Wądroże Wielkie|NULL|168|59-430|Wądroże Wielkie
+595|Wądroże Wielkie|__|169|59-430|WĄDROŻE WIELKIE
+596|Wądroże Wielkie|___|10|59-430|WĄDROŻE wIELKIE
+597|Budziszów Wielki|NULL|10|59-430|Wądroże Wielkie
+598|Karpacz|Skrzatów Karkonoskich|1|58-540|Karpacz
+599|Karpacz|okrzei|3|58-540|Karpacz
+600|Karpacz|Myśliwska|15 C|58-540|Karpacz
+601|Karpacz|Myśliwska|15 C|58-540|Karpacz
+602|Karpacz|Mysliwska|15 C|58-540|Karpacz
+603|Karpacz|"Gimnazjalna, Sklana"|"9, 45"|58-540|Karpacz
+604|Karpacz|Karkonoska|44|58-540|Karpacz
+605|Karpacz|Gimnazjalna|7|58-540|Karpacz
+606|Karpacz|Gimnazjalna|7|58-540|Karpacz
+607|Karpacz|GIMNAZJALNA|7|58-540|Karpacz
+608|Karpacz|Gimnazjalna|7|58-540|Karpacz
+609|Karpacz|Konstytucji 3 Maja|48a|58-540|Karpacz
+610|Karpacz|Konstytucji 3 Maja|48a|58-540|Karpacz
+611|Karpacz|Konstytucji 3 Maja|48a|58-540|Karpacz
+612|Kowary|SIENKIEWICZA|9|58-530|KOWARY
+613|Kowary|Wiejska|3|58-530|Kowary
+614|Kowary|1 Maja|72|58-530|Kowary
+615|Kowary|Staszica|16|58-530|Kowary
+616|Kowary|Zamkowa|5|58-530|Kowary
+617|Kowary|Szkolna|1|58-530|Kowary
+618|Kowary|Szkolna|1|58-530|Kowary
+619|Kowary|Szkolna|1|58-530|Kowary
+620|Piechowice|Żymierskiego|77|58-573|Piechowice
+621|Piechowice|Nadrzeczna|1|58-573|Piechowice
+622|Piechowice|Szkolna|6|58-573|Piechowice
+623|Piechowice|Tysiąclecia|28|58-573|Piechowice
+624|Piechowice|TURYSTYCZNA|2A|58-573|PIECHOWICE
+625|Piechowice|KOLONIJNA|14|58-573|PIECHOWICE
+626|Piechowice|Jaśminowa|1|58-573|Piechowice
+627|Piechowice|ŚWIERCZEWSKIEGO|21|58-573|PIECHOWICE
+628|Piechowice|ŚWIERCZEWSKIEGO|21|58-573|PIECHOWICE
+629|Piechowice|ŚWIERCZEWSKIEGO|21|58-573|PIECHOWICE
+630|Piechowice|ŚWIERCZEWSKIEGO|21|58-573|PIECHOWICE
+631|Szklarska Poręba|OSIEDLE HUTY|1|58-580|SZKLARSKA POREBA
+632|Szklarska Poręba|1 Maja|32|58-580|Szklarska Poręba
+633|Szklarska Poręba|11 Listopada|2|58-580|Szklarska Poręba
+634|Szklarska Poręba|PIASTOWSKA|1|58-580|SZKLARSKA PORĘBA
+635|Szklarska Poręba|Górna|29|58-580|Szklarska Poręba
+636|Szklarska Poręba|Górna|29|58-580|Szklarska Poręba
+637|Szklarska Poręba|Górna|29|58-580|Szklarska Poręba
+638|Szklarska Poręba|Górna|29|58-580|Szklarska Poręba
+639|Szklarska Poręba|Górna|29|58-580|Szklarak Poręba
+640|Szklarska Poręba|Górna|29|58-580|Szklarska Poręba
+641|Szklarska Poręba|Górna|29|58-580|Szklarska Poręba
+642|Szklarska Poręba|Górna|29|58-580|Szklarska Poręba
+643|Szklarska Poręba|Chopina|6|58-580|Szklarska Poręba
+644|Szklarska Poręba|NULL|NULL|58-580|Szklarska Poręba
+645|Szklarska Poręba|Obrońców Pokoju|17|58-580|Szklarska Poręba
+646|Szklarska Poręba|Obrońców Pokoju|17|58-580|Szklarska Poręba
+647|Szklarska Poręba|Obrońców Pokoju|17|58-580|Szklarska Poręba
+648|Szklarska Poręba|Obrońców Pokoju|17|58-580|Szklarska Poręba
+649|Szklarska Poręba|Obrońców Pokoju|17|58-580|Szklarska Poręba
+650|Janowice Wielkie|Partyzantów|4|58-520|Janowice Wielkie
+651|Janowice Wielkie|PARTYZANTÓW|4|58-520|JANOWICE WIELKIE
+652|Janowice Wielkie|PARTYZANTÓW|4|58-520|JANOWICE WIELKIE
+653|Janowice Wielkie|PARTYZANTÓW|4|58-520|JANOWICE WIELKIE
+654|Siedlęcin|Kościelna|5|58-508|Jelenia Góra 14
+655|Czernica|-|125|58-521|JEŻÓW SUDECKI
+656|Jeżów Sudecki|Długa|80|58-521|Jeżów Sudecki
+657|Jeżów Sudecki|Długa|80|58-521|Jeżów Sudecki
+658|Jeżów Sudecki|Długa|80|58-521|Jeżów Sudecki
+659|Mysłakowice|Daszyńskiego|20|58-533|MYSŁAKOWICE
+660|Łomnica|NULL|NULL|58-508|Jelenia Góra
+661|Kostrzyca|Jeleniogórska|37|58-533|Mysłakowice
+662|Bukowiec|Szkolna|2|58-533|Mysłakowice
+663|Bukowiec|Robotnicza|27|58-533|Mysłakowice
+664|Łomnica|ŚWIERCZEWSKIEGO|108 B|58-508|Jelenia Góra Łomnica
+665|Mysłakowice|Sułkowskiego|1|58-533|Mysłakowice
+666|Mysłakowice|Sułkowskiego|1|58-533|Mysłakowice
+667|Mysłakowice|Sułkowskiego|1|58-533|Mysłakowice
+668|Łomnica|Świerczewskiego|160|58-508|Jelenia Góra 14
+669|Łomnica|Świerczewskiego|160|58-508|Jelenia Góra 14
+670|Łomnica|Świerczewskiego|160|58-508|Jelenia Góra 14
+671|Podgórzyn|Zołnierska|99|58-562|Podgórzyn
+672|Podgórzyn|Żołnierska|113|58-562|Podgórzyn
+673|Ściegny|NULL|110|58-535|Miłków
+674|Sosnówka|Strażacka|7|58-564|Sosnówka
+675|Sosnówka|Szkolna|5|58-564|Sosnówka
+676|Miłków|SZKOLNA|95|58-535|KARPACZ
+677|Miłków|SZKOLNA|95|58-535|KARPACZ
+678|Miłków|SZKOLNA|95|58-535|KARPACZ
+679|Miłków|NULL|138|58-535|Miłków
+680|Miłków|NULL|138|58-535|Miłków
+681|Miłków|NULL|138|58-535|Miłków
+682|Miłków|NULL|138|58-535|Miłków
+683|Stara Kamienica|NULL|65|58-512|Stara Kamienica
+684|Wojcieszyce|Wojcieszyce|107|58-560|Jelenia Góra
+685|Barcinek|Barcinek|10b|58-512|Stara Kamienica
+686|Kopaniec|Kopaniec|78|58-512|Stara Kamienica
+687|Stara Kamienica|NULL|70|58-512|Stara Kamienica
+688|Kamienna Góra|Spacerowa|12|58-400|Kamienna Góra
+689|Kamienna Góra|Kościuszki|4|58-400|Kamienna Góra
+690|Kamienna Góra|Papieża Jana Pawła II|20|58-400|Kamienna Góra
+691|Kamienna Góra|Parkowa|3|58-400|Kamienna Góra
+692|Kamienna Góra|PLAC KOŚCIELNY|1|58-400|KAMIENNA GÓRA
+693|Kamienna Góra|Jeleniogórska|7|58-400|Kamienna Góra
+694|Kamienna Góra|Jeleniogórska|7|58-400|Kamienna Góra
+695|Kamienna Góra|Traugutta|2|58-400|Kamienna Góra
+696|Kamienna Góra|LUBAWSKA|8|58-400|KAMIENNA GÓRA
+697|Kamienna Góra|Traugutta|2|58-400|Kamienna Góra
+698|Kamienna Góra|Traugutta|2|58-400|Kamienna Góra
+699|Kamienna Góra|BRONIEWSKIEGO|15|58-400|KAMIENNA GÓRA
+700|Kamienna Góra|K. Miarki|27|58-400|Kamienna Góra
+701|Kamienna Góra|Katowicka|13|58-400|Kamienna Góra
+702|Kamienna Góra|wałbrzyska|15|58-400|Kamienna Góra
+703|Kamienna Góra|Papieża Jana Pawła II|17|58-400|Kamienne Góra
+704|Kamienna Góra|Papieża Jana Pawła II|17|58-400|Kamienna Góra
+705|Kamienna Góra|Papieża Jana Pawła II|17|58-400|Kamienna Góra
+706|Kamienna Góra|Papieża Jana Pawła II|17|58-400|Kamienna Góra
+707|Kamienna Góra|Lubawska|8|58-400|Kamienna Góra
+708|Kamienna Góra|Lubawska|8|58-400|Kamienna Góra
+709|Kamienna Góra|Lubawska|8|58-400|Kamienna Góra
+710|Kamienna Góra|Marii Skłodowskiej-Curie|2|58-400|Kamienna Góra
+711|Kamienna Góra|Marii Skłodowskiej-Curie|2|58-400|Kamienna Góra
+712|Kamienna Góra|Marii Skłodowskiej-Curie|2|58-400|Kamienna Góra
+713|Kamienna Góra|Marii Skłodowskiej-Curie|2|58-400|Kamienna Góra
+714|Kamienna Góra|M. FORNALSKIEJ|11|58-400|KAMIENNA GÓRA
+715|Kamienna Góra|M. FORNALSKIEJ|11|58-400|KAMIENNA GÓRA
+716|Kamienna Góra|M. FORNALSKIEJ|11|58-400|KAMIENNA GÓRA
+717|Kamienna Góra|M. FORNALSKIEJ|11|58-400|KAMIENNA GÓRA
+718|Kamienna Góra|Traugutta|2|58-400|Kamienna Góra
+719|Kamienna Góra|Traugutta|2|58-400|Kamienna Góra
+720|Kamienna Góra|Traugutta|2|58-400|Kamienna Góra
+721|Kamienna Góra|Traugutta|2|58-400|Kamienna Góra
+722|Kamienna Góra|Traugutta|2|58-400|Kamienna Góra
+723|Krzeszów|Betlejemska|1A|58-400|Kamienna Góra
+724|Ptaszków|ptaszków|49|58-400|Kamienna Góra
+725|Szarocin|SZAROCIN|53|58-400|KAMIENNA GÓRA
+726|Pisarzowice|Pisarzowice|149|58-100|Kamienna Góra
+727|Czadrów|czadrów|26|58-105|Krzeszów
+728|Przedwojów|Przedwojów|43a|58-402|Kamienna Góra
+729|Raszów|Raszów|91|58-402|Kamienna Góra
+730|Pisarzowice|0|149|58-400|KAMIENNA GÓRA
+731|Pisarzowice|0|149|58-400|KAMIENNA GÓRA
+732|Pisarzowice|0|149|58-400|KAMIENNA GÓRA
+733|Krzeszów|Betlejemska|1|58-400|Krzeszów
+734|Krzeszów|Betlejemska|1|58-400|Krzeszów
+735|Krzeszów|Betlejemska|1|58-400|Krzeszów
+736|Miszkowice|NULL|8|58-420|Lubawka
+737|Lubawka|Szymrychowska|23|58-420|Lubawka
+738|Chełmsko Śląskie|Kolonia|14|58-420|Lubawka
+739|Chełmsko Śląskie|Kolonia|14|58-420|Lubawka
+740|Chełmsko Śląskie|Kolonia|14|58-420|Lubawka
+741|Chełmsko Śląskie|Kolonia|14|58-420|Lubawka
+742|Lubawka|MICKIEWICZA|4|58-420|LUBAWKA
+743|Lubawka|MICKIEWICZA|4|58-420|LUBAWKA
+744|Lubawka|SZYMRYCHOWSKA|7|58-420|LUBAWKA
+745|Lubawka|BOCZNA|13|58-420|LUBAWKA
+746|Marciszów|Szkolna|2|58-410|Marciszów
+747|Marciszów|Szkolna|2|58-410|Marciszów
+748|Marciszów|Szkolna|2|58-410|Marciszów
+749|Duszniki-Zdrój|KRAKOWSKA|3|57-340|DUSZNIKI-ZDRÓJ
+750|Duszniki-Zdrój|Wojska Polskiego|37|57-340|Duszniki Zdrój
+751|Duszniki-Zdrój|Wojska Polskiego|33|57-340|Duszniki Zdrój
+752|Duszniki-Zdrój|WYBICKIEGO|2A|57-340|DUSZNIKI-ZDRÓJ
+753|Duszniki-Zdrój|WYBICKIEGO|2A|57-340|DUSZNIKI-ZDRÓJ
+754|Duszniki-Zdrój|WYBICKIEGO|2A|57-340|DUSZNIKI-ZDRÓJ
+755|Duszniki-Zdrój|SPRZYMIERZONYCH|6|57-340|DUSZNIKI-ZDRÓJ
+756|Kłodzko|WARTY|6|57-300|KŁODZKO
+757|Kłodzko|Bohaterów Getta|9|57-300|Kłodzko
+758|Kłodzko|BOHATERÓW GETTA|3-4|57-300|KŁODZKO
+759|Kłodzko|Grunwaldzka|4|57-300|Kłodzko
+760|Kłodzko|RODZINNA|61|57-300|KŁODZKO
+761|Kłodzko|Przyjaciół Dzieci|3|57-300|Kłodzko
+762|Kłodzko|MICHAŁA DRZYMAŁY|1A|57-300|KŁODZKO
+763|Kłodzko|Jana Pawła II|4|57-300|Kłodzko
+764|Kłodzko|Bohaterów Getta|22|57-300|Kłodzko
+765|Kłodzko|Romualda Traugutta|1a|57-300|Kłodzko
+766|Kłodzko|ZAWISZY CZARNEGO|3-5|57-300|KŁODZKO
+767|Kłodzko|Szkolna|8|57-300|Kłodzko
+768|Kłodzko|Warty|70|57-300|Kłodzko
+769|Kłodzko|Plac Jagiełły|6|57-300|Kłodzko
+770|Kłodzko|Zawiszyn Czarnego|5|57-300|Kłodzko
+771|Kłodzko|Jana Pawła II|4|57-300|Kłodzko
+772|Kłodzko|Daszyńskiego|8a|57-300|Kłodzko
+773|Kłodzko|Daszyńskiego|8a|57-300|Kłodzko
+774|Kłodzko|Daszyńskiego|8a|57-300|Kłodzko
+775|Kłodzko|Zawiszy Czarnego|5|57-300|Kłodzko
+776|Kłodzko|Rodzinna|83|57-300|Kłodzko
+777|Kłodzko|Daszyńskiego|8a|57-300|Kłodzko
+778|Kłodzko|Daszyńskiego|8a|57-300|Kłodzko
+779|Kłodzko|Jana Pawła II|4|57-300|Kłodzko
+780|Kłodzko|Jana Pawła II|4|57-300|Kłodzko
+781|Kłodzko|Rodzinna|83|57-300|Kłodzko
+782|Kłodzko|Daszyńskiego|8a|57-300|Kłodzko
+783|Kłodzko|Kościuszki|8|57-300|Kłodzko
+784|Kłodzko|Plac Władysława Jagiełły|6|57-300|Kłodzko
+785|Kłodzko|Plac Władysława Jagiełły|6|57-300|Kłodzko
+786|Kłodzko|OKRZEI|2a|57-300|KŁODZKO
+787|Kłodzko|Jana Pawła II|4|57-300|Kłodzko
+788|Kłodzko|Rajska|1|57-300|Kłodzko
+789|Kłodzko|Rajska|1|57-300|Kłodzko
+790|Kłodzko|Rajska|1|57-300|Kłodzko
+791|Kłodzko|Nowy Świat|33|57-300|Kłodzko
+792|Kłodzko|Daszyńskiego|8a|57-300|Kłodzko
+793|Kłodzko|Rodzinna|83|57-300|Kłodzko
+794|Kłodzko|Kościuszki|1|57-300|Kłodzko
+795|Kłodzko|Wolności|83|57-300|Kłodzko
+796|Kłodzko|Wojska Polskiego|14|57-300|Kłodzko
+797|Kłodzko|Warty|6|57-300|Kłodzko
+798|Kłodzko|Mickiewicza|11|57-300|Kłodzko
+799|Kłodzko|Łużycka|13|57-300|Kłodzko
+800|Kłodzko|Bohaterów Getta|16|57-300|KŁODZKO
+801|Kłodzko|DUNIKOWSKIEGO|1/II/46|57-300|KŁODZKO
+802|Kłodzko|JANA PAWŁA II|2|57-300|Kłodzko
+803|Kłodzko|PLAC BOLESŁAWA CHROBREGO|15|57-300|KŁODZKO
+804|Kłodzko|Szkolna|8|57-300|Kłodzko
+805|Kłodzko|Szkolna|8|57-300|Kłodzko
+806|Kłodzko|Szkolna|8|57-300|Kłodzko
+807|Kłodzko|Szkolna|8|57-300|Kłodzko
+808|Kłodzko|Szkolna|8|57-300|Kłodzko
+809|Kłodzko|Sienkiewicza|61|57-300|Kłodzko
+810|Kłodzko|Sienkiewicza|61|57-300|Kłodzko
+811|Kłodzko|Sienkiewicza|61|57-300|Kłodzko
+812|Kłodzko|Bohaterów Getta|6D|57-300|Kłodzko
+813|Bystrzyca Kłodzka|Słowackiego|4|57-500|Bystrzyca Kłodzka
+814|Kłodzko|Bohaterów Getta|6C|57-300|Kłodzko
+815|Kłodzko|Piłsudzkiego|4|57-400|Nowa Ruda
+816|Bystrzyca Kłodzka|Sienkiewicza|8|57-500|Bystrzyca Kł
+817|Duszniki-Zdrój|Sprzymierzonych|5|57-340|Duszniki-Zdrój
+818|Kłodzko|Szkolna|8|57-300|Kłodzko
+819|Nowa Ruda|Niepodległości|6-8|57-400|Nowa Ruda
+820|Kłodzko|Szkolna|8|57-300|Kłodzko
+821|Kłodzko|Szkolna|8|57-300|Kłodzko
+822|Kłodzko|Szkolna|8|57-300|Kłodzko
+823|Kłodzko|Zamiejska|24|57-300|Kłodzko
+824|Kłodzko|Zamiejska|24|57-300|Kłodzko
+825|Kłodzko|Zamiejska|24|57-300|Kłodzko
+826|Kłodzko|WOJSKA POLSKIEGO|11|57-300|KŁODZKO
+827|Kłodzko|WOJSKA POLSKIEGO|11|57-300|KŁODZKO
+828|Kłodzko|WOJSKA POLSKIEGO|11|57-300|KŁODZKO
+829|Kłodzko|Bohaterów Getta|6|57-300|Kłodzko
+830|Kłodzko|Bohaterów Getta|6|57-300|Kłodzko
+831|Kłodzko|Bohaterów Getta|6|57-300|Kłodzko
+832|Kłodzko|Bohaterów Getta|6|57-300|Kłodzko
+833|Kłodzko|Bohaterów Getta|6|57-300|Kłodzko
+834|Kłodzko|Bohaterów Getta|6|57-300|Kłodzko
+835|Kłodzko|Bohaterów Getta|6|57-300|Kłodzko
+836|Kłodzko|Wyspiańskiego|2|57-300|Kłodzko
+837|Kłodzko|Wyspiańskiego|2|57-300|Kłodzko
+838|Kłodzko|Wyspiańskiego|2|57-300|Kłodzko
+839|Kłodzko|Wyspiańskiego|2|57-300|Kłodzko
+840|Kłodzko|ŁUKASIŃSKIEGO|1|57-300|KŁODZKO
+841|Kłodzko|ŁUKASIŃSKIEGO|1|57-300|KŁODZKO
+842|Kłodzko|ŁUKASIŃSKIEGO|1|57-300|KŁODZKO
+843|Kłodzko|ŁUKASIŃSKIEGO|1|57-300|KŁODZKO
+844|Kłodzko|ŁUKASIŃSKIEGO|1|57-300|KŁODZKO
+845|Kłodzko|ŁUŻYCKA|8|57-300|KŁODZKO
+846|Kłodzko|ŁUŻYCKA|8|57-300|KŁODZKO
+847|Kłodzko|ŁUŻYCKA|8|57-300|KŁODZKO
+848|Kłodzko|Daszyńskiego|12|57-300|Kłodzko
+849|Kłodzko|Daszyńskiego|12|57-300|Kłodzko
+850|Kłodzko|Daszyńskiego|12|57-300|Kłodzko
+851|Kłodzko|Daszyńskiego|12|57-300|Kłodzko
+852|Kudowa-Zdrój|1 MAJA|16|57-350|KUDOWA-ZDRÓJ
+853|Kudowa-Zdrój|Zdrojowa|34|57-350|Kudowa-Zdrój
+854|Kudowa-Zdrój|KOŚCIUSZKI|58|57-350|KUDOWA-ZDRÓJ
+855|Kudowa-Zdrój|UL.SZKOLNA|8|57-350|KUDOWA ZDRÓJ
+856|Kudowa-Zdrój|ZDROJOWA 16/18|1|57-350|KUDOWA ZDRÓJ
+857|Kudowa-Zdrój|Szkolna|8|57-350|Kudowa-Zdroj
+858|Kudowa-Zdrój|Szkolna|8|57-350|Kudowa-Zdroj
+859|Kudowa-Zdrój|Zdrojowa|22a|57-350|Kudowa-Zdroj
+860|Kudowa-Zdrój|Zdrojowa|22a|57-350|Kudowa-Zdroj
+861|Kudowa-Zdrój|Szkolna|8|57-350|Kudowa-Zdroj
+862|Kudowa-Zdrój|Zdrojowa|22a|57-350|Kudowa-Zdroj
+863|Kudowa-Zdrój|BUKOWINA|1|57-350|KUDOWA ZDRÓJ
+864|Kudowa-Zdrój|BUKOWINA|1|57-350|KUDOWA ZDRÓJ
+865|Kudowa-Zdrój|BUKOWINA|1|57-350|KUDOWA ZDRÓJ
+866|Kudowa-Zdrój|Słoneczna|17|57-350|Kudowa Zdrój
+867|Kudowa-Zdrój|Słoneczna|17|57-350|Kudowa Zdrój
+868|Kudowa-Zdrój|Słoneczna|17|57-350|Kudowa Zdrój
+869|Kudowa-Zdrój|Słone|72|57-350|Kudowa Zdrój
+870|Kudowa-Zdrój|Słone|72|57-350|Kudowa Zdrój
+871|Kudowa-Zdrój|Słone|72|57-350|Kudowa Zdrój
+872|Kudowa-Zdrój|Słone|72|57-350|Kudowa Zdrój
+873|Nowa Ruda|Kolejowa|15|57-400|Nowa Ruda
+874|Nowa Ruda|osiedle XXX-lecia|14|57-402|NowaRuda
+875|Nowa Ruda|Kościelna|10|57-400|Nowa Ruda
+876|Nowa Ruda|Słupiecka|5|57-402|Nowa Ruda
+877|Nowa Ruda|Radkowska|22|57-402|NOWA RUDA
+878|Nowa Ruda|Sportowa|1a|57-400|Nowa Ruda
+879|Nowa Ruda|Szkolna|3|57-402|Nowa Ruda
+880|Nowa Ruda|SREBRNA|11|57-400|NOWA RUDA
+881|Nowa Ruda|Mikołaja Kopernika|4-6|57-400|Nowa Ruda
+882|Nowa Ruda|Akacjowa|8|57-402|Nowa Ruda
+883|Nowa Ruda|Osielde Piastowskie|17|57-400|Nowa Ruda
+884|Nowa Ruda|os.XXX-lecia|5/2/3|57-402|Nowa Ruda
+885|Nowa Ruda|Stara Droga|8|57-401|Nowa Ruda
+886|Nowa Ruda|os. XXX-lecia|5/2/3|57-402|Nowa Ruda
+887|Nowa Ruda|S. Żeromskiego|3/1|57-400|Nowa Ruda
+888|Nowa Ruda|Stara Droga|39|57-401|Nowa Ruda
+889|Nowa Ruda|Stara Droga|39|57-401|Nowa Ruda
+890|Nowa Ruda|Stara Droga|39|57-401|Nowa Ruda
+891|Nowa Ruda|Stara Droga|39|57-401|Nowa Ruda
+892|Nowa Ruda|Stara Droga|4|57-401|Nowa Ruda
+893|Nowa Ruda|Stara Droga|4|57-401|Nowa Ruda
+894|Nowa Ruda|Stara Droga|4|57-401|Nowa Ruda
+895|Nowa Ruda|Kopernika|8|57-400|Nowa Ruda
+896|Nowa Ruda|Kopernika|8|57-400|Nowa Ruda
+897|Nowa Ruda|Kopernika|8|57-400|Nowa Ruda
+898|Nowa Ruda|Kopernika|8|57-400|Nowa Ruda
+899|Nowa Ruda|Stara Droga|4|57-401|Nowa Ruda
+900|Nowa Ruda|Stara Droga|4|57-401|Nowa Ruda
+901|Nowa Ruda|Stara Droga|4|57-401|Nowa Ruda
+902|Polanica-Zdrój|Wojska Polskiego|10|57-320|Polanica-Zdrój
+903|Polanica-Zdrój|ZDROJOWA|34|57-320|POLANICA ZDRÓJ
+904|Polanica-Zdrój|Staffa|41|57-320|Polanica Zdrój
+905|Polanica-Zdrój|Staffa|41|57-320|Polanica-Zdrój
+906|Polanica-Zdrój|Wojska Polskiego|23|57-320|Polanica- Zdrój
+907|Polanica-Zdrój|Kościuszki|13|57-320|Polanica Zdrój
+908|Polanica-Zdrój|Zdrojowa|34|57-320|Polanica-Zdrój
+909|Polanica-Zdrój|Kościuszki|15|57-320|Polanica Zdrój
+910|Polanica-Zdrój|Kościelna|2|57-320|Polanica-Zdrój
+911|Polanica-Zdrój|Kościelna|2|57-320|Polanica-Zdrój
+912|Polanica-Zdrój|Kościelna|2|57-320|Polanica-Zdrój
+913|Polanica-Zdrój|Kościelna|2|57-320|Polanica-zdrój
+914|Polanica-Zdrój|KOŚCIUSZKI|13|57-320|POLANICA - ZDRÓJ
+915|Polanica-Zdrój|Wojska Polskiego|23|57-350|Polanica-Zdrój
+916|Polanica-Zdrój|Wojska Polskiego|23|57-350|Polanica-Zdrój
+917|Polanica-Zdrój|Wojska Polskiego|23|57-320|Polanica-Zdrój
+918|Bystrzyca Kłodzka|Mickiewicza|10|57-500|Bystrzyca Kłodzka
+919|Bystrzyca Kłodzka|Wojska Polskiego|20|57-500|Bystrzyca Kłodzka
+920|Stara Łomnica|-|64|57-521|Gorzanów
+921|Bystrzyca Kłodzka|Wojska Polskiego|68|57-500|Bystrzyca Kłodzka
+922|Bystrzyca Kłodzka|Wojska Polskiego|8|57-500|Bystrzyca Kłodzka
+923|Długopole Dolne|NULL|36|57-520|DŁUGOPOLE ZDRÓJ
+924|Stary Waliszów|NULL|7|57-500|Bystrzyca Kłodzka
+925|Pławnica|NULL|2|57-500|Bystrzyca Kłodzka
+926|Gorzanów|Kłodzka|8|57-521|GORZANÓW
+927|Bystrzyca Kłodzka|Wojska Polskiego|68|57-500|Bystrzyca Kłodzka
+928|Gorzanów|Kłodzka|8|57-521|Gorzanów
+929|Bystrzyca Kłodzka|Wojska Polskiego|8|57-500|Bystrzyca Kłodzka
+930|Bystrzyca Kłodzka|Stefana Okrzei|34|57-500|BYSTRZYCA KŁODZKA
+931|Bystrzyca Kłodzka|Stefana Okrzei|34|57-500|Bystrzyca Kłodzka
+932|Gorzanów|Kłodzka|2|57-500|Bystrzyca Kłodzka
+933|Długopole-Zdrój|Zdrojowa|11|57-520|Długopole Zdrój
+934|Długopole-Zdrój|Zdrojowa|11|57-520|Długopole Zdrój
+935|Długopole-Zdrój|Zdrojowa|11|57-520|Długopole Zdrój
+936|Długopole-Zdrój|Zdrojowa|11|57-520|Długopole Zdrój
+937|Długopole-Zdrój|Zdrojowa|22|57-520|Długopole-Zdrój
+938|Gorzanów|Kłodzka|8|57-521|Gorzanów
+939|Stara Łomnica|NULL|64|57-521|Gorzanów
+940|Wilkanów|NULL|136/1|57-500|Bystrzyca Kłodzka
+941|Bystrzyca Kłodzka|ST.Sempołowskiej|13|57-500|Bystrzyca Kłodzka
+942|Bystrzyca Kłodzka|ST.Sempołowskiej|13|57-500|Bystrzyca Kłodzka
+943|Bystrzyca Kłodzka|ST.Sempołowskiej|13|57-500|Bystrzyca Kłodzka
+944|Bystrzyca Kłodzka|SEMPOŁOWSKIEJ|13|57-500|BYSTRZYCA KŁODZKA
+945|Bystrzyca Kłodzka|SEMPOŁOWSKIEJ|13|57-500|BYSTRZYCA KŁODZKA
+946|Bystrzyca Kłodzka|Słowackiego|4|57-500|Bystrzyca Kłodzka
+947|Bystrzyca Kłodzka|Słowackiego|4|57-500|Bystrzyca Kłodzka
+948|Bystrzyca Kłodzka|Słowackiego|4|57-500|Bystrzyca Kłodzka
+949|Bystrzyca Kłodzka|Słowackiego|4|57-500|Bystrzyca Kłodzka
+950|Wilkanów|NULL|138D|57-500|Bystrzyca Kłodzka
+951|Wilkanów|NULL|138D|57-500|Bystrzyca Kłodzka
+952|Wilkanów|NULL|138D|57-500|Bystrzyca Kłodzka
+953|Bystrzyca Kłodzka|NULL|NULL|57-500|Bystrzyca Kłodzka
+954|Bystrzyca Kłodzka|NULL|NULL|57-500|Bystrzyca Kłodzka
+955|Ołdrzychowice Kłodzkie|Osiedlowa|7|57-360|Ołdrzychowice Kłodzkie
+956|Krosnowice|SPORTOWA|12|57-362|Krosnowice
+957|Szalejów Dolny|Szalejów Dolny|100|57-314|Szalejów Górny
+958|Bierkowice|Bierkowice|3|57-300|Kłodzko
+959|Jaszkowa Dolna|00000|37|57-312|Jaszkowa Górna
+960|Szalejów Górny|Szalejów Górny|48|57-314|Szalejów Górny
+961|Jaszkowa Dolna|NULL|63E|57-312|Jaszkowa Górna
+962|Krosnowice|-|207|57-362|Krosnowice
+963|Ołdrzychowice Kłodzkie|Sportowa|1E|57-360|Ołdrzychowice Kłodzkie
+964|Piszkowice|NULL|53|57-300|KŁODZKO
+965|Krosnowice|NULL|213|57-362|KROSNOWICE
+966|Krosnowice|NULL|213|57-362|KROSNOWICE
+967|Krosnowice|NULL|213|57-362|Krosnowice
+968|Wojbórz|NULL|52|57-442|WOJBÓRZ
+969|Wojbórz|NULL|52|57-442|WOJBÓRZ
+970|Wojbórz|NULL|52|57-442|WOJBÓRZ
+971|Żelazno|NULL|101|57-361|Żelazno
+972|Żelazno|NULL|101|57-361|Żelazno
+973|Żelazno|NULL|101|57-361|Żelazno
+974|Lądek-Zdrój|PADEREWSKIEGO|2|57-540|LĄDEK - ZDRÓJ
+975|Trzebieszowice|brak|150|57-540|Lądek Zdrój
+976|Lądek-Zdrój|Kościelna|31|57-540|Lądek Zdrój
+977|Lądek-Zdrój|Zamenhofa|2|57-540|Lądek- Zdrój
+978|Lądek-Zdrój|POLNA|2|57-540|LĄDEK-ZDRÓJ
+979|Lewin Kłodzki|KOŚCIELNA|1|57-343|LEWIN KŁODZKI
+980|Lewin Kłodzki|KOŚCIELNA|1|57-343|LEWIN KŁODZKI
+981|Lewin Kłodzki|KOŚCIELNA|1|57-343|LEWIN KŁODZKI
+982|Lewin Kłodzki|KOŚCIELNA|1|57-343|LEWIN KŁODZKI
+983|Międzylesie|Wojska Polskiego|25|57-530|Międzylesie
+984|Domaszków|Kolejowa|10|57-522|Domaszków
+985|Domaszków|Kolejowa|10|57-522|Domaszków
+986|Domaszków|Międzyleska|33|57-522|Domaszków
+987|Domaszków|Kolejowa|10|57-522|Domaszków
+988|Międzylesie|Bolesława Chrobrego|2|57-530|Międzylesie
+989|Międzylesie|Bolesława Chrobrego|2|57-530|Międzylesie
+990|Międzylesie|Bolesława Chrobrego|2|57-530|Międzylesie
+991|Wolibórz|nie ma|106|57-431|Wolibórz
+992|Przygórze|NULL|207a|57-431|Wolibórz
+993|Ludwikowice Kłodzkie|WIEJSKA|9|57-450|LUDWIKOWICE
+994|Wolibórz|NULL|55|57-431|Wolibórz
+995|Jugów|Główna|105|57-450|Ludwikowice
+996|Ludwikowice Kłodzkie|WIEJSKA|9|57-450|LUDWIKOWICE
+997|Ludwikowice Kłodzkie|Wiejska|9|57-450|Ludwikowice
+998|Bożków|-|89E|57-441|Bożków
+999|Bożków|-|55|57-441|Bożków
+1000|Bożków|-|89E|57-441|Bożków
+1001|Bożków|-|89E|57-441|Bożków
+1002|Bożków|Bożków|89a|57-441|Bożków
+1003|Bożków|Bożków|89a|57-441|Bożków
+1004|Bożków|Bożków|89a|57-441|Bożków
+1005|Bożków|Bożków|89a|57-441|Bożków
+1006|Jugów|GŁÓWNA|85|57-430|JUGÓW
+1007|Jugów|GŁÓWNA|131|57-430|JUGÓW
+1008|Jugów|GŁÓWNA|85|57-430|JUGÓW
+1009|Ludwikowice Kłodzkie|Wiejska|1|57-450|Ludwikowice Kłodzkie
+1010|Ludwikowice Kłodzkie|Główna|38|57-450|Ludwikowice Kłodzkie
+1011|Ludwikowice Kłodzkie|Wiejska|1|57-450|Ludwikowice Kłodzkie
+1012|Włodowice|NULL|25|57-400|Nowa Ruda
+1013|Włodowice|NULL|25|57-400|Nowa Ruda
+1014|Włodowice|NULL|25|57-400|Nowa Ruda
+1015|Włodowice|NULL|50|57-400|Nowa Ruda
+1016|Dzikowiec|NULL|95|57-432|DZIKOWIEC
+1017|Dzikowiec|NULL|95|57-432|DZIKOWIEC
+1018|Dzikowiec|NULL|95|57-432|DZIKOWIEC
+1019|Dzikowiec|NULL|94|57-432|DZIKOWIEC
+1020|Radków|ul. Konstytucji 3-go maja|1|57-420|Radków
+1021|Ścinawka Dolna|NULL|21 B|57-420|Radków
+1022|Ścinawka Dolna|NULL|21 b|57-420|Radków
+1023|Ścinawka Dolna|NULL|21 b|57-420|Radków
+1024|Ścinawka Dolna|NULL|21a|57-410|Ścinawka Średnia
+1025|Ścinawka Dolna|NULL|21a|57-410|Ścinawka Średnia
+1026|Ścinawka Dolna|NULL|21a|57-410|Ścinawka Średnia
+1027|Wambierzyce|Szpitalna|5|57-420|Radków
+1028|Wambierzyce|Szpitalna|5|57-420|Radków
+1029|Wambierzyce|Szpitalna|5|57-420|Radków
+1030|Radków|Jagiellońska|2|57-420|Radków
+1031|Radków|Jagiellońska|2|57-420|Radków
+1032|Radków|Jagiellońska|5|57-420|Radków
+1033|Ścinawka Średnia|Sikorskiego|34|57-410|Ścinawka Średnia
+1034|Ścinawka Średnia|Sikorskiego|34|57-410|Ścinawka Średnia
+1035|Ścinawka Średnia|Sikorskiego|34|57-410|Ścinawka Średnia
+1036|Stronie Śląskie|Nadbrzeżna|30|57-550|Stronie Śląskie
+1037|Stronie Śląskie|KOŚCIUSZKI|57|57-550|STRONIE ŚLĄSKIE
+1038|Bolesławów|NULL|41|57-550|Stronie Śląskie
+1039|Stronie Śląskie|Kościelna|12|57-550|Stronie Śląskie
+1040|Stronie Śląskie|Kościelna|12|57-550|Stronie Śląskie
+1041|Stronie Śląskie|Kościelna|12|57-550|Stronie Śląskie
+1042|Stronie Śląskie|Kościelna|12|57-550|Stronie Śląskie
+1043|Stronie Śląskie|Kościelna|12|57-550|Stronie Śląskie
+1044|Szczytna|Leśna|1|57-330|Szczytna
+1045|Szczytna|Kościelna|6|57-330|Szczytna
+1046|Szczytna|Wolności|80|57-330|Szczytna
+1047|Chocieszów|Chocieszów|32|57-320|Polanica Zdrój
+1048|Chocieszów|Chocieszów|32|57-320|Polanica Zdrój
+1049|Chocieszów|Chocieszów|32|57-320|Polanica Zdrój
+1050|Chocieszów|Chocieszów|32|57-320|Polanica Zdrój
+1051|Chojnów|Wojska Polskiego|18|59-225|Chojnów
+1052|Chojnów|Krasickiego|1|59-225|Chojnów
+1053|Chojnów|Gen. St. Maczka|2|59-225|Chojnów
+1054|Chojnów|DĄBROWSKIEGO|4|59-225|CHOJNÓW
+1055|Chojnów|TADEUSZA KOŚCIUSZKI|30|59-225|CHOJNÓW
+1056|Chojnów|Kilińskiego|23|59-225|Chojnów
+1057|Chojnów|Reymonta|1|59-225|Chojnów
+1058|Chojnów|Konarskiego|4|59-225|CHOJNÓW
+1059|Chojnów|Plac Zamkowy|2|59-225|CHOJNÓW
+1060|Chojnów|Dąbrowskiego|4|59-225|Chojnów
+1061|Chojnów|Fabryczna|1|59-225|Chojnów
+1062|Chojnów|Witosa|1|52-225|Chojnów
+1063|Chojnów|Witosa|1|59-225|Chojnów
+1064|Chojnów|Witosa|1|52-225|Chojnów
+1065|Chojnów|ul. Wincentego Witosa|1|55-925|Chojnów
+1066|Chojnów|Witosa|1|59-225|Chojnów
+1067|Chojnów|Witosa|1|59-225|Chojnów
+1068|Budziwojów|NULL|21a|59-225|Chojnów
+1069|Krzywa|NULL|52|59-225|Chojnów
+1070|Niedźwiedzice|Niedźwiedzice|16|59-225|CHOJNÓW
+1071|Okmiany|NULL|65|59-225|Chojnów
+1072|Stary Łom|NULL|42|59-225|Chojnów
+1073|Goliszów|Goliszów|35|59-225|Chojnów
+1074|Krzywa|NULL|51|59-225|Chojnów
+1075|Rokitki|ROKITKI|32A|59-225|CHOJNÓW
+1076|Rokitki|ROKITKI|32A|59-225|CHOJNÓW
+1077|Rokitki|ROKITKI|32A|59-225|CHOJNÓW
+1078|Babin|Kościelec|9|59-223|Krotoszyce
+1079|Babin|Koscielec|9|59-223|Krotoszyce
+1080|Krotoszyce|Mikołaja Kopernika|9/4|59-223|Krotoszyce
+1081|Krotoszyce|PIASTOWSKA|41|59-223|KROTOSZYCE
+1082|Krotoszyce|PIASTOWSKA|41|59-223|KROTOSZYCE
+1083|Krotoszyce|PIASTOWSKA|41|59-223|KROTOSZYCE
+1084|Rosochata|NULL|65|59-216|Kunice
+1085|Bieniowice|--|57|59-216|KUNICE
+1086|Kunice|Staropolska|4|59-216|Kunice
+1087|Spalona|Legnicka|52|59-216|Kunice
+1088|Kunice|Staropolska|6 B|59-216|KUNICE
+1089|Bartoszów|NULL|43|59-241|Legnickie Pole
+1090|Bartoszów|NULL|12a|59-241|LEGNICKIE POLE
+1091|Legnickie Pole|Asama|7|59-241|Legnickie Pole
+1092|Legnickie Pole|Asama|7|59-241|Legnickie Pole
+1093|Legnickie Pole|Asama|7|59-241|Legnickie Pole
+1094|Legnickie Pole|Asama|7|59-241|Legnickie Pole
+1095|Miłkowice|II Armii Wojska Polskiego|34|59-222|Miłkowice
+1096|Rzeszotary|Wiejska|68|59-222|Miłkowice
+1097|Miłkowice|II Armii Wojska Polskiego|75 A|59-222|Miłkowice
+1098|Miłkowice|II Armii Wojska Polskiego|75 A|59-222|Miłkowice
+1099|Miłkowice|II Armii Wojska Polskiego|75|59-222|Miłkowice
+1100|Prochowice|Kościuszki|1|59-230|Prochowice
+1101|Dąbie|NULL|5a|59-230|Prochowice
+1102|Prochowice|Młyńska|3|59-230|Prochowice
+1103|Prochowice|T. Kościuszki|2|59-230|Prochowice
+1104|Prochowice|Tadeusza Kościuszki|2|59-230|Prochowice
+1105|Wągrodno|NULL|35|59-243|RUJA
+1106|Ruja|NULL|61|59-220|Ruja
+1107|Ruja|NULL|18d|59-243|RUJA
+1108|Lubań|Mickiewicza|1b|59-800|Lubań
+1109|Lubań|Różana|1|59-800|Lubań
+1110|Lubań|Mieszka II|1|59-800|Lubań
+1111|Lubań|ARMII KRAJOWEJ|9|59-800|LUBAŃ
+1112|Lubań|MICKIEWICZA|1C|59-800|LUBAŃ
+1113|Lubań|Słoneczna|2|59-800|Lubań
+1114|Lubań|Mickiewicza|1|59-800|Lubań
+1115|Lubań|Dolna|8|59-800|Lubań
+1116|Lubań|Górna|1|59-800|Lubań
+1117|Lubań|Kopernika|15|59-800|Lubań
+1118|Lubań|Skalnicza|3|59-800|Lubań
+1119|Lubań|ADAMA MICKIEWICZA|1|59-800|LUBAŃ
+1120|Lubań|ul. Rybacka|16|59-800|Lubań
+1121|Lubań|Kombatantów|11|59-800|Lubań
+1122|Lubań|Władysława Łokietka|2|59-800|Lubań
+1123|Lubań|WŁ. ŁOKIETKA|2|59-800|Lubań
+1124|Lubań|Kopernika|1|59-800|Lubań
+1125|Lubań|Kopernika|35|59-800|Lubań
+1126|Lubań|Kopernika|35|59-800|Lubań
+1127|Lubań|Kopernika|1|59-800|Lubań
+1128|Lubań|Aleja Kombatantów|2|59-800|Lubań
+1129|Lubań|Aleja Kombatantów|2|59-800|Lubań
+1130|Lubań|Aleja Kombatantów|2|59-800|Lubań
+1131|Lubań|Kopernika|31|59-800|Lubań
+1132|Lubań|Kopernika|31|59-800|Lubań
+1133|Lubań|Kopernika|31|59-800|Lubań
+1134|Lubań|Kopernika|31|59-800|Lubań
+1135|Lubań|Władysława Łokietka|2|59-800|Lubań
+1136|Lubań|Władysława Łokietka|2|59-800|Lubań
+1137|Lubań|Władysława Łokietka|2|59-800|Lubań
+1138|Lubań|Leśna|8|59-800|Lubań
+1139|Lubań|Leśna|8|59-800|Lubań
+1140|Lubań|Leśna|8|59-800|Lubań
+1141|Lubań|Leśna|8|59-800|Lubań
+1142|Lubań|Leśna|8|59-800|Lubań
+1143|Lubań|Leśna|8|59-800|Lubań
+1144|Lubań|Leśna|8|59-800|Lubań
+1145|Świeradów-Zdrój|Sanatoryjna|3|59-850|Świeradów - Zdrój
+1146|Świeradów-Zdrój|Marii Skłodowskiej-Curie|4|59-850|Świeradów-Zdrój
+1147|Świeradów-Zdrój|Marii Skłodowskiej-Curie|2|59-850|Świeradów-Zdrój
+1148|Świeradów-Zdrój|Marii Skłodowskiej-Curie|2|59-850|Świeradów-Zdrój
+1149|Świeradów-Zdrój|Marszałka Józefa Piłsudskiego|17|59-850|Świeradów-Zdrój
+1150|Świeradów-Zdrój|Marii Skłodowskiej-Curie|2|59-850|Świeradów-Zdrój
+1151|Leśna|Swierczewskiego|42|59-820|Leśna
+1152|Smolnik|NULL|51/52|59-820|Leśna
+1153|Leśna|Baworowo|22b|59-820|Leśna
+1154|Szyszkowa|-|64|59-820|Leśna
+1155|Grabiszyce Średnie|0|14|59-820|Leśna
+1156|Smolnik|SMOLNIK|"51B, 52"|59-820|LEŚNA
+1157|Stankowice|Stankowice|97|59-820|Leśna
+1158|Leśna|Kościuszki|7-9|59-820|Leśna
+1159|Smolnik|NULL|22|59-820|Leśna
+1160|Smolnik|NULL|22|59-820|Leśna
+1161|Smolnik|NULL|22|59-820|LEŚNA
+1162|Pobiedna|Hetmańska|3|59-814|Pobiedna
+1163|Pobiedna|Dworcowa|NULL|59-814|Pobiedna
+1164|Pobiedna|Hetmańska|3|59-814|Pobiedna
+1165|Leśna|Kościuszki|7/9|59-820|Leśna
+1166|Leśna|Kościuszki|7/9|59-820|Leśna
+1167|Leśna|Kościuszki|7/9|59-820|Leśna
+1168|Leśna|Kościuszki|7/9|59-820|Leśna
+1169|Kościelnik|NULL|40|59-800|LUBAŃ
+1170|Pisarzowice|NULL|NULL|59-800|Lubań
+1171|Pisarzowice|Pisarzowice|285b|59-800|Lubań
+1172|Pisarzowice|Pisarzowice|285b|59-800|Lubań
+1173|Pisarzowice|Pisarzowice|285b|59-800|Lubań
+1174|Radogoszcz|Radogoszcz|62|59-800|Lubań
+1175|Radogoszcz|Radogoszcz|62|59-800|Lubań
+1176|Radogoszcz|Radogoszcz|62|59-800|Lubań
+1177|Radostów Średni|NULL|54|59-800|Lubań
+1178|Radostów Średni|NULL|54|59-800|Lubań
+1179|Radostów Średni|NULL|54|59-800|Lubań
+1180|Olszyna|MICKIEWICZA|2|59-830|OLSZYNA
+1181|Biedrzychowice|-|93|59-830|Olszyna
+1182|Olszyna|ŚWIERCZEWSKIEGO|20|59-830|OLSZYNA
+1183|Olszyna|Wolności|17|59-830|Olszyna
+1184|Olszyna|Wolności|17|59-830|Olszyna
+1185|Biedrzychowice|Biedrzychowice|20|59-830|Olszyna
+1186|Biedrzychowice|Biedrzychowice|20|59-830|Olszyna
+1187|Biedrzychowice|Biedrzychowice|20|59-830|Olszyna
+1188|Biedrzychowice|Biedrzychowice|20|59-830|Olszyna
+1189|Platerówka|NULL|213|59-816|Platerówka
+1190|Włosień|NULL|207|59-816|Platerówka
+1191|Zaręba|JANA BRZECHWY|6|59-800|LUBAŃ
+1192|Siekierczyn|brak|200A|59-818|Siekierczyn
+1193|Siekierczyn|brak|200A|59-818|Siekierczyn
+1194|Siekierczyn|brak|200A|59-818|Siekierczyn
+1195|Zaręba|Szkolna|2|59-800|Lubań
+1196|Zaręba|Szkolna|2|59-800|Lubań
+1197|Zaręba|Szkolna|2|59-800|Lubań
+1198|Lubin|Krupińskiego|17|59-300|Lubin
+1199|Lubin|Jastrzębia|2|59-300|Lubin
+1200|Lubin|1 MAJA|16B|59-300|LUBIN
+1201|Lubin|SOKOLA|44|59-300|LUBIN
+1202|Lubin|ORLA|75|59-300|LUBIN
+1203|Lubin|Staszica|2|59-300|Lubin
+1204|Lubin|Kilińskiego|35|59-300|Lubin
+1205|Lubin|Kosciuszki|10|59-300|Lubin
+1206|Lubin|Orzeszkowej|11|59-300|Lubin
+1207|Lubin|Łużycka|6|59-300|Lubin
+1208|Lubin|Osiedlowa|7 a|59-300|Lubin
+1209|Lubin|SZKOLNA|23|59-300|LUBIN
+1210|Lubin|II Armii Wojska Polskiego|21|59-300|Lubin
+1211|Lubin|Górnicza|2a/1|59-300|Lubin
+1212|Lubin|Sienkiewicza|5|59-300|Lubin
+1213|Lubin|Krucza|43 a|59-300|Lubin
+1214|Lubin|BUDZISZYŃSKA|8|59-300|lUBIN
+1215|Lubin|Parkowa|2|59-300|Lubin
+1216|Lubin|Pawia|41|59-300|Lubin
+1217|Lubin|Sportowa|35|59-300|Lubin
+1218|Lubin|Norwida|10|59-300|Lubin
+1219|Lubin|Wyszyńskiego|3|59-300|Lubin
+1220|Lubin|Sowia|7|59-300|Lubin
+1221|Lubin|Kilińskiego|12|59-300|Lubin
+1222|Lubin|Parkowa|2|59-300|Lubin
+1223|Lubin|LEGNICKA|1|59-300|LUBIN
+1224|Lubin|Sportowa|35|59-300|Lubin
+1225|Lubin|Szpakowa|2|59-300|Lubin
+1226|Lubin|M. Konopnickiej|5|59-300|LUBIN
+1227|Lubin|Szkolna|25|59-300|Lubin
+1228|Lubin|Szpakowa|2|59-300|Lubin
+1229|Lubin|Jana Pawła II|58|59-300|Lubin
+1230|Lubin|Kopernika|7|59-300|Lubin
+1231|Lubin|Niepodległości|31|59-300|Lubin
+1232|Lubin|Prusa|4|59-300|Lubin
+1233|Lubin|Odrodzenia|34|59-300|Lubin
+1234|Lubin|KOPERNIKA|8|59-300|LUBIN
+1235|Lubin|Niepodległości|31|59-300|Lubin
+1236|Lubin|Kościuszki|9|59-300|Lubin
+1237|Lubin|KOPERNIKA|16|59-300|LUBIN
+1238|Lubin|Szpakowa|1|59-300|Lubin
+1239|Lubin|Kościuszki|9|59-300|Lubin
+1240|Lubin|KOPERNIKA|16|59-300|LUBIN
+1241|Lubin|Niepodległości|31|59-300|Lubin
+1242|Lubin|KOPERNIKA|8|59-300|LUBIN
+1243|Lubin|M.Skłodowskiej-Curie|84|59-301|Lubin
+1244|Lubin|Szpakowa|1|59-300|Lubin
+1245|Lubin|KOPERNIKA|8|59-300|LUBIN
+1246|Lubin|Kościuszki|9|59-300|Lubin
+1247|Lubin|Kościuszki|9|59-300|Lubin
+1248|Lubin|KOPERNIKA|16|59-300|LUBIN
+1249|Lubin|Odrodzenia|34|59-300|Lubin
+1250|Lubin|KOPERNIKA|16|59-300|LUBIN
+1251|Lubin|Niepodległości|31|59-300|Lubin
+1252|Lubin|KOPERNIKA|16|59-300|LUBIN
+1253|Lubin|Kilińskiego|8|59-300|Lubin
+1254|Lubin|Komisji Edukacji Narodowej|6a|59-300|Lubin
+1255|Lubin|Komisji Edukacji Narodowej|6A|59-300|Lubin
+1256|Lubin|Siekniewicz|5|59-300|Lubin
+1257|Lubin|SPORTOWA|35|59-300|LUBIN
+1258|Lubin|Bolesława Prusa|4|59-300|Lubin
+1259|Lubin|KOMISJI EDUKACJI NARODOWEJ|6a|59-300|LUBIN
+1260|Lubin|Sportowa|35|59-300|Lubin
+1261|Lubin|Kopernika|8|59-300|Lubin
+1262|Lubin|M.SKłodowskiej-Curie|14c|59-300|LUBIN
+1263|Lubin|Kościuszki|9|59-300|Lubin
+1264|Lubin|Stefana Kisielewskiego|6|59-300|LUBIN
+1265|Lubin|ul. M. Skłodowskiej - Curie|84|59-300|Lubin
+1266|Lubin|KOPERNIKA|16|59-300|LUBIN
+1267|Lubin|KOPERNIKA|8|59-300|LUBIN
+1268|Lubin|Jastrzębia|7/37|59-300|Lubin
+1269|Lubin|TADEUSZA KOŚCIUSZKI|9|59-300|LUBIN
+1270|Lubin|Odrodzenia|34|59-300|Lubin
+1271|Lubin|Składowa|3|59-300|Lubin
+1272|Lubin|Szpakowa|1|59-300|Lubin
+1273|Lubin|Składowa|3|59-300|Lubin
+1274|Lubin|Składowa|3|59-300|Lubin
+1275|Lubin|Składowa|3|59-300|Lubin
+1276|Lubin|Składowa|3|59-300|Lubin
+1277|Lubin|Składowa|3|59-300|Lubin
+1278|Lubin|Komisji Edukacji Narodowej|6a|59-300|Lubin
+1279|Lubin|Składowa|3|59-300|Lubin
+1280|Lubin|Marii Skłodowskiej - Curie|4|59-300|Lubin
+1281|Lubin|Marii Skłodowskiej - Curie|4|59-300|Lubin
+1282|Lubin|Marii Skłodowskiej - Curie|4|59-300|Lublin
+1283|Lubin|M. Skłodowskiej - Curie|84|59-301|Lubin
+1284|Lubin|M. Skłodowskiej - Curie|84|59-301|Lubin
+1285|Lubin|M. Skłodowskiej - Curie|84|59-301|Lubin
+1286|Lubin|Kościuszki|9|59-300|Lubin
+1287|Lubin|Kościuszki|9|59-300|Lubin
+1288|Lubin|Kościuszki|9|59-300|Lubin
+1289|Lubin|SZPAKOWA|1|59-300|LUBIN
+1290|Lubin|Szpakowa|1|59-300|Lubin
+1291|Lubin|SZPAKOWA|1|59-300|LUBIN
+1292|Lubin|Szpakowa|1|59-300|Lubin
+1293|Lubin|Gwarków|93|59-300|Lubin
+1294|Lubin|Gwarków|93|59-300|Lubin
+1295|Lubin|Gwarków|93|59-300|Lubin
+1296|Lubin|Marii Skłodowskiej- Curie|72|59-300|Lubin
+1297|Lubin|Marii Skłodowskiej- Curie|72|59-300|Lubin
+1298|Lubin|M.Skłodowskiej-Curie|72|59-300|Lubin
+1299|Lubin|Marii Skłodowskiej- Curie|72|59-300|Lubin
+1300|Lubin|Sybiraków|11|59-300|LUBIN
+1301|Lubin|Sybiraków|11|59-300|LUBIN
+1302|Lubin|Sybiraków|11|59-300|LUBIN
+1303|Lubin|Sybiraków|11|59-300|Lubin
+1304|Lubin|Pawia|41|59-300|Lubin
+1305|Lubin|Pawia|41|59-300|Lubin
+1306|Lubin|Pawia|41|59-300|Lubin
+1307|Lubin|Kopernika|8|59-300|Lubin
+1308|Lubin|Kopernika|8|59-300|Lubin
+1309|Raszówka|Kolejowa|2|59-307|Raszówka
+1310|Siedlce|NULL|29|59-300|Lubin
+1311|Niemstów|NULL|68|59-323|Miłoradzice
+1312|Osiek|Świetej Katarzyny|75a|59-300|Lubin
+1313|Krzeczyn Wielki|Krzeczyn Wielki|9|59-311|Lubin
+1314|Raszówka|1 Maja|10|59-307|Raszówka
+1315|Szklary Górne|NULL|48|59-335|Lubin 7
+1316|Szklary Górne|Szklary Górne|51C|59-300|Lubin
+1317|Szklary Górne|Szklary Górne|51C|59-300|Lubin
+1318|Szklary Górne|Szklary Górne|51C|59-300|Lubin
+1319|Szklary Górne|Szklary Górne|51C|59-300|Lubin
+1320|Szklary Górne|Szklary Górne|51C|59-300|Lubin
+1321|Niemstów|NULL|68|59-323|Miłoradzice
+1322|Osiek|Świętej Katarzyny|75a|59-300|Lubin
+1323|Krzeczyn Wielki|NULL|9|59-311|Krzeczyn Wielki
+1324|Krzeczyn Wielki|Krzeczyn wielki|9|59-311|Lubin
+1325|Księginice|NULL|31|59-300|Lubin
+1326|Miłoradzice|0|46|59-323|Miłoradzice
+1327|Składowice|NULL|5A|59-300|Lubin
+1328|Szklary Górne|NULL|25|59-335|Lubin
+1329|Wiercień|NULL|37|59-323|Wiercień
+1330|Chobienia|Nadrzeczna|11a|59-305|Rudna
+1331|Rudna|POLNA|3D|59-305|RUDNA
+1332|Rudna|Piaskowa|"3,3a,3b"|59-305|Rudna
+1333|Rudna|Piaskowa|3b|59-305|Rudna
+1334|Rudna|Piaskowa|3|59-305|Rudna
+1335|Rudna|Kolejowa|5|59-305|Rudna
+1336|Rudna|Kolejowa|5|59-305|Rudna
+1337|Rudna|Kolejowa|5|59-305|Rudna
+1338|Rudna|Kolejowa|5|59-305|Rudna
+1339|Chobienia|Szkolna|2|59-305|Rudna
+1340|Chobienia|Szkolna|2|59-305|Rudna
+1341|Chobienia|Szkolna|2|59-305|Rudna
+1342|Ścinawa|Królowej Jadwigi|9a|59-330|Ścinawa
+1343|Tymowa|Tymowa|71|59-330|Ścinawa
+1344|Ścinawa|Królowej Jadwigi|9|59-330|Ścinawa
+1345|Ścinawa|Lipowa|1|59-330|Ścinawa
+1346|Ścinawa|Lipowa|1|59-330|Ścinawa
+1347|Gryfów Śląski|Młyńska|8|59-620|Gryfów Śląski
+1348|Rząsiny|NULL|95|59-620|GRYFÓW ŚLĄSKI
+1349|Gryfów Śląski|Uczniowska|17|59-620|Gryfów Śląski
+1350|Ubocze|0|169|59-620|Gryfów Śląski
+1351|Gryfów Śląski|Uczniowska|11|59-620|Gryfów Śląski
+1352|Gryfów Śląski|KOLEJOWA|16|59-620|GRYFÓW ŚLĄSKI
+1353|Gryfów Śląski|Kolejowa|16|59-620|Gryfów Śląski
+1354|Gryfów Śląski|Kolejowa|16|59-620|Gryfów Śląski
+1355|Gryfów Śląski|Kolejowa|16|59-620|Gryfów Śląski
+1356|Gryfów Śląski|Kolejowa|16|59-620|Gryfów Śląski
+1357|Gryfów Śląski|Kolejowa|16|59-620|Gryfów Śląski
+1358|Lubomierz|STOGRYNA|2|59-623|LUBOMIERZ
+1359|Lubomierz|Kościuszki|5|59-623|Lubomierz
+1360|Pławna Górna|NULL|NULL|59-623|LUBOMIERZ
+1361|Wojciechów|NULL|NULL|59-623|lubomierz
+1362|Maciejowiec|NULL|13|59-623|Lubomierz
+1363|Lubomierz|Chopina|9|59-623|Lubomierz
+1364|Lubomierz|Chopina|9|59-623|Lubomierz
+1365|Lubomierz|Chopina|9|59-623|Lubomierz
+1366|Lubomierz|Chopina|9|59-623|Lubomierz
+1367|Lubomierz|Fryderyka Chopina|9|59-623|Lubomierz
+1368|Lubomierz|Chopina|9|59-623|Lubomierz
+1369|Lwówek Śląski|Aleja Wojska Polskiego|21|59-600|Lwówek Śląski
+1370|Lwówek Śląski|NULL|NULL|59-600|LWÓWEK ŚLĄSKI
+1371|Płóczki Górne|NULL|58|59-600|LWÓWEK ŚLĄŚKI
+1372|Lwówek Śląski|Pałacowa|11|59-600|Lwówek Śląski
+1373|Zbylutów|NULL|133|59-600|Lwówek Śląski
+1374|Lwówek Śląski|AL. WOJSKA POLSKIEGO|1A|59-600|LWÓWEK ŚLĄSKI
+1375|Niwnice|NULL|149|59-600|LWÓWEK ŚLĄSKI
+1376|Lwówek Śląski|Szkolna|1|59-600|Lwówek Śląski
+1377|Włodzice Wielkie|NULL|32|59-600|Lwówek Śląski
+1378|Lwówek Śląski|Jana Pawła II|35|59-600|Lwówek Śl
+1379|Lwówek Śląski|Henryka Brodatego|1|59-600|Lwówek Śląski
+1380|Lwówek Śląski|Malinowskiego|11|59-600|Lwówek Śląski
+1381|Lwówek Śląski|JANA PAWŁA II|19|59-600|LWÓWEK ŚLĄSKI
+1382|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1383|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1384|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1385|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1386|Lwówek Śląski|Pałacowa|9|59-600|Lwówek Śląski
+1387|Lwówek Śląski|Pałacowa|9|59-600|Lwówek Śląski
+1388|Lwówek Śląski|Pałacowa|9|59-600|Lwówek Śląski
+1389|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1390|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1391|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1392|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1393|Lwówek Śląski|Henryka Brodatego|1|59-600|Lwówek Śląski
+1394|Lwówek Śląski|Henryka Brodatego|1|59-600|Lwówek Śląski
+1395|Lwówek Śląski|Malinowskiego|11|59-600|Lwówek Śląski
+1396|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1397|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1398|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1399|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1400|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1401|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1402|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1403|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1404|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1405|Lwówek Śląski|Parkowa|9|59-600|Lwówek Śląski
+1406|Rakowice Wielkie|Rakowice Wielkie|48|59-600|Lwówek Śląski
+1407|Rakowice Wielkie|Rakowice Wielkie|48|59-600|Lwówek Śląski
+1408|Rakowice Wielkie|Rakowice Wielkie|48|59-600|Lwówek Śląski
+1409|Rakowice Wielkie|Rakowice Wielkie|48|59-600|Lwówek Śląski
+1410|Lwówek Śląski|Henryka Brodatego|1|59-600|Lwówek Śląski
+1411|Lwówek Śląski|Henryka Brodatego|1|59-600|Lwówek Śląski
+1412|Lwówek Śląski|Henryka Brodatego|1|59-600|Lwówek Śląski
+1413|Lwówek Śląski|Henryka Brodatego|1|59-600|Lwówek Śląski
+1414|Lwówek Śląski|Henryka Brodatego|1|59-600|Lwówek Śląski
+1415|Giebułtów|0|1|59-630|Mirsk
+1416|Krobica|Krobica|33|59-630|Mirsk
+1417|Rębiszów|NULL|125|59-630|MIRSK
+1418|Kamień|NULL|22|59-630|Mirsk
+1419|Mirsk|Kpt. Betleja|32|59-630|Mirsk
+1420|Mirsk|Kpt. Betleja|27|59-630|Mirsk
+1421|Mirsk|Kpt. Betleja|32|59-630|Mirsk
+1422|Mirsk|Wodna|2|59-630|Mirsk
+1423|Mirsk|Wodna|2|59-630|Mirsk
+1424|Mirsk|Wodna|2|59-630|Mirsk
+1425|Mirsk|Wodna|2|56-630|Mirsk
+1426|Łupki|NULL|22|59-610|Wleń
+1427|Wleń|Dworcowa|10|59-610|Wleń
+1428|Wleń|Dworcowa|10|59-610|Wleń
+1429|Wleń|Dworcowa|10|59-610|Wleń
+1430|Wleń|Dworcowa|10|59-610|Wleń
+1431|Pilchowice|NULL|50|59-610|Wleń
+1432|Cieszków|Kolejowa|10|56-330|Cieszkóqw
+1433|Cieszków|Grunwaldzka|3|56-330|Cieszków
+1434|Pakosławsko|Pakosławsko|58|56-330|Cieszków
+1435|Cieszków|Grunwaldzka|3|56-330|Cieszków
+1436|Krośnice|Kwiatowa|4|56-320|Krośnice
+1437|Krośnice|Parkowa|14|56-320|Krośnice
+1438|Krośnice|Szkolna|13|56-320|Krośnice
+1439|Krośnice|Parkowa|14|56-320|Krośnice
+1440|Krośnice|Parkowa|14|56-320|Krośnice
+1441|Bukowice|Wrocławska|43|56-321|Bukowice
+1442|Bukowice|Wrocławska|43|56-321|Bukowice
+1443|Bukowice|Wrocławska|43|56-321|Bukowice
+1444|Kuźnica Czeszycka|NULL|1|56-320|Krośnice
+1445|Kuźnica Czeszycka|NULL|1|56-320|krośnice
+1446|Kuźnica Czeszycka|NULL|1|56-320|krośnice
+1447|Milicz|GRUNWALDZKA|1|56-300|MILICZ
+1448|Milicz|Kopernika|20|56-300|Milicz
+1449|Milicz|Krotoszyńska|13|56-300|Milicz
+1450|Wszewilki|Wszewilki|29|56-300|Milicz
+1451|Milicz|Armii Krajowej|2|56-300|Milicz
+1452|Milicz|Kościelna|3|56-300|Milicz
+1453|Sułów|Szkolna|6|56-300|Milicz
+1454|Czatkowice|SZOSOWA|2|56-300|MILICZ
+1455|Dunkowa|DUNKOWA|1|56-300|MILICZ
+1456|Nowy Zamek|Nowe Grodzisko|9|56-300|MILICZ
+1457|Wziąchowo Wielkie|NULL|47|56-300|Milicz
+1458|Milicz|Dąbrowskiego|3|56-300|Milicz
+1459|Sułów|SZKOLNA|6|56-300|MILICZ
+1460|Milicz|Armii Krajowej|7|56-300|Milicz
+1461|Wróbliniec|NULL|24|56-300|MILICZ
+1462|Milicz|11 Listopada|5|56-300|Milicz
+1463|Milicz|Trzebnicka|4|56-300|Milicz
+1464|Milicz|11 - go  Listopada|5|56-300|Milicz
+1465|Milicz|Mikołaja Kopernika|18|56-300|Milicz
+1466|Milicz|Armii Krajowej|7|56-300|Miicz
+1467|Milicz|Armii Krajowej|7|56-600|Milicz
+1468|Milicz|11 listopada|5|56-300|Milicz
+1469|Milicz|Kasztelańska|1|56-300|Milicz
+1470|Milicz|Mikołaja Kopernika|18|56-300|Milicz
+1471|Milicz|Armii Krajowej|2|56-300|Milicz
+1472|Milicz|Armii Krajowej|2|56-300|Milicz
+1473|Milicz|Armii Krajowej|2|56-300|Milicz
+1474|Milicz|Armii Krajowej|2|56-300|Milicz
+1475|Milicz|Armii Krajowej|2|56-300|Milicz
+1476|Milicz|Kopernika|20|56-300|Milicz
+1477|Gądkowice|NULL|45|56-300|Milicz
+1478|Sułów|Rynek|12|56-300|Milicz
+1479|Milicz|Trzebnicka|4B|56-300|M ilicz
+1480|Milicz|11 Listopada|5|56-300|M ilicz
+1481|Milicz|11 Listopada|5|56-300|Milicz
+1482|Milicz|Trzebnicka|4B|56-300|M ilicz
+1483|Milicz|Trzebnicka|4B|56-300|M ilicz
+1484|Milicz|Trzebnicka|4B|56-300|M ilicz
+1485|Milicz|Mikołaja Kopernika|18|56-300|Milicz
+1486|Milicz|Mikołaja Kopernika|18|56-300|Milicz
+1487|Milicz|Mikołaja Kopernika|18|56-300|Milicz
+1488|Milicz|TRZEBNICKA|4|56-300|MILICZ
+1489|Milicz|TRZEBNICKA|4|56-300|MILICZ
+1490|Milicz|Trzebnicka|4|56-300|Milicz
+1491|Milicz|Trzebnicka|4|56-300|MILICZ
+1492|Milicz|Trzebnicka|4|56-300|Milicz
+1493|Milicz|TRZEBNICKA|4|56-300|MILICZ
+1494|Milicz|Grzybowa|1|56-300|Milicz
+1495|Milicz|Grzybowa|1|56-300|Milicz
+1496|Milicz|Grzybowa|1|56-300|Milicz
+1497|Oleśnica|Kilińskiego|9|56-400|Oleśnica
+1498|Oleśnica|NULL|NULL|56-400|Oleśnica
+1499|Oleśnica|Kazimierza Wielkiego|4|56-400|Oleśnica
+1500|Oleśnica|Kazimierza Wielkiego|7|56-400|Oleśnica
+1501|Oleśnica|Ptasia|7a|56-400|Oleśnica
+1502|Oleśnica|Kopernika|6|56-400|Oleśnica
+1503|Oleśnica|Juliusza Słowackiego|5|56-400|Oleśnica
+1504|Oleśnica|3 MAJA|47/ I|56-400|OLEŚNICA
+1505|Oleśnica|Krzywoustego|2|56-400|Oleśnica
+1506|Oleśnica|PÓŁNOCNA|16|56-400|OLEŚNICA
+1507|Oleśnica|Wileńska|15|56-400|Oleśnica
+1508|Oleśnica|Wileńska|32|56-400|Oleśnica
+1509|Oleśnica|Świętej Jadwigi|1 A|56-400|Oleśnica
+1510|Oleśnica|Paderewskiego|2|56-400|Oleśnica
+1511|Oleśnica|11 Listopada|10|56-400|Oleśnica
+1512|Oleśnica|Wiejska|35|56-400|Oleśnica
+1513|Oleśnica|Kleeberga|4|56-400|Oleśnica
+1514|Oleśnica|PÓŁNOCNA|16|56-400|OLEŚNICA
+1515|Oleśnica|WILEŃSKA|32|56-400|OLEŚNICA
+1516|Oleśnica|Armii Krajowej|47|56-400|Oleśnica
+1517|Oleśnica|Juiusza Słowackiego|4|56-400|Oeśnica
+1518|Oleśnica|Kochanowskiego|8|56-400|Oleśnica
+1519|Oleśnica|Słowackiego|4|56-400|Oleśnica
+1520|Oleśnica|Wojska Polskiego|56|56-400|Oleśnica
+1521|Oleśnica|Paderewskiego|2|56-400|Oleśnica
+1522|Oleśnica|Kochanowskiego|8|56-400|Oleśnica
+1523|Oleśnica|Paderewskiego|2|56-400|Oleśnica
+1524|Oleśnica|KLEEBERGA|4|56-400|OLEŚNICA
+1525|Oleśnica|Kochanowskiego|8|56-400|Oleśnica
+1526|Oleśnica|MATEJKI|19|56-400|OLEŚNICA
+1527|Oleśnica|Północna|19b|56-400|Oleśnica
+1528|Oleśnica|Wojska Polskiego|8|56-400|OLEŚNICA
+1529|Oleśnica|Wojska Polskiego|8|56-400|OLEŚNICA
+1530|Oleśnica|Wojska Polskiego|8|56-400|Oleśnica
+1531|Oleśnica|WOJSKA POLSKIEGO|8|56-400|OLEŚNICA
+1532|Oleśnica|Wojska Polskiego|8|56-400|OLEŚNICA
+1533|Oleśnica|Wojska Polskiego|8|56-400|OLEŚNICA
+1534|Oleśnica|Jana Kochanowskiego|5|56-400|OLEŚNICA
+1535|Oleśnica|Okrężna|21/2|56-400|Oleśnica
+1536|Oleśnica|KLEEBERGA|4|56-400|OLEŚNICA
+1537|Oleśnica|Młynarska|3|56-400|Oleśnica
+1538|Oleśnica|Jęczmienna|15|56-400|Oleśnica
+1539|Oleśnica|Wojska Polskiego|12/2|54-600|Oleśnica
+1540|Oleśnica|Lotnicza|27|56-400|Oleśnica
+1541|Oleśnica|Wojska Polskiego|56|56-400|Oleśnica
+1542|Oleśnica|Wojska Polskiego|56|56-400|Oleśnica
+1543|Oleśnica|Wojska Polskiego|56|56-400|Oleśnica
+1544|Oleśnica|Wojska Polskiego|56|56-400|Oleśnica
+1545|Oleśnica|WOJSKA POLSKIEGO|67|56-400|OLEŚNICA
+1546|Oleśnica|WOJSKA POLSKIEGO|67|56-400|OLEŚNICA
+1547|Oleśnica|WOJSKA POLSKIEGO|67|56-400|OLEŚNICA
+1548|Oleśnica|Wojska Polskiego|67-69|56-400|Oleśnica
+1549|Oleśnica|Wojska Polskiego|67-69|56-400|Oleśnica
+1550|Syców|Młyńska|1|56-500|Syców
+1551|Oleśnica|Wojska Polskiego|67/69|56-400|Oleśnica
+1552|Oleśnica|Wojska Polskiego|67/69|56-400|Oleśnica
+1553|Oleśnica|Wojska Polskiego|67/69|56-400|Oleśnica
+1554|Oleśnica|Wojska Polskiego|67/69|56-400|Oleśnica
+1555|Oleśnica|Wojska Polskiego|67/69|56-400|Oleśnica
+1556|Bierutów|1-go Maja|15|56-420|Bierutów
+1557|Zbytowa|NULL|59a|56-420|Bierutów
+1558|Bierutów|Krasińskiego|3|56-420|Bierutów
+1559|Wabienice|NULL|92|56-420|Bierutów
+1560|Bierutów|Kolejowa|7|56-420|Bierutów
+1561|Bierutów|plac Kościelny|2|56-420|Bierutów
+1562|Bierutów|plac Kościelny|2|56-420|Bierutów
+1563|Bierutów|plac Kościelny|2|56-420|Bierutów
+1564|Dobroszyce|3 Maja|20|56-410|Dobroszyce
+1565|Dobroszyce|Parkowa|5|56-410|Dobroszyce
+1566|Dobrzeń|-|9a|56-410|DOBROSZYCE
+1567|Dobroszyce|Parkowa|3|56-410|Dobroszyce
+1568|Dobroszyce|Stawowa|23|56-410|Dobroszyce
+1569|Dobroszyce|Stawowa|23|56-410|Dobroszyce
+1570|Dobroszyce|Stawowa|23|56-410|Dobroszyce
+1571|Dobroszyce|Stawowa|23|56-410|Dobroszyce
+1572|Dobroszyce|Stawowa|23|56-410|Dobroszyce
+1573|Dobroszyce|Stawowa|23|56-410|Dobroszyce
+1574|Dobroszyce|Stawowa|23|56-410|Dobroszyce
+1575|Dobroszyce|Wojska Polskiego|25|56-410|Dobroszyce
+1576|Radzowice|NULL|54|56-504|DZIADOWA KŁODA
+1577|Dziadowa Kłoda|Słoneczna|5|56-504|Dziadowa Kłoda
+1578|Miłowice|NULL|27|56-504|Dziadowa Kłoda
+1579|Miłowice|NULL|90|56-504|Dziadowa Kłoda
+1580|Miłowice|NULL|27|56-504|Dziadowa Kłoda
+1581|Dziadowa Kłoda|Słoneczna|5|56-504|Dziadowa Kłoda
+1582|Dziadowa Kłoda|Słoneczna|5|56-504|Dziadowa Kłoda
+1583|Dziadowa Kłoda|Słoneczna|5|56-504|Dziadowa Kłoda
+1584|Międzybórz|Kościelna|2|56-513|Międzybórz
+1585|Międzybórz|Wrocławska|6A|56-513|Międzybórz
+1586|Bukowina Sycowska|-|20|56-513|Międzybórz
+1587|Kraszów|NULL|35|56-513|Międzybórz
+1588|Międzybórz|Wrocławska|6|56-513|Międzybórz
+1589|Międzybórz|Wrocławska|2|56-513|Międzybórz
+1590|Międzybórz|Wrocławska|2|56-513|Międzybórz
+1591|Międzybórz|Wrocławska|2|56-513|Międzybórz
+1592|Boguszyce|Boguszyce|102a|56-400|Oleśnica
+1593|Poniatowice|NULL|NULL|56-400|Oleśnica
+1594|Ligota Mała|Ligota Mała|15|56-400|Oleśnica
+1595|Ligota Polska|NULL|3|56-400|Olesnica
+1596|Smolna|Smolna|70|56-400|Oleśnica
+1597|Sokołowice|NULL|24|56-400|OLEŚNICA
+1598|Wszechświęte|NULL|16B|56-400|Oleśnica
+1599|Wszechświęte|NULL|16B|56-400|Oleśnica
+1600|Syców|KOMOROWSKA|2|56-500|SYCÓW
+1601|Syców|OLESNICKA|2B|56-500|SYCÓW
+1602|Syców|Kaliska|8|56-500|Syców
+1603|Syców|Piastowska|39|56-500|Syców
+1604|Syców|Matejki|5|56-500|Syców
+1605|Syców|Mickiewicza|5|56-500|Syców
+1606|Drołtowice|brak|12|56-500|Syców
+1607|Stradomia Wierzchnia|-|64|56-500|Syców
+1608|Szczodrów|NULL|42|56-500|SYCÓW
+1609|Działosza|NULL|61|56-500|syców
+1610|Syców|Kościelna|3|56-500|Syców
+1611|Syców|Kościelna|12|56-500|Syców
+1612|Syców|Ludwika Waryńskiego|2a|56-500|Syców
+1613|Syców|Daszyńskiego|42|56-500|Syców
+1614|Syców|Daszyńskiego|42|56-500|Syców
+1615|Syców|Daszyńskiego|42|56-500|Syców
+1616|Syców|Daszyńskiego|42|56-500|Syców
+1617|Twardogóra|Grunwaldzka|1|56-416|Twardogóra
+1618|Twardogóra|Plac Piastów|18|56-416|Twardogóra
+1619|Twardogóra|Św. Jadwigi|7|56-416|Twardogóra
+1620|Twardogóra|Stefana Batorego|5|56-416|Twardogóra
+1621|Goszcz|Szkolna|1|56-416|Twardogóra
+1622|Grabowno Wielkie|NULL|139a|56-416|Twardogóra
+1623|Twardogóra|Batorego|5|56-416|Twardogóra
+1624|Twardogóra|Stanisława Staszica|3|56-416|Twardogóra
+1625|Twardogóra|Staszica|3|56-416|Twardogóra
+1626|Twardogóra|Stanisława Staszica|3|56-416|Twardogóra
+1627|Twardogóra|Stanisława Staszica|3|56-416|Twardogóra
+1628|Twardogóra|Plac Piastów|24|56-416|Twardogóra
+1629|Twardogóra|Plac Piastów|24|56-416|Twardogóra
+1630|Twardogóra|Plac Piastów|24|56-416|Twardogóra
+1631|Oława|Lipowa|20a|55-200|Oława
+1632|Oława|Bolesława Chrobrego|30A|55-200|Oława
+1633|Oława|1 Maja|33|55-200|Oława
+1634|Oława|Zwierzyniec Duży|23|55-200|Oława
+1635|Oława|Broniewskiego|1|55-200|Oława
+1636|Oława|ŻOŁNIERZY ARMII KRAJOWEJ|9|55-200|OŁAWA
+1637|Oława|Żołnierzy AK|21|55-200|Oława
+1638|Oława|Rybacka|6a|55-200|Oława
+1639|Oława|BRONIEWSKIEGO|6|55-200|OŁAWA
+1640|Oława|KAMIENNA|8|55-200|OŁAWA
+1641|Oława|Sportowa|6|55-200|Oława
+1642|Oława|Lwowska|3|55-200|Oława
+1643|Oława|Lwowska|10|55-200|Oława
+1644|Oława|Plac Zamkowy|10|55-200|Oława
+1645|Oława|Ks. F. Kutrowskiego|31|55-200|Oława
+1646|Oława|Żołnierzy AK|21|55-200|Oława
+1647|Oława|Sportowa|6|55-200|Oława
+1648|Oława|Ks. F. Kutrowskiego|31|55-200|Oława
+1649|Oława|Rynek|12|55-200|Oława
+1650|Oława|Ks. Franciszka Kutrowskiego|31A|55-200|Oława
+1651|Oława|Ks. Franciszka Kutrowskiego|31A|55-200|Oława
+1652|Oława|Ks.F. Kutrowskiego|31A|55-200|Oława
+1653|Oława|Ks.F. Kutrowskiego|31A|55-200|Oława
+1654|Oława|Bolesława Chrobrego|20|55-200|Oława
+1655|Oława|1 MAJA|44|55-200|OŁAWA
+1656|Oława|Ks. F. Kutrowskiego|31|55-200|Oława
+1657|Oława|Ks. F. Kutrowskiego|31|55-200|Oława
+1658|Oława|Ks. F. Kutrowskiego|31|55-200|Oława
+1659|Oława|Ks. F. Kutrowskiego|31|55-200|Oława
+1660|Oława|Ks. F. Kutrowskiego|31|55-200|Oława
+1661|Oława|Ks. F. Kutrowskiego|31|55-200|Oława
+1662|Oława|pl. Zamkowy|18|55-200|Oława
+1663|Oława|Kutrowskiego|31a|55-200|Oława
+1664|Oława|pl. Zamkowy|18|55-200|Oława
+1665|Oława|pl. Zamkowy|18|55-200|Oława
+1666|Oława|Jarosława Iwaszkiewicza|11|55-200|Oława
+1667|Oława|Jarosława Iwaszkiewicza|11|55-200|Oława
+1668|Oława|Jarosława Iwaszkiewicza|11|55-200|Oława
+1669|Oława|3 Maja|18E|55-200|Oława
+1670|Oława|3 Maja|18E|55-200|Oława
+1671|Oława|3 Maja|18E|55-200|Oława
+1672|Oława|3 Maja|18E|55-200|Oława
+1673|Oława|Władysława Broniewskiego|6|55-200|Oława
+1674|Oława|Władysława Broniewskiego|6|55-200|Oława
+1675|Oława|Krzysztofa Kamila Baczyńskiego|1|55-200|Oława
+1676|Oława|Władysława Broniewskiego|6|55-200|Oława
+1677|Oława|Ks. Franciszka Kutrowskiego|31 A|55-200|Oława
+1678|Oława|Ks. Franciszka Kutrowskiego|31 A|55-200|Oława
+1679|Danielowice|Danielowice|3|55-216|Domaniów
+1680|Polwica|NULL|23|55-200|Domaniów
+1681|Goszczyna|Goszczyna|28|55-216|Domaniów
+1682|Wierzbno|NULL|84|55-217|Wierzbno
+1683|Wierzbno|NULL|84|55-217|Wierzbno
+1684|Wierzbno|NULL|84|55-217|Wierzbno
+1685|Domaniów|NULL|144|55-216|Domaniów
+1686|Domaniów|0|144|55-216|Domaniów
+1687|Domaniów|NULL|144|55-216|Domaniów
+1688|Minkowice Oławskie|Kościuszki|37|55-220|Jelcz-Laskowice
+1689|Jelcz-Laskowice|Al. Wolności|12|55-220|Jelcz-Laskowice
+1690|Jelcz-Laskowice|LILIOWA|3|55-220|JELCZ-LASKOWICE
+1691|Miłoszyce|Sadowa|2|55-220|Jelcz-Laskowice
+1692|Wójcice|Główna|87|55-220|Jelcz-Laskowice
+1693|Jelcz-Laskowice|Świętochowskiego|1|55-220|Jelcz-Laskowice
+1694|Jelcz-Laskowice|aleja Młodych|1|55-220|Jelcz - Laskowice
+1695|Jelcz-Laskowice|Bolesław Prus|2|55-220|Jelcz-Laskowice
+1696|Miłoszyce|Główna|24|55-220|Jelcz-Laskowice
+1697|Jelcz-Laskowice|aleja Młodych|1|55-220|Jelcz-Laskowice
+1698|Jelcz-Laskowice|ALEJA MŁODYCH|1|55-220|JELCZ-LASKOWICE
+1699|Minkowice Oławskie|Kościelna|20|55-220|Jelcz-Laskowice 4
+1700|Minkowice Oławskie|Kościelna|20|55-220|Jelcz-Laskowice 4
+1701|Minkowice Oławskie|Kościelna|20|55-220|Jelcz-Laskowice 4
+1702|Jelcz-Laskowice|Techników|26|55-220|Jelcz - Laskowice
+1703|Jelcz-Laskowice|Techników|26|55-220|Jelcz - Laskowice
+1704|Jelcz-Laskowice|Techników|26|55-220|Jelcz - Laskowice
+1705|Jelcz-Laskowice|Techników|26|55-220|Jelcz - Laskowice
+1706|Jelcz-Laskowice|Techników|26|55-220|Jelcz - Laskowice
+1707|Jelcz-Laskowice|Techników|26|55-220|Jelcz - Laskowice
+1708|Bystrzyca|T.Kościuszki|99|55-200|Oława
+1709|Stanowice|Leśna|1|55-200|Oława
+1710|Sobocisko|Sobocisko|22|55-200|Oława
+1711|Drzemlikowice|NULL|NULL|55-200|Oława
+1712|Osiek|Osiek|124|55-200|Oława
+1713|Marcinkowice|Szkolna|1|55-200|Oława
+1714|Chwalibożyce|Chwalibożyce|1c|55-200|Oława
+1715|Gać|NULL|53|55-200|Oława
+1716|Ścinawa Polska|NULL|26|55-200|Oława
+1717|Chwalibożyce|NULL|1c|55-200|Oława
+1718|Oleśnica Mała|NULL|52|55-200|Oława
+1719|Drzemlikowice|NULL|14|55-200|Oława
+1720|Bystrzyca|Kościuszki|45|55-200|Oława
+1721|Bystrzyca|Kościuszki|45|55-200|Oława
+1722|Bystrzyca|Kościuszki|45|55-200|Oława
+1723|Chocianów|Wesoła|14|59-140|Chocianów
+1724|Szklary Dolne|NULL|48|59-140|Chocianów
+1725|Trzebnice|NULL|NULL|59-140|CHOCIANÓW
+1726|Chocianów|Wesoła|16|59-140|Chocianów
+1727|Parchów|NULL|29|59-140|Chocianów
+1728|Chocianów|Szkolna|1|59-140|Chocianów
+1729|Chocianów|Kolonialna|13|59-140|Chocianów
+1730|Chocianów|Kolonialna|13|59-140|Chocianów
+1731|Szklary Dolne|Kardynała Stefana Wyszyńskiego|48|59-140|CHOCIANÓW
+1732|Trzebnice|NULL|113A|59-140|CHOCIANÓW
+1733|Żabice|NULL|NULL|59-140|CHOCIANÓW
+1734|Chocianów|Kolonialna|13|59-140|Chocianów
+1735|Chocianów|KOLONIALNA|13|59-140|CHOCIANÓW
+1736|Chocianów|Kolonialna|13|59-140|Chocianów
+1737|Chocianów|Kolonialna|13|59-140|Chocianów
+1738|Gaworzyce|DWORCOWA|191|59-180|GAWORZYCE
+1739|Gaworzyce|Dworcowa|191|59-180|Gaworzyce
+1740|Gaworzyce|Szkolna|211|59-180|Gaworzyce
+1741|Gaworzyce|Szkolna|211|59-180|Gaworzyce
+1742|Gaworzyce|Szkolna|211|59-180|Gaworzyce
+1743|Grębocice|Kościelna|18 A|59-150|GRĘBOCICE
+1744|Grębocice|Szkolna|2|59-150|Grębocice
+1745|Rzeczyca|0|1|59-150|Grębocice
+1746|Grębocice|Szkolna|4|59-150|Grębocice
+1747|Polkowice|Plac Kościelny|2|59-100|Polkowice
+1748|Polkowice|11-go lutego|18|59-100|Polkowice
+1749|Polkowice|Skrzetuskiego|37|59-101|Polkowice
+1750|Polkowice|Lipowa|11|59-100|Polkowice
+1751|Polkowice|Kolejowa|14|59-100|Polkowice
+1752|Polkowice|Mjr. Hubala|1a|59-100|Polkowice
+1753|Polkowice|Górna|5|59-100|Polkowice
+1754|Polkowice|KOLEJOWA|22|50-100|POLKOWICE
+1755|Jędrzychów|NULL|24A|59-101|POLKOWICE
+1756|Polkowice|Kmicica|23|59-101|Polkowice
+1757|Polkowice|Dąbrowskiego|1 a|59-100|Polkowice
+1758|Polkowice|Kardynała Bolesława Kominka|1|59-101|Polkowice
+1759|Polkowice|Ociosowa|3|59-101|Polkowice
+1760|Polkowice|HUBALA|3|59-100|POLKOWICE
+1761|Polkowice|Plac Kościelny|2|59-100|Polkowice
+1762|Polkowice|Kardynała B. Kominka|1|59-101|Polkowice
+1763|Polkowice|Skalników|6b|59-101|Polkowice
+1764|Polkowice|Skalników|6|59-101|Polkowice
+1765|Polkowice|NULL|NULL|59-101|Polkowice
+1766|Polkowice|Ociosowa|3|59-100|Polkowice
+1767|Polkowice|Dąbrowskiego|1 a|59-100|Polkowice
+1768|Jędrzychów|NULL|24A|59-101|Polkowice
+1769|Polkowice|KOLEJOWA|10A|59-100|POLKOWICE
+1770|Polkowice|Targowa|1|59-100|Polkowice
+1771|Polkowice|Targowa|1|59-100|Polkowice
+1772|Polkowice|Targowa|1|59-100|Polkowice
+1773|Polkowice|Skalników|6|59-101|Polkowice
+1774|Polkowice|Skalników|6|59-101|Polkowice
+1775|Polkowice|Skalników|6|59-101|Polkowice
+1776|Polkowice|Skalników|6|59-101|Polkowice
+1777|Przemków|SŁONECZNA|23|59-170|PRZEMKÓW
+1778|Przemków|Szkolna|6|59-170|Przemków
+1779|Wysoka|NULL|16A|59-170|Przemków
+1780|Przemków|KOŚCIUSZKI|6B|59-170|PRZEMKÓW
+1781|Przemków|Rybna|3a|59-170|Przemków
+1782|Przemków|LEŚNA GÓRA|1 A|59-170|PRZEMKÓW
+1783|Przemków|LEŚNA GÓRA|3|59-170|PRZEMKÓW
+1784|Przemków|Leśna Góra|3|59-170|Przemków
+1785|Przemków|LEŚNA GÓRA|3|59-170|PRZEMKÓW
+1786|Przemków|LEŚNA GÓRA|3|59-170|PRZEMKÓW
+1787|Przemków|LEŚNA GÓRA|3|59-170|PRZEMKÓW
+1788|Buczyna|-|17|59-160|RADWANICE
+1789|Radwanice|Sportowa|10|59-160|Radwanice
+1790|Radwanice|Szkolna|14|59-160|Radwanice
+1791|Radwanice|Sportowa|6|59-160|Radwanice
+1792|Radwanice|Szkolna|14|59-160|Radwanice
+1793|Borek Strzeliński|Szkolna|8|57-160|borów
+1794|Borek Strzeliński|Szkolna|3|57-160|Borów
+1795|Zielenice|NULL|26|57-160|Borów
+1796|Borów|Wrocławska|24|57-160|Borów
+1797|Borów|Wrocławska|24|57-160|Borów
+1798|Borów|Wrocławska|24|57-160|Borów
+1799|Borów|Wrocławska|24|57-160|Borów
+1800|Górka Sobocka|bez ulicy|57|57-150|PRUSY
+1801|Żelowice|NULL|24|57-150|Prusy
+1802|Żelowice|NULL|24|57-150|Prusy
+1803|Prusy|Parkowa|1|57-150|Prusy
+1804|Prusy|Parkowa|1|57-150|Prusy
+1805|Prusy|Parkowa|1|57-150|Prusy
+1806|Przeworno|Kolejowa|4D|57-130|Przeworno
+1807|Jegłowa|J.KORCZAKA|6 A|57-130|PRZEWORNO
+1808|Sarby|NULL|52|57-130|PRZEWORNO
+1809|Przeworno|Kolejowa|4D|57-130|Przeworno
+1810|Przeworno|Kolejowa|4D|57-130|Przeworno
+1811|Przeworno|Kolejowa|4D|57-130|Przeworno
+1812|Strzelin|NULL|7|57-100|Strzelin
+1813|Strzelin|Księdza Popiełuszki|3|57-100|Strzelin
+1814|Strzelin|ŚWIĘTEGO JANA|5|57-100|STRZELIN
+1815|Strzelin|Adama Asnyka|7|57-100|Strzelin
+1816|Strzelin|Św.Jana|10|57-100|Strzelin
+1817|Strzelin|Św. Floriana|2|57-100|Strzelin
+1818|Mikoszów|NULL|27|57-100|Strzelin
+1819|Strzelin|Grota Roweckiego|11|57-100|Strzelin
+1820|Strzelin|Brzegowa|67|57-100|Strzelin
+1821|Strzelin|HENRYKA SIENKIEWICZA|41|57-100|STRZELIN
+1822|Biały Kościół|Kamienna|18|57-100|STRZELIN
+1823|Mikoszów|NULL|27|57-100|Strzelin
+1824|Strzelin|NULL|NULL|57-100|strzelin
+1825|Biały Kościół|Kamienna|18|57-100|Strzelin
+1826|Strzelin|"gen. ""Grota"" Roweckiego"|1|57-100|Strzelin
+1827|Mikoszów|NULL|27|57-100|Strzelin
+1828|Strzelin|Plac 1 Maja|10|57-100|Strzelin
+1829|Strzelin|"gen. ""Grota"" Roweckiego"|1|57-100|Strzelin
+1830|Strzelin|PLAC 1 MAJA|10|57-100|STRZELIN
+1831|Mikoszów|NULL|27|57-100|Strzelin
+1832|Strzelin|Pocztowa|17/1|57-100|Strtzelin
+1833|Skoroszowice|NULL|20|57-100|STRZELIN
+1834|Skoroszowice|NULL|20|57-100|STRZELIN
+1835|Skoroszowice|NULL|20|57-100|STRZELIN
+1836|Skoroszowice|NULL|20|57-100|STRZELIN
+1837|Skoroszowice|NULL|20|57-100|STRZELIN
+1838|Strzelin|NULL|27|57-100|Strzelin
+1839|Strzelin|ZĄBKOWICKA|30|57-100|STRZELIN
+1840|Strzelin|ZĄBKOWICKA|30|57-100|STRZELIN
+1841|Strzelin|ZĄBKOWICKA|30|57-100|STRZELIN
+1842|Strzelin|S. Staszica|5|57-100|Strzelin
+1843|Gęsiniec|Jodłowa|2|57-100|Strzelin
+1844|Strzelin|Adama Mickiewicza|8|57-100|Strzelin
+1845|Biały Kościół|Cedrowa|1|57-100|Strzelin
+1846|Ludów Polski|NULL|16|57-100|Strzelin
+1847|Ludów Polski|NULL|16|57-100|Strzelin
+1848|Ludów Polski|NULL|16|57-100|Strzelin
+1849|Ludów Polski|NULL|16|57-100|Strzelin
+1850|Strzelin|Stanisława Staszica|5|57-100|Strzelin
+1851|Strzelin|Stanisława Staszica|5|57-100|Strzelin
+1852|Strzelin|Stanisława Staszica|5|57-100|Strzelin
+1853|Strzelin|Stanisława Staszica|5|57-100|Strzelin
+1854|Strzelin|Stanisława Staszica|5|57-100|Strzelin
+1855|Strzelin|Stanisława Staszica|5|57-100|Strzelin
+1856|Strzelin|Stanisława Staszica|5|57-100|Strzelin
+1857|Strzelin|Stanisława Staszica|5|57-100|Strzelin
+1858|Strzelin|Stanisława Staszica|5|57-100|Strzelin
+1859|Strzelin|Jana Pawła II|25|57-100|Strzelin
+1860|Strzelin|Jana Pawła II|25|57-100|Strzelin
+1861|Strzelin|Jana Pawła II|25|57-100|Strzelin
+1862|Strzelin|Jana Pawła II|23|57-100|Strzelin
+1863|Strzelin|Jana Pawła II|23|57-100|Strzelin
+1864|Strzelin|Jana Pawła II|23|57-100|Strzelin
+1865|Strzelin|Jana Pawła II|23|57-100|Strzelin
+1866|Kuropatnik|Szkolna|1|57-100|Strzelin
+1867|Kuropatnik|Szkolna|1|57-100|Strzelin
+1868|Kuropatnik|Szkolna|1|57-100|Strzelin
+1869|Wiązów|Pocztowa|6a|57-120|Wiązów
+1870|Jaworów|NULL|9a|57-120|Wiązów
+1871|Wawrzyszów|-|37|57-120|Wiązów
+1872|Witowice|NULL|39|57-120|Wiązów
+1873|Wiązów|WYSPIAŃSKIEGO|1|57-120|WIĄZÓW
+1874|Wawrzyszów|-|37|57-120|Wiązów
+1875|Jaworów|NULL|9a|57-120|Wiązów
+1876|Wiązów|1 Maja|31|57-120|Wiązów
+1877|Wiązów|1 Maja|31|57-120|Wiązów
+1878|Wiązów|1 Maja|31|57-120|Wiązów
+1879|Kostomłoty|Wrocławska|10|55-311|Kostomłoty
+1880|Karczyce|NULL|12|55-311|KOSTOMŁOTY
+1881|Mieczków|brak|14|55-311|Kostomłoty
+1882|Kostomłoty|WROCŁAWSKA|10 A|55-311|KOSTOMŁOTY
+1883|Piotrowice|NULL|31|55-311|Kostomłoty
+1884|Piotrowice|NULL|31|55-311|Kostomłoty
+1885|Piotrowice|NULL|31|55-311|Kostomłoty
+1886|Malczyce|KLONOWA|1|55-320|MALCZYCE
+1887|Malczyce|Szkolna|6|55-320|Malczyce
+1888|Malczyce|Szkolna|6|55-320|Malczyce
+1889|Wróblowice|Akacjowa|5|55-330|Miękinia
+1890|Mrozów|BOLESŁAWA CHROBREGO|20|55-330|MIĘKINIA
+1891|Błonie|Zachodnia|9|55-330|Miękinia
+1892|Lutynia|Kościelna|2|55-330|Lutynia
+1893|Pisarzowice|Szkolna|3 A|55-330|Miękinia
+1894|Pisarzowice|Szkolna|3 B|55-330|Miękinia
+1895|Pisarzowice|Szkolna|3 A|55-330|Miękinia
+1896|Lutynia|Szkolna|7|55-330|Miękinia
+1897|Lutynia|Szkolna|7|55-330|Miękinia
+1898|Lutynia|Szkolna|7|55-330|Miękinia
+1899|Miękinia|Szkolna|2|55-330|Miękinia
+1900|Miękinia|Szkolna|2|55-330|Miękinia
+1901|Miękinia|Szkolna|2|55-330|Miękinia
+1902|Miękinia|Szkolna|2|55-330|Miękinia
+1903|Środa Śląska|Konstytucji 3 Maja|05|55-300|Środa Śląska
+1904|Szczepanów|Średzka|19a|55-300|Środa Śląska
+1905|Środa Śląska|kilińskiego|31a|55-300|środa śląska
+1906|Ciechów|Osiedlowa|6|55-300|Środa Śląska
+1907|Środa Śląska|Strzelecka|6|55-300|Środa Śląska
+1908|Środa Śląska|Wawrzyńca Korwina|2|55-300|Środa Śląska
+1909|Środa Śląska|DASZYŃSKIEGO|7|55-300|ŚRODA ŚLĄSKA
+1910|Środa Śląska|Malczycka|4|55-300|Środa Śląska
+1911|Środa Śląska|GÓRNA|1/6|55-300|ŚRODA ŚLĄSKA
+1912|Środa Śląska|Kościuszki|62|55-300|Środa Śląska
+1913|Środa Śląska|Św. Andrzeja|4|55-300|Środa Śląska
+1914|Środa Śląska|Legnicka|1|55-300|Środa Śląska
+1915|Środa Śląska|Kilińskiego|33|55-300|Środa Śląska
+1916|Środa Śląska|Kilińskiego|33|55-300|Środa Śląska
+1917|Środa Śląska|Kilińskiego|33|55-300|Środa Śląska
+1918|Środa Śląska|Kilińskiego|33|55-300|Środa Śląska
+1919|Środa Śląska|Kilińskiego|33|55-300|Środa Śląska
+1920|Środa Śląska|Kilińskiego|30|55-300|Środa Śląska
+1921|Rakoszyce|Wrocławska|44|55-300|Środa Śląska
+1922|Szczepanów|ŚREDZKA|14|55-300|ŚRODA ŚLĄSKA
+1923|Środa Śląska|Partyzantów|12|55-300|Środa Śląska
+1924|Środa Śląska|WROCŁAWSKA|2|55-300|ŚRODA ŚLĄSKA
+1925|Środa Śląska|WROCŁAWSKA|10|55-300|ŚRODA ŚLĄSKA
+1926|Środa Śląska|WROCŁAWSKA|2|55-300|ŚRODA ŚLĄSKA
+1927|Środa Śląska|Wrocławska|12|55-300|Środa Śląska
+1928|Środa Śląska|Wrocławska|12|55-300|Środa Śląska
+1929|Środa Śląska|Wrocławska|12|55-300|Środa Śląska
+1930|Środa Śląska|Wrocławska|12|55-300|Środa Śląska
+1931|Środa Śląska|Wrocławska|12|55-300|Środa Śląska
+1932|Środa Śląska|Św. Andrzeja|4|55-300|Środa Śląska
+1933|Środa Śląska|Św. Andrzeja|4|55-300|Środa Śląska
+1934|Środa Śląska|Św. Andrzeja|4|55-300|Środa Śląska
+1935|Środa Śląska|Św. Andrzeja|4|55-300|Środa Śląska
+1936|Szczepanów|ŚREDZKA|14|55-300|ŚRODA ŚLĄSKA
+1937|Szczepanów|ŚREDZKA|14|55-300|ŚRODA ŚLĄSKA
+1938|Szczepanów|ŚREDZKA|14|55-300|ŚRODA ŚLĄSKA
+1939|Ciechów|Średzka|1|55-300|Środa Śląska
+1940|Ciechów|Średzka|1|55-300|Środa Śląska
+1941|Ciechów|Średzka|1|55-300|Środa Śląska
+1942|Rakoszyce|Wrocławska|44|55-300|Środa Śląska
+1943|Rakoszyce|Wrocławska|44|55-300|Środa Śląska
+1944|Rakoszyce|Wrocławska|44|55-300|Środa Śląska
+1945|Ujazd Górny|-|49|55-340|UDANIN
+1946|Udanin|NULL|48|55-340|Udanin
+1947|Ujazd Górny|NULL|27|55-340|Udanin
+1948|Udanin|NULL|48|55-340|Udanin
+1949|Świdnica|Marcinkowskiego|10|58-105|Świdnica
+1950|Świdnica|Pl.Św.Małgorzaty|15|58-100|Świdnica
+1951|Świdnica|M. Kozara Słobódzkiego|10|58-105|Świdnica
+1952|Świdnica|OFIAR OŚWIĘCIMSKICH|45A|58-105|ŚWIDNICA
+1953|Świdnica|Okrężna|30|58-100|Świdnica
+1954|Świdnica|Joachima Lelewela|10|58-100|Świdnica
+1955|Świdnica|Komunardów|2|58-100|Świdnica
+1956|Świdnica|Piekarska|2|58-100|Świdnica
+1957|Świdnica|pl.Wojska Polskiego|4|58-100|Świdnica
+1958|Świdnica|Głowackiego|14|58-100|Świdnica
+1959|Świdnica|Galla Anonima|3|58-100|Świdnica
+1960|Świdnica|Adama Mickiewicza|9|58-100|Świdnica
+1961|Świdnica|Jagiellońska Kilińskiego|5/23 35a|58-100|Świdnica
+1962|Świdnica|Ofiar Oświęcimskich|43|58-105|Świdnica
+1963|Świdnica|Armii Krajowej|10|58-100|Świdnica
+1964|Świdnica|Wałbrzyska|48|58-100|Świdnica
+1965|Świdnica|MICKIEWICZA|1-3|58-100|ŚWIDNICA
+1966|Świdnica|Galla Anonima|1|58-100|Świdnica
+1967|Świdnica|Folwarczna|2|58-100|Świdnica
+1968|Świdnica|Pl. Wojska Polskiego|3|58-100|Świdnica
+1969|Świdnica|KAROLA MARCINKOWSKIEGO|4 - 6|58-105|ŚWIDNICA
+1970|Świdnica|Wodna|5-7|58-100|Świdnica
+1971|Świdnica|WAŁBRZYSKA|39|58-100|ŚWIDNICA
+1972|Świdnica|Kraszowicka|27|58-100|Świdnica
+1973|Świdnica|JAGIELLOŃSKA|30|58-100|ŚWIDNICA
+1974|Świdnica|MICKIEWICZA|1-3|58-100|ŚWIDNICA
+1975|Świdnica|MieczysławaKozara-Słobódzkiego|21|58-105|Świdnica
+1976|Świdnica|Ofiar Oświęcimskich|30|58-105|Świdnica
+1977|Świdnica|Saperów|27a|58-100|Świdnica
+1978|Świdnica|Jodłowa|21|58-100|Świdnica
+1979|Świdnica|Wałbrzyska|54|58-100|Świdnica
+1980|Świdnica|Równa|11|58-100|Świdnica Śląska
+1981|Świdnica|MICKIEWICZA|1-3|58-100|ŚWIDNICA
+1982|Świdnica|Wałbrzyska|54|58-100|Świdnica
+1983|Świdnica|Pionierów Ziemi Świdnickiej|30|58-100|Świdnica
+1984|Świdnica|Kościelna|32|58-100|Świdnica
+1985|Świdnica|Ofiar Oświęcimskich|1|58-100|Świdnica
+1986|Świdnica|OFIAR OŚWIĘCIMSKICH|30|58-100|ŚWIDNICA
+1987|Świdnica|Traugutta|7|58-100|Świdnica
+1988|Świdnica|Romualda Traugutta|7|58-100|Świdnica
+1989|Świdnica|Traugutta|7|58-100|Świdnica
+1990|Świdnica|Traugutta|7|58-100|Świdnica
+1991|Świdnica|Ofiar Oświęcimskich|1|58-100|ŚWIDNICA
+1992|Świdnica|Ofiar Oświęcimskich|1|58-100|Świdnica
+1993|Świdnica|Ofiar Oświęcimskich|1|58-100|Świdnica
+1994|Świdnica|Ofiar Oświęcimskich|1|58-100|Świdnica
+1995|Świdnica|al. Niepodległości|11|58-100|Świdnica
+1996|Świdnica|Al.Niepodległości|11|58-100|Świdnica
+1997|Świdnica|Nauczycielska|2|58-100|Świdnica
+1998|Świdnica|Wałbrzyska|35-37|58-100|Świdnica
+1999|Świdnica|Wałbrzyska|35-37|58-100|Świdnica
+2000|Świdnica|Wałbrzyska|35-37|58-100|Świdnica
+2001|Świdnica|Wałbrzyska|35-37|58-100|Świdnica
+2002|Świdnica|Kościuszki|28|58-100|Świdnica
+2003|Świdnica|Pułaskiego|19|58-100|Świdnica
+2004|Świdnica|SŁOBÓDZKIEGO|28|58-105|ŚWIDNICA
+2005|Świdnica|Łukasińskiego|2|58-100|Świdnica
+2006|Świdnica|SŁONECZNA|17|58-100|ŚWIDNICA
+2007|Świdnica|Letnia|13|58-100|Świdnica
+2008|Świdnica|Zamenhofa|42|58-105|Świdnica
+2009|Świdnica|Łukasińskiego|2/3|58-100|Świdnica
+2010|Świdnica|Głowackiego|14|58-100|Świdnica
+2011|Świdnica|Kliczkowska|41|58-100|Świdnica
+2012|Świdnica|Rynek|39-40|58-100|Świdnica
+2013|Świdnica|Ofiar Oświęcimskich|1|58-100|Świdnica
+2014|Świdnica|Traugutta|7|58-100|Świdnica
+2015|Świdnica|Of. Oświęcimskich|6|58-100|Świdnica
+2016|Świdnica|TRYBUNALSKA|16|53-100|ŚWIDNICA
+2017|Świdnica|kościuszki|28|58-100|świdnica
+2018|Świdnica|Gen. Władysława Sikorskiego|41|58-105|Świdnica
+2019|Świdnica|Gen. Władysława Sikorskiego|41|58-105|Świdnica
+2020|Świdnica|Gen. Władysława Sikorskiego|41|58-105|Świdnica
+2021|Świdnica|SPRZYMIERZEŃCÓW|1-2|58-100|ŚWIDNICA
+2022|Świdnica|SPRZYMIERZEŃCÓW|1-2|58-100|ŚWIDNICA
+2023|Świdnica|SPRZYMIERZEŃCÓW|1-2|58-100|ŚWIDNICA
+2024|Świdnica|SPRZYMIERZEŃCÓW|1-2|58-100|ŚWIDNICA
+2025|Świdnica|PIONIERÓW ZIEMI ŚWIDNICKIEJ|14|58-100|ŚWIDNICA
+2026|Strzegom|ALEJA WOJSKA POLSKIEGO|16A|58-150|STRZEGOM
+2027|Świdnica|PIONIERÓW ZIEMI ŚWIDNICKIEJ|14|58-100|ŚWIDNICA
+2028|Świebodzice|MARII SKŁODOWSKIEJ-CURIE|9|58-160|ŚWIEBODZICE
+2029|Świdnica|Wałbrzyska|35-37|58-100|Świdnica
+2030|Świdnica|Wałbrzyska|35-37|58-100|Świdnica
+2031|Świdnica|Wałbrzyska|35-37|58-100|Świdnica
+2032|Świdnica|Księżnej Agnieszki|2|58-100|Świdnica
+2033|Świdnica|Księżnej Agnieszki|2|58-100|Świdnica
+2034|Świdnica|Księżnej Agnieszki|2|58-100|Świdnica
+2035|Świdnica|Księżnej Agnieszki|2|58-100|Świdnica
+2036|Świdnica|Księżnej Agnieszki|2|58-100|Świdnica
+2037|Świdnica|Równa|18|58-100|Świdnica
+2038|Świdnica|Kanonierska|3|58-100|Świdnica
+2039|Świdnica|Równa|18|58-100|Świdnica
+2040|Świdnica|Równa|18|58-100|Świdnica
+2041|Świdnica|Sikorskiego|41|58-105|Świdnica
+2042|Świdnica|Sikorskiego|41|58-105|Świdnica
+2043|Świdnica|Sikorskiego|41|58-105|Świdnica
+2044|Świdnica|Sikorskiego|41|58-105|Świdnica
+2045|Świdnica|Sikorskiego|41|58-105|Świdnica
+2046|Świdnica|Budowlana|7-9|58-100|Świdnica
+2047|Świdnica|Budowlana|7-9|58-100|ŚWIDNICA
+2048|Świdnica|Budowlana|7-9|58-100|Świdnica
+2049|Świdnica|Budowlana|7-9|58-100|ŚWIDNICA
+2050|Świdnica|Budowlana|7-9|58-100|Świdnica
+2051|Świdnica|Równa|11|58-100|Świdnica
+2052|Świdnica|Równa|11|58-100|Świdnica
+2053|Świdnica|Równa|11|58-100|Świdnica
+2054|Świdnica|Traugutta|5|58-100|Świdnica
+2055|Świdnica|Traugutta|5|58-100|Świdnica
+2056|Świdnica|Traugutta|5|58-100|Świdnica
+2057|Świdnica|Traugutta|5|58-100|Świdnica
+2058|Świdnica|Rotmistrza Witolda Pileckiego|3|58-100|Świdnica
+2059|Świdnica|Rotmistrza Witolda Pileckiego|3|58-100|Świdnica
+2060|Świdnica|Rotmistrza Witolda Pileckiego|3|58-100|Świdnica
+2061|Świdnica|Rotmistrza Witolda Pileckiego|3|58-100|Świdnica
+2062|Świdnica|Rotmistrza Witolda Pileckiego|3|58-100|Świdnica
+2063|Świdnica|Rotmistrza Witolda Pileckiego|3|58-100|ŚWIDNICA
+2064|Świebodzice|Księcia Bolka|17|58-160|ŚWIEBODZICE
+2065|Świebodzice|Spokojna|3|58-160|Świebodzice
+2066|Świebodzice|Królowej Elżbiety|1|58-160|Świebodzice
+2067|Świebodzice|Świdnicka|32-34|58-160|Świebodzice
+2068|Świebodzice|Osiedle Sudeckie|12|58-160|Świebodzice
+2069|Świebodzice|CIERNIE|133|58-160|ŚWIEBODZICE
+2070|Świebodzice|Świdnicka|13|58-160|Świebodzice
+2071|Świebodzice|Ofiar Oświęcimskich|58|58-160|Świebodzice
+2072|Świebodzice|Marszałka Józefa Piłsudskiego|28|58-160|Świebodzice
+2073|Świebodzice|M.Skłodowskiej-Curie|9|58-160|Świebodzice
+2074|Świebodzice|M.Skłodowskiej - Curie|9|58-160|Świebodzice
+2075|Świebodzice|M.Skłodowskiej - Curie|9|58-160|Świebodzice
+2076|Świebodzice|Ciernie|30|58-160|Świebodzice
+2077|Świebodzice|Ciernie|30|58-160|Świebodzice
+2078|Świebodzice|Ciernie|30|58-160|Świebodzice
+2079|Świebodzice|Mieszka Starego|4|58-160|Świebodzice
+2080|Świebodzice|Mieszka Starego|4|58-160|Świebodzice
+2081|Świebodzice|Mieszka Starego|4|58-160|Świebodzice
+2082|Świebodzice|Marszałka Józefa Piłsudskiego|31|58-160|Świebodzice
+2083|Świebodzice|Marszałka Józefa Piłsudskiego|31|58-160|Świebodzice
+2084|Świebodzice|Marszałka Józefa Piłsudskiego|31|58-160|Świebodzice
+2085|Świebodzice|Marszałka Józefa Piłsudskiego|31|58-160|Świebodzice
+2086|Świebodzice|Marszałka Józefa Piłsudskiego|31|58-160|Świebodzice
+2087|Świebodzice|Marii Skłodowskiej - Curie|9|58-160|Świebodzice
+2088|Świebodzice|Marii Skłodowskiej - Curie|9|58-160|Świebodzice
+2089|Świebodzice|Marii Skłodowskiej-Curie|9|58-160|Świebodzice
+2090|Świebodzice|Sienkiewicza|30|58-160|Świebodzice
+2091|Świebodzice|Sienkiewicza|30|58-160|Świebodzice
+2092|Świebodzice|Sienkiewicza|30|58-160|Świebodzice
+2093|Świebodzice|Sienkiewicza|30|58-160|Świebodzice
+2094|Świebodzice|Mickiewicza|8|58-160|Świebodzice
+2095|Świebodzice|Sienkiewicza|30|58-160|Świebodzice
+2096|Dobromierz|Podgórna|2|58-170|Dobromierz
+2097|Gniewków|NULL|3|58-173|Roztoka
+2098|Dobromierz|Podgórna|2|58-170|Dobromierz
+2099|Roztoka|3 Maja|61|58-173|Roztoka
+2100|Roztoka|3 Maja|61|58-173|Roztoka
+2101|Roztoka|Jana Pawła II|7/9|58-173|Roztoka
+2102|Roztoka|Jana Pawła II|7/9|58-173|Roztoka
+2103|Roztoka|Jana Pawła II|7/9|58-173|Roztoka
+2104|Jaworzyna Śląska|Westerplatte|18|58-140|Jaworzyna Śląska
+2105|Pastuchów|Wyzwolenia|22|58-115|Pastuchów
+2106|Jaworzyna Śląska|Mickiewicza|9|58-140|Jaworzyna Śląska
+2107|Stary Jaworów|-|38|58-140|Jaworzyna Śląska
+2108|Jaworzyna Śląska|JANA PAWŁA II|16|58-140|JAWORZYNA ŚLĄSKA
+2109|Wiry|NULL|61|58-124|Marcinowice
+2110|Strzelce|NULL|2|58-123|Strzelce
+2111|Wiry|NULL|61|58-124|Marcinowice
+2112|Marcinowice|Kolejowa|18a|58-124|Marcinowice
+2113|Marcinowice|Kolejowa|18a|58-124|Marcinowice
+2114|Marcinowice|Kolejowa|18a|58-124|Marcinowice
+2115|Strzegom|Mickiewicza|2 a|58-150|Strzegom
+2116|Strzegom|Parkowa|8|58-150|Strzegom
+2117|Strzegom|T. Kościuszki|51|58-150|Strzegom
+2118|Morawa|Morawa1|1|58-120|Jaroszów
+2119|Olszany|Olszany|138|58-150|Strzegom
+2120|Kostrza|Żeromskiego|22|58-150|Strzegom
+2121|Strzegom|Mickiewicza|1|58-150|Strzegom
+2122|Strzegom|JELENIOGÓRSKA|19|58-150|STRZEGOM
+2123|Strzegom|ALEJA WOJSKA POLSKIEGO|3-5|58-150|STRZEGOM
+2124|Rogoźnica|PARKOWA|1|58-152|ROGOŹNICA
+2125|Strzegom|Brzegowa|1|58-150|Strzegom
+2126|Strzegom|Mickiewicza|1|58-150|Strzegom
+2127|Morawa|Morawa|1|58-120|Jaroszów
+2128|Strzegom|PL. JANA PAWŁA II|10|58-150|STRZEGOM
+2129|Rogoźnica|PARKOWA|1|58-152|ROGOŹNICA
+2130|Żółkiewka|NULL|54|58-150|Strzegom
+2131|Międzyrzecze|NULL|27D|58-150|Strzegom
+2132|Jaroszów|-|98|58-120|JAROSZÓW
+2133|Jaroszów|-|98|58-120|JAROSZÓW
+2134|Jaroszów|-|98|58-120|JAROSZÓW
+2135|Jaroszów|-|37|58-120|JAROSZÓW
+2136|Stanowice|ŚWIEBODZKA|"6,9"|58-150|STRZEGOM
+2137|Stanowice|ŚWIEBODZKA|9|58-150|STRZEGOM
+2138|Stanowice|ŚWIEBODZKA|6|58-150|STRZEGOM
+2139|Strzegom|Kościuszki|31|58-150|Strzegom
+2140|Strzegom|Kościuszki|31|58-150|Strzegom
+2141|Strzegom|Kościuszki|31|58-150|Strzegom
+2142|Strzegom|ALEJA WOJSKA POLSKIEGO|16|58-150|STRZEGOM
+2143|Strzegom|ALEJA WOJSKA POLSKIEGO|16|58-150|STRZEGOM
+2144|Strzegom|ALEJA WOJSKA POLSKIEGO|16|58-150|STRZEGOM
+2145|Strzegom|ALEJA WOJSKA POLSKIEGO|16|58-150|STRZEGOM
+2146|Strzegom|ALEJA WOJSKA POLSKIEGO|16|58-150|STRZEGOM
+2147|Goczałków|ul. Szkolna|1|58-152|Goczałków
+2148|Goczałków|ul. Szkolna|1|58-152|Goczałków
+2149|Goczałków|ul. Parkowa|4|58-152|Goczałków
+2150|Strzegom|KRÓTKA|6|58-150|STRZEGOM
+2151|Strzegom|KRÓTKA|6|58-150|STRZEGOM
+2152|Strzegom|KRÓTKA|6|58-150|STRZEGOM
+2153|Strzegom|Krótka|6|58-150|Strzegom
+2154|Strzegom|KRÓTKA|6|58-150|STRZEGOM
+2155|Pszenno|Wrocławska|15 a|58-125|Pszenno
+2156|Witoszów Dolny|Witoszów Dolny|59|58-100|Świdnica
+2157|Boleścin|NULL|5|58-112|Grodziszcze
+2158|Krzyżowa|-|7|58-112|Grodziszcze
+2159|Grodziszcze|NULL|63/a|58-112|Grodziszcze
+2160|Witoszów Dolny|brak|59 - 60|58-100|Świdnica
+2161|Pszenno|Wrocławska|15|58-125|Pszenno
+2162|Bystrzyca Górna|Bystrzyca Górna|64|58-114|Lubachów
+2163|Lutomia Dolna|NULL|12|58-113|Lutomia Dolna
+2164|Mokrzeszów|Mokrzeszów|23A|58-160|ŚWIEBODZICE
+2165|Witoszów Dolny|brak|59-60|58-100|Świdnica
+2166|Pszenno|Wrocławska|15|58-125|Pszenno
+2167|Lutomia Dolna|Lutomia Dolna|12|58-113|Lutomia Dolna
+2168|Lubachów|LUBACHÓW|12|58-114|LUBACHÓW
+2169|Bystrzyca Górna|NULL|48|58-114|Lubachów
+2170|Bystrzyca Górna|NULL|48|58-114|Lubachów
+2171|Bystrzyca Górna|NULL|48|58-114|Lubachów
+2172|Bystrzyca Górna|NULL|48|58-114|Lubachów
+2173|Bystrzyca Górna|NULL|48|58-114|Lubachów
+2174|Bystrzyca Górna|NULL|48|58-114|Lubachów
+2175|Krzyżowa|Krzyżowa|7|58-112|Grodziszcze
+2176|Krzyżowa|Krzyżowa|7|58-112|Grodziszcze
+2177|Pszenno|Fabryczna|4|58-125|Pszenno
+2178|Burkatów|Burkatów|42E|58-100|Świdnica
+2179|Bojanice|Bojanice|53|58-100|Świdnica
+2180|Komorów|Komorów|1|58-100|Świdnica
+2181|Lubachów|Lubachów|12|58-100|Świdnica
+2182|Lutomia Górna|Lutomia Górna|1|58-113|Lutomia Dolna
+2183|Lutomia Górna|Lutomia Górna|1|58-113|Lutomia Dolna
+2184|Mokrzeszów|Mokrzeszów|111|58-160|Świebodzice
+2185|Mokrzeszów|Mokrzeszów|111|58-160|Świebodzice
+2186|Mokrzeszów|Mokrzeszów|111|58-160|Świebodzice
+2187|Mokrzeszów|Mokrzeszów|111|58-160|Świebodzice
+2188|Mokrzeszów|Mokrzeszów|111|58-160|Świebodzice
+2189|Żarów|ŁOKIETKA|14|58-130|ŻARÓW
+2190|Żarów|ZAMKOWA|1|58-130|ŻARÓW
+2191|Mrowiny|Wojska Polskiego|43|58-130|Żarów
+2192|Imbramowice|ŻAROWSKA|45|58-130|Żarów
+2193|Zastruże|NULL|19A|58-130|Żarów
+2194|Żarów|1 Maja|2|58-130|Żarów
+2195|Żarów|Piastowska|10|58-130|Żarów
+2196|Mrowiny|SZKOLNA|6|58-130|ŻARÓW
+2197|Mrowiny|SZKOLNA|6|58-130|ŻARÓW
+2198|Mrowiny|SZKOLNA|6|58-130|ŻARÓW
+2199|Żarów|Armii Krajowej|60|58-130|Żarów
+2200|Żarów|Armii Krajowej|60|58-130|Żarów
+2201|Żarów|Zamkowa|10|58-130|Żarów
+2202|Żarów|Żamkowa|10|58-130|Żarów
+2203|Żarów|Zamkowa|10|58-130|Żarów
+2204|Żarów|Zamkowa|10|58-130|Żarów
+2205|Żarów|Zamkowa|10|58-130|Żarów
+2206|Żarów|Zamkowa|10|58-130|Żarów
+2207|Oborniki Śląskie|Sikorskiego|2|55-120|Oborniki Śląskie
+2208|Pęgów|Główna|99|55-120|Oborniki Śląskie
+2209|Oborniki Śląskie|Łąkowa|25|55-120|Oborniki Śląskie
+2210|Oborniki Śląskie|WŁADYSŁAWA JAGIEŁŁY|1|55-120|OBORNIKI ŚLĄSKIE
+2211|Rościsławice|Wołowska|27|55-120|Oborniki Śląskie
+2212|Uraz|Wołowska|55|55-120|Oborniki Śl.
+2213|Pęgów|Główna|101|55-120|Oborniki Sląskie
+2214|Osolin|Piłsudskiego|5|55-120|Oborniki Śląskie
+2215|Oborniki Śląskie|Stefana Kardynała Wyszyńskiego|24|55-120|Oborniki Śląskie
+2216|Oborniki Śląskie|ul. Trzebnicka|33|55-120|Oborniki Śląskie
+2217|Oborniki Śląskie|KOWNACKIEGO|4|55-120|OBORNIKI ŚLĄSKIE
+2218|Pęgów|Główna|101|55-120|Oborniki Śląskie
+2219|Oborniki Śląskie|Turystyczna|2|55-120|Oborniki Śl.
+2220|Oborniki Śląskie|Poniatowskiego|22|55-120|Oborniki Śląskie
+2221|Oborniki Śląskie|Wyszyńskiego|24|55-120|Oborniki Śląskie
+2222|Oborniki Śląskie|Poniatowskiego|22|55-120|Oborniki Śląskie
+2223|Osola|GŁÓWNA|6|55-120|OBORNIKI ŚLĄSKIE
+2224|Golędzinów|Kopernika|1|55-120|Oborniki Śląskie
+2225|Oborniki Śląskie|Nowowiejska|2|55-120|Oborniki Śląskie
+2226|Oborniki Śląskie|Parkowa|8|55-120|Oborniki Śląskie
+2227|Oborniki Śląskie|Parkowa|8|55-120|Oborniki Śląskie
+2228|Oborniki Śląskie|Parkowa|8|55-120|Oborniki Śląskie
+2229|Oborniki Śląskie|Parkowa|8|55-120|Oborniki Śląskie
+2230|Oborniki Śląskie|Parkowa|8|55-120|Oborniki Śląskie
+2231|Oborniki Śląskie|K. Kownackiego|4|55-120|Oborniki Śląskie
+2232|Oborniki Śląskie|K. Kownackiego|4|55-120|Oborniki Śląskie
+2233|Oborniki Śląskie|K. Kownackiego|4|55-120|Oborniki Śląskie
+2234|Prusice|Żmigrodzka|39|55-110|Prusice
+2235|Piotrkowice|Piotrkowice|19|55-110|Prusice
+2236|Skokowa|Wrocławska|9i|55-110|Prusice
+2237|Skokowa|Kościelna|2|55-110|Prusice
+2238|Brzeźno|NULL|1|55-110|Prusice
+2239|Strupina|Rynek|15|55-110|Prusice
+2240|Skokowa|Kościelna|2|55-110|Prusice
+2241|Strupina|Rynek|15|55-110|Prusice
+2242|Prusice|Żmigrodzka|43|55-110|Prusice
+2243|Prusice|Żmigrodzka|43|55-110|Prusice
+2244|Prusice|Żmigrodzka|43|55-110|Prusice
+2245|Trzebnica|1- go Maja|6|55-100|Trzebnica
+2246|Trzebnica|Wojska Polskiego|6|55-100|Trzebnica
+2247|Trzebnica|Wrocławska|10|55-100|Trzebnica
+2248|Trzebnica|Obornicka|41H|55-100|Trzebnica
+2249|Trzebnica|Prusicka|24a|55-100|Trzebnica
+2250|Trzebnica|Armii Krajowej|2D|55-100|Trzebnica
+2251|Trzebnica|Ks.Dziekana Wawrzyńca Bochenka|26|55-100|Trzebnica
+2252|Trzebnica|3 MAJA|5|55-100|TRZEBNICA
+2253|Trzebnica|Marii Konopnickiej|14|55-100|Trzebnica
+2254|Boleścin|NULL|23|55-100|Trzebnica
+2255|Kuźniczysko|NULL|177|55-100|Trzebnica
+2256|Masłów|NULL|228|55-100|Trzebnica
+2257|Trzebnica|Wrocławska|10|55-100|Trzebnica
+2258|Trzebnica|Św. Jadwigi|10|55-100|Trzebnica
+2259|Trzebnica|Żeromskiego|25|55-100|Trzebnica
+2260|Trzebnica|NULL|NULL|55-100|Trzebnica
+2261|Trzebnica|Nowa|1|55-100|Trzebnica
+2262|Trzebnica|Daszyńskiego|33/1|55-100|Trzebnica
+2263|Trzebnica|Nowa|1|55-100|Trzebnica
+2264|Trzebnica|Nowa|1|55-100|Trzebnica
+2265|Trzebnica|Nowa|1|55-100|Trzebnica
+2266|Trzebnica|Nowa|1|55-100|Trzebnica
+2267|Trzebnica|Nowa|1|55-100|Trzebnica
+2268|Trzebnica|Nowa|1|55-100|Trzebnica
+2269|Boleścin|NULL|23|55-100|Trzebnica
+2270|Ujeździec Wielki|Ujeździec Wielki|46|55-100|Trzebnica
+2271|Boleścin|NULL|23|55-100|Trzebnica
+2272|Trzebnica|Nowa|1|55-100|Trzebnica
+2273|Trzebnica|Nowa|1|55-100|Trzebnica
+2274|Trzebnica|Nowa|1|55-100|Trzebnica
+2275|Trzebnica|Wojska Polskiego|17|55-100|Trzebnica
+2276|Trzebnica|Wojska Polskiego|17|55-100|Trzebnica
+2277|Trzebnica|Wojska Polskiego|17|55-100|Trzebnica
+2278|Trzebnica|Żeromskiego|25|55-100|Trzebnica
+2279|Trzebnica|Żeromskiego|25|55-100|Trzebnica
+2280|Trzebnica|Żeromskiego|25|55-100|Trzebnica
+2281|Trzebnica|Żeromskiego|25|55-100|Trzebnica
+2282|Trzebnica|Żeromskiego|25|55-100|Trzebnica
+2283|Trzebnica|Żeromskiego|25|55-100|Trzebnica
+2284|Trzebnica|PRUSICKA|53/55|55-100|TRZEBNICA
+2285|Trzebnica|PRUSICKA|53/55|55-100|TRZEBNICA
+2286|Trzebnica|PRUSICKA|53/55|55-100|TRZEBNICA
+2287|Ujeździec Wielki|Ujeździec Wielki|46|55-100|Trzebnica
+2288|Ujeździec Wielki|Ujeździec Wielki|46|55-100|Trzebnica
+2289|Ujeździec Wielki|Ujeździec Wielki|46|55-100|Trzebnica
+2290|Psary|KASZTANOWA|18|51-180|WROCŁAW
+2291|Krzyżanowice|PARKOWA|27|51-180|WROCŁAW
+2292|Kryniczno|Trzebnicka|12|55-114|Wisznia Mała
+2293|Psary|Główna|40|51-180|Wrocław 49
+2294|Wisznia Mała|Szkolna|51|55-114|Wisznia Mała
+2295|Szewce|Strzeszowska|7|55-114|Wisznia Mała
+2296|Ligota Piękna|Na Kolonii|74|55-114|Wisznia Mała
+2297|Szewce|Strzeszowska|7|55-114|Wisznia Mała
+2298|Szewce|Strzeszowska|7|55-114|Wisznia Mała
+2299|Szewce|Strzeszowska|7|55-114|Wisznia Mała
+2300|Szewce|Strzeszowska|7|55-114|Wisznia Mała
+2301|Kryniczno|Szkolna|6|55-114|Wisznia Mała
+2302|Kryniczno|Szkolna|6|55-114|Wisznia Mała
+2303|Kryniczno|Szkolna|6|55-114|Wisznia Mała
+2304|Czeszów|Marii Konopnickiej|18|55-106|Zawonia
+2305|Czeszów|Marii Konopnickiej|18|55-106|Zawonia
+2306|Czeszów|Marii Konopnickiej|18|55-106|Zawonia
+2307|Zawonia|Szkolna|26|55-106|Zawonia
+2308|Zawonia|SZKOLNA|26|55-106|ZAWONIA
+2309|Zawonia|Szkolna|26|55-106|Zawonia
+2310|Zawonia|Szkolna|26|55-106|Zawonia
+2311|Żmigród|Czereśniowa|9|55-140|Żmigród
+2312|Żmigród|Szkolna|11|55-140|Żmigród
+2313|Barkowo|NULL|75|55-140|ŻMIGRÓD
+2314|Korzeńsko|KOLEJOWA|14|55-140|ŻMIGRÓD
+2315|Powidzko|NULL|49|55-140|Żmigród
+2316|Radziądz|NULL|70|55-140|Żmigród
+2317|Żmigród|Rybacka|17|55-140|Żmigród
+2318|Korzeńsko|KOLEJOWA|14|55-140|ŻMIGRÓD
+2319|Barkowo|NULL|75|55-140|Żmigród
+2320|Powidzko|NULL|49|55-140|Żmigród
+2321|Radziądz|NULL|70|55-140|Żmigród
+2322|Żmigród|Żmigród|5|55-140|Żmigród
+2323|Żmigród|Żmigród|5|55-140|Żmigród
+2324|Żmigród|Żmigród|5|55-140|Żmigród
+2325|Żmigród|Żmigród|5|55-140|Żmigród
+2326|Żmigród|Żmigród|5|55-140|Żmigród
+2327|Żmigród|Sienkiewicza|6|55-140|Żmigród
+2328|Żmigród|Sienkiewicza|6|55-140|Żmigród
+2329|Żmigród|Sienkiewicza|6|55-140|Żmigród
+2330|Żmigród|Rybacka|17|55-140|Żmigród
+2331|Żmigród|Rybacka|17|55-140|Żmigród
+2332|Żmigród|Rybacka|17|55-140|Żmigród
+2333|Żmigród|Rybacka|17|55-140|Żmigród
+2334|Żmigród|Rybacka|17|55-140|Żmigród
+2335|Boguszów-Gorce|Warszawska|1|58-371|Boguszów Gorce
+2336|Boguszów-Gorce|Kopernika|7|58-372|Boguszów-Gorce
+2337|Boguszów-Gorce|WARYŃSKIEGO|10|58-370|BOGUSZÓW-GORCE
+2338|Boguszów-Gorce|Kossaka|38|58-370|Boguszów-Gorce
+2339|Boguszów-Gorce|Szkolna|4|58-370|Boguszów-Gorce
+2340|Boguszów-Gorce|Kolejowa|49|58-370|Boguszów-Gorce
+2341|Boguszów-Gorce|Szkolna|4|58-370|Boguszów-Gorce
+2342|Boguszów-Gorce|Staszica|5|58-371|Boguszów-Gorce
+2343|Boguszów-Gorce|Staszica|5|58-371|Boguszów-Gorce
+2344|Boguszów-Gorce|Staszica|5|58-371|Boguszów-Gorce
+2345|Jedlina-Zdrój|Piastowska|8|58-330|Jedlina-Zdrój
+2346|Jedlina-Zdrój|Jana Pawła II|5|58-330|Jedlina-Zdrój
+2347|Jedlina-Zdrój|Słowackiego|5|58-330|Jedlina-Zdrój
+2348|Szczawno-Zdrój|Ofiar Katynia|4|58-310|Szczawno-Zdrój
+2349|Szczawno-Zdrój|kolejowa|7a|58-310|szczawno - zdrój
+2350|Szczawno-Zdrój|SIENKIEWICZA|32|58-310|SZCZAWNO-ZDRÓJ
+2351|Szczawno-Zdrój|Boczna|1|58-310|Szczawno-Zdrój
+2352|Szczawno-Zdrój|Szczawieńska|2|59-310|Szczawno-Zdrój
+2353|Szczawno-Zdrój|Kolejowa|7a|58-310|Szczawno - Zdrój
+2354|Szczawno-Zdrój|Kolejowa|2|58-310|Szczawno Zdrój
+2355|Szczawno-Zdrój|Kolejowa|2|58-310|Szczawno Zdrój
+2356|Szczawno-Zdrój|Kolejowa|2|58-310|Szczawno - Zdrój
+2357|Szczawno-Zdrój|Kolejowa|2|58-310|Szczawno Zdrój
+2358|Szczawno-Zdrój|KOLEJOWA|2|58-310|SZCZAWNO - ZDRÓJ
+2359|Szczawno-Zdrój|Ogrodowa|5|58-310|Szczawno Zdrój
+2360|Szczawno-Zdrój|Ogrodowa|5|58-310|Szczawno Zdrój
+2361|Szczawno-Zdrój|Ogrodowa|5|58-310|Szczawno Zdrój
+2362|Czarny Bór|SPORTOWA|44|58-379|CZARNY BÓR
+2363|Czarny Bór|SPORTOWA|44|58-379|CZARNY BÓR
+2364|Czarny Bór|Skalników|5a|58-379|CZARNY BÓR
+2365|Czarny Bór|XXX-Lecia PRL|19|58-379|CZARNY BÓR
+2366|Witków|NULL|89|58-379|CZARNY BÓR
+2367|Głuszyca|Grunwaldzka|15|58-340|Głuszyca
+2368|Głuszyca|Sienkiewicza|53|58-340|Głuszyca
+2369|Głuszyca|Kolejowa|8|58-340|GŁUSZYCA
+2370|Głuszyca Górna|Kłodzka|103|58-340|Głuszyca Górna
+2371|Głuszyca|Grunwaldzka|37|58-340|Głuszyca
+2372|Głuszyca Górna|Kłodzka|103|58-340|Głuszyca
+2373|Głuszyca|Parkowa|9|58-340|Głuszyca
+2374|Głuszyca|Parkowa|9|58-340|Gluszyca
+2375|Głuszyca|Parkowa|9|58-340|Głuszyca
+2376|Głuszyca|Parkowa|9|58-340|Głuszyca
+2377|Głuszyca|Parkowa|9|58-340|Głuszyca
+2378|Głuszyca|Parkowa|9|58-340|Głuszyca
+2379|Unisław Śląski|Unisław śląski|4b|58-350|Mieroszów
+2380|Mieroszów|Wolności|27|58-350|Mieroszów
+2381|Kowalowa|Wałbrzyska|38|58-350|Mieroszów
+2382|Mieroszów|Wolności|19|58-350|Mieroszów
+2383|Mieroszów|Żeromskiego|30|58-350|Mieroszów
+2384|Nowe Siodło|NULL|73|58-350|Mieroszów
+2385|Nowe Siodło|NULL|73|58-350|Mieroszów
+2386|Nowe Siodło|NULL|73|58-350|Mieroszów
+2387|Nowe Siodło|NULL|73|58-350|Mieroszów
+2388|Sokołowsko|Unisławska|4|58-350|Mieroszów
+2389|Sokołowsko|Unisławska|4|58-350|Mieroszów
+2390|Sokołowsko|Unisławska|4|58-350|Mieroszów
+2391|Stare Bogaczowice|GŁÓWNA|172A|58-312|STARE BOGACZOWICE
+2392|Stare Bogaczowice|Główna|172a|58-312|Stare Bogaczowice
+2393|Stare Bogaczowice|Główna|172a|58-312|Stare Bogaczowice
+2394|Stare Bogaczowice|Główna|172a|58-312|Stare Bogaczowice
+2395|Struga|Szkolna|2|58-312|Stare Bogaczowice
+2396|Jugowice|GŁÓWNA|34|58-321|JUGOWICE
+2397|Walim|Nowa Kolonia|9|58-320|Walim
+2398|Walim|Nowa Kolonia|9|58-320|Walim
+2399|Walim|Nowa Kolonia|9|58-320|Walim
+2400|Walim|Nowa Kolonia|9|58-320|Walim
+2401|Walim|Nowa Kolonia|9|58-320|Walim
+2402|Walim|Nowa Kolonia|9|58-320|Walim
+2403|Walim|Nowa Kolonia|9|58-320|Walim
+2404|Walim|Boczna|8|58-320|Walim
+2405|Walim|Boczna|8|58-320|Walim
+2406|Walim|Boczna|8|58-320|Walim
+2407|Brzeg Dolny|Zwycięstwa|1|56-120|Brzeg Dolny
+2408|Brzeg Dolny|Odrodzenia|2|56-120|Brzeg Dolny
+2409|Brzeg Dolny|Przedszkolna|1|56-120|Brzeg Dolny
+2410|Brzeg Dolny|A. Mickiewicza|2|56-120|BRZEG DOLNY
+2411|Brzeg Dolny|Wilcza|4|56-120|Brzeg Dolny
+2412|Brzeg Dolny|ZWYCIĘSTWA|10|56-120|BRZEG DOLNY
+2413|Godzięcin|Godzięcin|50B|56-120|Brzeg Dolny
+2414|Pogalewo Wielkie|brak|12H|56-120|Brzeg Dolny
+2415|Brzeg Dolny|MŁODZIEŻOWA|2|56-120|BRZEG DOLNY
+2416|Brzeg Dolny|1 Maja|21|56-120|Brzeg Dolny
+2417|Brzeg Dolny|1 Maja|21|56-120|Brzeg Dolny
+2418|Godzięcin|GODZIĘCIN|50D|56-120|BRZEG DOLNY
+2419|Godzięcin|GODZIĘCIN|50D|56-120|BRZEG DOLNY
+2420|Godzięcin|GODZIĘCIN|50D|56-120|BRZEG DOLNY
+2421|Brzeg Dolny|1 Maja|21|56-120|Brzeg Dolny
+2422|Brzeg Dolny|1 Maja|21|56-120|Brzeg Dolny
+2423|Godzięcin|Godzięcin|50B|56-120|Brzeg Dolny
+2424|Brzeg Dolny|Wilcza|10|56-120|Brzeg Dolny
+2425|Brzeg Dolny|Wilcza|10|56-120|Brzeg Dolny
+2426|Brzeg Dolny|Wilcza|10|56-120|Brzeg Dolny
+2427|Brzeg Dolny|1-go Maja|1a|56-120|Brzeg Dolny
+2428|Brzeg Dolny|1-go Maja|1a|56-120|Brzeg Dolny
+2429|Brzeg Dolny|1-go Maja|1a|56-120|Brzeg Dolny
+2430|Brzeg Dolny|1-go Maja|1a|56-120|Brzeg Dolny
+2431|Głębowice|NULL|10|56-160|Wińsko
+2432|Głębowice|NULL|10|56-160|Wińsko
+2433|Krzelów|NULL|125|56-160|Wińsko
+2434|Orzeszków|NULL|9|56-160|Wińsko
+2435|Wińsko|Nowa|2|56-160|Wińsko
+2436|Orzeszków|NULL|9|56-160|Wińsko
+2437|Krzelów|NULL|125|56-160|Wińsko
+2438|Wińsko|Nowa|2|56-160|Wińsko
+2439|Wińsko|Nowa|2|56-160|Wińsko
+2440|Wińsko|Nowa|2|56-160|Wińsko
+2441|Wołów|Piłsudskiego|7|56-100|Wołów
+2442|Wołów|INWALIDÓW WOJENNYCH|15|56-100|WOŁÓW
+2443|Wołów|Kościuszki|17|56-100|Wołów
+2444|Wołów|Jagodowa|25|56-100|Wołów
+2445|Wołów|Wileńska|6|56-100|Wołów
+2446|Mojęcice|Wołowska|4|56-100|Wołów
+2447|Stary Wołów|Stary Wołów|56|56-100|Wołów
+2448|Warzęgowo|NULL|15|56-100|Wołów
+2449|Wołów|Chopina|10|56-100|Wołów
+2450|Krzydlina Wielka|NULL|27a|56-100|Wołów
+2451|Wołów|KOMUNY PARYSKIEJ|18|56-100|WOŁÓW
+2452|Wołów|Plac Jana III Sobieskiego|2|56-100|Wołów
+2453|Wołów|Więzienna|6|56-100|WSołów
+2454|Wołów|Więzienna|6|56-100|WSołów
+2455|Wołów|Al. Niepodległości|36a|56-100|Wołów
+2456|Wołów|Inwalidów Wojennych|26|56-100|Wołów
+2457|Wołów|Inwalidów Wojennych|10|56-100|Wołów
+2458|Wołów|Inwalidów Wojennych|10|56-100|Wołów
+2459|Wołów|Al. Niepodległości|36a|56-100|Wołów
+2460|Krzydlina Mała|NULL|70|56-100|Wołów
+2461|Wołów|Tadeusza Kościuszki|27|56-100|Wołów
+2462|Wołów|Tadeusza Kościuszki|27|56-100|Wołów
+2463|Wołów|Tadeusza Kościuszki|27|56-100|Wołów
+2464|Wołów|Tadeusza Kościuszki|27|56-100|Wołów
+2465|Wołów|Tadeusza Kościuszki|27|56-100|Wołów
+2466|Wołów|Tadeusza Kościuszki|27|56-100|Wołów
+2467|Wołów|UL. TADEUSZA KOŚCIUSZKI|27|56-100|WOŁÓW
+2468|Wołów|UL. TADEUSZA KOŚCIUSZKI|27|56-100|WOŁÓW
+2469|Brzeg Dolny|UL. 1 MAJA|1 A|56-120|BRZEG DOLNY
+2470|Wołów|UL. TADEUSZA KOŚCIUSZKI|27|56-100|WOŁÓW
+2471|Wołów|UL. TADEUSZA KOŚCIUSZKI|27|56-100|WOŁÓW
+2472|Lubiąż|Wojska Polskiego|3A|56-100|Wołów
+2473|Lubiąż|Wojska Polskiego|3a|56-100|Wołów
+2474|Lubiąż|Wojska Polskiego|3A|56-100|Wołów
+2475|Lubiąż|Wojska Polskiego|3A|56-100|Wołów
+2476|Wołów|Trzebnicka|14|56-100|Wołów
+2477|Wołów|Trzebnicka|14|56-100|Wołów
+2478|Wołów|Trzebnicka|14|56-100|Wołów
+2479|Wołów|INWALIDÓW WOJENNYCH|10|56-100|WOŁÓW
+2480|Wołów|INWALIDÓW WOJENNYCH|10|56-100|WOŁÓW
+2481|Wołów|INWALIDÓW WOJENNYCH|10|56-100|WOŁÓW
+2482|Wołów|INWALIDÓW WOJENNYCH|10|56-100|WOŁÓW
+2483|Wołów|INWALIDÓW WOJENNYCH|10|56-100|WOŁÓW
+2484|Lubiąż|A. Mickiewicza|nr 1|56-100|wołów
+2485|Lubiąż|A. Mickiewicza|nr 1|56-100|wołów
+2486|Lubiąż|A. Mickiewicza|nr 1|56-100|wołów
+2487|Lubiąż|A. Mickiewicza|nr 1|56-100|wołów
+2488|Wołów|SPACEROWA|1|56-100|WOŁÓW
+2489|Wołów|SPACEROWA|1|56-100|WOŁÓW
+2490|Wołów|SPACEROWA|1|56-100|WOŁÓW
+2491|Wołów|Zaułek Zielony|20|56-100|Wołów
+2492|Wołów|Zaułek Zielony|20|56-100|Wołów
+2493|Wołów|Zaułek Zielony|20|56-100|Wołów
+2494|Wołów|Zaułek Zielony|20|56-100|Wołów
+2495|Kamieniec Wrocławski|Cichy Kącik|16|55-002|Kamieniec Wrocławski
+2496|Kamieniec Wrocławski|Jasia i Małgosi|2|55-002|Kamieniec Wrocławski
+2497|Kamieniec Wrocławski|Świerkowa|6|55-002|Kamieniec Wrocławski
+2498|Dobrzykowice|Kolejowa|19|55-002|Kamieniec Wrocławski
+2499|Kamieniec Wrocławski|Wrocławska|29|55-002|Kamieniec Wrocławski
+2500|Chrząstawa Wielka|Wrocławska|18|55-003|Czernica
+2501|Kamieniec Wrocławski|KOLEJOWA|8|55-002|KAMIENIEC WROCŁAWSKI
+2502|Dobrzykowice|Szkolna|1|55-002|Kamieniec Wrocławski
+2503|Ratowice|Wrocławska|36|55-003|Czernica
+2504|Kamieniec Wrocławski|Cichy Kącik|16|55-002|Kamieniec Wrocławski
+2505|Czernica|ŚW. BRATA ALBERTA|9|55-003|CZERNICA
+2506|Kamieniec Wrocławski|Kolejowa|8|55-002|Kamieniec Wrocławski
+2507|Czernica|Św.Brata Alberta A.Chmielowski|9|55-003|Czernica
+2508|Czernica|Św.Brata Alberta A.Chmielowski|9|55-003|Czernica
+2509|Czernica|Św.Brata Alberta A.Chmielowski|9|55-003|Czernica
+2510|Chrząstawa Wielka|WROCŁAWSKA|19|55-003|CZERNICA
+2511|Chrząstawa Wielka|WROCŁAWSKA|19|55-003|CZERNICA
+2512|Chrząstawa Wielka|WROCŁAWSKA|19|55-003|CZERNICA
+2513|Kiełczów|ogrodowa|69/71|55-093|Kiełczów
+2514|Kiełczów|WROCŁAWSKA|14C|55-093|KIEŁCZÓW
+2515|Ramiszów|RAMISZÓW|111|51-217|RAMISZÓW
+2516|Kiełczów|Rzeczna|22|55-093|Kiełczów
+2517|Długołęka|Robotnicza|44|55-095|Mirków
+2518|Siedlec|Osiedlowa|1|55-095|Mirków
+2519|Kiełczów|Wrocławska|20B|55-093|Kiełczów
+2520|Borowa|Parkowa|2/4|55-095|Mirków
+2521|Kiełczów|Szkolna|3|55-093|Kiełczów
+2522|Szczodre|Trzebnicka|42|55-095|Mirków
+2523|Borowa|Parkowa|2/4|55-095|Mirków
+2524|Wilczyce|Wrocławska|15|51-365|Wrocław
+2525|Mirków|Wolności|15a|55-095|Mirków
+2526|Borowa|Parkowa|2/4|55-095|Mirków
+2527|Siedlec|Wrocławska|22|55-095|Mirków
+2528|Brzezia Łąka|Młyńska|3|55-093|Kiełczów
+2529|Łozina|Milicka|10|55-095|Mirków
+2530|Bukowina|NULL|28a|55-095|Mirków
+2531|Długołęka|Szkolna|40|55-095|Mirków
+2532|Długołęka|Szkolna|40|55-095|Mirków
+2533|Długołęka|Szkolna|40|55-095|Mirków
+2534|Długołęka|Szkolna|40|55-095|Mirków
+2535|Długołęka|Szkolna|40|55-095|Mirków
+2536|Długołęka|Szkolna|40|55-095|Mirków
+2537|Mirków|Słowackiego|17|55-095|Mirków
+2538|Mirków|Słowackiego|17|55-095|Mirków
+2539|Mirków|Słowackiego|17|55-095|Mirków
+2540|Łozina|Milicka|10|55-095|Mirków
+2541|Łozina|Milicka|10|55-095|Mirków
+2542|Łozina|Milicka|10|55-095|Mirków
+2543|Brzezia Łąka|Szkolna|10|55-093|Kiełczów
+2544|Brzezia Łąka|Szkolna|10|55-093|Kiełczów
+2545|Brzezia Łąka|Szkolna|10|55-093|Kiełczów
+2546|Siedlec|Wrocławska|22|55-095|Mirków
+2547|Siedlec|Wrocławska|22|55-095|Mirków
+2548|Siedlec|Wrocławska|22|55-095|Mirków
+2549|Jordanów Śląski|Wrocławska|55|55-065|Jordanów Śl.
+2550|Jordanów Śląski|Wrocławska|55|55-065|Jordanów Śl.
+2551|Jordanów Śląski|Wrocławska|55|55-065|Jordanów Śl.
+2552|Jordanów Śląski|Szafirowa|6|55-065|Jordanów Śl.
+2553|Kąty Wrocławskie|DRZYMAŁY|4|55-080|KĄTY WROCŁAWSKIE
+2554|Mokronos Górny|Wrocławska|22|50-080|Kąty Wrocławskie
+2555|Smolec|Główna|84|55-080|Smolec
+2556|Kąty Wrocławskie|ks. Józefa Zielińskiego|5|55-080|Kąty Wrocławskie
+2557|Kąty Wrocławskie|STASZICA|4|55-080|KĄTY WROCŁAWSKIE
+2558|Kąty Wrocławskie|1 Maja|59|55-080|Kąty Wrocławskie
+2559|Kąty Wrocławskie|Brzozowa|6|55-080|Kąty Wrocławskie
+2560|Gniechowice|Szkolna|4|55-080|Kąty Wrocławskie
+2561|Małkowice|Szkolna|3|55-080|Kąty Wrocławskie
+2562|Sadków|Szkolna|9|55-080|Kąty Wrocławskie
+2563|Mokronos Górny|Wrocławska|22|55-080|Kąty Wrocławskie
+2564|Zachowice|Słoneczna|4|55-080|Kąty Wrocławskie
+2565|Gądów|NULL|27|55-080|KĄTY WROCŁAWSKIE
+2566|Kąty Wrocławskie|Brzozowa|6|55-080|Kąty Wrocławskie
+2567|Kąty Wrocławskie|DRZYMAŁY|13|55-080|KĄTY WROCŁAWSKIE
+2568|Kąty Wrocławskie|DRZYMAŁY|13|55-080|KĄTY WROCŁAWSKIE
+2569|Kąty Wrocławskie|DRZYMAŁY|13|55-080|KĄTY WROCŁAWSKIE
+2570|Kąty Wrocławskie|DRZYMAŁY|13|55-080|KĄTY WROCŁAWSKIE
+2571|Gądów|Jaszkotle|21|55-080|Kąty Wrocławskie
+2572|Gądów|Jaszkotle|21|55-080|Kąty Wrocławskie
+2573|Gądów|Jaszkotle|21|55-080|Kąty Wrocławskie
+2574|Zabrodzie|NULL|7|52-351|Wrocław
+2575|Sadowice|SZKOLNA|10|55-080|KĄTY WROCŁAWSKIE
+2576|Sadowice|SZKOLNA|10|55-080|KĄTY WROCŁAWSKIE
+2577|Sadowice|SZKOLNA|10|55-080|KĄTY WROCŁAWSKIE
+2578|Sadowice|SZKOLNA|10|55-080|KĄTY WROCŁAWSKIE
+2579|Smolec|KOŚCIELNA|2|55-080|KĄTY WROCŁAWSKIE
+2580|Smolec|WIERZBOWA|9A|55-080|KĄTY WROCŁAWSKIE
+2581|Smolec|KOŚCIELNA|2|55-080|KĄTY WROCŁAWSKIE
+2582|Kobierzyce|Robotnicza|19|55-040|Kobierzyce
+2583|Ślęza|Przystankowa|2|55-040|Kobierzyce
+2584|Bielany Wrocławskie|Magnoliowa|13-15|55-040|Kobierzyce
+2585|Wysoka|JASNA|1/2|55-200|WYSOKA
+2586|Bielany Wrocławskie|Dwa Światy|4|55-040|Kobierzyce
+2587|Kobierzyce|Parkowa|7|55-040|Kobierzyce
+2588|Pustków Wilczkowski|Kłodzka|2|55-040|Kobierzyce
+2589|Kobierzyce|Parkowa|7|55-040|Kobierzyce
+2590|Wierzbice|Lipowa|44|55-040|Kobierzyce
+2591|Wierzbice|Lipowa|44|55-040|Kobierzyce
+2592|Pustków Wilczkowski|Kłodzka|2|55-040|Kobierzyce
+2593|Wysoka|Brzozowa|42|52-200|Wrocław
+2594|Bielany Wrocławskie|Malinowa|17|55-040|Bielany Wrocławskie
+2595|Żurawice|Topolowa|9|55-040|Kobierzyce
+2596|Wysoka|Chabrowa|97 E|52-200|Wysoka
+2597|Wysoka|Chabrowa|97 D|52-200|Wysoka
+2598|Bielany Wrocławskie|Kolejowa|2A|55-040|KOBIERZYCE
+2599|Tyniec Mały|Biskupicka|21|55-040|Tyniec Mały
+2600|Bielany Wrocławskie|Akacjowa|1|55-040|Kobierzyce
+2601|Bielany Wrocławskie|Akacjowa|1|55-040|Kobierzyce
+2602|Bielany Wrocławskie|Akacjowa|1|55-040|Kobierzyce
+2603|Krzyżowice|Główna|2|55-040|Kobierzyce
+2604|Krzyżowice|Główna|2|55-040|Kobierzyce
+2605|Krzyżowice|Główna|2|55-040|Kobierzyce
+2606|Krzyżowice|Główna|2|55-040|Kobierzyce
+2607|Pustków Żurawski|Kolejowa|46|55-040|Kobierzyce
+2608|Pustków Żurawski|Kolejowa|46|55-040|Kobierzyce
+2609|Pustków Żurawski|Kolejowa|46|55-040|Kobierzyce
+2610|Tyniec Mały|Szkolna|2|55-040|Kobierzyce
+2611|Tyniec Mały|Szkolna|2|55-040|Kobierzyce
+2612|Tyniec Mały|Szkolna|2|55-040|Kobierzyce
+2613|Wierzbice|LIPOWA|44|55-040|KOBIERZYCE
+2614|Wierzbice|LIPOWA|44|55-040|KOBIERZYCE
+2615|Wierzbice|LIPOWA|44|55-040|KOBIERZYCE
+2616|Wierzbice|LIPOWA|44|55-040|KOBIERZYCE
+2617|Mietków|Kolejowa|28a|55-081|Mietków
+2618|Mietków|Kolejowa|28C|55-081|Mietków
+2619|Mietków|Kolejowa|28 D|55-081|Mietków
+2620|Sobótka|Słoneczna|34|55-050|Sobótka
+2621|Sobótka|Orzechowa|2|55-050|sobótka
+2622|Sobótka|Świdnicka|20|55-050|SOBÓTKA
+2623|Sobótka|Marii Skłdowskiej-Curie|19|55-050|Sobótka
+2624|Rogów Sobócki|Szkolna|7|55-050|Sobótka
+2625|Świątniki|Parkowa|6|55-050|Sobótka
+2626|Ręków|Nasławicka|21|55-050|Sobótka
+2627|Sobótka|Świdnicka|20a|55-050|Sobótka
+2628|Sobótka|Słoneczna|31|55-050|Sobótka
+2629|Sobótka|Słoneczna|31|55-050|Sobótka
+2630|Sobótka|Słoneczna|31|55-050|Sobótka
+2631|Sobótka|Słoneczna|31|55-050|Sobótka
+2632|Ręków|Naslawicka|21|55-050|Sobótka
+2633|Sobótka|Czereśniowa|5|55-050|Sobótka
+2634|Sobótka|ŚWIĘTEGO JAKUBA|20|55-050|SOBÓTKA
+2635|Sobótka|ŚWIĘTEGO JAKUBA|20|55-050|SOBÓTKA
+2636|Sobótka|ŚWIĘTEGO JAKUBA|20|55-050|SOBÓTKA
+2637|Siechnice|Osiedlowa|23A|55-011|Siechnice
+2638|Święta Katarzyna|Dąbrowskiego|3|55-010|Święta Katarzyna
+2639|Żerniki Wrocławskie|Kolejowa|2|55-010|Święta Katarzyna
+2640|Zębice|Leśna|16|55-010|Swieta Katarzyna
+2641|Radwanice|Piastowska|2|55-010|Św. Katarzyna
+2642|Siechnice|JARZĘBINOWA|23|55-011|SIECHNCIE
+2643|Radwanice|Broniewskiego|4|55-010|Radwanice
+2644|Biestrzyków|Sadowa|8|55-010|Święta katarzyna
+2645|Święta Katarzyna|Głowna|94|55-010|Święta Katarzyna
+2646|Siechnice|SZKOLNA|4|55-011|SIECHNICE
+2647|Radwanice|Szkolna|14a|55-010|Święta Katarzyna
+2648|Żerniki Wrocławskie|Kolejowa|7a|55-010|Święta Katarzyna
+2649|Kotowice|Podwalna|1|55-010|Św. Katarzyna
+2650|Siechnice|Gen.Karola Świerczewskiego|40|55-011|SIECHNICE
+2651|Siechnice|Osiedlowa|23a|55-011|Siechnice
+2652|Radwanice|Wrocławska|77|55-010|Św. Katarzyna
+2653|Kotowice|Podwalna|1|55-010|Św.Katarzyna
+2654|Iwiny|ul. F.P.Schuberta|19|52-116|Iwiny
+2655|Iwiny|Św. Judy Tadeusza|66|52-116|Wrocław
+2656|Siechnice|Piłsudskiego|4 B|55-011|Siechnice
+2657|Żórawina|Urzędnicza|18A|55-020|Żórawina
+2658|Żórawina|Porzeczkowa|4|55-020|Żórawina
+2659|Rzeplin|Al. Lipowa|46|55-020|Żórawina
+2660|Wilczków|M. Kopernika|29|55-020|Żórawina
+2661|Polakowice|Szkolna|5|55-020|Żórawina
+2662|Węgry|Szkolna|3|55-020|Żórawina
+2663|Żórawina|Mikołaja Kopernika|15|55-020|Żórawina
+2664|Żórawina|Kopernika|14|55-020|Żórawina
+2665|Żórawina|Mikołaja Kopernika|15|55-020|Żórawina
+2666|Żórawina|Urzędnicza|4|55-020|Żórawina
+2667|Brzeźnica|NULL|78|57-256|Bardo
+2668|Przyłęk|Fabryczna|7|57-256|Bardo
+2669|Bardo|POLNA|10|57-256|BARDO
+2670|Bardo|Polna|1|57-256|Bardo
+2671|Bardo|Polna|1|57-256|Bardo
+2672|Bardo|Polna|1|57-256|Bardo
+2673|Opolnica|NULL|58|57-256|Bardo
+2674|Opolnica|NULL|58|57-256|Bardo
+2675|Opolnica|NULL|58|57-256|Bardo
+2676|Opolnica|NULL|58|57-256|Bardo
+2677|Ciepłowody|Szkolna|2|57-211|Ciepłowody
+2678|Ciepłowody|Szkolna|2|57-211|Ciepłowody
+2679|Ciepłowody|Szkolna|2|57-211|Ciepłowody
+2680|Ciepłowody|Szkolna|2|57-211|Ciepłowody
+2681|Kamieniec Ząbkowicki|ZŁOTOSTOCKA|23|57-230|KAMIENIEC ZĄBKOWICKI
+2682|Kamieniec Ząbkowicki|Zamkowa|4|57-230|Kamieniec Ząbkowicki
+2683|Kamieniec Ząbkowicki|Zamkowa|3|57-230|Kamieniec Ząbkowicki
+2684|Kamieniec Ząbkowicki|Zamkowa|3|57-320|Kamieniec Ząbkowicki
+2685|Starczów|NULL|43|57-230|Kamieniec Ząbkowicki
+2686|Kamieniec Ząbkowicki|Szkolna|10|57-230|Kamieniec Ząbkowicki
+2687|Kamieniec Ząbkowicki|Kolejowa|84|57-230|Kamieniec Ząbkowicki
+2688|Kamieniec Ząbkowicki|Szkolna|10|57-230|Kamieniec Ząbkowicki
+2689|Przedborowa|NULL|100|57-215|SREBRNA gÓRA
+2690|Stoszowice|NULL|34|57-213|Stoszowice
+2691|Srebrna Góra|Kąpielowa|2|57-215|Srebrna Góra
+2692|Budzów|Henryka Pobożnego|1|57-214|Budzów
+2693|Przedborowa|Przedborowa|100|57-215|Srebrna Góra
+2694|Budzów|Budzów|108|57-214|Zabkowice śl.
+2695|Grodziszcze|NULL|4|57-200|Ząbkowice Śląskie
+2696|Grodziszcze|NULL|4|57-200|Ząbkowice Śląskie
+2697|Grodziszcze|NULL|4|57-200|Ząbkowice Śląskie
+2698|Ząbkowice Śląskie|Ziębicka|34|57-200|Ząbkowice Śląskie
+2699|Ząbkowice Śląskie|Krzywa|2|57-200|Ząbkowice Śląskie
+2700|Szklary|Szklary Huta|20|57-200|Ząbkowice Śląskie
+2701|Ząbkowice Śląskie|Krzywa|5|57-200|Ząbkowice Śląskie
+2702|Ząbkowice Śląskie|Osiedle XX- lecia|53|57-200|Ząbkowice Śl
+2703|Ząbkowice Śląskie|Krzywa|10/1|57-200|Ząbkowice Śląskie
+2704|Olbrachcice Wielkie|-|113|57-200|Zabkowice Śl.
+2705|Ząbkowice Śląskie|Kasztanowa|2|57-200|Ząbkowice Śl.
+2706|Ząbkowice Śląskie|Krzywa|9|57-200|ząbkowice Śląskie
+2707|Ząbkowice Śląskie|Piastowska|1|57-200|Ząbkowice Śląskie
+2708|Ząbkowice Śląskie|Orkana|32|57-200|Ząbkowice Śląskie
+2709|Braszowice|Braszowice|76|57-200|Ząbkowice Śląskie
+2710|Zwrócona|NULL|68|57-200|Ząbkowice Śląskie
+2711|Ząbkowice Śląskie|Powstańców Warszawy|"8 b,c"|57-200|Ząbkowice Śląskie
+2712|Ząbkowice Śląskie|PL. MARII SKŁODOWSKIEJ-CURIE|1|57-200|ZĄBKOWICE ŚLĄSKIE
+2713|Ząbkowice Śląskie|Powstańców Warszawy|8bc|57-200|Ząbkowice Śląskie
+2714|Ząbkowice Śląskie|pl. Marii Skłodowskiej Curie|1|57-200|Ząbkowice Śląskie
+2715|Ząbkowice Śląskie|krzywa|9|57-200|Ząbkowice Śl.
+2716|Ząbkowice Śląskie|Powstańców Warszawy|8c|57-200|Ząbkowice Śląskie
+2717|Ząbkowice Śląskie|pl. Marii Skłodowskiej Curie|1|57-200|Ząbkowice Śląskie
+2718|Ząbkowice Śląskie|Powstańców Warszawy|8b|57-200|Ząbkowice Śląskie
+2719|Ząbkowice Śląskie|pl. Marii Skłodowskiej Curie|1|57-200|Ząbkowice Śląskie
+2720|Ząbkowice Śląskie|PROLETARIATCZYKÓW|9|57-200|ZĄBKOWICE SLĄSKIE
+2721|Ząbkowice Śląskie|PROLETARIATCZYKÓW|9|57-200|ZĄBKOWICE ŚLASKIE
+2722|Ząbkowice Śląskie|PROLETARIATCZYKÓW|9|57-200|ZĄBKOWICE śLASKIE
+2723|Ząbkowice Śląskie|PROLETARIATCZYKÓW|9|57-200|ZĄBKOWICE SLĄSKIE
+2724|Ząbkowice Śląskie|PROLETARIATCZYKÓW|9|57-200|ZĄBKOWICE ŚLĄSKIE
+2725|Ząbkowice Śląskie|PROLETARIATCZYKÓW|9|57-200|ZĄBKOWICE ŚLĄSKIE
+2726|Ząbkowice Śląskie|Waryńskiego|1|57-200|Ząbkowice Śląskie
+2727|Ząbkowice Śląskie|Mickiewicza|10|57-200|Ząbkowice Śl.
+2728|Ząbkowice Śląskie|Mickiewicza|10|57-200|Ząbkowice Śl.
+2729|Ząbkowice Śląskie|Mickiewicza|10|57-200|Ząbkowice Śl.
+2730|Ząbkowice Śląskie|Mickiewicza|10|57-200|Ząbkowice Śl.
+2731|Stolec|Stolec|101|57-200|Ząbkowice Śl.
+2732|Stolec|Stolec|101|57-200|Ząbkowice Śl.
+2733|Stolec|Stolec|101|57-200|Ząbkowice Śl.
+2734|Ząbkowice Śląskie|Wrocławska|17|57-200|Ząbkowice Śląskie
+2735|Ząbkowice Śląskie|Wrocławska|17|57-200|Ząbkowice Śląskie
+2736|Ząbkowice Śląskie|Wrocławska|17|57-200|Ząbkowice Śląskie
+2737|Ząbkowice Śląskie|Wrocławska|17|57-200|Ząbkowice Śląskie
+2738|Ząbkowice Śląskie|Wrocławska|17|57-200|Ząbkowice Śląskie
+2739|Ząbkowice Śląskie|Wrocławska|17|57-200|Ząbkowice Śląskie
+2740|Ząbkowice Śląskie|Wrocławska|17|57-200|Ząbkowice Śląskie
+2741|Ząbkowice Śląskie|Wrocławska|17|57-200|Ząbkowice Śląskie
+2742|Ziębice|Mickiewicza 18|18|57-220|Ziębice
+2743|Henryków|Słoneczna|20|57-210|Henryków
+2744|Ziębice|Klasztorna|6|57-220|Ziębice
+2745|Starczówek|NULL|20|57-220|Ziębice
+2746|Ziębice|Plac Wolności|1|57-220|Ziębice
+2747|Ziębice|Zamkowa|31|57-220|Ziębice
+2748|Lubnów|NULL|42|57-220|Ziębice
+2749|Ziębice|Spacerowa|2|57-220|Ziębice
+2750|Henryków|Plac Cystersów|1|57-210|Henryków
+2751|Ziębice|Gliwicka|4|57-220|Ziębice
+2752|Niedźwiedź|NULL|NULL|57-220|Ziębice
+2753|Niedźwiedź|NULL|NULL|57-220|Ziębice
+2754|Niedźwiedź|NULL|NULL|57-220|Ziębice
+2755|Ziębice|Wojska Polskiego|3|57-220|Ziębice
+2756|Ziębice|Wojska Polskiego|3|57-220|Ziębice
+2757|Ziębice|Wojska Polskiego|3|57-220|Ziębice
+2758|Ziębice|Wojska Polskiego|3|57-220|Ziębice
+2759|Ziębice|Wojska polskiego|3|57-220|Ziębice
+2760|Ziębice|Wojska Polskiego|3|57-220|Ziębice
+2761|Ziębice|Wojska Polskiego|3|57-220|Ziębice
+2762|Henryków|POLNA|9|57-210|HENRYKÓW
+2763|Henryków|POLNA|9|57-210|HENRYKÓW
+2764|Henryków|POLNA|9|57-210|HENRYKÓW
+2765|Mąkolno|NULL|56|57-250|Złoty Stok
+2766|Złoty Stok|3 Maja|29|57-250|Złoty Stok
+2767|Złoty Stok|CHEMIKÓW|8|57-250|ZŁOTY STOK
+2768|Złoty Stok|CHEMIKÓW|8|57-250|ZŁOTY STOK
+2769|Złoty Stok|CHEMIKÓW|8|57-250|ZŁOTY STOK
+2770|Zawidów|PARKOWA|2|59-970|ZAWIDÓW
+2771|Zawidów|Szkolna|4|59-970|Zawidów
+2772|Zawidów|Szkolna|4|59-970|Zawidów
+2773|Zawidów|Szkolna|4|59-970|Zawidów
+2774|Zgorzelec|Wyspiańskiego|9a|59-900|Zgorzelec
+2775|Zgorzelec|KOŚCIUSZKI|1|59-900|ZGORZELEC
+2776|Zgorzelec|ŚW.JANA|21A|59-900|ZGORZELEC
+2777|Zgorzelec|POWSTAŃCÓW ŚLĄSKICH|62|59-900|ZGORZELEC
+2778|Zgorzelec|Staszica|19|59-900|Zgorzelec
+2779|Zgorzelec|Brzozowa|1|59-900|Zgorzelec
+2780|Zgorzelec|Tuwima|2a|59-900|Zgorzelec
+2781|Zgorzelec|Reymonta|16|59-900|Zgorzelec
+2782|Zgorzelec|Armii Krajowej|10A|59-900|Zgorzelec
+2783|Zgorzelec|Bolesława Prusa|17|59-900|Zgorzelec
+2784|Zgorzelec|Tadeusza Kościuszki|68|59-900|Zgorzelec
+2785|Zgorzelec|E. Orzeszkowej|60|59-900|Zgorzelec
+2786|Zgorzelec|Pisudskiego|1|59-900|Zgorzelec
+2787|Zgorzelec|Wolności|8|59-900|Zgorzelec
+2788|Zgorzelec|Partyzantów|4|59-900|Zgorzelec
+2789|Zgorzelec|Partyzantów|4|59-900|Zgorzelec
+2790|Zgorzelec|Bohaterów II AWP|16|59-900|Zgorzelec
+2791|Zgorzelec|Wolności|8|59-900|Zgorzelec
+2792|Zgorzelec|Powstańców Śląskich|1|59-900|ZGORZELEC
+2793|Zgorzelec|Warszawska|11|59-900|Zgorzelec
+2794|Zgorzelec|Warszawska|11|59-900|Zgorzelec
+2795|Zgorzelec|Powstańców Śląskich|1|59-900|Zgorzelec
+2796|Zgorzelec|Warszawska|11|59-900|Zgorzelec
+2797|Zgorzelec|PowstańŚl.|1|59-900|Zgorzelec
+2798|Zgorzelec|Czachowskiego|5/1|59-900|Zgorzelec
+2799|Zgorzelec|Armii Krajowej|10d|59-900|Zgorzelec
+2800|Zgorzelec|Armii Krajowej|10d|59-900|Zgorzelec
+2801|Zgorzelec|Armii Krajowej|10d|59-900|Zgorzelec
+2802|Zgorzelec|Armii Krajowej|10d|59-900|Zgorzelec
+2803|Zgorzelec|Armii Krajowej|10d|59-900|Zgorzelec
+2804|Zgorzelec|Powstańców Śląskich|1|59-900|Zgorzelec
+2805|Zgorzelec|Powstańców Śląskich|1|59-900|Zgorzelec
+2806|Zgorzelec|Czachowskiego|5/1|59-900|ZGORZELEC
+2807|Zgorzelec|Powstańców Śląskich|1|59-900|Zgorzelec
+2808|Zgorzelec|Batorego|6|59-900|Zgorzelec
+2809|Zgorzelec|Wolności|8|59-900|Zgorzelec
+2810|Zgorzelec|Czachowskiego|5/1|59-900|Zgorzelec
+2811|Zgorzelec|Warszawska|11|59-900|Zgorzelec
+2812|Zgorzelec|BOHATERÓW II ARMII WP|1d/1|59-900|ZGORZELEC
+2813|Zgorzelec|Francuska|41|59-900|Zgorzelec
+2814|Zgorzelec|Zeromskiego|24|59-900|Zgorzelec
+2815|Zgorzelec|WOLNOŚCI|10|59-900|ZGORZELEC
+2816|Zgorzelec|Iwaszkiewicza|24b/2|59-900|Zgorzelec
+2817|Zgorzelec|Langiewicza|29|59-900|Zgorzelec
+2818|Zgorzelec|Langiewicza|29|59-900|Zgorzelec
+2819|Zgorzelec|Langiewicza|29|59-900|Zgorzelec
+2820|Zgorzelec|Langiewicza|29|59-900|Zgorzelec
+2821|Zgorzelec|Francuska|6|59-900|Zgorzelec
+2822|Zgorzelec|Francuska|6|59-900|Zgorzelec
+2823|Zgorzelec|Maratońska|1|59-900|Zgorzelec
+2824|Zgorzelec|Francuska|6|59-900|Zgorzelec
+2825|Zgorzelec|Francuska|6|59-900|Zgorzelec
+2826|Zgorzelec|Powstańców Śląskich|1|59-900|Zgorzelec
+2827|Zgorzelec|Powstańców Śląskich|1|59-900|Zgorzelec
+2828|Zgorzelec|Powstańców Śląskich|1|59-900|Zgorzelec
+2829|Zgorzelec|Powstańców Śl.|1|59-900|Zgorzelec
+2830|Bogatynia|Chopina|15|59-920|Bogatynia
+2831|Zgorzelec|Powstańców Śl.|1|59-900|Zgorzelec
+2832|Zgorzelec|Powstańców Śl.|1|59-900|Zgorzelec
+2833|Zgorzelec|Powstańców Śl.|1|59-900|Zgorzelec
+2834|Zgorzelec|Boh. II AWP|16|59-900|Zgorzelec
+2835|Zgorzelec|Boh. II AWP|16|59-900|Zgorzelec
+2836|Zgorzelec|Boh. II AWP|16|59-900|Zgorzelec
+2837|Zgorzelec|Wolności|8|59-900|Zgorzelec
+2838|Zgorzelec|Wolności|8|59-900|Zgorzelec
+2839|Węgliniec|Kościuszki|5|59-940|Węgliniec
+2840|Zgorzelec|Wolności|8|59-900|Zgorzelec
+2841|Bogatynia|1-go Maja|33|59-920|Bogatynia
+2842|Bogatynia|Chopina|12|59-920|Bogatynia
+2843|Bogatynia|Chopina|13|59-920|BOGATNIA
+2844|Bogatynia|L. Wyczółkowskiego|32a|59-920|Bogatynia
+2845|Bogatynia|Cicha|6|59-916|Bogatynia
+2846|Porajów|Górnicza|1c|59-921|Sieniawka
+2847|Bogatynia|Plac Bohaterów Warszawy|1|59-920|Bogatynia
+2848|Opolno-Zdrój|Świerczewskiego|7a|59-920|Bogatynia
+2849|Bogatynia|Chopina|15|59-920|Bogatynia
+2850|Bogatynia|II Armii Wojska Polskiego|5|59-920|Bogatynia
+2851|Bogatynia|II Armii Wojska Polskiego|5|59-920|Bogatynia
+2852|Bogatynia|NULL|NULL|59-920|Bogatyni
+2853|Bogatynia|Kościuszki|33|59-920|Bogatynia
+2854|Bogatynia|Warszawska|10/2|59-920|Bogatynia
+2855|Bogatynia|Pocztowa|15|59-920|Bogatynia
+2856|Bogatynia|II Armii WP|8|59-920|Bogatynia
+2857|Bogatynia|Młodych Energetyków|24|59-916|Bogatynia
+2858|Bogatynia|Młodych Energetyków|24|59-916|Bogatynia
+2859|Bogatynia|Młodych Energetyków|24|59-916|Bogatynia
+2860|Porajów|Górnicza|1 c|59-921|Sieniawka
+2861|Porajów|Górnicza|1 c|59-921|Sieniawka
+2862|Porajów|Górnicza|1 c|59-921|Sieniawka
+2863|Działoszyn|Działoszyn|33|59-916|Bogatynia
+2864|Działoszyn|Działoszyn|33|59-916|Bogatynia
+2865|Działoszyn|Działoszyn|33|59-916|Bogatynia
+2866|Bogatynia|Wyczółkowskiego|42a|59-920|Bogatynia
+2867|Bogatynia|Wyczółkowskiego|42a|59-920|Bogatynia
+2868|Bogatynia|Wyczółkowskiego|42a|59-920|Bogatynia
+2869|Bogatynia|Kościuszki|33|59-920|Bogatynia
+2870|Bogatynia|Kościuszki|33|59-920|Bogatynia
+2871|Bogatynia|Kościuszki|33|59-920|Bogatynia
+2872|Bogatynia|Kościuszki|33|59-920|Bogatynia
+2873|Bogatynia|Kościuszki|33|59-920|Bogatynia
+2874|Pieńsk|Bolesławiecka|49|59-930|Pieńsk
+2875|Pieńsk|Szkolna|1|59-930|Pieńsk
+2876|Dłużyna Dolna|Dłużyna Dolna|66A|59-930|Pieńsk
+2877|Pieńsk|ZGORZELECKA|29|59-930|PIEŃSK
+2878|Sulików|Dworcowa|2|56-975|Sulików
+2879|Bierna|NULL|57|59-970|Zawidów
+2880|Sulików|Zgorzelecka|28|59-975|Sulików
+2881|Sulików|Zgorzelecka|28|59-975|Sulików
+2882|Sulików|Zgorzelecka|28|59-975|Sulików
+2883|Węgliniec|Kościuszki|26a|59-940|Węgliniec
+2884|Ruszów|Ratuszowa|2|59-950|Ruszów
+2885|Czerwona Woda|Kościuszki|4|59-940|Węgliniec
+2886|Czerwona Woda|Kolejowa|22|59-940|Węgliniec
+2887|Stary Węgliniec|Główna|50|59-940|Węgliniec
+2888|Ruszów|Zgorzelecka|2|59-950|Ruszów
+2889|Ruszów|Zgorzelecka|2|59-950|Ruszów
+2890|Ruszów|Zgorzelecka|2|59-950|Ruszów
+2891|Węgliniec|Kościuszki|2 i 5|59-940|Węgliniec
+2892|Węgliniec|Kościuszki|2 i 5|59-940|Węgliniec
+2893|Węgliniec|Kościuszki|2 i 5|59-940|Węgliniec
+2894|Stary Węgliniec|Główna|50|59-940|Węgliniec
+2895|Jędrzychowice|NULL|74|59-900|Zgorzelec
+2896|Radomierzyce|Radomierzyce|7|59-900|Zgorzelec
+2897|Trójca|brak|77|59-900|Zgorzelec
+2898|Osiek Łużycki|NULL|56|59-900|Zgorzelec
+2899|Łagów|Szkolna|2|59-900|Zgorzelec
+2900|Żarska Wieś|NULL|32|59-900|Zgorzelec
+2901|Jerzmanki|NULL|43|59-900|Zgorzelec
+2902|Wojcieszów|NULL|NULL|59-550|Wojcieszów
+2903|Wojcieszów|Miedziana|1|59-550|Wojcieszów
+2904|Wojcieszów|Miedziana|1|59-550|Wojcieszów
+2905|Wojcieszów|Miedziana|1|59-550|Wojcieszów
+2906|Wojcieszów|Miedziana|1|59-550|Wojcieszów
+2907|Wojcieszów|Stefana Żeromskiego|8|59-550|Wojcieszów
+2908|Wojcieszów|Stefana Żeromskiego|8|59-550|Wojcieszów
+2909|Wojcieszów|Stefana Żeromskiego|8|59-550|Wojcieszów
+2910|Złotoryja|NULL|NULL|59-500|Złotoryja
+2911|Złotoryja|Górnicza|21/23|59-500|Złotoryja
+2912|Złotoryja|Letnia|7|59-500|Złotoryja
+2913|Złotoryja|Staszica|20|59-500|Złotoryja
+2914|Złotoryja|Hoża|27|59-500|Złotoryja
+2915|Złotoryja|Pl.Niepodległości|7|59-500|Złotoryja
+2916|Złotoryja|WILCZA|41|59-500|ZŁOTORYJA
+2917|Złotoryja|Wilcza|41|59-500|Złotoryja
+2918|Złotoryja|Staszica|2|59-500|Złotoryja
+2919|Złotoryja|Staszica|2|59-500|Złotoryja
+2920|Złotoryja|Staszica|2|59-500|Złotoryja
+2921|Złotoryja|Staszica|2|59-500|Złotoryja
+2922|Złotoryja|Staszica|2|59-500|Złotoryja
+2923|Złotoryja|Kolejowa|4|59-500|Złotoryja
+2924|Złotoryja|Szkolna|1|59-500|Złotoryja
+2925|Złotoryja|Szkolna|1|59-500|Złotoryja
+2926|Złotoryja|Szkolna|1|59-500|Złotoryja
+2927|Złotoryja|Szkolna|1|59-500|Złotoryja
+2928|Złotoryja|Szkolna|1|59-500|Złotoryja
+2929|Złotoryja|Kolejowa|4|59-500|Złotoryja
+2930|Złotoryja|Kolejowa|4|59-500|Złotoryja
+2931|Złotoryja|Kolejowa|4|59-500|Złotoryja
+2932|Złotoryja|Wojska Polskiego|50|59-500|Złotoryja
+2933|Złotoryja|Wojska Polskiego|50|59-500|Złotoryja
+2934|Złotoryja|WOjska Polskiego|50|59-500|Złotoryja
+2935|Złotoryja|Wojska Polskiego|50|59-500|Złotoryja
+2936|Złotoryja|Wojska Polskiego|50|59-500|Złotoryja
+2937|Złotoryja|Wojska Polskiego|50|59-500|Złotoryja
+2938|Złotoryja|Wojska Polskiego|50|59-500|Złotoryja
+2939|Złotoryja|Wojska Polskiego|50|59-500|Złotoryja
+2940|Złotoryja|Wojska Polskiego|50|59-500|Złotoryja
+2941|Złotoryja|Wojska Polskiego|50|59-500|Złotoryja
+2942|Nowa Wieś Grodziska|NULL|67|59-524|Pielgrzymka
+2943|Pielgrzymka|NULL|109a|59-524|Pielgrzymka
+2944|Proboszczów|Proboszczów|107|59-524|Pielgrzymka
+2945|Sędzimirów|Sędzimirów|46|59-524|Pielgrzymka
+2946|Pielgrzymka|NULL|109A|59-524|PIELGRZYMKA
+2947|Sędzimirów|Sędzimirów|46|59-524|Pielgrzymka
+2948|Twardocice|NULL|53|59-524|Pielgrzymka
+2949|Twardocice|NULL|53|59-524|Pielgrzymka
+2950|Twardocice|NULL|53|59-524|Pielgrzymka
+2951|Nowy Kościół|Szkolna|12|59-540|świerzawa
+2952|Sokołowiec|Sokołowiec|105|59-540|Świerzawa
+2953|Świerzawa|REYMONTA|22|59-540|ŚWIERZAWA
+2954|Lubiechowa|Kościelna|8|59-540|LUBIECHOWA
+2955|Świerzawa|Plac Wolności|29/4|59-540|Świerzawa
+2956|Dobków|NULL|64|59-540|Świerzawa
+2957|Stara Kraśnica|NULL|41|59-540|Świerzawa
+2958|Nowy Kościół|Szkolna|12|59-540|Świerzawa
+2959|Sokołowiec|NULL|105|59-540|Świerzawa
+2960|Świerzawa|Dworcowa|3|59-540|Świerzawa
+2961|Świerzawa|Kościuszki|12|59-540|Świerzawa
+2962|Świerzawa|Dworcowa|3|59-540|Świerzawa
+2963|Zagrodno|-|135|59-516|Zagrodno
+2964|Zagrodno|Zagrodno|181|59-516|Zagrodno
+2965|Zagrodno|NULL|181a|59-516|Zagrodno
+2966|Zagrodno|NULL|181a|59-516|Zagrodno
+2967|Zagrodno|NULL|181a|59-516|Zagrodno
+2968|Olszanica|NULL|28|59-516|Zagrodno
+2969|Radziechów|NULL|80|59-516|Zagrodno
+2970|Brochocin|NULL|34|59-516|Zagrodno
+2971|Jerzmanice-Zdrój|NULL|86|59-500|Złotoryja
+2972|Wilków-Osiedle|SZKOLNA|6|59-500|ZŁOTORYJA
+2973|Gierałtowiec|NULL|42|59-500|Złotoryja
+2974|Rokitnica|NULL|NULL|59-500|Złototryja
+2975|Rokitnica|NULL|35|59-500|ZŁOTORYJA
+2976|Lubiatów|NULL|37|59-500|Złotoryja
+2977|Wilków-Osiedle|Kochanowskiego|2|59-500|Złotoryja
+2978|Jerzmanice-Zdrój|NULL|20b/1|59-500|Złotoryja
+2979|Gierałtowiec|NULL|42|59-500|Złotoryja
+2980|Rokitnica|NULL|35|59-500|Złotoryja
+2981|Wilków-Osiedle|SZKOLNA|6|59-500|ZŁOTORYJA
+2982|Jerzmanice-Zdrój|Jerzmanice Zdrój|20|59-500|Złotoryja
+2983|Jerzmanice-Zdrój|Jerzmanice Zdrój|20|59-500|Złotoryja
+2984|Jerzmanice-Zdrój|Jerzmanice-Zdrój|20|59-500|Złotoryja
+2985|Jelenia Góra|Junaków|2A|58-560|Jelenia Góra
+2986|Jelenia Góra|Zjednoczenia Narodowego|15|58-560|Jelenia Góra
+2987|Jelenia Góra|Piłsudskiego|32|58-500|Jelenia Góra
+2988|Jelenia Góra|TUWIMA|12|58-500|JELENIA GÓRA
+2989|Jelenia Góra|Krasickiego|6|58-500|Jelenia Góra
+2990|Jelenia Góra|Chopina|4|58-570|Jelenia Góra
+2991|Jelenia Góra|Mieczysława Karłowicza|13|58-506|Jelenia Góra
+2992|Jelenia Góra|kurpińskiego|2|58-506|Jelenia Góra
+2993|Jelenia Góra|Oskara Kolberga|5|58-506|Jelenia Góra
+2994|Jelenia Góra|JÓZEFA PIŁSUDSKIEGO|15|58-500|JELENIA GÓRA 1
+2995|Jelenia Góra|Adama Mickiewicza|15|58-500|Jelenia Góra
+2996|Jelenia Góra|Adama Mickiewicza|19|58-500|Jelenia Góra
+2997|Jelenia Góra|Kadetów|13|58-500|Jelenia Góra
+2998|Jelenia Góra|Różyckiego|2|58-506|Jelenia Góra
+2999|Jelenia Góra|GUSTAWA MORCINKA|11|58-500|JELENIA GÓRA
+3000|Jelenia Góra|Struga|1|58-560|Jelenia Góra
+3001|Jelenia Góra|Wincentego Pola|27|58-500|Jelenia Góra
+3002|Jelenia Góra|Aleja Jana Pawła II|20a|58-506|Jelenia Góra
+3003|Jelenia Góra|F.ŻWIRKI|32|58-560|JELENIA GÓRA
+3004|Jelenia Góra|Zygmunta Noskowskiego|2|58-506|JELENIA GÓRA
+3005|Jelenia Góra|Gustawa Morcinka|31|58-500|Jelenia Góra
+3006|Jelenia Góra|STANISŁAWA MONIUSZKI|9|58-506|JELENIA GÓRA
+3007|Jelenia Góra|Piotra Skargi|19|58-500|Jelenia Góra
+3008|Jelenia Góra|Armii Krajowej|8|58-500|Jelenia Góra
+3009|Jelenia Góra|PCK|14 a|58-560|Jelenia Góra 9
+3010|Jelenia Góra|Lotnictwa|1|58-500|Jelenia Góra
+3011|Jelenia Góra|Cieplicka|74|58-560|Jelenia Góra
+3012|Jelenia Góra|Sudecka|53|58-500|Jelenia Góra
+3013|Jelenia Góra|Paderewskiego|13|58-506|Jelenia Góra
+3014|Jelenia Góra|Bronka Czecha|1a|58-570|Jelenia Góra
+3015|Jelenia Góra|Piłsudskiego|23|58-500|Jelenia Góra
+3016|Jelenia Góra|Mieczysława Karłowicza|33|58-506|Jelenia Góra
+3017|Jelenia Góra|Kopernika|1|58-500|Jelenia Góra
+3018|Jelenia Góra|Cieplicka|16|58-560|Jelenia Góra
+3019|Jelenia Góra|Bronka Czecha|1a|58-570|Jelenia Góra
+3020|Jelenia Góra|Ludwika Waryńskiego|20|58-500|Jelenia Góra
+3021|Jelenia Góra|Woności|29|58-500|JELENIA GÓRA
+3022|Jelenia Góra|Konopnickiej|1|58-500|Jelenia Góra
+3023|Jelenia Góra|Cieplicka|16|58-560|Jelenia Góra
+3024|Jelenia Góra|Marii Konopnickiej|1|58-500|Jelenia Góra
+3025|Jelenia Góra|Ludwika Waryńskiego|20|58-500|Jelenia Góra
+3026|Jelenia Góra|Konopnickiej|1|58-500|Jelenia Góra
+3027|Jelenia Góra|Józefa Piłsudskiego|27|58-500|Jelenia Góra
+3028|Jelenia Góra|Józefa Piłsudskiego|27|58-500|Jelenia Góra
+3029|Jelenia Góra|Konopnickiej|1|58-500|Jelenia Góra
+3030|Jelenia Góra|Aleja Jana Pawła II|25|58-506|Jelenia Góra
+3031|Jelenia Góra|Adama Mickiewicza|15|58-500|Jelenia Góra
+3032|Jelenia Góra|Adama Mickiewicza|15|58-500|Jelenia Góra
+3033|Jelenia Góra|Konopnickiej|1|58-500|Jelenia Góra
+3034|Jelenia Góra|Konopnickiej|1|58-500|Jelenia Góra
+3035|Jelenia Góra|Marii Konopnickiej|1|58-500|Jelenia Góra
+3036|Jelenia Góra|Marii Konopnickiej|1|58-500|Jelenia Góra
+3037|Jelenia Góra|STAROMIEJSKA|3|58-560|JELENIA GÓRA
+3038|Jelenia Góra|MONIUSZKI|9|58-506|JELENIA GÓRA
+3039|Jelenia Góra|Skłodowskiej|12|58-500|Jelenia Góra
+3040|Jelenia Góra|Sudecka|42|58-500|Jelenia Góra
+3041|Jelenia Góra|Bartka Zwycięzcy|10|58-500|Jelenia Góra
+3042|Jelenia Góra|SKOWRONKÓW|15A|58-500|JELENIA GÓRA
+3043|Jelenia Góra|Wiejska|41b|58-508|Jelenia Góra
+3044|Jelenia Góra|Sudecka|53|58-500|Jelenia Góra
+3045|Jelenia Góra|Sudecka|53|58-500|Jelenia Góra
+3046|Jelenia Góra|Sudecka|53|58-500|Jelenia Góra
+3047|Jelenia Góra|WOLNOŚCI|259|58-560|JELENIA GÓRA
+3048|Jelenia Góra|KRUSZWICKA|3|58-500|JELENIA GÓRA
+3049|Jelenia Góra|KRUSZWICKA|3|58-500|JELENIA GÓRA
+3050|Jelenia Góra|KRUSZWICKA|3|58-500|JELENIA GÓRA
+3051|Jelenia Góra|KRUSZWICKA|3|58-500|JELENIA GÓRA
+3052|Jelenia Góra|KRUSZWICKA|3|58-500|JELENIA GÓRA
+3053|Jelenia Góra|KRUSZWICKA|3|58-500|JELENIA GÓRA
+3054|Jelenia Góra|Sprzymierzonych|9|58-560|Jelenia Góra
+3055|Jelenia Góra|Sprzymierzonych|9|58-560|Jelenia Góra
+3056|Jelenia Góra|Sprzymierzonych|9|58-560|Jelenia Góra
+3057|Jelenia Góra|Kilińskiego|5/7|58-500|Jelenia Góra
+3058|Jelenia Góra|Wolności|29|58-500|Jelenia Góra
+3059|Jelenia Góra|1 Maja|27|58-500|Jelenia Góra
+3060|Jelenia Góra|Konopnickiej|1|58-500|Jelenia Góra
+3061|Jelenia Góra|Tuwima|2|58-500|Jelenia Góra
+3062|Jelenia Góra|1 MAJA|43|58-500|Jelenia Góra
+3063|Jelenia Góra|Adama Mickiewicza|15|58-500|Jelenia Góra
+3064|Jelenia Góra|Joachima Lelewela|1|58-560|Jelenia Góra
+3065|Jelenia Góra|WIDOK|37|58-560|JELENIA GÓRA
+3066|Jelenia Góra|ul. Grottgera|2|58-500|JELENIA GÓRA
+3067|Jelenia Góra|Wolności|29|58-500|Jelenia Góra
+3068|Jelenia Góra|AL. WOJSKA POLSKIEGO|54|58-500|JELENIA GÓRA
+3069|Jelenia Góra|1 Maja|16/18|58-500|Jelenia Góra
+3070|Jelenia Góra|Noskowskiego|10|58-506|Jelenia Góra
+3071|Jelenia Góra|Piłsudskiego|26|58-500|Jelenia Góra
+3072|Jelenia Góra|Piłsudskiego|26|58-500|Jelenia Góra
+3073|Jelenia Góra|Piłsudskiego|26|58-500|Jelenia Góra
+3074|Jelenia Góra|Kamiennogórska|9|58-570|Jelenia Góra
+3075|Jelenia Góra|Kamiennogórska|9|58-570|Jelenia Góra
+3076|Jelenia Góra|Kamiennogórska|9|58-570|Jelenia Góra
+3077|Jelenia Góra|Piłsudskiego|27|58-500|Jelenia Góra
+3078|Jelenia Góra|Piłsudskiego|27|58-500|Jelenia Góra
+3079|Jelenia Góra|Piłsudskiego|27|58-500|Jelenia Góra
+3080|Jelenia Góra|Grunwaldzka|64a|58-506|Jelenia Góra
+3081|Jelenia Góra|Grunwaldzka|64a|58-506|Jelenia Góra
+3082|Jelenia Góra|Grunwaldzka|64a|58-506|Jelenia Góra
+3083|Jelenia Góra|Grunwaldzka|64a|58-506|Jelenia Góra
+3084|Jelenia Góra|Grunwaldzka|64a|58-506|Jelenia Góra
+3085|Jelenia Góra|1 Maja|39/41|58-500|Jelenia Góra
+3086|Jelenia Góra|1 Maja|39/41|58-500|Jelenia Góra
+3087|Jelenia Góra|1 Maja|39/41|58-500|Jelenia Góra
+3088|Jelenia Góra|1 Maja|39/41|58-500|Jelenia Góra
+3089|Jelenia Góra|1 Maja|39/41|58-500|Jelenia Góra
+3090|Jelenia Góra|al. Jana Pawła II|25|58-506|Jelenia Góra
+3091|Jelenia Góra|al. Jana Pawła II|25|58-506|Jelenia Góra
+3092|Jelenia Góra|Al.Jana Pawła II|25|58-506|Jelenia Góra
+3093|Jelenia Góra|Kochanowskiego|18|58-500|Jelenia Góra
+3094|Jelenia Góra|Kochanowskiego|18|58-500|Jelenia Góra
+3095|Jelenia Góra|Kochanowskiego|18|58-500|Jelenia Góra
+3096|Jelenia Góra|Kochanowskiego|18|58-500|Jelenia Góra
+3097|Jelenia Góra|Gimnazjlana|2|58-560|Jelenia Góra 9
+3098|Jelenia Góra|Gimnazjlana|2|58-560|Jelenia Góra 9
+3099|Jelenia Góra|Gimnazjlana|2|58-560|Jelenia Góra 9
+3100|Jelenia Góra|Leśna|5|58-560|Jelenia Góra
+3101|Jelenia Góra|Leśna|5|58-560|Jelenia Góra
+3102|Jelenia Góra|Leśna|5|58-560|Jelenia Góra
+3103|Jelenia Góra|Leśna|5|58-560|Jelenia Góra
+3104|Jelenia Góra|Leśna|5|58-560|Jelenia Góra
+3105|Jelenia Góra|Cieplicka|34|58-560|Jelenia Góra
+3106|Jelenia Góra|Cieplicka|34|58-560|Jelenia Góra
+3107|Jelenia Góra|Cieplicka|34|58-560|Jelenia Góra
+3108|Jelenia Góra|Cieplicka|34|58-560|Jelenia Góra
+3109|Jelenia Góra|Cieplicka|34|58-560|Jelenia Góra
+3110|Jelenia Góra|Obrońców Pokoju|10|58-500|Jelenia Góra
+3111|Jelenia Góra|Obrońców Pokoju|10|58-500|Jelenia Góra
+3112|Jelenia Góra|Obrońców Pokoju|10|58-500|Jelenia Góra
+3113|Jelenia Góra|Obrońców Pokoju|10|58-500|Jelenia Góra
+3114|Jelenia Góra|Obrońców Pokoju|10|58-500|Jelenia Góra
+3115|Jelenia Góra|Piłsudskiego|26|58-500|Jelenia Góra
+3116|Jelenia Góra|Piłsudskiego|26|58-500|Jelenia Góra
+3117|Jelenia Góra|Piłsudskiego|26|58-500|Jelenia Góra
+3118|Legnica|Aleja Rzeczypospolitej|128|59-220|Legnica
+3119|Legnica|GWARNA|4|59-220|LEGNICA
+3120|Legnica|Kubusia Puchatka|2|59-220|Legnica
+3121|Legnica|Zwirki i Wigury|32|59-220|Legnica
+3122|Legnica|Tatrzańska|11|59-220|Legnica
+3123|Legnica|Reymonta|1|59-220|Legnica
+3124|Legnica|Rzemieslnicza|10|59-220|legnica
+3125|Legnica|św. Elżbiety|8|59-220|Legnica
+3126|Legnica|Słubicka|1|59-220|Legnica
+3127|Legnica|GÓRALSKA|23/25|59-220|LEGNICA
+3128|Legnica|Ciołkowskiego|1|59-220|Legnica
+3129|Legnica|Staffa|6|59-220|Legnica
+3130|Legnica|ANDROMEDY|14|59-220|LEGNICA
+3131|Legnica|Wielkiej Niedźwiedzicy|14 a|59-220|Legnica
+3132|Legnica|Adama Mickiewicza|31/1|59-220|Legnica
+3133|Legnica|WIELOGÓRSKA|41|59-220|LEGNICA
+3134|Legnica|Łukasińskiego|4|59-220|Legnica
+3135|Legnica|ALEJA CZERWONYCH MAKÓW|34|59-220|LEGNICA
+3136|Legnica|Grunwaldzka|40|59-220|Legnica
+3137|Legnica|Grunwaldzka|40|59-220|Legnica
+3138|Legnica|Fiołkowa|25|59-220|Legnica
+3139|Legnica|Złotoryjska|54/56|59-220|Legnica
+3140|Legnica|PIĄTNICKA|5|59-220|LEGNICA
+3141|Legnica|Pl. Słowiański|1-4|59-220|Legnica
+3142|Legnica|OŚWIĘCIMSKA|20|59-220|LEGNICA
+3143|Legnica|S.I.WITKIEWICZA|4|59-220|LEGNICA
+3144|Legnica|MARYNARSKA|31|59-220|LEGNICA
+3145|Legnica|Mazowiecka|3A|59-220|LEGNICA
+3146|Legnica|Gliwicka|19-21|59-220|Legnica
+3147|Legnica|Mała|4|59-220|Legnica
+3148|Legnica|Plutona|13|59-220|Legnica
+3149|Legnica|Karkonoska|9|59-220|Legnica
+3150|Legnica|Najświętszej Marii Panny|9|59-220|Legnica
+3151|Legnica|Magnoliowa|4|59-220|Legnica
+3152|Legnica|Orzechowa|29|59-220|Legnica
+3153|Legnica|Wielogórska|41|59-220|Legnica
+3154|Legnica|Kamienna|20A|59-220|Legnica
+3155|Legnica|Jaworzyńska|47|59-220|Legnica
+3156|Legnica|Tatrzańska|9|59-220|Legnica
+3157|Legnica|Grabskiego|5|59-220|Legnica
+3158|Legnica|AL. RZECZYPOSPOLITEJ|129|59-220|LEGNICA
+3159|Legnica|GŁOGOWSKA|50|59-220|LEGNICA
+3160|Legnica|Piastowska|3|59-220|Legnica
+3161|Legnica|Al. M. J.Piłsudskiego|3|59-220|Legnica
+3162|Legnica|Polarna|1|59-220|Legnica
+3163|Legnica|Marynarska|31|59-220|Legnica
+3164|Legnica|Słubicka|7|59-220|Legnica
+3165|Legnica|Gliwicka|6|59-220|Legnica
+3166|Legnica|Mazowiecka|3|59-220|Legnica
+3167|Legnica|Marii Skłodowskiej Curie|1a|59-220|Legnica
+3168|Legnica|Chojnowska|100|59-220|Legnica
+3169|Legnica|Najświętszsej Marii Panny|5d|59-220|Legnica
+3170|Legnica|OJCÓW ZBIGNIEWA I MICHAŁA|1|59-220|LEGNICA
+3171|Legnica|Sejmowa|5c|59-220|Legnica
+3172|Legnica|Mazowiecka|3|59-220|Legnica
+3173|Legnica|Plac Klasztorny|7|59-220|Legnica
+3174|Legnica|Plac Klasztorny|7|59-220|Legnica
+3175|Legnica|Zielona|17|59-220|Legnica
+3176|Legnica|Senatorska|32|59-220|Legnica
+3177|Legnica|Sejmowa|5 C|59-220|Legnica
+3178|Legnica|Najświętszej Marii Panny|5D|59-220|Legnica
+3179|Legnica|OJCÓW ZBIGNIEWA I MICHAŁA|1|59-220|LEGNICA
+3180|Legnica|ZIELONA|17|59-220|LEGNICA
+3181|Legnica|Najświętrzej Marii Panny|18|59-220|Legnica
+3182|Legnica|D. Chłapowskiego|13|59-220|Legnica
+3183|Legnica|Sejmowa|5c|59-220|Legnica
+3184|Legnica|D. Chłapowskiego|13|59-220|Legnica
+3185|Legnica|PLAC SŁOWIAŃSKI|5|59-220|LEGNICA
+3186|Legnica|Najświętrzej Marii Panny|18|59-220|Legnica
+3187|Legnica|d.Chłapowskiego|13|59-220|Legnica
+3188|Legnica|D.Chłapowskiego|13|59-220|Legnica
+3189|Legnica|Najświętszej Marii Panny|5D|59-220|Legnica
+3190|Legnica|Najświętszej Marii Panny|5d|59-220|Legnica
+3191|Legnica|Najświętrzej Marii Panny|18|59-220|Legnica
+3192|Legnica|Najświętrzej Marii Panny|18|59-220|Legnica
+3193|Legnica|Szewczenki|10|59-220|Legnica
+3194|Legnica|D. Chłapowskiego|13|59-220|Legnica
+3195|Legnica|D. Chłapowskiego|13|59-220|Legnica
+3196|Legnica|ZIELONA|17|59-220|LEGNICA
+3197|Legnica|D.CHŁAPOWSKIEGO|13|59-220|LEGNICA
+3198|Legnica|D.Chłapowskiego|13|59-220|Legnica
+3199|Legnica|D. Chłapowskiego|13|59-220|legnica
+3200|Legnica|D. Chłapowskiego|13|59-220|Legnica
+3201|Legnica|Marynarska|31|59-220|Legnica
+3202|Legnica|Plac Słowiański|5|59-220|Legnica
+3203|Legnica|ZIELONA|17|59-220|LEGNICA
+3204|Legnica|D.CHŁAPOWSKIEGO|13|59-220|LEGNICA
+3205|Legnica|ZIELONA|17|59-220|LEGNICA
+3206|Legnica|Najświętrzej Marii Panny|18|59-220|Legnica
+3207|Legnica|Najświętrzej Marii Panny|18|59-220|Legnica
+3208|Legnica|Adama Mickiewicza|3|59-220|Legnica
+3209|Legnica|H.JORDANA|17|59-220|LEGNICA
+3210|Legnica|Grunwaldzka|2-20|59-220|Legnica
+3211|Legnica|Wrocławska|183a|59-220|Legnica
+3212|Legnica|WITELONA|8|59-220|LEGNICA
+3213|Legnica|Łukasińskiego|7 lok. 1|59-220|Legnica
+3214|Legnica|RYCERSKA|13|59-220|LEGNICA
+3215|Legnica|RYCERSKA|13|59-220|LEGNICA
+3216|Legnica|TATRZAŃSKA|9|59-220|LEGNICA
+3217|Legnica|TATRZAŃSKA|9|59-220|LEGNICA
+3218|Legnica|RYCERSKA|13|59-220|LEGNICA
+3219|Legnica|RYCERSKA|13|59-220|LEGNICA
+3220|Legnica|TATRZAŃSKA|9|59-220|LEGNICA
+3221|Legnica|TATRZAŃSKA|9|59-220|LEGNICA
+3222|Legnica|PIECHOTY|1|59-220|LEGNICA
+3223|Legnica|Żółkiewskiego|8|59-220|Legnica
+3224|Legnica|O.ZBIGNIEWA I  MICHAŁA|1|59-220|LEGNICA
+3225|Legnica|Grunwaldzka|2-20|59-220|Legnica
+3226|Legnica|Jana Pawła II|1|59-220|Legnica
+3227|Legnica|D.Chłapowskiego|13|59-220|Legnica
+3228|Legnica|Najświętrzej Marii Panny|18|59-220|Legnica
+3229|Legnica|PLAC ZAMKOWY|1|59-220|LEGNICA
+3230|Legnica|Najświętszej Marii Panny|5d|59-220|Legnica
+3231|Legnica|Rynek|9|59-220|Legnica
+3232|Legnica|Muzealna|2|59-220|Legnica
+3233|Legnica|Okrzei|12|59-220|Legnica
+3234|Legnica|Mazowiecka|3|59-220|Legnica
+3235|Legnica|Rynek|30|59-220|Legnica
+3236|Legnica|ZIELONA|17|59-220|LEGNICA
+3237|Legnica|Masarska|13|59-220|Legnica
+3238|Legnica|Złotoryjska|87|59-220|Legnica
+3239|Legnica|Czarnieckiego|36|59-220|Legnica
+3240|Legnica|D.Chłapowskiego|13|59-220|Legnica
+3241|Legnica|Najświętrzej Marii Panny|18|59-220|Legnica
+3242|Legnica|Najświętszej Marii Panny|22|59-220|Legnica
+3243|Legnica|Kamińskiego 25|NULL|59-220|polska
+3244|Legnica|Roosevelta|29/2|59-220|Legnica
+3245|Legnica|Aleja Orła Białego|1|59-220|Legnica
+3246|Legnica|Lotnicza|26|59-220|Legnica
+3247|Legnica|Lotnicza|26|59-220|Legnica
+3248|Legnica|Lotnicza|26|59-220|Legnica
+3249|Legnica|Lotnicza|26|59-220|Legnica
+3250|Legnica|Lotnicza|26|59-220|Legnica
+3251|Legnica|Lotnicza|26|59-220|Legnica
+3252|Legnica|Lotnicza|26|59-220|Legnica
+3253|Legnica|Lotnicza|26|59-220|Legnica
+3254|Legnica|Grabskiego|14/22|59-220|Legnica
+3255|Legnica|Grabskiego|14/22|59-220|Legnica
+3256|Legnica|Grabskiego|14/22|59-220|Legnica
+3257|Legnica|Grabskiego|14/22|59-220|Legnica
+3258|Legnica|Grabskiego|14/22|59-220|Legnica
+3259|Legnica|Masarska|13|59-220|Legnica
+3260|Legnica|Masarska|13|59-220|Legnica
+3261|Legnica|Masarska|13|59-220|Legnica
+3262|Legnica|Pl. SŁOWIAŃSKI|5|59-220|LEGNICA
+3263|Legnica|Pl. SŁOWIAŃSKI|5|59-220|LEGNICA
+3264|Legnica|Pl. SŁOWIAŃSKI|5|59-220|LEGNICA
+3265|Legnica|Pl. SŁOWIAŃSKI|5|59-220|LEGNICA
+3266|Legnica|Skarbka|4|59-220|Legnica
+3267|Legnica|Skarbka|4|59-220|Legnica
+3268|Legnica|Skarbka|4|59-220|Legnica
+3269|Legnica|Skarbka|4|59-220|Legnica
+3270|Legnica|Skarbka|4|59-220|Legnica
+3271|Legnica|Wierzyńskiego|1|59-220|Legnica
+3272|Legnica|Wierzyńskiego|1|59-220|Legnica
+3273|Legnica|Wierzyńskiego|1|59-220|Legnica
+3274|Legnica|Wierzyńskiego|1|59-220|Legnica
+3275|Legnica|Chojnowska|2|59-220|Legnica
+3276|Legnica|Chojnowska|2|59-220|Legnica
+3277|Legnica|Chojnowska|2|59-220|Legnica
+3278|Legnica|Chojnowska|2|59-220|Legnica
+3279|Legnica|Chojnowska|2|59-220|Legnica
+3280|Legnica|Chojnowska|2|59-220|Legnica
+3281|Legnica|Chojnowska|2|59-220|Legnica
+3282|Legnica|Chojnowska|2|59-220|Legnica
+3283|Legnica|Radosna|17|59-220|Legnica
+3284|Legnica|Radosna|17|59-220|Legnica
+3285|Legnica|Radosna|17|59-220|Legnica
+3286|Legnica|Mazowiecka|3|59-220|Legnica
+3287|Legnica|Mazowiecka|3|59-220|Legnica
+3288|Legnica|Mazowiecka|3|59-220|Legnica
+3289|Legnica|Tarasa Szewczenki|10|59-220|Legnica
+3290|Legnica|Tarasa Szewczenki|10|59-220|Legnica
+3291|Legnica|Tarasa Szewczenki|10|59-220|Legnica
+3292|Legnica|SŁUBICKA|7|59-220|LEGNICA
+3293|Legnica|SŁUBICKA|7|59-220|LEGNICA
+3294|Legnica|SŁUBICKA|7|59-220|LEGNICA
+3295|Legnica|SŁUBICKA|7|59-220|LEGNICA
+3296|Legnica|Złotoryjska|144|59-220|Legnica
+3297|Legnica|Złotoryjska|144|59-220|Legnica
+3298|Legnica|Złotoryjska|144|59-220|Legnica
+3299|Wrocław|Pilczycka|139|54-144|Wrocław
+3300|Wrocław|Niedżwiedzia|26-28|54-233|Wrocław
+3301|Wrocław|Dobra|16|53-678|Wrocław
+3302|Wrocław|Strzegomska|322|54-432|Wrocław
+3303|Wrocław|Zaporoska|51|53-519|Wrocław
+3304|Wrocław|Zaporoska|52a|53-416|Wroclaw
+3305|Wrocław|Zgodna|10-14|50-432|Wrocław
+3306|Wrocław|Ścinawska|10|53-642|Wrocław
+3307|Wrocław|Jana Długosza|29|51-162|Wrocław
+3308|Wrocław|Oporowska|1|53-434|Wrocław
+3309|Wrocław|Grochowa|15|53-423|Wrocław
+3310|Wrocław|Jana Kasprowicza|89a|51-146|Wrocław
+3311|Wrocław|Starogajowa|100|54-047|Wrocław
+3312|Wrocław|Dekarska|3|51-180|Wrocław
+3313|Wrocław|Sycowska|9|51-319|Wrocław
+3314|Wrocław|WINCENTEGO STYSIA|71|53-529|WROCŁAW
+3315|Wrocław|Drukarska|8a|53-312|Wrocław
+3316|Wrocław|Nowowiejska|80a|50-315|Wrocław
+3317|Wrocław|Gołężycka|4a|54-152|Wrocław
+3318|Wrocław|Skwerowa|14|53-303|WROCŁAW
+3319|Wrocław|Lotnicza|22|54-155|Wrocław
+3320|Wrocław|Fiołkowa|7a|53-239|Wrocław
+3321|Wrocław|Łódzka|23|50-521|Wrocław
+3322|Wrocław|Tramwajowa|34|51-621|Wrocław
+3323|Wrocław|KŁODNICKA|23|54-217|WROCŁAW
+3324|Wrocław|Wojrowicka|3|54-434|Wrocław
+3325|Wrocław|Stanisława Kopańskiego|18|51-210|Wrocław
+3326|Wrocław|Jugosłowiańska|115|51-112|Wrocław
+3327|Wrocław|Noskowskiego|32|51-611|Wrocław
+3328|Wrocław|Gliniana|85|50-526|Wrocław
+3329|Wrocław|Kwidzyńska|1|51-415|Wrocław
+3330|Wrocław|Nadbrzeżna|14|51-349|Wrocław
+3331|Wrocław|GENERAŁA HALLERA|77a|53-325|WROCŁAW
+3332|Wrocław|Haukego Bosaka|9c|50-447|Wrocław
+3333|Wrocław|Gersona|39|51-664|Wrocław
+3334|Wrocław|Rogowska|18a|54-440|Wrocław
+3335|Wrocław|Obornicka|21|51-113|Wrocław
+3336|Wrocław|Wolska|9|54-076|Wrocław
+3337|Wrocław|Ignuta|30|54-151|Wrocław
+3338|Wrocław|Sienkiewicza|85|50-348|Wrocław
+3339|Wrocław|WALEREGO SŁAWKA|5|51-690|WROCŁAW
+3340|Wrocław|wybrz. C. Korzeniowskiego|10|50-226|Wroclaw
+3341|Wrocław|Stanisławowska|90|54-611|Wrocław
+3342|Wrocław|Kręta|1a|50-237|Wrocław
+3343|Wrocław|Dembowskiego|37|51-670|Wrocław
+3344|Wrocław|Orla|5-7|53-143|Wrocław
+3345|Wrocław|Nowowiejska|80|50-315|Wrocław
+3346|Wrocław|Kolbuszowska|6|53-404|Wrocław
+3347|Wrocław|Łąkowa|2a|50-036|Wrocław
+3348|Wrocław|Gdańska|26|50-344|Wroclaw
+3349|Wrocław|Pułaskiego|20a|50-446|Wrocław
+3350|Wrocław|Witelona|6|51-617|Wrocław
+3351|Wrocław|Słowicza|7-9|53-320|Wrocław
+3352|Wrocław|Kościuszki|27 a|50-011|Wrocław
+3353|Wrocław|L. Różyckiego|1a|51-608|Wrocław
+3354|Wrocław|Bartla|3|51-618|Wrocław
+3355|Wrocław|Borowska|181-187|50-553|Wrocław
+3356|Wrocław|DŹWIRZYŃSKA|3|54-320|WROCŁAW
+3357|Wrocław|Dyrekcyjna|15|50-528|Wrocław
+3358|Wrocław|Semaforowa|42|52-115|Wrocław
+3359|Wrocław|Łączności|5/7|53-330|Wroclaw
+3360|Wrocław|Edwarda Wittiga|3|51-628|Wrocław
+3361|Wrocław|Nowowiejska|36|50-322|Wrocław
+3362|Wrocław|Wałbrzyska|16|52-314|Wrocław
+3363|Wrocław|Chorzowska|55|52-023|Wrocław
+3364|Wrocław|Narcyzowa|6|53-225|Wrocław
+3365|Wrocław|Braci Gierymskich|89|51-640|Wrocław
+3366|Wrocław|Gajowicka|199|53-150|Wrocław
+3367|Wrocław|Stabłowicka|97|54-062|Wrocław
+3368|Wrocław|Horbaczewskiego|27|54-130|Wrocław
+3369|Wrocław|Nożownicza|35a|50-147|Wrocław
+3370|Wrocław|Łączna|1-5|54-004|Wrocław
+3371|Wrocław|Kiełczowska|31-33|51-315|Wrocław
+3372|Wrocław|Pawłowicka|78|51-250|Wrocław
+3373|Wrocław|Krzywa|3|50-338|Wrocław
+3374|Wrocław|JULIANA URSYNA NIEMCEWICZA|4|50-238|WROCŁAW
+3375|Wrocław|PIWNA|14|50-353|WROCŁAW
+3376|Wrocław|Zielińskiego|74|53-534|Wrocław
+3377|Wrocław|ks. Norberta Bonczyka|52|51-138|Wrocław
+3378|Wrocław|Pawłowa|6a|53-604|Wrocław
+3379|Wrocław|Szczęśliwa|9-11|53-445|Wrocław
+3380|Wrocław|Bardzka|5|50-516|Wrocław
+3381|Wrocław|Grabiszyńska|147|53-439|Wrocław
+3382|Wrocław|Lwowska|30a|53-516|Wrocław
+3383|Wrocław|Aleja Pracy|29 a|53-232|Wrocław
+3384|Wrocław|Inowrocławska|9|53-653|Wrocław
+3385|Wrocław|LITOMSKA|11|53-641|WROCŁAW
+3386|Wrocław|Stabłowicka|95|54-062|Wrocław
+3387|Wrocław|Strachocińska|21|51-511|Wrocław
+3388|Wrocław|Jana Długosza|59-75|51-162|Wrocław
+3389|Wrocław|Marca Polo|21|51-504|Wrocław
+3390|Wrocław|Wielka|18|53-341|Wrocław
+3391|Wrocław|KRÓLEWIECKA|3|54-117|WROCŁAW
+3392|Wrocław|Pęgowska|34|51-180|Wrocław
+3393|Wrocław|Karola Darwina|19|52-415|Wrocław
+3394|Wrocław|Antoniego Słonimskiego|3G|50-304|Wrocław
+3395|Wrocław|Bolesława Prusa|9|50-319|Wrocław-Śródmieście
+3396|Wrocław|Monterska|4|53-206|Wrocław
+3397|Wrocław|ZIelna|42|51-313|Wrocław
+3398|Wrocław|Starogajowa|68a|54-047|Wrocław
+3399|Wrocław|PRZYJAŹNI|2A1/2|53-030|WROCŁAW
+3400|Wrocław|Swobodna|8a|50-088|Wrocław
+3401|Wrocław|Roosevelta|15|50-236|Wrocław
+3402|Wrocław|RACIBORSKA|2|52-026|WROCŁAW
+3403|Wrocław|Zatorska|11|51-213|Wrocław
+3404|Wrocław|Stanów Zjednoczonych|88|54-403|Wrocław
+3405|Wrocław|Piękna|56j|50-506|Wrocław
+3406|Wrocław|Zagaje|16|51-180|Wrocław
+3407|Wrocław|Mokrzańska|35|52-020|UP Skoczylasa 19
+3408|Wrocław|Partynicka|29-37|53-031|Wrocław-Krzyki
+3409|Wrocław|Grabiszyńska|61-65|53-503|Wrocław
+3410|Wrocław|Miłoszycka|23-25|51-502|WROCŁAW
+3411|Wrocław|RAJSKA|69|54-028|WROCŁAW
+3412|Wrocław|Monte Cassino|66|51-681|Wrocław
+3413|Wrocław|Chrzanowskiego|30|51-141|Wrocław
+3414|Wrocław|Orla|3|53-143|Wrocław
+3415|Wrocław|Krynicka|27-29|50-555|Wrocław
+3416|Wrocław|Kasprowicza|42-44|51-137|Wrocław
+3417|Wrocław|Gęsia|24|51-419|Wrocław
+3418|Wrocław|Łaciarska|8|50-104|Wrocław
+3419|Wrocław|Krzycka|42|53-020|Wrocław
+3420|Wrocław|Stanisławowska|46|54-611|Wrocław
+3421|Wrocław|Braci Gierymskich|156-158|51-640|Wrocław
+3422|Wrocław|Piękna|62b|50-506|Wrocław
+3423|Wrocław|Skwierzyńska|34a|53-522|Wroclaw
+3424|Wrocław|E. Orzeszkowej|80A|50-311|Wrocław
+3425|Wrocław|Drzewieckiego|59|54-129|Wrocław
+3426|Wrocław|KłODNICKA|22|54-218|WROCŁAW
+3427|Wrocław|SOŁTYSOWICKA|59A|51-168|WROCŁAW
+3428|Wrocław|Chojnowska|4|53-617|Wrocław
+3429|Wrocław|Wejherowska|28|54-239|Wrocław
+3430|Wrocław|Fabryczna|10|53-609|Wrocław
+3431|Wrocław|Wołowska|12|51-116|Wrocław
+3432|Wrocław|Duńska|9|54-427|Wrocław
+3433|Wrocław|Żelazna|57|53-429|Wrocaw
+3434|Wrocław|Bajana|62|54-129|Wrocław
+3435|Wrocław|Piwna|2|50-353|Wrocław
+3436|Wrocław|B.PRUSA|28/II/B|50-319|WROCŁAW
+3437|Wrocław|Św. Józefa|1-3|50-329|Wrocław
+3438|Wrocław|Januszowicka|32/34|53-135|Wrocław
+3439|Wrocław|Roosevelta|15|50-236|Wrocław
+3440|Wrocław|Zatorska|11|51-213|Wrocław
+3441|Wrocław|Ścinawska|21|53-628|Wrocław
+3442|Wrocław|Trwała|17-19|53-335|Wrocław
+3443|Wrocław|Traugutta|37|50-416|WROCŁAW
+3444|Wrocław|Nowowiejska|78|50-315|Wrocław
+3445|Wrocław|Bolesława Prusa|64|50-318|Wrocław
+3446|Wrocław|Bolesława Chrobrego|3|50-254|Wrocław
+3447|Wrocław|Inżynierska|54|53-230|Wrocław
+3448|Wrocław|Bulwar Ikara|19|54-130|Wrocław
+3449|Wrocław|Janiszewskiego|14|50-372|Wrocław
+3450|Wrocław|Komuny Paryskiej|36-38|50-451|Wrocław
+3451|Wrocław|Kamieńskiego|24|51-124|Wrocław
+3452|Wrocław|Stabłowicka|143|54-062|Wrocław
+3453|Wrocław|Przystankowa|32|52-235|Wrocław
+3454|Wrocław|Grecka|59|54-406|Wrocław
+3455|Wrocław|Bobrza|27|54-220|Wrocław
+3456|Wrocław|Zaporoska|28|53-523|Wrocław
+3457|Wrocław|Fryderyka Chopina|9 b|51-609|Wrocław
+3458|Wrocław|Sarbinowska|10|54-320|Wrocław
+3459|Wrocław|Przedwiośnie|47|51-211|Psie Pole
+3460|Wrocław|Czeska|38|51-112|Miasto Wrocław
+3461|Wrocław|Krępicka 50|NULL|54-018|Wrocław
+3462|Wrocław|Skarbowców|8|53-025|Wrocław
+3463|Wrocław|Mennicza|21-23|50-057|Wrocław
+3464|Wrocław|Wojszycka|1|53-006|Wrocław
+3465|Wrocław|Szczęśliwa|28|53-445|Wrocław
+3466|Wrocław|Podwale|57|50-039|Wrocław
+3467|Wrocław|Gliniana|30|50-525|Wrocław
+3468|Wrocław|Kleczkowska|2|50-227|Wrocław
+3469|Wrocław|Wandy|13|53-320|Wrocław
+3470|Wrocław|Jedności Narodowej|195|50-303|Wrocław
+3471|Wrocław|Kowalska|105|51-424|Wrocław
+3472|Wrocław|Polna|4|52-120|Wrocław
+3473|Wrocław|Blacharska|13|53-206|Wrocław
+3474|Wrocław|Boya - Żeleńskiego|32|51-160|Wrocław
+3475|Wrocław|Górnickiego|20|50-337|Wrocław
+3476|Wrocław|Nyska|66|50-505|Wrocław
+3477|Wrocław|Orzechowa|62|50-540|Wrocław
+3478|Wrocław|Sempołowskiej|54|51-661|Wrocław
+3479|Wrocław|Niemcewicza|29-31|50-238|Wrocław
+3480|Wrocław|Starogajowa|66-68|54-047|Wrocław
+3481|Wrocław|Krakowska|2|50-425|Wrocław
+3482|Wrocław|Sycowska|22a|51-319|Wrocław
+3483|Wrocław|GŁUBCZYCKA|3|52-026|WROCŁAW
+3484|Wrocław|Bytomska|7|52-024|Wrocław
+3485|Wrocław|Stalowowolska|24/26|53-404|Wrocław
+3486|Wrocław|Zielińskiego|38|53-534|Wrocław
+3487|Wrocław|Młodych Techników|58|53-645|Wrocław
+3488|Wrocław|PĘGOWSKA|34|51-180|WROCŁAW
+3489|Wrocław|Ostrowskiego|30 B|53-238|Wrocław
+3490|Wrocław|Orla|3|53-143|Wrocław
+3491|Wrocław|Lubelska|95a|54-101|Wrocław
+3492|Wrocław|E.Orzeszkowej|80A|50-311|Wrocław
+3493|Wrocław|Swobodna|8a|50-088|Wrocław
+3494|Wrocław|Sudecka|98|53-129|Wrocław
+3495|Wrocław|Al. Pracy|24|53-232|Wrocław
+3496|Wrocław|Toruńska|72|51-414|Wrocław
+3497|Wrocław|Pl. Franciszkański|1-3|50-070|Wrocław
+3498|Wrocław|Młodych Techników|58|53-645|Czarnieckiego
+3499|Wrocław|al. Akacjowa|10|53-134|Urząd Pocztyowy Wrocław 14
+3500|Wrocław|Wejherowska|28|54-239|Wrocław
+3501|Wrocław|Partynicka|29-37|53-031|Wrocław-Krzyki
+3502|Wrocław|Palc Św.Macieja|7A|50-244|Wrocław
+3503|Wrocław|Rybacka|17|53-656|Wrocław
+3504|Wrocław|Krakowska|56-62|50-425|Wrocław
+3505|Wrocław|E. Dembowskiego|39|51-670|Wrocław
+3506|Wrocław|AL. JANA MATEJKI|16 A|50-333|WROCŁAW
+3507|Wrocław|Eluarda|51-55|54-019|Wrocław
+3508|Wrocław|Żelazna|57|53-429|Wrocław
+3509|Wrocław|T.  Zielińskiego|56|53-534|Wrocław
+3510|Wrocław|Spółdzielcza|2a|51-662|Wrocław
+3511|Wrocław|Wojrowicka|58|54-436|Wrocław
+3512|Wrocław|Jastrzebia|18/20|53-148|wrocław
+3513|Wrocław|Sieradzka|5|50-568|Wrocław
+3514|Wrocław|Skwierzyńska|34a|53-522|Wrocław
+3515|Wrocław|Wejherowska|28|54-239|Wrocław
+3516|Wrocław|Jelenia|7|54-242|Wrocław
+3517|Wrocław|Mikołaja Reja|3|50-354|Wrocław
+3518|Wrocław|Kołłątaja|1-6|50-002|Wrocław
+3519|Wrocław|Jedności Narodowej|117|50-301|Wrocław
+3520|Wrocław|Jemiołowa|57|53-426|Wrocław
+3521|Wrocław|Ślężna|2-24|53-302|Wrocław
+3522|Wrocław|Kłodnicka|36|54-218|Wrocław
+3523|Wrocław|Dembowskiego|39|51-670|Wrocław
+3524|Wrocław|Gorlicka|25|51-314|Wrocław
+3525|Wrocław|Pautscha|9|51-651|Wrocław
+3526|Wrocław|Św. Jerzego|4|50-518|Wrocław
+3527|Wrocław|Lubelska|95a|54-101|Wrocław
+3528|Wrocław|JASTRZĘBIA|26|53-148|WROCŁAW
+3529|Wrocław|Stanisława Przybyszewskiego|59|51-151|Wrocław
+3530|Wrocław|Orzechowa|62a|50-540|Wrocław
+3531|Wrocław|Czeska|40|51-112|Wrocław
+3532|Wrocław|Zachodnia|2|53-644|Wrocław
+3533|Wrocław|Kraińskiego|1|50-153|Wrocław
+3534|Wrocław|Świstackiego|12a|50-430|Wrocław
+3535|Wrocław|Jantarowa|5|53-330|Wrocław
+3536|Wrocław|Zemska|16e|54-438|Wrocław
+3537|Wrocław|aleja Aleksandra Brucknera|12|51-410|Wrocław
+3538|Wrocław|Paulińska|14|50-247|Wrocław
+3539|Wrocław|Morelowskiego|43|52-429|Wrocław
+3540|Wrocław|aleja Pracy|24|53-232|Wrocław
+3541|Wrocław|Kolista|17|54-151|Wrocław
+3542|Wrocław|Sarbinowska|10|54-320|Wroclaw
+3543|Wrocław|DRUKARSKA|50|53-312|WROCŁAW
+3544|Wrocław|Szkocka|64|54-402|Wrocław
+3545|Wrocław|PL. NANKIERA|16|50-140|WROCŁAW
+3546|Wrocław|Rynek|42-43/8|50-116|Wrocław
+3547|Wrocław|Kiełczowska|43/3|51-315|Wrocław
+3548|Wrocław|Zielińskiego|38|53-534|Wrocław
+3549|Wrocław|Plac Św.Macieja|7A|50-244|Wrocław
+3550|Wrocław|Jana Matejki|16 A|50-333|Wrocław
+3551|Wrocław|E. Dembowskiego|39|51-670|Wrocław
+3552|Wrocław|Zielińskiego|56|53-534|Wrocław
+3553|Wrocław|Słubicka|29/33|53-615|Wrocław
+3554|Wrocław|Stalowowolska|24/26|53-404|Wrocław
+3555|Wrocław|Sieradzka|5|50-568|Wrocław
+3556|Wrocław|Swobodna|8A|50-088|Wrocław
+3557|Wrocław|Pl. Franciszkański|1-3|50-070|Wrocław
+3558|Wrocław|Oławska|4|50-123|Wrocław
+3559|Wrocław|ul. Jantarowa|5|53-330|Wrocław
+3560|Wrocław|Wagonowa|12|53-609|Wrocław
+3561|Wrocław|Bolesława Prusa|78|50-318|Wrocław
+3562|Wrocław|Rybacka|17|53-656|Wrocław
+3563|Wrocław|Żelazna|36|53-428|Wrocław
+3564|Wrocław|Al. Wiśniowa|81|53-126|Wrocław
+3565|Wrocław|Jedności Narodowej|46 A|50-258|Wrocław
+3566|Wrocław|Wejherowska|28|54-239|Wrocław
+3567|Wrocław|Wagonowa|12|53-609|Wrocław
+3568|Wrocław|Ks. J. Poniatowskiego|9|50-326|Wrocław
+3569|Wrocław|Składowa|5|50-209|Wrocław
+3570|Wrocław|Stacha Świstackiego|12-14|50-430|Wrocław
+3571|Wrocław|Hutnicza|45|54-139|Wrocław
+3572|Wrocław|Krucza|49|53-410|Wrocław
+3573|Wrocław|Zaporoska|71|53-415|Wrocław
+3574|Wrocław|Piesza|1|51-109|Wrocław
+3575|Wrocław|pl. Orląt Lwowskich|2a|53-605|Wrocław
+3576|Wrocław|Wojrowicka|58|54-436|Wrocław
+3577|Wrocław|Tęczowa|60|53-603|Wrocław
+3578|Wrocław|PL. NANKIERA|16|50-140|WROCŁAW
+3579|Wrocław|Wejherowska|28|54-239|Wrocław
+3580|Wrocław|DRUKARSKA|50|53-312|WROCŁAW
+3581|Wrocław|Pabianicka|2|53-339|Wrocław
+3582|Wrocław|Prosta|16|53-509|Wrocław
+3583|Wrocław|Rynek|42-43/8|50-116|Wrocław
+3584|Wrocław|Powstańców Śląskich|210/218|53-140|Wrocław
+3585|Wrocław|Kuźnicza|10|50-138|Wrocław
+3586|Wrocław|Plac Św.Macieja|7A|50-244|Wrocław
+3587|Wrocław|Szkocka|64|54-402|Wroclaw
+3588|Wrocław|Rynek-Ratusz|15/1|50-101|Wrocław
+3589|Wrocław|Słubicka|29-33|53-615|Wrocław
+3590|Wrocław|Młodych Techników|58|53-645|Wrocław
+3591|Wrocław|Oławska|21|50-123|Wrocław
+3592|Wrocław|Dawida|5|50-527|Wrocław
+3593|Wrocław|DAWIDA|5|50-527|WROCŁAW
+3594|Wrocław|Ślężna|2|53-302|Wrocław
+3595|Wrocław|E. Dembowskiego|39|51-670|Wrocław
+3596|Wrocław|Al. Wiśniowa|81|53-126|Wrocław
+3597|Wrocław|Słubicka|29/33|53-615|Wrocław
+3598|Wrocław|Wagonowa|12|53-609|Wrocław
+3599|Wrocław|Krupnicza|2/4|50-075|Wrocław
+3600|Wrocław|Krakowska|56-62|50-425|Wrocław
+3601|Wrocław|Zielińskiego|38|53-534|Wrocław
+3602|Wrocław|SKWIERZYŃSKA|1-7|53-521|WROCŁAW
+3603|Wrocław|Oławska|4|50-123|Wrocław
+3604|Wrocław|Ofiar Oświęcimskich|19|50-069|Wrocław
+3605|Wrocław|ul. Jantarowa|5|53-330|Wrocław
+3606|Wrocław|PARKOWA|`18-26|51-675|WROCŁAW
+3607|Wrocław|Młodych Techników|17|53-647|Wrocław
+3608|Wrocław|Żelazna|36|53-428|Wrocław
+3609|Wrocław|Kiełczowska|43|51-315|Wrocław
+3610|Wrocław|Robotnicza|36-38|53-608|Wrocław
+3611|Wrocław|Krupnicza|2/4|50-075|Wrocław
+3612|Wrocław|Jedności Narodowej|117|50-301|Wrocław
+3613|Wrocław|Wiśniowa|81|53-126|Wrocław
+3614|Wrocław|TRZEBNICKA|42|50-230|WROCŁAW
+3615|Wrocław|Jedności Narodowej|46 A|50-258|Wrocław
+3616|Wrocław|Wejherowska 28|28|54-239|Wrocław
+3617|Wrocław|Skwierzyńska|1-7|53-521|Wrocław
+3618|Wrocław|Drukarska|50|53-312|Wrocław
+3619|Wrocław|Al. Wiśniowa|81|53-126|Wrocław
+3620|Wrocław|Zagłębiowska|8|52-007|Wrocław
+3621|Wrocław|Wagonowa|12|53-609|Wrocław
+3622|Wrocław|Mł. Techników|58|53-645|Wrocław
+3623|Wrocław|Stawowa|24|50-018|Wrocław
+3624|Wrocław|Rynek|42-43/8|50-116|Wrocław
+3625|Wrocław|Rynek|42-43/8|50-116|Wrocław
+3626|Wrocław|Rynek|42-43/8|50-116|Wrocław
+3627|Wrocław|TRAUGUTTA|37|50-416|WROCŁAW
+3628|Wrocław|Jedności Narodowej|46a|50-258|Wrocław
+3629|Wrocław|Jedności Narodowej|46a|50-258|Wrocław
+3630|Wrocław|Kuźnicza|10|50-138|Wrocław
+3631|Wrocław|Dawida|9-11|50-527|Wrocław
+3632|Wrocław|Krupnicza|2/4|50-075|Wrocław
+3633|Wrocław|Braniborska|2/10|53-680|Wrocław
+3634|Wrocław|Oławska|4|50-123|Wrocław
+3635|Wrocław|Ofiar Oświęcimskich|19|50-069|Wrocław
+3636|Wrocław|Ofiar Oświęcimskich|19|50-069|Wrocław
+3637|Wrocław|DRUKARSKA|50|53-312|WROCŁAW
+3638|Wrocław|Krupnicza|2/4|50-075|Wrocław
+3639|Wrocław|Krupnicza|2/4|50-075|Wrocław
+3640|Wrocław|STAWOWA|24|50-018|WROCŁAW
+3641|Wrocław|Skwierzyńska|1/7|53-521|Wrocław
+3642|Wrocław|Ślężna|2|53-302|Wrocław
+3643|Wrocław|Księcia Józefa Poniatowskiego|9|50-326|Wrocław
+3644|Wrocław|Krupnicza|2/4|50-075|Wrocław
+3645|Wrocław|Krupnicza|2/4|50-075|Wrocław
+3646|Wrocław|Ślężna|2|53-302|Wrocław
+3647|Wrocław|Ślężna|2|53-302|Wrocław
+3648|Wrocław|Krupnicza|2/4|50-075|Wrocław
+3649|Wrocław|Wagonowa|12|53-609|Wrocław
+3650|Wrocław|Powstańców Śląskich|210/218|53-140|WROCŁAW
+3651|Wrocław|Kolejowa|36|53-508|Wrocław
+3652|Wrocław|Prosta|16|53-509|Wrocław
+3653|Wrocław|Tęczowa|60|53-603|Wrocław
+3654|Wrocław|Borowska|105|50-551|Wrocław
+3655|Wrocław|Skwierzyńska|1/7|53-521|Wrocław
+3656|Wrocław|Jana Władysława Dawida|5/7|50-527|Wrocław
+3657|Wrocław|Tęczowa|60|54-406|Wrocław
+3658|Wrocław|Kłodnicka|36|54-207|WROCŁAW
+3659|Wrocław|Prosta|16|53-509|Wrocław
+3660|Wrocław|plac Orląt Lwowskich|20E|53-605|Wrocław
+3661|Wrocław|Zagłębiowska|8|52-007|Wrocław
+3662|Wrocław|Zagłębiowska|8|52-007|Wrocław
+3663|Wrocław|Prosta|16|53-509|Wrocław
+3664|Wrocław|plac Orląt Lwowskich|20E|53-605|Wrocław
+3665|Wrocław|Prosta|16|53-509|Wrocław
+3666|Wrocław|Dawida|5|50-527|Wrocław
+3667|Wrocław|Pawłowicka|87/89|51-250|Wrocław
+3668|Wrocław|Słubicka|29-33|53-615|Wrocław
+3669|Wrocław|Ojców Oblatow|1|54-239|Wrocław
+3670|Wrocław|ul. Jantarowa|5|53-330|Wrocław
+3671|Wrocław|Uniwersytecka|1|50-951|Wrocław
+3672|Wrocław|Tęczowa|60|54-406|Wrocław
+3673|Wrocław|Wagonowa|12|53-609|Wrocław
+3674|Wrocław|Krakowska|56-62|50-425|Wrocław
+3675|Wrocław|Oławska|21|50-123|Wrocław
+3676|Wrocław|OŁAWSKA|17|50-123|WROCŁAW
+3677|Wrocław|Ruska|51B|50-079|Wrocław
+3678|Wrocław|SOŁTYSOWICKA|19B|51-168|WROCŁAW
+3679|Wrocław|Aleksandra Brücknera|10|51-410|Wrocław
+3680|Wrocław|Braniborska|57|53-680|Wrocław
+3681|Wrocław|PAULIŃSKA|14|50-247|WROCŁAW
+3682|Wrocław|Rynek|42-43/8|50-116|Wrocław
+3683|Wrocław|Gubińska|1|54-433|Wrocław
+3684|Wrocław|Wagonowa|12|53-609|Wrocław 38
+3685|Wrocław|Wagonowa|12|53-609|Wrocław
+3686|Wrocław|Oławska|4|50-123|Wrocław
+3687|Wrocław|Rynek-Ratusz|15/1|50-101|Wrocław
+3688|Wrocław|Zagłębiowska|8|52-007|Wrocław
+3689|Wrocław|Kolejowa|36|53-508|Wrocław
+3690|Wrocław|RUSKA|51B|50-079|WROCŁAW
+3691|Wrocław|Rybnicka|23|52-016|Wrocław
+3692|Wrocław|Wiśniowa|81|53-126|Wrocław
+3693|Wrocław|starograniczna|28|54-237|Wrocław
+3694|Wrocław|T. Kościuszki|76 B|50-441|Wrocław
+3695|Wrocław|Wejherowska|28|54-239|Wrocław
+3696|Wrocław|pl. Powstanców Śl|12|53-314|Wrocław
+3697|Wrocław|Plac Powstanców Śl|12|53-314|Wrocław
+3698|Wrocław|T. Kościuszki|84|50-441|Wrocław
+3699|Wrocław|Podwale|68/69|50-449|Wrocław
+3700|Wrocław|T.Kościuszki|84|50-441|Wrocław
+3701|Wrocław|Robotnicza|36-38|53-608|Wrocław
+3702|Wrocław|Fabryczna|14|53-609|Wrocław
+3703|Wrocław|Robotnicza|36-38|53-608|Wrocław
+3704|Wrocław|Ruska|47/48a|50-079|Wrocław
+3705|Wrocław|Ruska|47/48a|50-079|Wrocław
+3706|Wrocław|Ruska|47/48a|50-079|Wrocław
+3707|Wrocław|J. Piłudskiego|74/327|50-020|Wrocław
+3708|Wrocław|Piłsudskiego|72|50-020|Wrocław
+3709|Wrocław|ul. T. Kościuszki|76B|50-441|Wrocław
+3710|Wrocław|KOŚCIUSZKI|35B|50-011|WROCŁAW
+3711|Wrocław|wYSTAWOWA|1|51-618|WROCŁAW
+3712|Wrocław|Kołłątaja|20|50-007|Wrocław
+3713|Wrocław|Dubois|5|50-208|Wrocław
+3714|Wrocław|Powstańców Śląskich|190|53-139|Wrocław
+3715|Wrocław|Zemska|16A|54-438|Wrocław
+3716|Wrocław|Al. Wiśniowa|81|53-126|Wrocław
+3717|Wrocław|Kołłątaja|20|50-007|Wrocław
+3718|Wrocław|Strzegomska|49a|53-611|WROCŁAW
+3719|Wrocław|Kleczkowska|35|50-211|Wrocław
+3720|Wrocław|Kleczkowska|35|50-211|Wrocław
+3721|Wrocław|Kleczkowska|35|50-211|Wrocław
+3722|Wrocław|Swobodna|73|50-089|Wrocław
+3723|Wrocław|Swobodna|73|50-089|Wrocław
+3724|Wrocław|Swobodna|73|50-089|Wrocław
+3725|Wrocław|Braniborska|57|53-680|Wrocław
+3726|Wrocław|Piotra Czajkowskiego|28|51-171|Wrocław
+3727|Wrocław|Kościuszki|31/1|50-011|Wrocław
+3728|Wrocław|Jedności Narodowej|112|50-301|Śródmieście
+3729|Wrocław|Jemiołowa|59|53-426|Wrocław
+3730|Wrocław|Krakowska|102|50-427|Wrocław
+3731|Wrocław|Kościuszki|108a/11|50-441|Wrocław
+3732|Wrocław|Gwarna|6A|50-001|Wrocław
+3733|Wrocław|Swobodna|8a|50-088|Wrocław
+3734|Wrocław|Dobrzyńska|21/23|50-403|WROCŁAW
+3735|Wrocław|Robotnicza|36|53-608|Wrocław
+3736|Wrocław|Komuny Paryskiej|36-38|50-431|Wrocław
+3737|Wrocław|JEMIOŁOWA|46/48|53-426|WROCŁAW
+3738|Wrocław|Dworska|8|54-144|Wrocław
+3739|Wrocław|Dworska|8|54-144|Wroclaw
+3740|Wrocław|Dworska|8|54-144|Wrocław
+3741|Wrocław|Dworska|8|54-144|Wroclaw
+3742|Wrocław|Dworska|8|54-144|Wroclaw
+3743|Wrocław|Dworska|8|54-144|Wrocław
+3744|Wrocław|Dworska|8|54-144|Wroclaw
+3745|Wrocław|Dworska|8|54-144|Wroclaw
+3746|Wrocław|Kamiennogórska|16|54-034|Wrocław
+3747|Wrocław|Kamiennogórska|16|54-034|Wrocław
+3748|Wrocław|Kamiennogórska|16|54-034|Wrocław
+3749|Wrocław|Kamiennogórska|16|54-034|Wrocław
+3750|Wrocław|Kamiennogórska|16|54-034|Wrocław
+3751|Wrocław|Kamiennogórska|16|54-034|Wrocław
+3752|Wrocław|Kamiennogórska|16|54-034|Wrocław
+3753|Wrocław|Kamiennogórska|16|54-034|Wrocław
+3754|Wrocław|Parkowa|27|51-616|Wrocław
+3755|Wrocław|Parkowa|27|51-616|Wrocław
+3756|Wrocław|Parkowa|27|51-616|Wrocław
+3757|Wrocław|Parkowa|27|51-616|Wrocław
+3758|Wrocław|Parkowa|27|51-616|Wrocław
+3759|Wrocław|Kamienna|99-101|50-547|Wrocław
+3760|Wrocław|Kamienna|99-101|50-547|Wrocław
+3761|Wrocław|Kamienna|99-101|50-547|Wrocław
+3762|Wrocław|Kamienna|99-101|50-547|Wrocław
+3763|Wrocław|Wejherowska|28|54-239|Wrocław
+3764|Wrocław|Wejherowska|28|54-239|Wrocław
+3765|Wrocław|Wejherowska|28|54-239|Wrocław
+3766|Wrocław|Wejherowska|28|54-239|Wrocław
+3767|Wrocław|Wejherowska|28|54-239|Wrocław
+3768|Wrocław|Gornickiego|37a|50-337|Wroclaw
+3769|Wrocław|KOMINIARSKA|42B|51-180|WROCŁAW
+3770|Wrocław|BOROWSKA|101|50-551|WROCŁAW
+3771|Wrocław|Borowska|101|50-551|Wrocław
+3772|Wrocław|BOROWSKA|101|50-551|WROCLAW
+3773|Wrocław|Pl. Grunwaldzki|3b|50-377|Wrocław
+3774|Wrocław|Plac Grunwaldzki|3B|50-377|Wrocław
+3775|Wrocław|Pl. Grunwaldzki|3b|50-377|Wrocław
+3776|Wrocław|Plac Grunwaldzki|3 b|50-377|Wrocław
+3777|Wrocław|Kielecka|51a|54-029|Wrocław
+3778|Wrocław|Kielecka|51|54-029|Wrocław
+3779|Wrocław|Kielecka|51a|54-029|Wrocław
+3780|Wrocław|Kielecka|51a|54-029|Wrocław
+3781|Wrocław|Wałbrzyska|50|52-314|Wrocław
+3782|Wrocław|Wałbrzyska|50|52-314|Wrocław
+3783|Wrocław|Trzemeska|2|53-679|Wrocław
+3784|Wrocław|JEMIOŁOWA|46/48|53-426|WROCŁAW
+3785|Wrocław|Kamienna|86|50-547|Wrocław
+3786|Wrocław|J. W. Dawida|1A|50-527|Wrocław
+3787|Wrocław|Swobodna|73a|50-089|Wrocław
+3788|Wrocław|Damrota|51/5|50-306|Wrocław
+3789|Wrocław|Generała Karola Kniaziewicza|22/3|50-455|Wrocław
+3790|Wrocław|Swobodna|8a|50-088|Wrocław
+3791|Wrocław|Wagonowa|1|53-609|Wrocław
+3792|Wrocław|al.Wiśniowa|81|53-126|Wrocław
+3793|Wrocław|Kasztanowa|9|53-125|Wrocław
+3794|Wrocław|Ruska|18/42|50-079|Wrocław
+3795|Wrocław|KOZANOWSKA|105/24|54-152|WROCŁAW
+3796|Wrocław|Kamienna|99|50-547|Wrocław
+3797|Wrocław|ORZECHOWA|22|50-540|WROCŁAW
+3798|Wrocław|Buforowa|4e|52-131|Wrocław
+3799|Wrocław|Ostrowskiego|30b|53-238|Wrocław
+3800|Wrocław|Piłsudskiego|74/309b|50-020|Wrocław
+3801|Wrocław|Wołowska|6|51-116|Wrocław
+3802|Wrocław|Kolejowa|36|53-508|Wrocław
+3803|Wrocław|Kiełczowska|68A|51-315|Wrocław
+3804|Wrocław|WOJROWICKA|58|54-436|WROCŁAW
+3805|Wrocław|pl. św. Macieja|5/12|50-244|Wrocław
+3806|Wrocław|Uniwersytecka|1|50-145|Wrocław
+3807|Wrocław|S.Worcella|25-27|50-448|Wrocław
+3808|Strzelin|Grahama Bella|3A|57-100|Strzelin
+3809|Świdnica|Pionierów Ziemi Świdnickiej|30|58-100|Świdnica
+3810|Jelenia Góra|1Maja|43|58-500|Jelenia Góra
+3811|Legnica|Św. Piotra|12|59-220|Legnica
+3812|Wałbrzych|Wrocławska|10c|58-309|Wałbrzych
+3813|Wrocław|PRZESTRZENNA|27/7|50-534|WROCŁAW
+3814|Wrocław|Wincentego Stysia|16A|53-526|Wrocław
+3815|Wrocław|Pawia|40c/4|52-235|Wrocław
+3816|Wrocław|plac świętego Macieja|21/2a|50-244|Wrocław
+3817|Wrocław|Bulwar Ikara|10|54-130|WROCŁAW
+3818|Wrocław|SIEMIEŃSKIEGO|17/5|50-228|WROCŁAW
+3819|Wrocław|Zielińskiego|38|53-534|Wrocław
+3820|Wrocław|Trzebnicka|42|50-230|Wrocław
+3821|Wrocław|Jana Ursyna Niemcewicza|2|50-238|Wrocław
+3822|Wrocław|BUFOROWA|2|52-131|WROCŁAW
+3823|Wrocław|Fabryczna|10|53-609|Wrocław
+3824|Wrocław|Zagłębiowska|8|52-007|Wrocław
+3825|Wrocław|Kurzy Targ|5|50-103|Wrocław
+3826|Wrocław|Nowowiejska|38|50-315|Wrocław
+3827|Wrocław|Plac Bema|2|54-265|Wrocław
+3828|Wrocław|Rynek|42-43/8|50-116|Wrocław
+3829|Wrocław|Jedności Narodowej|46a|50-258|Wrocław
+3830|Wrocław|Kolejowa|36|53-508|Wrocław
+3831|Wrocław|Wiśniowa|81|53-126|Wrocław
+3832|Wrocław|Pl. Orląt Lwowskich|2A|53-605|Wrocław
+3833|Wrocław|Szkocka|87/29|54-402|Wrocław
+3834|Wrocław|Leszczyńskiego|3|50-078|Wrocław
+3835|Wrocław|Kraińskiego|1|50-153|Wrocław
+3836|Wrocław|Wagonowa|1|53-609|Wrocław
+3837|Wrocław|Drobnera|32|50-257|Wrocław
+3838|Wrocław|Bulwar Ikara|19|54-130|Wrocław
+3839|Wrocław|Ślężna|118|53-111|WROCŁAW
+3840|Wrocław|Rybnicka|23|52-016|Wrocław -Krzyki
+3841|Wrocław|Rynek|25|50-101|WROCŁAW
+3842|Wrocław|Biskupia|10A|50-148|Wrocław
+3843|Wrocław|WIŚNIOWA|81|53-126|WROCŁAW
+3844|Wrocław|Braniborska|2/10|53-680|Wrocław
+3845|Wrocław|Kruszwicka|8a|53-652|Wrocław
+3846|Wrocław|Studzienna|15/8|53-304|Wrocław-Krzyki
+3847|Wrocław|WOJROWICKA|58|54-436|WROCŁAW
+3848|Wrocław|Szczytnicka|33|50-382|Wrocław
+3849|Wrocław|plac Orląt Lwowskich|20E|53-605|Wrocław
+3850|Wrocław|Plac Św.Macieja|7A|50-244|Wrocław
+3851|Wrocław|Kruszwicka|8A|53-652|Wrocław
+3852|Wrocław|Gubińska|1|54-433|Wrocław
+3853|Wrocław|Wojrowicka|58|54-436|Wrocław
+3854|Wrocław|Wagonowa|12|53-609|Wrocław
+3855|Wrocław|Swobodna|8a|50-088|Wrocław
+3856|Wrocław|Jedności Narodowej|46a|50-258|Wrocław
+3857|Wrocław|Oławska|4|50-123|Wrocław
+3858|Wrocław|Piłsudskiego|74|50-020|Wrocław
+3859|Wrocław|Krakowska|56-62|50-425|Wrocław
+3860|Wrocław|Kłodnicka|2|54-218|Wrocław
+3861|Wrocław|Krupnicza|2/4|50-075|Wrocław
+3862|Wrocław|Pałucka|55|54-152|Wrocław
+3863|Wrocław|STAWOWA|24|50-018|WROCŁAW
+3864|Wrocław|Paulińska|14|50-247|Wrocław
+3865|Wrocław|Ruska|51B|50-079|Wrocław
+3866|Wrocław|Fiołkowa|38|53-239|WROCŁAW
+3867|Wrocław|pl.Wolności|11|50-055|Wrocław
+3868|Wrocław|Uniwersytecka|1|50-145|Wrocław
+3869|Wrocław|Kaszubska|8|50-214|Wrocław
+3870|Wrocław|Buforowa|2|52-131|Wrocław
+3871|Wrocław|Św. Mikołaja|29/30|50-079|Wrocław 3
+3872|Wrocław|gen.Józefa Bema|7-9/1A|50-265|Wrocław
+3873|Wrocław|Komandorska|80A/1|53-345|Wrocław
+3874|Wrocław|Piotra Skargi|23|50-082|Wrocław
+3875|Wrocław|Bulwar Ikara|10|54-130|Wrocław
+3876|Wrocław|Krakowska|36/38|50-425|Wrocław
+3877|Wrocław|Ruska|51B/309|50-079|Wrocław
+3878|Wrocław|Ignuta|28|54-152|Wrocław
+3879|Wrocław|Pl. Strzelecki|17|50-224|Wrocław
+3880|Wrocław|Sarbinowska|19-21|54-317|Wrocław
+3881|Wrocław|Kleczkowska|2|50-227|Wrocław
+3882|Wrocław|pl.Strzelecki 17|2|50-224|Wrocław
+3883|Wrocław|Traugutta|37|50-416|Wrocław
+3884|Wrocław|pl. Legionów|3-4|50-047|Wrocław
+3885|Wrocław|pl. Legionów|3-4|50-047|Wrocław
+3886|Wrocław|Azaliowa|20|51-252|Wrocław
+3887|Wrocław|Traugutta|60/2|50-418|Wrocław
+3888|Wrocław|Iławska|56|54-109|Wrocław
+3889|Wrocław|Lubelska|106|54-101|Wrocław
+3890|Wrocław|Poleska|11-15/8a|51-354|Wrocław
+3891|Wrocław|Legnicka|55/U3|54-203|Wrocław
+3892|Wrocław|bulwar Ikara|28A|54-130|Wrocław
+3893|Wrocław|Rezedowa|50|54-515|Wrocław
+3894|Wrocław|Ełcka|31|51-427|Wrocław
+3895|Wrocław|Jaworowa|39|53-122|Wrocław
+3896|Wrocław|Wietrzna|49|53-024|Wrocław
+3897|Wrocław|Sudecka|100|53-129|Wrocław
+3898|Wrocław|Augustowska|31|54-112|Wrocław
+3899|Wrocław|Końska|6|53-010|Wrocław
+3900|Wrocław|Czekoladowa|51|52-326|Wrocław
+3901|Wrocław|CIEŚLIKOWSKIEGO|3|54-622|WROCŁAW
+3902|Wrocław|Dziwnowska|2|54-314|Wrocław
+3903|Wrocław|Stawowa|23|50-018|Wrocław
+3904|Wrocław|F. Skarbka|3|52-413|Wrocław
+3905|Wrocław|Rakowiecka|45|50-422|Wrocław
+3906|Wrocław|Mokronoska|2a|52-407|Wrocław
+3907|Wrocław|Orkana|15|51-153|Wrocław
+3908|Wrocław|Stolarska|2|53-205|Wrocław
+3909|Wrocław|Trawowa|34|54-614|Wrocław
+3910|Wrocław|Strońska|27 A-B|50-540|Wrocław
+3911|Wrocław|Strońska|27 A-B|50-540|Wrocław
+3912|Wrocław|KOMINIARSKA|42B|51-180|WROCŁAW
+3913|Wrocław|Leszczyńskiego|4|50-078|Wrocław
+3914|Wrocław|Pilczycka|25|54-151|Wrocław
+3915|Wrocław|Zwiadowców|17|52-207|Wrocław
+3916|Wrocław|Sojowa|3|52-210|Wrocław
+3917|Wrocław|Sygnałowa|22A|52-130|Wrocław
+3918|Wrocław|Piechoty|1b|52-213|Wrocław
+3919|Wrocław|BUDZISZYŃSKA|37/1A|45-434|WROCŁAW
+3920|Wrocław|Vivaldiego|34|52-129|Wrocław
+3921|Wrocław|Irkucka|11|51-210|Wrocław
+3922|Wrocław|WIEDEŃSKA|5|51-200|WROCŁAW
+3923|Wrocław|Tęczowa|3a|53-601|Wrocław
+3924|Wrocław|Tarnogajska|18|50-512|Wrocław
+3925|Wrocław|Borówczana|62|53-029|Wrocław
+3926|Wrocław|Gimnazjalna|2|51-170|Wrocław
+3927|Wrocław|Lądecka|14|50-559|Wrocław
+3928|Wrocław|Berenta|45|51-152|Wrocław
+3929|Wrocław|Powstańców Śląskich 96|2|53-333|Wrocław
+3930|Wrocław|Rodakowskiego|13|51-637|Wrocław 12
+3931|Wrocław|Kryniczna|37|52-213|Wrocław
+3932|Wrocław|Przejazdowa|3|51-167|Wrocław
+3933|Wrocław|Sudecka|143b|53-128|Wrocław
+3934|Wrocław|Kawalerzystów|9/3|53-004|Wrocław
+3935|Wrocław|GORLICKA|64/4u|51-314|WROCŁAW
+3936|Wrocław|Kutrzeby|51|52-213|Wrocław
+3937|Wrocław|Traktorowa|16|52-213|Wrocław
+3938|Wrocław|Strońska|11|50-540|Wrocław
+3939|Wrocław|Pionierów|9 lok. 1|52-113|Wrocław
+3940|Wrocław|Pawia|9|52-235|Wrocław
+3941|Wrocław|Bardzka|2/4|50-517|Wrocław
+3942|Wrocław|Błotna|2a|51-521|Wrocław
+3943|Wrocław|Ołtaszyńska|10|53-010|Wrocław
+3944|Wrocław|Kawalerzystów|9|53-004|Wrocław
+3945|Wrocław|Jarzynowa|27|52-214|Wrocław
+3946|Wrocław|Gen. Stanisława Maczka|9/2|52-210|Wrocław
+3947|Wrocław|Zwycięska|36/1|53-033|Wrocław
+3948|Wrocław|Trawowa|41/1|54-614|wrocław
+3949|Wrocław|Połabian|19|52-339|Wrocław
+3950|Wrocław|Tęczowa|78/1C-1D|53-603|Wrocław
+3951|Wrocław|Tęczowa|78/1A|53-603|Wrocław
+3952|Wrocław|Poświęcka|17/37|51-126|Wrocław
+3953|Wrocław|Kamieńskiego|247|51-180|Wrocław
+3954|Wrocław|Kamieńskiego|247|51-180|Wrocław
+3955|Wrocław|Bajana|15/6|54-129|Wrocław
+3956|Wrocław|Małopolska|5|54-032|Wrocław
+3957|Wrocław|Braniborska|57|53-680|Wrocław
+3958|Wrocław|Braniborska|57|53-680|Wrocław
+3959|Wrocław|Braniborska|57|53-680|Wrocław
+3960|Wrocław|Kiełczowska|43|51-315|Wrocław
+3961|Wrocław|Kiełczowska|43|51-315|Wrocław
+3962|Wrocław|Kiełczowska|43|51-315|Wrocław
+3963|Wrocław|Kiełczowska|43|51-315|Wrocław
+3964|Wrocław|Kiełczowska|43|51-315|Wroclaw
+3965|Wrocław|Piłsudskiego|25|50-044|Wrcław
+3966|Wrocław|Piłsudskiego|25|50-044|Wrcław
+3967|Wrocław|Piłsudskiego|25|50-044|Wrcław
+3968|Wrocław|T. Kościuszki|131|50-440|Wrocław
+3969|Wrocław|T. Kościuszki|131|50-440|Wrocław
+3970|Wrocław|T. Kościuszki|131|50-440|Wrocław
+3971|Wrocław|Wałbrzyska|50|54-151|Wrocław
+3972|Wrocław|Wałbrzyska|50|54-151|Wrocław
+3973|Wrocław|Głogowska|30|53-621|Wrocław
+3974|Wrocław|Głogowska|30|53-621|Wrocław
+3975|Wrocław|Głogowska|30|53-621|Wrocław
+3976|Wrocław|Głogowska|30|53-621|Wrocław
+3977|Wrocław|Głogowska|30|53-621|Wrocław
+3978|Wrocław|BOROWSKA|101|50-551|WROCŁAW
+3979|Wrocław|BOROWSKA|101|50-551|WROCŁAW
+3980|Wrocław|Stanisławowska|38-44|54-611|Wrocław
+3981|Wrocław|Stanisławowska|38-44|54-611|Wrocław
+3982|Wrocław|Stanisławowska|38-44|54-611|Wrocław
+3983|Wrocław|HORBACZEWSKIEGO|61|54-130|WROCŁAW
+3984|Wrocław|HORBACZEWSKIEGO|61|54-130|WROCŁAW
+3985|Wrocław|HORBACZEWSKIEGO|61|54-130|WROCŁAW
+3986|Wrocław|Gałczyńskiego|8|52-214|Wrocław
+3987|Wrocław|Gałczyńskiego|8|52-214|Wrocław
+3988|Wrocław|Gałczyńskiego|8|52-214|Wrocław
+3989|Wrocław|Rumiankowa|34|54-512|Wrocław
+3990|Wrocław|Rumiankowa|34|54-512|Wrocław
+3991|Wrocław|Rumiankowa|34|54-512|Wrocław
+3992|Wrocław|Osobowicka|127|51-004|Wrocław
+3993|Wrocław|Osobowicka|127|51-004|Wrocław
+3994|Wrocław|Osobowicka|127|51-004|Wrocław
+3995|Wrocław|Ludwika Solskiego|13|52-401|Wrocław
+3996|Wrocław|Ludwika Solskiego|13|52-401|Wrocław
+3997|Wrocław|Ludwika Solskiego|13|52-401|Wrocław
+3998|Wrocław|Wietrzna|50|53-024|Wrocław
+3999|Wrocław|Wietrzna|50|53-024|Wrocław
+4000|Wrocław|Wietrzna|50|53-024|Wrocław
+4001|Wrocław|ZEMSKA|16C|54-438|WROCŁAW
+4002|Wrocław|ZEMSKA|16C|54-438|WROCŁAW
+4003|Wrocław|ZEMSKA|16C|54-438|WROCŁAW
+4004|Wrocław|Strachocińska|155-157|51-518|Wroclaw
+4005|Wrocław|Strachocińska|155-157|51-518|Wroclaw
+4006|Wrocław|Strachocińska|155-157|51-518|Wroclaw
+4007|Wrocław|Suwalska|5|54-104|Wrocław
+4008|Wrocław|Suwalska|5|54-104|Wrocław
+4009|Wrocław|Suwalska|5|54-104|Wrocław
+4010|Wrocław|pl.Muzealny|20|50-035|Wocław
+4011|Wrocław|pl.Muzealny|13 a|50-035|Wocław
+4012|Wrocław|pl.Muzealny|20|50-035|Wocław
+4013|Wrocław|Częstochowska|42|54-031|Wrocław
+4014|Wrocław|Częstochowska|42|54-031|Wrocław
+4015|Wrocław|Częstochowska|42|54-031|Wrocław
+4016|Wrocław|Wieczysta|105|50-550|Wrocław
+4017|Wrocław|Wieczysta|105|50-550|Wrocław
+4018|Wrocław|Wieczysta|105|50-550|Wrocław
+4019|Wrocław|Pozańska|26|53-630|Wrocław
+4020|Wrocław|Pozańska|24|53-631|Wrocław
+4021|Wrocław|Pozańska|26|53-630|Wrocław
+4022|Wrocław|Januszowicka|35-37|53-135|Wrocław
+4023|Wrocław|Januszowicka|35-37|53-135|Wrocław
+4024|Wrocław|Januszowicka|35-37|53-135|Wrocław
+4025|Wrocław|Inflancka|13|51-354|Wrocław
+4026|Wrocław|Inflancka|13|51-354|Wrocław
+4027|Wrocław|Inflancka|13|51-354|Wrocław
+4028|Wrocław|Sołtysowicka|34|51-168|Wrocław
+4029|Wrocław|Sołtysowicka|34|51-168|Wrocław
+4030|Wrocław|Sołtysowicka|34|51-168|Wrocław
+4031|Wrocław|Koszykarska|2-4|54-134|Wrocław
+4032|Wrocław|Koszykarska|2-4|54-134|Wrocław
+4033|Wrocław|Koszykarska|2-4|54-134|Wrocław
+4034|Wrocław|Składowa|2-4|50-209|Wrocław
+4035|Wrocław|Składowa|2-4|50-209|Wrocław
+4036|Wrocław|Składowa|2-4|50-209|Wrocław
+4037|Wrocław|Wyb. Stanisława Wyspiańskiego|23-25|50-370|Wrocław-Śródmieście
+4038|Wrocław|Wyb. Stanisława Wyspiańskiego|23-25|50-370|Wrocław-Śródmieście
+4039|Wrocław|Wyb. Stanisława Wyspiańskiego|23-25|50-370|Wrocław-Śródmieście
+4040|Wrocław|GRABISZYŃSKA|236|53-235|Wrocław
+4041|Wrocław|Grabiszyńska|236|53-235|Wrocław
+4042|Wrocław|GRABISZYŃSKA|236|53-235|Wrocław
+4043|Wrocław|Worcella|3|50-448|Wrocław
+4044|Wrocław|Worcella|3|50-448|Wrocław
+4045|Wrocław|Worcella|3|50-448|Wrocław
+4046|Wrocław|Drukarska|50|53-312|Wrocław
+4047|Wrocław|Drukarska|50|53-312|Wrocław
+4048|Wrocław|Drukarska|50|53-312|Wrocław
+4049|Wrocław|Drukarska|50|53-312|Wrocław
+4050|Wrocław|Kamienna|86|50-547|Wrocław
+4051|Wrocław|Kamienna|86|50-547|Wrocław
+4052|Wrocław|Kamienna|86|50-547|Wrocław
+4053|Wrocław|Słubicka|29-33|53-615|Wrocław
+4054|Wrocław|Słubicka|29-33|53-615|Wrocław
+4055|Wrocław|Słubicka|29-33|53-615|Wrocław
+4056|Wrocław|Słubicka|29-33|53-615|Wrocław
+4057|Wrocław|Wilanowska|31|51-206|Wrocław
+4058|Wrocław|Wilanowska|31A|51-206|Wrocław
+4059|Wrocław|Wilanowska|31|51-206|Wrocław
+4060|Wrocław|Grochowa|36-38|53-424|Wrocław
+4061|Wrocław|Grochowa|36-38|53-424|Wrocław
+4062|Wrocław|Grochowa|36-38|53-424|Wrocław
+4063|Wrocław|Białowieska|74a|54-235|Wrocław
+4064|Wrocław|Białowieska|74a|54-235|Wrocław
+4065|Wrocław|Białowieska|74 A|54-234|Wrocław
+4066|Wrocław|Białowieska|74a|54-235|Wrocław
+4067|Wrocław|Wołowska|9|51-116|WROCŁAW
+4068|Wrocław|Wołowska|9|51-116|WROCŁAW
+4069|Wrocław|Wołowska|9|51-116|WROCŁAW
+4070|Wrocław|Brücknera|10|51-410|Wrocław
+4071|Wrocław|Brücknera|10|51-410|Wrocław
+4072|Wrocław|Brücknera|10|51-410|Wrocław
+4073|Wrocław|POŚWIĘCKA|8|51-128|WROCŁAW
+4074|Wrocław|POŚWIĘCKA|8|51-128|WROCŁAW
+4075|Wrocław|POŚWIĘCKA|8|51-128|WROCŁAW
+4076|Wrocław|POŚWIĘCKA|8|51-128|WROCŁAW
+4077|Wrocław|Młodych Techników|58|53-645|Wrocław
+4078|Wrocław|Młodych Techników|58|53-645|Wrocław
+4079|Wrocław|MŁODYCH TECHNIKÓW|58|53-645|WROCŁAW
+4080|Wrocław|Młodych Techników|58|53-645|Wrocław
+4081|Wrocław|Spółdzielcza|2a|51-662|Wrocław
+4082|Wrocław|Spółdzielcza|2a|51-662|Wrocław
+4083|Wrocław|Borowska|105|50-551|Wrocław
+4084|Wrocław|Borowska|105|50-551|Wrocław
+4085|Wrocław|Borowska|105|50-551|Wrocław
+4086|Wrocław|Kłodnicka|36|54-207|Wrocław
+4087|Wrocław|Kłodnicka|36|54-207|Wrocław
+4088|Wrocław|Kłodnicka|36|54-207|Wrocław
+4089|Wrocław|Kłodnicka|36|54-207|Wrocław
+4090|Wrocław|Piotra Ignuta|28|54-152|Wrocław
+4091|Wrocław|Piotra Ignuta|28|54-152|Wrocław
+4092|Wrocław|Piotra Ignuta|28|54-152|Wrocław
+4093|Wrocław|Piotra Ignuta|28|54-152|Wrocław
+4094|Wrocław|Parkowa|18-26|51-616|Wrocław
+4095|Wrocław|Parkowa|18-26|51-616|Wrocław
+4096|Wrocław|Parkowa|18-26|51-616|Wrocław
+4097|Wrocław|J. W. Dawida|9-11|50-527|Wrocław
+4098|Wrocław|J.Wł.Dawida|9-11|50-527|Wrocław
+4099|Wrocław|Dawida|9-11|50-527|Wrocław
+4100|Wrocław|Pawła Eluarda|51-55|54-019|Wrocław
+4101|Wrocław|Pawła Eluarda|51-55|54-019|Wrocław
+4102|Wrocław|Pawła Eluarda|51-55|54-019|Wrocław
+4103|Wrocław|Szkocka|64|54-402|Wrocław
+4104|Wrocław|Szkocka|64|54-402|Wrocław
+4105|Wrocław|Szkocka|64|54-402|Wrocław
+4106|Wrocław|Szkocka|64|54-402|Wrocław
+4107|Wrocław|Powstańców Śląskich|210-218|53-140|Wrocław
+4108|Wrocław|Powstańców Śląskich|210-218|53-140|Wrocław
+4109|Wrocław|POWSTAŃCOW ŚLĄSKICH|210/218|53-140|WROCŁAW
+4110|Wrocław|Powstańców Śląskich|210-218|53-140|Wrocław
+4111|Wrocław|Powstańców Śląskich|210/218|53-140|Wrocław
+4112|Wrocław|Haukego- Bosaka|33-37|50-447|Wrocław
+4113|Wrocław|Haukego- Bosaka|33-37|50-447|Wrocław
+4114|Wrocław|Haukego- Bosaka|33-37|50-447|Wrocław
+4115|Wrocław|Nowodworska|70-82|54-438|Wrocław
+4116|Wrocław|Nowodworska|70-82|54-438|Wrocław
+4117|Wrocław|Nowodworska|70-82|54-438|Wrocław
+4118|Wrocław|Nowodworska|70-82|54-438|Wrocław
+4119|Wrocław|Nowodworska|70-82|54-438|Wrocław
+4120|Wrocław|I.Pawłowa|15|53-604|Wrocław
+4121|Wrocław|I.Pawłowa|15|53-604|Wrocław
+4122|Wrocław|Prosta|16|53-509|Wrocław
+4123|Wrocław|Krajewskiego|1|51-690|Wrocław
+4124|Wrocław|Krajewskiego|1|51-690|Wrocław
+4125|Wrocław|Krajewskiego|1|51-690|Wrocław
+4126|Wrocław|Krajewskiego|1|51-690|Wrocław
+4127|Wrocław|ks. Piotra Skargi|31|50-082|Wrocław
+4128|Wrocław|ks. Piotra Skargi|31|50-082|Wrocław
+4129|Wrocław|ks. Piotra Skargi|31|50-082|Wrocław
+4130|Wrocław|ks. Piotra Skargi|31|50-082|Wrocław
+4131|Wrocław|Grochowa|13|53-523|Wrocław
+4132|Wrocław|Grochowa|13|53-523|Wrocław
+4133|Wrocław|Grochowa|13|53-523|Wrocław
+4134|Wrocław|Piotra Skargi|23|50-082|Wrocław
+4135|Wrocław|Piotra Skargi|23|50-082|Wrocław
+4136|Wrocław|Piotra Skargi|23|50-082|Wrocław
+4137|Wrocław|Trzebnicka|42|50-230|WROCŁAW
+4138|Wrocław|Trzebnicka|42|50-230|WROCŁAW
+4139|Wrocław|Trzebnicka|42|50-230|WROCŁAW
+4140|Wrocław|Gen. Józefa Haukego-Bosaka|21|50-447|Wrocław
+4141|Wrocław|Gen. Józefa Haukego-Bosaka|21|50-447|Wrocław
+4142|Wrocław|Gen. Józefa Haukego-Bosaka|21|50-447|Wrocław
+4143|Wrocław|Jana Władysława Dawida|5|50-527|Wrocław
+4144|Wrocław|Jana Władysława Dawida|5|50-527|Wrocław
+4145|Wrocław|Jana Władysława Dawida|5|50-527|Wrocław
+4146|Wrocław|Kruszwicka|8a|53-652|Wrocław
+4147|Wrocław|Kruszwicka|8a|53-652|Wrocław
+4148|Wrocław|Kruszwicka|8a|53-652|Wrocław
+4149|Wrocław|Kruszwicka|8a|53-652|Wrocław
+4150|Wrocław|Kruszwicka|8a|53-652|Wrocław
+4151|Wrocław|Kruszwicka|8a|53-652|Wrocław
+4152|Wrocław|Stanisława Przybyszewskiego|59|51-160|Wrocław
+4153|Wrocław|Stanisława Przybyszewskiego|59|51-160|Wrocław
+4154|Wrocław|Stanisława Przybyszewskiego|59|51-160|Wrocław
+4155|Wrocław|Wiśniowa|81|53-126|Wrocław
+4156|Wrocław|Wiśniowa|81|53-126|Wrocław
+4157|Wrocław|Wiśniowa|81|53-126|Wrocław
+4158|Wrocław|Stawowa|1a|50-015|Wrocław
+4159|Wrocław|Stawowa|1a|50-015|Wrocław
+4160|Wrocław|Stawowa|1a|50-015|Wrocław
+4161|Wrocław|Stawowa|1a|50-015|Wrocław
+4162|Wałbrzych|KASZTELAŃSKA|7|58-316|WAŁBRZYCH
+4163|Wałbrzych|Hirszfelda|15|58-309|Wałbrzych
+4164|Wałbrzych|Mączna|1A|58-300|Wałbrzych
+4165|Wałbrzych|11 listopada|62|58-302|wałbrzych
+4166|Wałbrzych|Uczniowska|16|58-306|Wabryzch
+4167|Wałbrzych|Obrońców Westerplatte|39|58-309|Wałbrzych
+4168|Wałbrzych|GRODZKA|71|58-316|WAŁBRZYCH
+4169|Wałbrzych|Hetmańska|5|58-314|Wałbrzych
+4170|Wałbrzych|Zofii Nałkowskiej|2|58-309|Wałbrzych
+4171|Wałbrzych|Bogusławskiego|2|58-301|Wałbrzych
+4172|Wałbrzych|Wrocławska|169|58-306|Wałbrzych
+4173|Wałbrzych|Mickiewicza|17A|58-300|Wałbrzych
+4174|Wałbrzych|Kuracyjna|5|58-302|Wałbrzych
+4175|Wałbrzych|NIEPODLEGŁOŚCI|90|58-303|WAŁBRZYCH
+4176|Wałbrzych|ALEJA WYZWOLENIA|36|58-300|WAŁBRZYCH
+4177|Wałbrzych|Grodzka|13|58-314|Wałbrzych
+4178|Wałbrzych|Ratuszowa|5|58-304|Wałbrzych
+4179|Wałbrzych|KASZTELAŃSKA|3|58-316|WAŁBRZYCH
+4180|Wałbrzych|KSAWERWEGO DUNIKOWSKIEGO|13A|58-309|WAŁBRZYCH
+4181|Wałbrzych|II ARMII|4|58-305|WAŁBRZYCH
+4182|Wałbrzych|WYSPIAŃSKIEGO|1|58-300|WAŁBRZYCH
+4183|Wałbrzych|WROCŁAWSKA|95|58-306|WAŁBRZYCH
+4184|Wałbrzych|Andersa|171|58-304|Wałbrzych
+4185|Wałbrzych|11 - LISTOPADA|59|58-302|WAŁBRZYCH
+4186|Wałbrzych|Ireny Grabowskiej|59A|58-304|Wałbrzych
+4187|Wałbrzych|Tytusa Chałubińskiego|13|58-302|Wałbrzych
+4188|Wałbrzych|Hirszfelda|1|58-309|Wałbrzych
+4189|Wałbrzych|1 MAJA|105|58-305|WAŁBRZYCH
+4190|Wałbrzych|WAŃKOWICZA|13|58-304|WAŁBRZYCH
+4191|Wałbrzych|Grodzka|71|58-316|Wałbrzych
+4192|Wałbrzych|Andrzeja Struga|3|58-301|Wałbrzych
+4193|Wałbrzych|Wyzwolenia|43|58-300|Wałbrzych
+4194|Wałbrzych|Dunikowskiego|39|58-309|Wałbrzych
+4195|Wałbrzych|Poznańska|8|58-303|Wałbrzych
+4196|Wałbrzych|Andersa|50|58-304|Wałbrzych
+4197|Wałbrzych|Ogrodowa|5a|58-306|Wałbrzych
+4198|Wałbrzych|Obrońców Westerplatte|39|58-309|Wałbrzych
+4199|Wałbrzych|Mickiewicza|17a|58-300|Wałbrzych
+4200|Wałbrzych|Limanowskiego|12|58-300|Wałbrzych
+4201|Wałbrzych|Główna|2|58-309|Wałbrzych
+4202|Wałbrzych|Grodzka|71|58-316|Wałbrzych
+4203|Wałbrzych|Ogrodowa|5a|58-306|Wałbrzych
+4204|Wałbrzych|pl. Marceliny Daroweskiej|1|58-305|Wałbrzych
+4205|Wałbrzych|Al. Wyzwolenia|5|58-300|Wałbrzych
+4206|Wałbrzych|Osiedle Górnicze|29|58-308|Wałbrzych
+4207|Wałbrzych|Rynek|20|58-300|Wałbrzych
+4208|Wałbrzych|Matejki|6|58-300|Wałbrzych
+4209|Wałbrzych|Wyzwolenia|5|58-300|wałbrzych
+4210|Wałbrzych|Sokołowskiego|75|58-309|Wałbrzych
+4211|Wałbrzych|plac Marceliny Darowskiej|1|58-305|Wałbrzych
+4212|Wałbrzych|Malczew3skiego|22|58-309|Wałbrzych
+4213|Wałbrzych|Rynek|20|58-300|Wałbrzych
+4214|Wałbrzych|Matejki|6|58-300|Wałbrzych
+4215|Wałbrzych|Matejki|6|58-300|Wałbrzych
+4216|Wałbrzych|Słowackiego|7|58-300|WAŁBRZYCH
+4217|Wałbrzych|Sokołowskiego|75|58-309|Wałbrzych
+4218|Wałbrzych|Słowackiego|7|58-300|Wałbrzych
+4219|Wałbrzych|Słowackiego|7|58-300|WAŁBRZYCH
+4220|Wałbrzych|Rynek|20|58-300|Wałbrzych
+4221|Wałbrzych|Ogrodowa|2 a|58-306|Wałbrzych
+4222|Wałbrzych|Ogrodowa|2 a|58-306|Wałbrzych
+4223|Wałbrzych|Ogrodowa|2 a|58-306|Wałbrzych
+4224|Wałbrzych|Ogrodowa|2a|38-306|Wałbrzych
+4225|Wałbrzych|Szmidta|4a|58-300|Wałbrzych1
+4226|Wałbrzych|Matejki|7|58-300|Wałbrzych
+4227|Wałbrzych|Szmidta|2/8|58-300|Wałbrzych
+4228|Wałbrzych|B.Chrobrego|23|58-300|Wałbrzych
+4229|Wałbrzych|Pogodna|8|58-306|Wałbrzych
+4230|Wałbrzych|Strzegomska|20|58-308|Wałbrzych
+4231|Wałbrzych|Strzegomska|20|58-308|Wałbrzych
+4232|Wałbrzych|STRZEGOMSKA|20|58-308|WAŁBRZYCH
+4233|Wałbrzych|Orkana|55|58-307|Wałbrzych
+4234|Wałbrzych|Orkana|55|58-307|Wałbrzych
+4235|Wałbrzych|Orkana|55|58-307|Wałbrzych
+4236|Wałbrzych|Armii Krajowej|35B|58-302|Wałbrzych
+4237|Wałbrzych|BRONIEWSKIEGO|1B|58-309|WAŁBRZYCH
+4238|Wałbrzych|Broniewskiego|1b|58-309|Wałbrzych
+4239|Wałbrzych|Rynek|20|58-300|Wałbrzych
+4240|Wałbrzych|LUDOWA|1C|58-304|WAŁBRZYCH
+4241|Wałbrzych|Wańkowicza|7|58-304|Wałbrzych
+4242|Wałbrzych|Jodłowa|13|58-307|Wałbrzych
+4243|Wałbrzych|Wrocławska|53|58-309|Wałbrzych
+4244|Wałbrzych|Słowackiego|7|58-300|Wałbrzych
+4245|Wałbrzych|Adama Mickiewicza|53/2|58-300|WAŁBRZYCH
+4246|Wałbrzych|Pl. Skarżyńskiego|1|58-301|Wałbrzych
+4247|Wałbrzych|Rynek|20|58-300|Wałbrzych
+4248|Wałbrzych|Broniewskiego|1b|58-309|Wałbrzych
+4249|Wałbrzych|Królewiecka|9|58-300|Wałbrzych
+4250|Wałbrzych|OSIEDLE GÓRNICZE|42|58-308|WAŁBRZYCH
+4251|Wałbrzych|11 LISTOPADA|75|58-302|WAŁBRZYCH
+4252|Wałbrzych|11 LISTOPADA|75|58-302|WAŁBRZYCH
+4253|Wałbrzych|11 LISTOPADA|75|58-302|WAŁBRZYCH
+4254|Wałbrzych|Królewiecka|7|58-300|Wałbrzych
+4255|Wałbrzych|Królewiecka|7|58-300|Wałbrzych
+4256|Wałbrzych|Królewiecka|7|58-300|Wałbrzych
+4257|Wałbrzych|Piętnastolecia|24|58-309|Wałbrzych
+4258|Wałbrzych|Piętnastolecia|24|58-309|Wałbrzych
+4259|Wałbrzych|Piętnastolecia|24|58-309|Wałbrzych
+4260|Wałbrzych|Piętnastolecia|24|58-309|Wałbrzych
+4261|Wałbrzych|Moniuszki|41|58-300|Wałbrzych
+4262|Wałbrzych|Paderewskiego|17|58-301|Wałbrzych
+4263|Wałbrzych|Paderewskiego|17|58-301|Wałbrzych
+4264|Wałbrzych|Paderewskiego|17|58-301|Wałbrzych
+4265|Wałbrzych|Aleja Wyzwolenia|34|58-300|Wałbrzych
+4266|Wałbrzych|Aleja Wyzwolenia|34|58-300|Wałbrzych
+4267|Wałbrzych|Aleja Wyzwolenia|34|58-300|Wałbrzych
+4268|Wałbrzych|Jordana|4|58-305|Wałbrzych
+4269|Wałbrzych|Jordana|4|58-305|Wałbrzych
+4270|Wałbrzych|Jordana|4|58-305|Wałbrzych
+4271|Wałbrzych|Sokołowskiego|75|58-309|Wałbrzych
+4272|Wałbrzych|Sokołowskiego|75|58-309|Wałbrzych
+4273|Wałbrzych|Sokołowskiego|75|58-309|Wałbrzych
+4274|Wałbrzych|Sokołowskiego|75|58-309|Wałbrzych
+4275|Wałbrzych|Ogrodowa|2 a|58-306|Wałbrzych
+4276|Wałbrzych|Ogrodowa|2 a|58-306|Wałbrzych
+4277|Wałbrzych|Ogrodowa|2a|58-306|Wałbrzych
+4278|Wałbrzych|Ogrodowa|2a|58-306|Wałbrzych
+4279|Wałbrzych|Ogrodowa|2 a|58-306|Wałbrzych
+4280|Wałbrzych|Ogrodowa|2A|58-306|Wałbrzych
+4281|Wałbrzych|KŁODZKA|29|58-308|WAŁBRZYCH
+4282|Wałbrzych|KŁODZKA|29|58-308|WAŁBRZYCH
+4283|Wałbrzych|KŁODZKA|29|58-308|WAŁBRZYCH
+4284|Wałbrzych|KŁODZKA|29|58-308|WAŁBRZYCH
+4285|Wałbrzych|KŁODZKA|29|58-308|WAŁBRZYCH
+4286|Wałbrzych|Al. Wyzwolenia|5|58-300|Wałbrzych
+4287|Wałbrzych|Aleja Wyzwolenia|5|58-300|Wałbrzych
+4288|Wałbrzych|Al. Wyzwolenia|5|58-300|Wałbrzych
+4289|Wałbrzych|Al. Wyzwolenia|5|58-300|Wałbrzych
+4290|Wałbrzych|Batorego|4|58-300|Wałbrzych
+4291|Wałbrzych|Batorego|4|58-300|Wałbrzych
+4292|Wałbrzych|Batorego|4|58-300|Wałbrzych
+4293|Wałbrzych|Batorego|4|58-300|Wałbrzych
+4294|Wałbrzych|Palisadowa|48|58-314|Wałbrzych
+4295|Wałbrzych|Palisadowa|48|58-314|Wałbrzych
+4296|Wałbrzych|Palisadowa|48|58-314|Wałbrzych
+4297|Wałbrzych|Plac Bohaterów Pracy|1|58-300|Wałbrzych
+4298|Wałbrzych|Plac Bohaterów Pracy|1|58-300|Wałbrzych
+4299|Wałbrzych|Plac Bohaterów Pracy|1|58-300|Wałbrzych
+4300|Wałbrzych|Armii Krajowej|35B|58-302|Wałbrzych
+4301|Wałbrzych|Armii Krajowej|35B|58-302|Wałbrzych
+4302|Wałbrzych|Armii Krajowej|35B|58-302|Wałbrzych
+4303|Wałbrzych|Armii Krajowej|35A|58-302|Wałbrzych
+4304|Wałbrzych|Malczewskiego|22|58-309|Wałbrzych
+4305|Wałbrzych|Malczewskiego|22|58-309|Wałbrzych
+4306|Wałbrzych|Malczewskiego|22|58-309|Wałbrzych
