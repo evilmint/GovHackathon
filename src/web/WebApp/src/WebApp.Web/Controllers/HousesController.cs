@@ -66,21 +66,38 @@ namespace WebApp.Web.Controllers
             {
                 string[] parts = parameter.Split(':');
                 string type = parts[0];
-                double wage = Convert.ToDouble(parts[1]);
+                double value = Convert.ToDouble(parts[1]);
+
+                if (type == "minprice")
+                {
+                    houseSummaries = houseSummaries.Where(x => x.House.Price >= value).ToList();
+                }
+                else if (type == "maxprice")
+                {
+                    houseSummaries = houseSummaries.Where(x => x.House.Price <= value).ToList();
+                }
+                else if (type == "minarea")
+                {
+                    houseSummaries = houseSummaries.Where(x => x.House.Area >= value).ToList();
+                }
+                else if (type == "maxarea")
+                {
+                    houseSummaries = houseSummaries.Where(x => x.House.Area <= value).ToList();
+                }
 
                 foreach (HouseSummary houseSummary in houseSummaries)
                 {
                     Metric metric = houseSummary.Metrics.Where(x => x.Type == type).FirstOrDefault();
                     if (type == "relic")
                     { //to zagęszczenie więc odwrotnie proporcjonalne
-                        houseSummary.Score += metric.Value * (1 / wage);
-                        houseSummary.House.Score += metric.Value * (1 / wage);
+                        houseSummary.Score += metric.Value * (1 / value);
+                        houseSummary.House.Score += metric.Value * (1 / value);
 
                     }
                     else
                     {
-                        houseSummary.Score += metric.Value * wage;
-                        houseSummary.House.Score += metric.Value * wage;
+                        houseSummary.Score += metric.Value * value;
+                        houseSummary.House.Score += metric.Value * value;
                     }
                 }
             }
