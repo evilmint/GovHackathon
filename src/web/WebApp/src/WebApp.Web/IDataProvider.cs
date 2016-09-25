@@ -6,6 +6,6 @@ namespace WebApp.Web.Services
     {
         string Name { get; }
 
-        Dictionary<string, object> Get(double latitude, double longitude);
+        Dictionary<string, object> GetSummary(double latitude, double longitude);
     }
 }

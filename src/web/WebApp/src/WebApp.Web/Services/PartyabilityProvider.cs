@@ -17,7 +17,7 @@ namespace WebApp.Web.Services
 
         public string Name => "partyability";
 
-        public Dictionary<string, object> Get(double latitude, double longitude)
+        public Dictionary<string, object> GetSummary(double latitude, double longitude)
         {
             var closestPartyability = _dbContext.Partyabilities
                 .OrderBy(p => (p.Latitude - latitude) * (p.Latitude - latitude) + (p.Longitude - longitude) * (p.Longitude - longitude))
@@ -46,7 +46,7 @@ namespace WebApp.Web.Services
             var resultPartyabilities = dupa.Select(dup => partyabilities.SingleOrDefault(p => p.Month == dup) ?? new Partyability { Latitude = closestPartyability.Latitude, Longitude = closestPartyability.Longitude, Month = dup, Value = 0 });
 
             var result = new Dictionary<string, object>();
-            result["PARTYYYY"] = resultPartyabilities;
+            result["partyability"] = resultPartyabilities;
 
             return result;
         }
