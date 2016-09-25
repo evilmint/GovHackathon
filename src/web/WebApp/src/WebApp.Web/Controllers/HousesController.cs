@@ -29,6 +29,23 @@ namespace WebApp.Web.Controllers
                     {
                         //TODO calculate metric for partyability
                         //average from all months?
+
+                        var metric = new Metric();
+
+                        metric.Value = context.Partyabilities
+                        .OrderBy(p => (p.Latitude - house.Latitude) * (p.Latitude - house.Latitude) + (p.Longitude - house.Longitude) * (p.Longitude - house.Longitude)).Average(x => x.Value);
+                        metric.Value /= 8;
+
+                        metric.Type = dataProvider.Name;
+
+                        houseSummary.Metrics.Add(metric);
+
+
+                        //var dataProviderResult = dataProvider.GetSummary(house.Latitude, house.Longitude);
+                        //var Metric = new Metric();
+                        //Metric.Type = dataProvider.Name;
+                        //Metric.Value = (double)(((Partyability[])dataProviderResult.FirstOrDefault().Value).ToList().Average(x => x.Value));
+                        //houseSummary.Metrics.Add(Metric);
                     }
                     else if (dataProvider.Name == "relic") //zagęszczenie bo odległość do najbliższego zabytku nie ma sensu więc biorę radius, im mniejszy tym większe zagęszczenie
                     {
@@ -66,21 +83,38 @@ namespace WebApp.Web.Controllers
             {
                 string[] parts = parameter.Split(':');
                 string type = parts[0];
-                double wage = Convert.ToDouble(parts[1]);
+                double value = Convert.ToDouble(parts[1]);
+
+                if (type == "minprice")
+                {
+                    houseSummaries = houseSummaries.Where(x => x.House.Price >= value).ToList();
+                }
+                else if (type == "maxprice")
+                {
+                    houseSummaries = houseSummaries.Where(x => x.House.Price <= value).ToList();
+                }
+                else if (type == "minarea")
+                {
+                    houseSummaries = houseSummaries.Where(x => x.House.Area >= value).ToList();
+                }
+                else if (type == "maxarea")
+                {
+                    houseSummaries = houseSummaries.Where(x => x.House.Area <= value).ToList();
+                }
 
                 foreach (HouseSummary houseSummary in houseSummaries)
                 {
                     Metric metric = houseSummary.Metrics.Where(x => x.Type == type).FirstOrDefault();
                     if (type == "relic")
                     { //to zagęszczenie więc odwrotnie proporcjonalne
-                        houseSummary.Score += metric.Value * (1 / wage);
-                        houseSummary.House.Score += metric.Value * (1 / wage);
+                        houseSummary.Score += metric.Value * (1 / value);
+                        houseSummary.House.Score += metric.Value * (1 / value);
 
                     }
                     else
                     {
-                        houseSummary.Score += metric.Value * wage;
-                        houseSummary.House.Score += metric.Value * wage;
+                        houseSummary.Score += metric.Value * value;
+                        houseSummary.House.Score += metric.Value * value;
                     }
                 }
             }

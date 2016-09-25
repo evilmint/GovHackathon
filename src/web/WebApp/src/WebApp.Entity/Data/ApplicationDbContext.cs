@@ -19,6 +19,9 @@ namespace WebApp.Entity.Data
         public virtual DbSet<House> Houses { get; set; }
         public virtual DbSet<HouseSummary> HouseSummaries { get; set; }
         public virtual DbSet<Metric> Metrics { get; set; }
+        public virtual DbSet<PointMetric> PointMetric { get; set; }
+        public virtual DbSet<PointSummary> PointSummaries { get; set; }
+        public virtual DbSet<Point> Points { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

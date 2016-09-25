@@ -48,6 +48,7 @@ namespace WebApp.Web.Controllers
                 result["closest"] = closestStop;
 
                 result["distance"] = closestStop.Distance(latitude, longitude);
+                result["closestThree"] = closestStops.Take(3).ToList();
 
             } else
             {

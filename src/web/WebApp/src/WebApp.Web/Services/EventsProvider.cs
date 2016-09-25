@@ -6,13 +6,13 @@ using WebApp.Entity.Models;
 
 namespace WebApp.Web.Services
 {
-    public class PartyabilityProvider : IDataProvider
+    public class EventsProvider : IDataProvider
     {
         private readonly ApplicationDbContext _dbContext;
 
-        public PartyabilityProvider(ApplicationDbContext dbContext)
+        public EventsProvider(ApplicationDbContext dbContext)
         {
-            this._dbContext = dbContext;
+            _dbContext = dbContext;
         }
 
         public string Name => "partyability";

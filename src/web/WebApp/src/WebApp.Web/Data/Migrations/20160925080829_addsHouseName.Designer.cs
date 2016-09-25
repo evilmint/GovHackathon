@@ -8,9 +8,10 @@ using WebApp.Entity.Data;
 namespace WebApp.Web.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20160925080829_addsHouseName")]
+    partial class addsHouseName
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.0.1")
@@ -274,52 +275,6 @@ namespace WebApp.Web.Data.Migrations
                     b.ToTable("Partyabilities");
                 });
 
-            modelBuilder.Entity("WebApp.Entity.Models.Point", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<double>("Latitude");
-
-                    b.Property<double>("Longitude");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Points");
-                });
-
-            modelBuilder.Entity("WebApp.Entity.Models.PointMetric", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<int?>("SummaryId");
-
-                    b.Property<string>("Type");
-
-                    b.Property<double>("Value");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("SummaryId");
-
-                    b.ToTable("PointMetric");
-                });
-
-            modelBuilder.Entity("WebApp.Entity.Models.PointSummary", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<int?>("PointId");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("PointId");
-
-                    b.ToTable("PointSummaries");
-                });
-
             modelBuilder.Entity("WebApp.Entity.Models.Relic", b =>
                 {
                     b.Property<int>("Id")
@@ -455,20 +410,6 @@ namespace WebApp.Web.Data.Migrations
                     b.HasOne("WebApp.Entity.Models.HouseSummary", "Summary")
                         .WithMany("Metrics")
                         .HasForeignKey("SummaryId");
-                });
-
-            modelBuilder.Entity("WebApp.Entity.Models.PointMetric", b =>
-                {
-                    b.HasOne("WebApp.Entity.Models.PointSummary", "Summary")
-                        .WithMany("Metrics")
-                        .HasForeignKey("SummaryId");
-                });
-
-            modelBuilder.Entity("WebApp.Entity.Models.PointSummary", b =>
-                {
-                    b.HasOne("WebApp.Entity.Models.Point", "Point")
-                        .WithMany()
-                        .HasForeignKey("PointId");
                 });
         }
     }
