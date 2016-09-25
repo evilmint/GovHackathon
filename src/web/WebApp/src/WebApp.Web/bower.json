@@ -3,14 +3,16 @@
   "private": true,
   "dependencies": {
     "bootstrap": "3.3.7",
-    "jquery": "2.2.0",
-    "jquery-validation": "1.14.0",
-    "jquery-validation-unobtrusive": "3.2.6",
-    "font-awesome": "4.6.3",
-    "bootstrap-material-design": "0.5.9"
+    "jquery-validation": "1.15.0",
+    "font-awesome": "4.6.1",
+    "bootstrap-material-design": "0.5.9",
+    "jquery": "1.12.3",
+    "angular": "1.5.5"
   },
   "resolutions": {
     "bootstrap": "3.3.7",
-    "jquery": ">= 1.7.2"
+    "jquery": ">=1.8",
+    "font-awesome": "4.6.3",
+    "jquery-validation": "1.15.0"
   }
 }

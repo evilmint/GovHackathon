@@ -1,5 +1,121 @@
 ﻿{
+  "partyability": {
+    "PARTYYYY": [
+      {
+        "id": 0,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2015-09",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2015-10",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2015-11",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2015-12",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2016-01",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2016-02",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 866,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2016-03",
+        "value": 1.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2016-04",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2016-05",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2016-06",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2016-07",
+        "value": 0.0,
+        "type": "partyability"
+      },
+      {
+        "id": 0,
+        "latitude": 51.105,
+        "longitude": 17.013,
+        "month": "2016-08",
+        "value": 0.0,
+        "type": "partyability"
+      }
+    ]
+  },
+  "relic": {
+    "radius": 0.77331095684321072,
+    "amountInRadius": 10,
+    "closest": {
+      "id": 294,
+      "name": "Zespól zabudowy",
+      "description": "",
+      "latitude": 51.1068016,
+      "longitude": 17.0176118,
+      "categories": "",
+      "type": "relic"
+    },
+    "distance": 0.2458640732911285
+  },
   "middleschool": {
+    "radius": 1.1743473643550992,
+    "amountInRadius": 10,
     "closest": {
       "id": 3783,
       "polwoj": "02",
@@ -24,9 +140,11 @@
       "address": null,
       "type": "middleschool"
     },
-    "distance": 5.4966093893616987
+    "distance": 0.39672061880731541
   },
   "preschool": {
+    "radius": 0.74322226220209453,
+    "amountInRadius": 10,
     "closest": {
       "id": 3409,
       "polwoj": "02",
@@ -51,9 +169,11 @@
       "address": null,
       "type": "preschool"
     },
-    "distance": 3.8283560170615663
+    "distance": 0.21287933709041265
   },
   "primaryschool": {
+    "radius": 1.0963373786363393,
+    "amountInRadius": 10,
     "closest": {
       "id": 3514,
       "polwoj": "02",
@@ -78,6 +198,30 @@
       "address": null,
       "type": "primaryschool"
     },
-    "distance": 5.9747490265161289
+    "distance": 0.44567918938270218
+  },
+  "busStop": {
+    "amountInRadius": 10,
+    "radius": 1.0441389775465573,
+    "closest": {
+      "id": 770,
+      "latitude": 51.10111679,
+      "longitude": 17.00798764,
+      "typ": 3,
+      "type": "stop"
+    },
+    "distance": 0.45915584788059849
+  },
+  "tramStop": {
+    "amountInRadius": 10,
+    "radius": 0.30187100507682441,
+    "closest": {
+      "id": 1167,
+      "latitude": 51.10525798,
+      "longitude": 17.01391218,
+      "typ": 2,
+      "type": "stop"
+    },
+    "distance": 0.058570457160232188
   }
 }
