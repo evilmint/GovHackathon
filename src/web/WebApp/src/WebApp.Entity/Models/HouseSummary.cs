@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Newtonsoft.Json;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebApp.Entity.Models
@@ -10,6 +11,7 @@ namespace WebApp.Entity.Models
         public virtual ICollection<Metric> Metrics { get; set; } = new List<Metric>();
 
         [NotMapped]
+        //todo to się nie serializuje do jsona ale nie ma być w bazie!
         public double Score { get; set; } = 0;
     }
 }

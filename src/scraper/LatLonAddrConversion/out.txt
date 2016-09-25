@@ -1,0 +1,294 @@
+1380|Przedwiośnie (Stacja kolejowa)
+1381|Dmowskiego
+1382|Partynice
+1383|Mickiewicza–pętla tramwajowa, Adama Mickiewicza, Sępolno, Osiedle Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, dolnośląskie, 51-685, Polska
+1384|Bojanowska
+1385|Gądowianka
+1386|43, Swojczycka, Popiele, Swojczyce, Osiedle Swojczyce-Strachocin-Wojnów, Wrocław, dolnośląskie, 51-501, Polska
+1387|Kmieca
+1388|Delikatesy T&J, 1a, Świętego Wincentego, Nadodrze, Osiedle Nadodrze, Wrocław, dolnośląskie, 50-252, Polska
+1389|Przystankowa
+1390|Muchobór Wielki
+1391|Przybyszewskiego
+1392|TARNOGAJ
+1393|Jeleniogórska
+1394|187, Pilczycka, Osiedle Maślice, Wrocław, dolnośląskie, 54-144, Polska
+1395|Nowy Dom
+1396|Rubczaka
+1397|Średzka
+1398|OSOBOWICE (Stacja kolejowa)
+1399|Hartmana
+1400|PRACZE ODRZAŃSKIE (Stacja kolejowa)
+1401|pl. Wróblewskiego
+1402|Spółdzielcza
+1403|Borowska
+1404|Szczecińska
+1405|Stadion Wrocław (Lotnicza)
+1406|Parafialna
+1407|Glinianki
+1408|Śrubowa
+1409|5, Sądowa, Przedmieście Świdnickie, Osiedle Przedmieście Świdnickie, Wrocław, dolnośląskie, 50-046, Polska
+1410|Wyszyńskiego
+1411|Małopolska
+1412|Sosnowiecka
+1413|62, Trzebnicka, Kleczków, Osiedle Kleczków, Wrocław, dolnośląskie, 50-231, Polska
+1414|Przedszkole nr 29, Kurpiów, Ołtaszyn, Osiedle Ołtaszyn, Wrocław, dolnośląskie, 52-214, Polska
+1415|Popowice
+1416|ROD Storczyk
+1417|1, Redycka, Osiedle Sołtysowice, Wrocław, dolnośląskie, 51-169, Polska
+1418|Grabowa
+1419|Grabowa
+1420|most Grunwaldzki
+1421|PRACZE ODRZAŃSKIE
+1422|Klimasa
+1423|Ogród Botaniczny
+1424|DŁUGA (Politechnika)
+1425|Krynicka
+1426|21, Pułtuska, Borek, Osiedle Borek, Wrocław, dolnośląskie, 53-116, Polska
+1427|Przedwiośnie (Stacja kolejowa)
+1428|KUŹNIKI
+1429|32, Podpułkownika Stanisława Skarżyńskiego, Strachowice, Osiedle Jerzmanowo-Jarnołtów-Strachowice-Osiniec, Wrocław, dolnośląskie, 54-530, Polska
+1430|Szewczenki
+1431|Śniadeckich
+1432|Plac Generała Walerego Wróblewskiego, Generała Romualda Traugutta, Przedmieście Oławskie, Osiedle Przedmieście Oławskie, Wrocław, dolnośląskie, 50-407, Polska
+1433|SPISKA (Ośrodek sportu)
+1434|Zalewowa
+1435|Jarnołtowska
+1436|Park&ride, Bierutowska, Gorlice, Psie Pole, Osiedle Psie Pole-Zawidawie, Wrocław, dolnośląskie, 51-318, Polska
+1437|Dworska
+1438|Młodych Techników
+1439|Chwałkowska
+1440|Przyjaźni
+1441|Serbska
+1442|Niedziałkowskiego
+1443|Niedźwiedzia
+1444|Na Ostatnim Groszu
+1445|LEŚNICA - Hermes
+1446|Wyścigowa
+1447|Arabska
+1448|Tramwajowa
+1449|Spółdzielcza
+1450|RUBCZAKA (Stacja kolejowa)
+1451|pl. Legionów
+1452|DŁUGA (Politechnika)
+1453|Karwińska
+1454|Jeleniogórska
+1455|32, Generała Leopolda Okulickiego, Jana III Sobieskiego, Zakrzów, Osiedle Psie Pole-Zawidawie, Wrocław, dolnośląskie, 51-216, Polska
+1456|Ostrowskiego
+1457|Zagłębiowska
+1458|St.miejskie, Marka Petrusewicza, Glinianki, Osiedle Huby, Wrocław, dolnośląskie, 50-531, Polska
+1459|Kolista
+1460|Pilczyce
+1461|36, Karola Olszewskiego, Biskupin, Osiedle Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, dolnośląskie, 51-646, Polska
+1462|Kursant, 5/9, Tarnogajska, Tarnogaj, Osiedle Tarnogaj, Wrocław, dolnośląskie, 50-512, Polska
+1463|Verity UpTown (niedokończony), 12-14, Bolesława Drobnera, Nadodrze, Osiedle Nadodrze, Wrocław, dolnośląskie, 50-256, Polska
+1464|Katedra
+1465|ROD Tysiąclecia
+1466|Wrocławski Park Przemysłowy
+1467|Nowy Dwór
+1468|Połabian
+1469|Brodzka
+1470|Stanki
+1471|Gajowa
+1472|Park Zachodni
+1473|pl. Grunwaldzki
+1474|22, Stanisława Małachowskiego, Przedmieście Oławskie, Osiedle Przedmieście Oławskie, Wrocław, dolnośląskie, 50-084, Polska
+1475|263, Bolesława Krzywoustego, Kłokoczyce, Psie Pole, Osiedle Psie Pole-Zawidawie, Wrocław, dolnośląskie, 51-310, Polska
+1476|Świat Papieru, Gubińska, Nowy Dwór, Osiedle Nowy Dwór, Wrocław, dolnośląskie, 54-431, Polska
+1477|88, Kowalska, Kowale, Osiedle Kowale, Wrocław, dolnośląskie, 51-424, Polska
+1478|Świeradowska
+1479|Grabiszyńska
+1480|Bagatela
+1481|Poczta Główna
+1482|ROD Źródło Zdrowia
+1483|Mapa Wrocławia, Żmigrodzka, Ligota, Osiedle Karłowice-Różanka, Wrocław, dolnośląskie, 51-118, Polska
+1484|Ostowa
+1485|Stabłowice Nowe, Osiedle Leśnica, Wrocław, dolnośląskie, 54-049, Polska
+1486|Zakrzowska
+1487|BARDZKA
+1488|Jana Nowaka-Jeziorańskiego, Różanka, Osiedle Karłowice-Różanka, Wrocław, dolnośląskie, Polska
+1489|61, Tarnogajska, Tarnogaj, Osiedle Tarnogaj, Wrocław, dolnośląskie, 50-512, Polska
+1490|BARDZKA (Cmentarz)
+1491|Zgorzelisko
+1492|Modra
+1493|ZŁOTOSTOCKA
+1494|Stalowa
+1495|Muchobór Wielki
+1496|Lubelska
+1497|Małopanewska
+1498|Bajana
+1499|Wiejska
+1500|Jerzmanowska, Jerzmanowo, Osiedle Jerzmanowo-Jarnołtów-Strachowice-Osiniec, Wrocław, dolnośląskie, Polska
+1501|KRZYKI
+1502|Komuny Paryskiej
+1503|Inżynierska
+1504|Warmińska
+1505|KRZYKI
+1506|Hynka
+1507|Wejherowska
+1508|Kośnego1
+1509|Hala Targowa
+1510|Pałac Królewski, Kazimierza Wielkiego, Dzielnica Czterech Świątyń, Stare Miasto, Osiedle Stare Miasto, Wrocław, dolnośląskie, 50-077, Polska
+1511|Karwińska
+1512|Stadion Olimpijski
+1513|Mokra
+1514|Rynek
+1515|Borowska, Glinianki, Osiedle Huby, Wrocław, dolnośląskie, 50-530, Polska
+1516|Las Ratyński
+1517|Papier, zabawki, Bolesława Krzywoustego, Gorlice, Psie Pole, Osiedle Psie Pole-Zawidawie, Wrocław, dolnośląskie, 51-310, Polska
+1518|Miłoszycka
+1519|Kowieńska
+1520|St.miejskie, Marka Petrusewicza, Glinianki, Osiedle Huby, Wrocław, dolnośląskie, 50-531, Polska
+1521|MIŃSKA (Rondo Rotm. Pileckiego)
+1522|Mapa Wrocławia, Aleja Aleksandra Brücknera, Kowale, Osiedle Kowale, Wrocław, dolnośląskie, 51-410, Polska
+1523|Chińska
+1524|Most Milenijny
+1525|Na Szańcach
+1526|Plac Teatralny, Dzielnica Czterech Świątyń, Stare Miasto, Osiedle Stare Miasto, Wrocław, dolnośląskie, 50-051, Polska
+1527|Bociania
+1528|Kolista
+1529|Kosmonautów, Osiedle Leśnica, Wrocław, dolnośląskie, Polska
+1530|30, Aleja Generała Józefa Hallera, Borek, Osiedle Borek, Wrocław, dolnośląskie, 53-318, Polska
+1531|Przebiśniegowa
+1532|Głogowska
+1533|2a, Zygmunta Wróblewskiego, Dąbie, Osiedle Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, dolnośląskie, 51-618, Polska
+1534|Wojszycka
+1535|Armii Krajowej
+1536|89, Generała Stefana Grota-Roweckiego, Wojszyce, Osiedle Wojszyce, Wrocław, dolnośląskie, 52-232, Polska
+1537|ROD Mieczyk
+1538|77, Pułaskiego, Przedmieście Oławskie, Osiedle Przedmieście Oławskie, Wrocław, dolnośląskie, 50-444, Polska
+1539|Widawa
+1540|Kamieńskiego (Szpital)
+1541|Modra
+1542|Rynek
+1543|Przewozy Regionalne Spółka z o. o., Sucha, Glinianki, Osiedle Huby, Wrocław, dolnośląskie, 50-085, Polska
+1544|66, Legnicka, Popowice Południowe, Osiedle Gądów-Popowice Południowe, Wrocław, dolnośląskie, 54-206, Polska
+1545|Mielecka
+1546|METALOWCÓW (Ośrodek sportu)
+1547|Rzemieślnicza
+1548|ŚLAZOWA (Pętla)
+1549|Dworzec Świebodzki
+1550|Bardzka
+1551|3, Ignacego Mościckiego, Brochów, Osiedle Brochów, Wrocław, dolnośląskie, 52-110, Polska
+1552|Lipa Piotrowska
+1553|Hala Stulecia
+1554|Oporów
+1555|LEŚNICA - Hermes
+1556|Orlen, Aleja Wiśniowa, Celina, Powstańców Śląskich, Osiedle Powstańców Śląskich, Wrocław, dolnośląskie, 53-126, Polska
+1557|Królewska
+1558|Zaporoska
+1559|Dworzec Świebodzki
+1560|Nowy Dwór (stacja kolejowa)
+1561|Śnieżna
+1562|Klimasa
+1563|Vanilla Hostel, 35, Generała Romualda Traugutta, Przedmieście Oławskie, Osiedle Przedmieście Oławskie, Wrocław, dolnośląskie, 50-416, Polska
+1564|Las Osobowicki
+1565|Swobodna
+1566|Złotnicka
+1567|Tunelowa
+1568|Plac Bema, Bolesława Drobnera, Nadodrze, Osiedle Nadodrze, Wrocław, dolnośląskie, 50-264, Polska
+1569|Spółdzielcza
+1570|21, Plac Księdza Stanisława Staszica, Nadodrze, Osiedle Nadodrze, Wrocław, dolnośląskie, 50-223, Polska
+1571|Poleska
+1572|Psie Pole (stacja kolejowa)
+1573|JERZMANOWO (Pętla)
+1574|Aquarius, Swobodna, Barbara, Powstańców Śląskich, Osiedle Powstańców Śląskich, Wrocław, dolnośląskie, 50-088, Polska
+1575|Kwiaton, Kosmonautów, Stabłowice, Leśnica, Osiedle Leśnica, Wrocław, dolnośląskie, 54-041, Polska
+1576|6, Wojanowska, Stabłowice Nowe, Leśnica, Osiedle Leśnica, Wrocław, dolnośląskie, 54-050, Polska
+1577|Stadion Olimpijski
+1578|Sowia
+1579|Owczarska
+1580|CENTRUM HURTU UL. GIEŁDOWA
+1581|Krakowska
+1582|Klucznik, Zawalna, Karłowice, Osiedle Karłowice-Różanka, Wrocław, dolnośląskie, 51-118, Polska
+1583|Kampus Grunwaldzki - Uniwersytet Przyrodniczy we Wrocławiu, Plac Grunwaldzki, Osiedle Plac Grunwaldzki, Wrocław, dolnośląskie, 50-357, Polska
+1584|Brodzka
+1585|Rowery, Lotnicza, Gądów Mały, Osiedle Gądów-Popowice Południowe, Wrocław, dolnośląskie, 54-155, Polska
+1586|Marche, Świdnicka, Przedmieście Świdnickie, Osiedle Przedmieście Świdnickie, Wrocław, dolnośląskie, 50-030, Polska
+1587|ROD Bajki
+1588|Żmudzka
+1589|Poleska
+1590|84, Gorlicka, Gorlice, Psie Pole, Osiedle Psie Pole-Zawidawie, Wrocław, dolnośląskie, 51-314, Polska
+1591|Świeradowska
+1592|Hala Targowa
+1593|Zwycięska
+1594|Koszarowa (Szpital)
+1595|Krucza
+1596|Sołtysowicka
+1597|Zwycięska
+1598|Zespół Szkolno-Przedszkolny nr 5, 127, Osobowicka, Osobowice, Osiedle Osobowice-Rędzin, Wrocław, dolnośląskie, 51-004, Polska
+1599|Ratyń - skrzyżowanie
+1600|Bierutowska
+1601|Janówek
+1602|19, Plac Księdza Stanisława Staszica, Nadodrze, Osiedle Nadodrze, Wrocław, dolnośląskie, 50-223, Polska
+1603|JERZMANOWO (Cmentarz I)
+1604|HALLERA
+1605|Berenta
+1606|Jutrosińska
+1607|Ołtaszyn
+1608|Mapa Wrocławia, Marszałka Józefa Piłsudskiego, Przedmieście Świdnickie, Osiedle Przedmieście Świdnickie, Wrocław, dolnośląskie, 50-017, Polska
+1609|Aleja Pracy
+1610|Daszyńskiego
+1611|KRZYKI
+1612|Wyszyńskiego
+1613|Wolska
+1614|Plac Staszica, Plac Księdza Stanisława Staszica, Nadodrze, Osiedle Nadodrze, Wrocław, dolnośląskie, 50-219, Polska
+1615|Na Niskich Łąkach
+1616|Strumykowa
+1617|Bezpieczna
+1618|19, Graniczna, Żerniki, Osiedle Żerniki, Wrocław, dolnośląskie, 54-516, Polska
+1619|Stabłowice Nowe, Osiedle Leśnica, Wrocław, dolnośląskie, 54-049, Polska
+1620|Solskiego
+1621|Pl. SOLIDARNOŚCI
+1622|Renoma
+1623|Ceglana
+1624|JERZMANOWO (Cmentarz II)
+1625|Ibn Siny Awicenny
+1626|MIŃSKA (Rondo Rotm. Pileckiego)
+1627|Kołobrzeska
+1628|Opatowicka nr 127
+1629|41, Gliniana, Glinianki, Osiedle Huby, Wrocław, dolnośląskie, 50-525, Polska
+1630|Szczepin
+1631|DH Astra
+1632|RATYŃ
+1633|Akademia Muzyczna im. Karola Lipińskiego, 2, Plac Jana Pawła II, Dzielnica Czterech Świątyń, Osiedle Stare Miasto, Wrocław, dolnośląskie, 50-043, Polska
+1634|Orzechowa
+1635|Serbska
+1636|Bajana-Szybowcowa, Jerzego Bajana, Gądów Mały, Osiedle Gądów-Popowice Południowe, Wrocław, dolnośląskie, 54-130, Polska
+1637|Kosmonautów, Osiedle Leśnica, Wrocław, dolnośląskie, Polska
+1638|Transbud
+1639|Dworska
+1640|Rysia
+1641|Ogród Botaniczny
+1642|Sąsiedzka
+1643|Gazowa
+1644|Dworcowa
+1645|22a, Lotnicza, Gądów Mały, Osiedle Gądów-Popowice Południowe, Wrocław, dolnośląskie, 54-155, Polska
+1646|Pułtuska
+1647|Bzowa
+1648|Grabiszyńska, Grabiszyn, Osiedle Grabiszyn-Grabiszynek, Wrocław, dolnośląskie, 52-402, Polska
+1649|Hutmen
+1650|FAT
+1651|Sztabowa
+1652|Świt
+1653|Dworzec Główny (Stawowa)
+1654|98, Aleja Piastów, Oporów, Osiedle Oporów, Wrocław, dolnośląskie, 52-425, Polska
+1655|FAT
+1656|Berenta
+1657|BIEŃKOWICE
+1658|NOWY DWÓR (Pętla)
+1659|Godebskiego (AWF Wrocław)
+1660|Zielna
+1661|Zajączkowska
+1662|Polkowicka
+1663|DW. ŚWIEBODZKI
+1664|Siłownia, Bałtycka, Różanka, Osiedle Karłowice-Różanka, Wrocław, dolnośląskie, 51-119, Polska
+1665|Instytut Automatyki Systemów Energetycznych, Wystawowa, Dąbie, Osiedle Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, dolnośląskie, 51-618, Polska
+1666|Gwiaździsta
+1667|Dworcowa
+1668|Wiśniowa
+1669|Braterska
+1670|Centrostal
+1671|9-11, Podwale, Osiedle Szczepin, Wrocław, dolnośląskie, 50-043, Polska
+1672|Kutrzeby
+1673|Armii Krajowej

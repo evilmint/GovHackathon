@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebApp.Entity.Models
 {
@@ -14,6 +11,9 @@ namespace WebApp.Entity.Models
         public House.TypeEnum Type { get; set; }
         public int RoomCount { get; set; }
         public int Area { get; set; }
+        public string ImageUrl { get; set; }
+        [NotMapped]
+        public double Score { get; set; }
 
         public enum TypeEnum
         {

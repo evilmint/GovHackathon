@@ -4,7 +4,6 @@
 /// <reference path="app/core.min.js" />
 /// <reference path="js/core.min.js" />
 /// <reference path="js/map.js" />
-/// <reference path="js/restclient.js" />
 /// <reference path="js/search.js" />
 /// <reference path="js/site.js" />
 /// <reference path="lib/angular/angular.js" />
