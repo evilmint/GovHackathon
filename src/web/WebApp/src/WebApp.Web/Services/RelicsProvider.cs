@@ -30,6 +30,7 @@ namespace WebApp.Web.Services
             result["amountInRadius"] = closestRelics.Count;
             result["closest"] = closestRelic;
             result["distance"] = closestRelic.Distance(latitude, longitude);
+            result["closestThree"] = closestRelics.Take(3).ToList();
 
             return result;
         }
