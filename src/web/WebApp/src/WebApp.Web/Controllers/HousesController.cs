@@ -74,10 +74,13 @@ namespace WebApp.Web.Controllers
                     if (type == "relic")
                     { //to zagęszczenie więc odwrotnie proporcjonalne
                         houseSummary.Score += metric.Value * (1 / wage);
+                        houseSummary.House.Score += metric.Value * (1 / wage);
+
                     }
                     else
                     {
                         houseSummary.Score += metric.Value * wage;
+                        houseSummary.House.Score += metric.Value * wage;
                     }
                 }
             }
