@@ -42,16 +42,34 @@
           }
     ];
 
+    var marker;
+
+    var data;
+
     for (var i = 0, feature; feature = features[i]; i++) {
         addMarker(feature);
     }
 
     function addMarker(feature) {
-        var marker = new google.maps.Marker({
+        marker = new google.maps.Marker({
             position: feature.position,
             icon: icons[feature.type].icon,
             map: map
         });
+    }
+
+    google.maps.event.addListener(map, 'click', function (event) {
+        placeMarker(event.latLng);
+
+    });
+
+    function placeMarker(location) {
+        marker.setMap(null);
+        marker = new google.maps.Marker({
+            position: location,
+            map: map
+        });
+        sendRequest(location);
     }
 
     //google.maps.event.addListener(directionsDisplay, 'directions_changed', function () {
@@ -90,3 +108,37 @@ function calculateAndDisplayRoute(directionsService, directionsDisplay) {
         }
     });
 }
+
+function sendRequest(location) {
+    var request = buildUrl("http://localhost:64116/point", location.lat(), location.lng());
+    getData(request);
+}
+
+function getData(getUrl) {
+    $.ajax({
+        url: getUrl,
+        type: 'GET',
+        success: function(result) {
+            onSuccess(result);
+        }
+    });
+}
+
+function buildUrl(baseUrl, long, lat) {
+    return baseUrl + "?latitude=" + long + "&longitude=" + lat;
+}
+
+function onSuccess(result) {
+    $('#schoolAmount').text(result.middleschool.amountInRadius);
+    $('#nearestSchool').text(result.middleschool.closest.name);
+
+    $('#relicAmount').text(result.relic.amountInRadius);
+    $('#nearestRelic').text(result.relic.closest.name);
+
+
+}
+
+function onError() {
+
+}
+

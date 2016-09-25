@@ -12,6 +12,14 @@
         var vm = this;
         vm.title = 'mainController';
 
+        $http.get("welcome.htm")
+            .then(function (response) {
+            $scope.data = function() {
+                
+            response.data;}
+        });
+
+
         activate();
 
         function activate() { }

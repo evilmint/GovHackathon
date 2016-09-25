@@ -12,6 +12,7 @@ function buildUrl(baseUrl, long, lat) {
 
 function onSuccess(data) {
     result = data;
+
 }
 
 function onError() {
