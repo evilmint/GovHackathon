@@ -39,15 +39,16 @@ namespace WebApp.Web.Services
         {
             var result = new Dictionary<string, object>();
 
-            var closestMiddleSchools = context.Schools
+            var closestSchools = context.Schools
                 .Where(x => x.Typ == this.schoolType)
                 .OrderBy(x => ((x.Latitude - latitude) * (x.Latitude - latitude) +
                 (x.Longitude - longitude) * (x.Longitude - longitude)))
                 .Take(10).ToList();
-            result["radius"] = closestMiddleSchools.ElementAt(9).Distance(latitude, longitude);
+            result["radius"] = closestSchools.ElementAt(9).Distance(latitude, longitude);
             result["amountInRadius"] = 10;
-            var closestSchool = closestMiddleSchools.FirstOrDefault();
+            var closestSchool = closestSchools.FirstOrDefault();
             result["closest"] = closestSchool;
+            result["closestThree"] = closestSchools.Take(3).ToList();
 
             result["distance"] = closestSchool.Distance(latitude, longitude);
 
