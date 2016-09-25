@@ -11,6 +11,7 @@ namespace WebApp.Entity.Models
         public House.TypeEnum Type { get; set; }
         public int RoomCount { get; set; }
         public int Area { get; set; }
+        public string ImageUrl { get; set; }
         [NotMapped]
         public double Score { get; set; }
 
