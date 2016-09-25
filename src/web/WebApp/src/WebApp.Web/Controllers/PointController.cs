@@ -33,7 +33,7 @@ namespace WebApp.Web.Controllers
 
             foreach (var dataProvider in dataProviders)
             {
-                results.Add(dataProvider.Name, dataProvider.Get(Latitude, Longitude));
+                results.Add(dataProvider.Name, dataProvider.GetSummary(Latitude, Longitude));
             }
 
             return results;

@@ -14,6 +14,10 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApp.Entity", "src\WebApp
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApp.Web", "src\WebApp.Web\WebApp.Web.xproj", "{1C305642-C2FC-4CFF-9E40-01776F07BAF4}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApp.Repository", "src\WebApp.Repository\WebApp.Repository.xproj", "{A5B29133-0C2A-4A3F-BC02-6BF61D8F2187}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApp.Service", "src\WebApp.Service\WebApp.Service.xproj", "{4C689747-5CBC-4410-83B1-EFC489363011}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +32,14 @@ Global
 		{1C305642-C2FC-4CFF-9E40-01776F07BAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C305642-C2FC-4CFF-9E40-01776F07BAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C305642-C2FC-4CFF-9E40-01776F07BAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B29133-0C2A-4A3F-BC02-6BF61D8F2187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B29133-0C2A-4A3F-BC02-6BF61D8F2187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B29133-0C2A-4A3F-BC02-6BF61D8F2187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B29133-0C2A-4A3F-BC02-6BF61D8F2187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C689747-5CBC-4410-83B1-EFC489363011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C689747-5CBC-4410-83B1-EFC489363011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C689747-5CBC-4410-83B1-EFC489363011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C689747-5CBC-4410-83B1-EFC489363011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,5 +47,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F3AE6B49-D59E-46C1-8FEF-821BCF1F2365} = {A9E6EF1C-C0C1-447B-BEC4-EF542115CD56}
 		{1C305642-C2FC-4CFF-9E40-01776F07BAF4} = {A9E6EF1C-C0C1-447B-BEC4-EF542115CD56}
+		{A5B29133-0C2A-4A3F-BC02-6BF61D8F2187} = {A9E6EF1C-C0C1-447B-BEC4-EF542115CD56}
+		{4C689747-5CBC-4410-83B1-EFC489363011} = {A9E6EF1C-C0C1-447B-BEC4-EF542115CD56}
 	EndGlobalSection
 EndGlobal

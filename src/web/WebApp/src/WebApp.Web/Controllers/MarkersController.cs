@@ -18,7 +18,7 @@ namespace WebApp.Web.Controllers
         {
             var result = new List<object>();
 
-            if (type == string.Empty || type == "events")
+            if (type == string.Empty || type == "partyability")
             {
                 var events = context.Events
                     .Where(x => x.Latitude < topRightLatitude
@@ -30,7 +30,7 @@ namespace WebApp.Web.Controllers
                 result.AddRange(events);
             }
 
-            if (type == string.Empty || type == "preSchools")
+            if (type == string.Empty || type == "preschool")
             {
                 var primarySchools = context.Schools
                     .Where(x => x.Latitude < topRightLatitude
@@ -43,7 +43,7 @@ namespace WebApp.Web.Controllers
                 result.AddRange(primarySchools);
             }
 
-            if (type == string.Empty || type == "primarySchools")
+            if (type == string.Empty || type == "primaryschool")
             {
                 var primarySchools = context.Schools
                     .Where(x => x.Latitude < topRightLatitude
@@ -56,7 +56,7 @@ namespace WebApp.Web.Controllers
                 result.AddRange(primarySchools);
             }
 
-            if (type == string.Empty || type == "middleSchools")
+            if (type == string.Empty || type == "middleschool")
             {
                 var middleSchools = context.Schools
                     .Where(x => x.Latitude < topRightLatitude
@@ -69,7 +69,7 @@ namespace WebApp.Web.Controllers
                 result.AddRange(middleSchools);
             }
 
-            if (type == string.Empty || type == "relics")
+            if (type == string.Empty || type == "relic")
             {
                 var relics = context.Relics
                     .Where(x => x.Latitude < topRightLatitude
@@ -81,7 +81,7 @@ namespace WebApp.Web.Controllers
                 result.AddRange(relics);
             }
 
-            if (type == string.Empty || type == "stops")
+            if (type == string.Empty || type == "stop" || type == "tramstop" || type == "busstop")
             {
                 var stops = context.Stops
                     .Where(x => x.Latitude < topRightLatitude

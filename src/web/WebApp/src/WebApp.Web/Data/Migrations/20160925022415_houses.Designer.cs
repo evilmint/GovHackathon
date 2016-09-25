@@ -8,9 +8,10 @@ using WebApp.Entity.Data;
 namespace WebApp.Web.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20160925022415_houses")]
+    partial class houses
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.0.1")
@@ -220,38 +221,6 @@ namespace WebApp.Web.Data.Migrations
                     b.ToTable("Houses");
                 });
 
-            modelBuilder.Entity("WebApp.Entity.Models.HouseSummary", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<int?>("HouseId");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("HouseId");
-
-                    b.ToTable("HouseSummaries");
-                });
-
-            modelBuilder.Entity("WebApp.Entity.Models.Metric", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<int?>("SummaryId");
-
-                    b.Property<string>("Type");
-
-                    b.Property<double>("Value");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("SummaryId");
-
-                    b.ToTable("Metrics");
-                });
-
             modelBuilder.Entity("WebApp.Entity.Models.Partyability", b =>
                 {
                     b.Property<int>("Id")
@@ -391,20 +360,6 @@ namespace WebApp.Web.Data.Migrations
                         .WithMany("Roles")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
-                });
-
-            modelBuilder.Entity("WebApp.Entity.Models.HouseSummary", b =>
-                {
-                    b.HasOne("WebApp.Entity.Models.House", "House")
-                        .WithMany()
-                        .HasForeignKey("HouseId");
-                });
-
-            modelBuilder.Entity("WebApp.Entity.Models.Metric", b =>
-                {
-                    b.HasOne("WebApp.Entity.Models.HouseSummary", "Summary")
-                        .WithMany("Metrics")
-                        .HasForeignKey("SummaryId");
                 });
         }
     }
