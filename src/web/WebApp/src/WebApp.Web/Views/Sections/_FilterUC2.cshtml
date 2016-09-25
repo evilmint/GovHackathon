@@ -1,72 +1,54 @@
 ﻿<div class="well bs-component">
-    <form asp-controller="Home" asp-action="Index">
+    <form id="searchForm" action="#">
         <div class="form-group">
-            <input class="form-control" type="search" placeholder="Szukaj" />
-        </div>
-        <div class="form-group">
-            <label>Mieszkania</label>
-            <select class="form-control">
-                <option>na sprzedaż</option>
-                <option>na wynajem</option>
-            </select>
+            <h2>Wyszukaj</h2>
         </div>
         <div class="form-group">
             <label>Cena</label>
             <div class="row">
-                <div class="col-md-5"><input class="form-control" /></div>
+                <div class="col-md-5"><input id="minprice" class="form-control" /></div>
                 <div class="col-md-2">
                     <label>do</label>
                 </div>
-                <div class="col-md-5"><input class="form-control" /></div>
+                <div class="col-md-5"><input id="maxprice" class="form-control" /></div>
             </div>
         </div>
         <div class="form-group">
             <label>Powierzchnia</label>
             <div class="row">
-                <div class="col-md-5"><input class="form-control" /></div>
+                <div class="col-md-5"><input id="minarea" class="form-control" /></div>
                 <div class="col-md-2">
                     <label>do</label>
                 </div>
-                <div class="col-md-5"><input class="form-control" /></div>
+                <div class="col-md-5"><input id="maxarea" class="form-control" /></div>
             </div>
         </div>
         <div class="form-group">
-            <label>Liczba pokoi</label>
-            <input type="number" class="form-control" min="1" />
+            <h3>Bliskość POI</h3>
         </div>
         <div class="form-group">
-            <label>W pobliżu</label>
-            <div class="checkbox">
-                <label>
-                    <input type="checkbox"> Checkbox
-                </label>
-                <label>
-                    <input type="checkbox"> Checkbox
-                </label>
-                <label>
-                    <input type="checkbox"> Checkbox
-                </label>
-                <label>
-                    <input type="checkbox"> Checkbox
-                </label>
-                <label>
-                    <input type="checkbox"> Checkbox
-                </label>
-                <label>
-                    <input type="checkbox"> Checkbox
-                </label>
-                <label>
-                    <input type="checkbox"> Checkbox
-                </label>
-                <label>
-                    <input type="checkbox"> Checkbox
-                </label>
-                <label>
-                    <input type="checkbox"> Checkbox
-                </label>
-            </div>
+            <label>Przedszkola</label>
+            <input id="preSchools" class="slider" data-slider-id='preSchoolsSlider' type="text" data-slider-min="1" data-slider-max="10" data-slider-step="1" data-slider-value="5" />
+        </div>
+        <div class="form-group">
+            <label>Szkoły podstawowe</label>
+            <input id="primarySchools" class="slider" data-slider-id='primarySchoolsSlider' type="text" data-slider-min="1" data-slider-max="10" data-slider-step="1" data-slider-value="5" />
+        </div>
+        <div class="form-group">
+            <label>Gimnazja</label>
+            <input id="middleSchools" class="slider" data-slider-id='middleschoolsSlider' type="text" data-slider-min="1" data-slider-max="10" data-slider-step="1" data-slider-value="5" />
+        </div>
+        <div class="form-group">
+            <label>Zabytki</label>
+            <input id="relics" class="slider" data-slider-id='relicsSlider' type="text" data-slider-min="1" data-slider-max="10" data-slider-step="1" data-slider-value="5" />
+        </div>
+        <div class="form-group">
+            <label>Komunikacja miejska</label>
+            <input id="stops" class="slider" data-slider-id='stopsSlider' type="text" data-slider-min="1" data-slider-max="10" data-slider-step="1" data-slider-value="5" />
+        </div>
+        <div class="form-group">
             <div class="form-group text-center">
-                <button type="submit" class="btn btn-raised btn-primary">Wyszukaj</button>
+                <button type="submit" class="btn btn-raised btn-primary" onclick="searchHouses(); return false;">Wyszukaj</button>
             </div>
         </div>
     </form>
