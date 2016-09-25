@@ -1,7 +1,10 @@
-﻿function initMap() {
+﻿var schoolMarkers;
+var map;
+var markerPosition;
+function initMap() {
     //var directionsService = new google.maps.DirectionsService;
     //var directionsDisplay = new google.maps.DirectionsRenderer;
-    var map = new google.maps.Map(document.getElementById('map'), {
+    map = new google.maps.Map(document.getElementById('map'), {
         zoom: 7,
         center: { lat: 51.1058285, lng: 17.0124618 }
     });
@@ -44,6 +47,8 @@
 
     var marker;
 
+    schoolMarkers = [];
+
     var data;
 
     for (var i = 0, feature; feature = features[i]; i++) {
@@ -56,6 +61,7 @@
             icon: icons[feature.type].icon,
             map: map
         });
+        markerPosition = feature.position;
     }
 
     google.maps.event.addListener(map, 'click', function (event) {
@@ -129,6 +135,37 @@ function buildUrl(baseUrl, long, lat) {
 }
 
 function onSuccess(result) {
+
+    $.each(schoolMarkers, function (index, value) {
+        schoolMarkers[index].setMap(null);
+    });
+    schoolMarkers = [];
+
+    function drawFromClosest(item) {
+
+        for (i = 0; i < 3; i++) {
+            var myLatlng = new google.maps.LatLng(item.closestThree[i].latitude,
+                item.closestThree[i].longitude);
+            var localMarker = new google.maps.Marker({
+                position: myLatlng,
+                map: map,
+                icon: (i === 0 ? '/images/schools.png' : '/images/schools_grey.png'),
+                title: item.closestThree[i].name
+            });
+            schoolMarkers.push(localMarker);
+        }
+    }
+    drawFromClosest(result.primaryschool);
+
+    var newBoundary = new google.maps.LatLngBounds();
+
+    for (index in schoolMarkers) {
+        var position = schoolMarkers[index].position;
+        newBoundary.extend(position);
+    }
+//    newBoundary.extend(markerPosition);
+    map.fitBounds(newBoundary);
+
     $('#middleschool').text(result.middleschool.closest.name);
 
     $('#relic').text(result.relic.closest.name);
