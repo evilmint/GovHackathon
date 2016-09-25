@@ -43,7 +43,7 @@ namespace WebApp.Web.Services
                 "2016-08"
             };
 
-            var resultPartyabilities = dupa.Select(dup => partyabilities.SingleOrDefault(p => p.Month == dup) ?? new Partyability { Month = dup, Value = 0 });
+            var resultPartyabilities = dupa.Select(dup => partyabilities.SingleOrDefault(p => p.Month == dup) ?? new Partyability { Latitude = closestPartyability.Latitude, Longitude = closestPartyability.Longitude, Month = dup, Value = 0 });
 
             var result = new Dictionary<string, object>();
             result["PARTYYYY"] = resultPartyabilities;
