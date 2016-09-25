@@ -435,3 +435,4 @@ __pycache__/
 build/
 
 *.sql
+/src/scraper/LatLonAddrConversion/relics-json
