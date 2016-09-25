@@ -29,6 +29,23 @@ namespace WebApp.Web.Controllers
                     {
                         //TODO calculate metric for partyability
                         //average from all months?
+
+                        var metric = new Metric();
+
+                        metric.Value = context.Partyabilities
+                        .OrderBy(p => (p.Latitude - house.Latitude) * (p.Latitude - house.Latitude) + (p.Longitude - house.Longitude) * (p.Longitude - house.Longitude)).Average(x => x.Value);
+                        metric.Value /= 8;
+
+                        metric.Type = dataProvider.Name;
+
+                        houseSummary.Metrics.Add(metric);
+
+
+                        //var dataProviderResult = dataProvider.GetSummary(house.Latitude, house.Longitude);
+                        //var Metric = new Metric();
+                        //Metric.Type = dataProvider.Name;
+                        //Metric.Value = (double)(((Partyability[])dataProviderResult.FirstOrDefault().Value).ToList().Average(x => x.Value));
+                        //houseSummary.Metrics.Add(Metric);
                     }
                     else if (dataProvider.Name == "relic") //zagęszczenie bo odległość do najbliższego zabytku nie ma sensu więc biorę radius, im mniejszy tym większe zagęszczenie
                     {
